@@ -1,0 +1,1534 @@
+[
+  {
+    "id": "L1-D1",
+    "title": "Chào buổi sáng — Hello at the coffee stall",
+    "vocab": [
+      {
+        "id": "v001",
+        "vi": "xin chào",
+        "en": "hello",
+        "ipa": "sin t͡ɕʰâːw"
+      },
+      {
+        "id": "v002",
+        "vi": "cảm ơn",
+        "en": "thank you",
+        "ipa": "kǎm ʔən"
+      },
+      {
+        "id": "v003",
+        "vi": "bao nhiêu",
+        "en": "how much",
+        "ipa": "ɓaːw ɲîəw"
+      }
+    ],
+    "review_ids": [],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Welcome to NgheĐi — your southern Vietnamese listening course.] [EN: Every lesson starts with a short warm-up. Since this is Day 1, we preview today's words.] [EN: Hello.] [VI: xin chào.] [PAUSE 2s] [EN: Thank you.] [VI: cảm ơn.] [PAUSE 2s] [EN: How much.] [VI: bao nhiêu.] [PAUSE 2s] [EN: Good. Now let us use them in a real scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — greeting a vendor at a street cà phê stall in District 1 and asking the price.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — hello.] [VI: xin chào.] [PAUSE 2s] [VI: xin chào.] [EN: xin chào — hello. Repeat.] [PAUSE 2s] [VI: xin chào.] [EN: New word — thank you.] [VI: cảm ơn.] [PAUSE 2s] [VI: cảm ơn.] [EN: cảm ơn — thank you. Repeat.] [PAUSE 2s] [VI: cảm ơn.] [EN: New word — how much.] [VI: bao nhiêu.] [PAUSE 2s] [VI: bao nhiêu.] [EN: bao nhiêu — how much. Repeat.] [PAUSE 2s] [VI: bao nhiêu.] [EN: Now hear them together in the scene.] [VI: xin chào] [VI: cảm ơn] [VI: bao nhiêu] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Hello.] [PAUSE 2s] [VI: xin chào.] [EN: Thank you.] [PAUSE 2s] [VI: cảm ơn.] [EN: How much.] [PAUSE 2s] [VI: bao nhiêu.] [EN: Reverse — Vietnamese to English.] [VI: xin chào.] [PAUSE 2s] [EN: Hello.] [VI: cảm ơn.] [PAUSE 2s] [EN: Thank you.] [VI: bao nhiêu.] [PAUSE 2s] [EN: How much.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: xin chào] [VI: cảm ơn] [VI: bao nhiêu] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — one:] [VI: một.] [PAUSE 2s] [VI: một.] [EN: một — one. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D2",
+    "title": "Mua bánh mì — Ordering at the sandwich cart",
+    "vocab": [
+      {
+        "id": "v004",
+        "vi": "một",
+        "en": "one",
+        "ipa": "moˀt̚"
+      },
+      {
+        "id": "v005",
+        "vi": "hai",
+        "en": "two",
+        "ipa": "haːj"
+      },
+      {
+        "id": "v006",
+        "vi": "ba",
+        "en": "three",
+        "ipa": "ɓaː"
+      },
+      {
+        "id": "v007",
+        "vi": "năm nghìn",
+        "en": "five thousand dong",
+        "ipa": "nam ŋìn"
+      }
+    ],
+    "review_ids": [
+      "v001",
+      "v002",
+      "v003"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Hello.] [PAUSE 2s] [VI: xin chào.] [EN: Thank you.] [PAUSE 2s] [VI: cảm ơn.] [EN: How much.] [PAUSE 2s] [VI: bao nhiêu.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — ordering one or two bánh mì sandwiches and paying.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — one.] [VI: một.] [PAUSE 2s] [VI: một.] [EN: một — one. Repeat.] [PAUSE 2s] [VI: một.] [EN: New word — two.] [VI: hai.] [PAUSE 2s] [VI: hai.] [EN: hai — two. Repeat.] [PAUSE 2s] [VI: hai.] [EN: New word — three.] [VI: ba.] [PAUSE 2s] [VI: ba.] [EN: ba — three. Repeat.] [PAUSE 2s] [VI: ba.] [EN: New word — five thousand dong.] [VI: năm nghìn.] [PAUSE 2s] [VI: năm nghìn.] [EN: năm nghìn — five thousand dong. Repeat.] [PAUSE 2s] [VI: năm nghìn.] [EN: Now hear them together in the scene.] [VI: một] [VI: hai] [VI: ba] [VI: năm nghìn] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: One.] [PAUSE 2s] [VI: một.] [EN: Two.] [PAUSE 2s] [VI: hai.] [EN: Three.] [PAUSE 2s] [VI: ba.] [EN: Five thousand dong.] [PAUSE 2s] [VI: năm nghìn.] [EN: Reverse — Vietnamese to English.] [VI: một.] [PAUSE 2s] [EN: One.] [VI: hai.] [PAUSE 2s] [EN: Two.] [VI: ba.] [PAUSE 2s] [EN: Three.] [VI: năm nghìn.] [PAUSE 2s] [EN: Five thousand dong.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: một] [VI: hai] [VI: ba] [VI: năm nghìn] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — I would like:] [VI: tôi muốn.] [PAUSE 2s] [VI: tôi muốn.] [EN: tôi muốn — I would like. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D3",
+    "title": "Tôi muốn — I would like a coffee",
+    "vocab": [
+      {
+        "id": "v008",
+        "vi": "tôi muốn",
+        "en": "I would like",
+        "ipa": "toj mûən"
+      },
+      {
+        "id": "v009",
+        "vi": "cà phê sữa đá",
+        "en": "iced milk coffee",
+        "ipa": "kaː fɛ sɨa ɗaː"
+      },
+      {
+        "id": "v010",
+        "vi": "không đường",
+        "en": "no sugar",
+        "ipa": "xoŋ ɗɨəŋ"
+      }
+    ],
+    "review_ids": [
+      "v001",
+      "v004",
+      "v005"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Hello.] [PAUSE 2s] [VI: xin chào.] [EN: One.] [PAUSE 2s] [VI: một.] [EN: Two.] [PAUSE 2s] [VI: hai.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — ordering a customised drink at a Highlands Coffee in HCMC.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — I would like.] [VI: tôi muốn.] [PAUSE 2s] [VI: tôi muốn.] [EN: tôi muốn — I would like. Repeat.] [PAUSE 2s] [VI: tôi muốn.] [EN: New word — iced milk coffee.] [VI: cà phê sữa đá.] [PAUSE 2s] [VI: cà phê sữa đá.] [EN: cà phê sữa đá — iced milk coffee. Repeat.] [PAUSE 2s] [VI: cà phê sữa đá.] [EN: New word — no sugar.] [VI: không đường.] [PAUSE 2s] [VI: không đường.] [EN: không đường — no sugar. Repeat.] [PAUSE 2s] [VI: không đường.] [EN: Now hear them together in the scene.] [VI: tôi muốn] [VI: cà phê sữa đá] [VI: không đường] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: I would like.] [PAUSE 2s] [VI: tôi muốn.] [EN: Iced milk coffee.] [PAUSE 2s] [VI: cà phê sữa đá.] [EN: No sugar.] [PAUSE 2s] [VI: không đường.] [EN: Reverse — Vietnamese to English.] [VI: tôi muốn.] [PAUSE 2s] [EN: I would like.] [VI: cà phê sữa đá.] [PAUSE 2s] [EN: Iced milk coffee.] [VI: không đường.] [PAUSE 2s] [EN: No sugar.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: tôi muốn] [VI: cà phê sữa đá] [VI: không đường] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — where:] [VI: ở đâu.] [PAUSE 2s] [VI: ở đâu.] [EN: ở đâu — where. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D4",
+    "title": "Ở đâu — Where is the bathroom?",
+    "vocab": [
+      {
+        "id": "v011",
+        "vi": "ở đâu",
+        "en": "where",
+        "ipa": "ʔə̌ ɗâːw"
+      },
+      {
+        "id": "v012",
+        "vi": "nhà vệ sinh",
+        "en": "bathroom / toilet",
+        "ipa": "ɲaː ve sin"
+      },
+      {
+        "id": "v013",
+        "vi": "bên phải",
+        "en": "on the right",
+        "ipa": "ɓen faːj"
+      }
+    ],
+    "review_ids": [
+      "v001",
+      "v002",
+      "v007"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Hello.] [PAUSE 2s] [VI: xin chào.] [EN: Thank you.] [PAUSE 2s] [VI: cảm ơn.] [EN: Five thousand dong.] [PAUSE 2s] [VI: năm nghìn.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — asking a security guard for the bathroom inside a Vincom mall.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — where.] [VI: ở đâu.] [PAUSE 2s] [VI: ở đâu.] [EN: ở đâu — where. Repeat.] [PAUSE 2s] [VI: ở đâu.] [EN: New word — bathroom / toilet.] [VI: nhà vệ sinh.] [PAUSE 2s] [VI: nhà vệ sinh.] [EN: nhà vệ sinh — bathroom / toilet. Repeat.] [PAUSE 2s] [VI: nhà vệ sinh.] [EN: New word — on the right.] [VI: bên phải.] [PAUSE 2s] [VI: bên phải.] [EN: bên phải — on the right. Repeat.] [PAUSE 2s] [VI: bên phải.] [EN: Now hear them together in the scene.] [VI: ở đâu] [VI: nhà vệ sinh] [VI: bên phải] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Where.] [PAUSE 2s] [VI: ở đâu.] [EN: Bathroom / toilet.] [PAUSE 2s] [VI: nhà vệ sinh.] [EN: On the right.] [PAUSE 2s] [VI: bên phải.] [EN: Reverse — Vietnamese to English.] [VI: ở đâu.] [PAUSE 2s] [EN: Where.] [VI: nhà vệ sinh.] [PAUSE 2s] [EN: Bathroom / toilet.] [VI: bên phải.] [PAUSE 2s] [EN: On the right.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: ở đâu] [VI: nhà vệ sinh] [VI: bên phải] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — go / to go:] [VI: đi.] [PAUSE 2s] [VI: đi.] [EN: đi — go / to go. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D5",
+    "title": "Xe ôm — Taking a motorbike taxi",
+    "vocab": [
+      {
+        "id": "v014",
+        "vi": "đi",
+        "en": "go / to go",
+        "ipa": "ɗi"
+      },
+      {
+        "id": "v015",
+        "vi": "bến thành",
+        "en": "Ben Thanh market",
+        "ipa": "ɓen tʰàjn"
+      },
+      {
+        "id": "v016",
+        "vi": "bao lâu",
+        "en": "how long",
+        "ipa": "ɓaːw ləw"
+      }
+    ],
+    "review_ids": [
+      "v003",
+      "v004",
+      "v008"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: How much.] [PAUSE 2s] [VI: bao nhiêu.] [EN: One.] [PAUSE 2s] [VI: một.] [EN: I would like.] [PAUSE 2s] [VI: tôi muốn.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — negotiating a xe ôm ride to Bến Thành market.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — go / to go.] [VI: đi.] [PAUSE 2s] [VI: đi.] [EN: đi — go / to go. Repeat.] [PAUSE 2s] [VI: đi.] [EN: New word — Ben Thanh market.] [VI: bến thành.] [PAUSE 2s] [VI: bến thành.] [EN: bến thành — Ben Thanh market. Repeat.] [PAUSE 2s] [VI: bến thành.] [EN: New word — how long.] [VI: bao lâu.] [PAUSE 2s] [VI: bao lâu.] [EN: bao lâu — how long. Repeat.] [PAUSE 2s] [VI: bao lâu.] [EN: Now hear them together in the scene.] [VI: đi] [VI: bến thành] [VI: bao lâu] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Go / to go.] [PAUSE 2s] [VI: đi.] [EN: Ben thanh market.] [PAUSE 2s] [VI: bến thành.] [EN: How long.] [PAUSE 2s] [VI: bao lâu.] [EN: Reverse — Vietnamese to English.] [VI: đi.] [PAUSE 2s] [EN: Go / to go.] [VI: bến thành.] [PAUSE 2s] [EN: Ben thanh market.] [VI: bao lâu.] [PAUSE 2s] [EN: How long.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: đi] [VI: bến thành] [VI: bao lâu] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — delicious:] [VI: ngon.] [PAUSE 2s] [VI: ngon.] [EN: ngon — delicious. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D6",
+    "title": "Ngon lắm — The food is delicious",
+    "vocab": [
+      {
+        "id": "v017",
+        "vi": "ngon",
+        "en": "delicious",
+        "ipa": "ŋɔn"
+      },
+      {
+        "id": "v018",
+        "vi": "không ngon",
+        "en": "not tasty",
+        "ipa": "xoŋ ŋɔn"
+      },
+      {
+        "id": "v019",
+        "vi": "cay",
+        "en": "spicy",
+        "ipa": "kaj"
+      }
+    ],
+    "review_ids": [
+      "v001",
+      "v002",
+      "v005"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Hello.] [PAUSE 2s] [VI: xin chào.] [EN: Thank you.] [PAUSE 2s] [VI: cảm ơn.] [EN: Two.] [PAUSE 2s] [VI: hai.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — commenting on food at a bún bò Huế stall with a local colleague.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — delicious.] [VI: ngon.] [PAUSE 2s] [VI: ngon.] [EN: ngon — delicious. Repeat.] [PAUSE 2s] [VI: ngon.] [EN: New word — not tasty.] [VI: không ngon.] [PAUSE 2s] [VI: không ngon.] [EN: không ngon — not tasty. Repeat.] [PAUSE 2s] [VI: không ngon.] [EN: New word — spicy.] [VI: cay.] [PAUSE 2s] [VI: cay.] [EN: cay — spicy. Repeat.] [PAUSE 2s] [VI: cay.] [EN: Now hear them together in the scene.] [VI: ngon] [VI: không ngon] [VI: cay] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Delicious.] [PAUSE 2s] [VI: ngon.] [EN: Not tasty.] [PAUSE 2s] [VI: không ngon.] [EN: Spicy.] [PAUSE 2s] [VI: cay.] [EN: Reverse — Vietnamese to English.] [VI: ngon.] [PAUSE 2s] [EN: Delicious.] [VI: không ngon.] [PAUSE 2s] [EN: Not tasty.] [VI: cay.] [PAUSE 2s] [EN: Spicy.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: ngon] [VI: không ngon] [VI: cay] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — my name is:] [VI: tên tôi là.] [PAUSE 2s] [VI: tên tôi là.] [EN: tên tôi là — my name is. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D7",
+    "title": "Tên tôi là — My name is",
+    "vocab": [
+      {
+        "id": "v020",
+        "vi": "tên tôi là",
+        "en": "my name is",
+        "ipa": "ten toj laː"
+      },
+      {
+        "id": "v021",
+        "vi": "bạn tên gì",
+        "en": "what is your name",
+        "ipa": "ɓan ten ziː"
+      },
+      {
+        "id": "v022",
+        "vi": "người Việt Nam",
+        "en": "Vietnamese person",
+        "ipa": "ŋɨəj viet nam"
+      }
+    ],
+    "review_ids": [
+      "v001",
+      "v002",
+      "v008"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Hello.] [PAUSE 2s] [VI: xin chào.] [EN: Thank you.] [PAUSE 2s] [VI: cảm ơn.] [EN: I would like.] [PAUSE 2s] [VI: tôi muốn.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — introducing yourself to a new coworker at the office.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — my name is.] [VI: tên tôi là.] [PAUSE 2s] [VI: tên tôi là.] [EN: tên tôi là — my name is. Repeat.] [PAUSE 2s] [VI: tên tôi là.] [EN: New word — what is your name.] [VI: bạn tên gì.] [PAUSE 2s] [VI: bạn tên gì.] [EN: bạn tên gì — what is your name. Repeat.] [PAUSE 2s] [VI: bạn tên gì.] [EN: New word — Vietnamese person.] [VI: người Việt Nam.] [PAUSE 2s] [VI: người Việt Nam.] [EN: người Việt Nam — Vietnamese person. Repeat.] [PAUSE 2s] [VI: người Việt Nam.] [EN: Now hear them together in the scene.] [VI: tên tôi là] [VI: bạn tên gì] [VI: người Việt Nam] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: My name is.] [PAUSE 2s] [VI: tên tôi là.] [EN: What is your name.] [PAUSE 2s] [VI: bạn tên gì.] [EN: Vietnamese person.] [PAUSE 2s] [VI: người Việt Nam.] [EN: Reverse — Vietnamese to English.] [VI: tên tôi là.] [PAUSE 2s] [EN: My name is.] [VI: bạn tên gì.] [PAUSE 2s] [EN: What is your name.] [VI: người Việt Nam.] [PAUSE 2s] [EN: Vietnamese person.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: tên tôi là] [VI: bạn tên gì] [VI: người Việt Nam] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — today:] [VI: hôm nay.] [PAUSE 2s] [VI: hôm nay.] [EN: hôm nay — today. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D8",
+    "title": "Hôm nay — Today and tomorrow",
+    "vocab": [
+      {
+        "id": "v023",
+        "vi": "hôm nay",
+        "en": "today",
+        "ipa": "hom naj"
+      },
+      {
+        "id": "v024",
+        "vi": "ngày mai",
+        "en": "tomorrow",
+        "ipa": "ŋaj maj"
+      },
+      {
+        "id": "v025",
+        "vi": "hôm qua",
+        "en": "yesterday",
+        "ipa": "hom kʷaː"
+      }
+    ],
+    "review_ids": [
+      "v001",
+      "v011",
+      "v012"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Hello.] [PAUSE 2s] [VI: xin chào.] [EN: Where.] [PAUSE 2s] [VI: ở đâu.] [EN: Bathroom / toilet.] [PAUSE 2s] [VI: nhà vệ sinh.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — chatting about weekend plans with a neighbour in the elevator.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — today.] [VI: hôm nay.] [PAUSE 2s] [VI: hôm nay.] [EN: hôm nay — today. Repeat.] [PAUSE 2s] [VI: hôm nay.] [EN: New word — tomorrow.] [VI: ngày mai.] [PAUSE 2s] [VI: ngày mai.] [EN: ngày mai — tomorrow. Repeat.] [PAUSE 2s] [VI: ngày mai.] [EN: New word — yesterday.] [VI: hôm qua.] [PAUSE 2s] [VI: hôm qua.] [EN: hôm qua — yesterday. Repeat.] [PAUSE 2s] [VI: hôm qua.] [EN: Now hear them together in the scene.] [VI: hôm nay] [VI: ngày mai] [VI: hôm qua] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Today.] [PAUSE 2s] [VI: hôm nay.] [EN: Tomorrow.] [PAUSE 2s] [VI: ngày mai.] [EN: Yesterday.] [PAUSE 2s] [VI: hôm qua.] [EN: Reverse — Vietnamese to English.] [VI: hôm nay.] [PAUSE 2s] [EN: Today.] [VI: ngày mai.] [PAUSE 2s] [EN: Tomorrow.] [VI: hôm qua.] [PAUSE 2s] [EN: Yesterday.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: hôm nay] [VI: ngày mai] [VI: hôm qua] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — what time:] [VI: mấy giờ.] [PAUSE 2s] [VI: mấy giờ.] [EN: mấy giờ — what time. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D9",
+    "title": "Mấy giờ — What time does it open?",
+    "vocab": [
+      {
+        "id": "v026",
+        "vi": "mấy giờ",
+        "en": "what time",
+        "ipa": "maj zə̌"
+      },
+      {
+        "id": "v027",
+        "vi": "buổi sáng",
+        "en": "in the morning",
+        "ipa": "ɓuoj saŋ"
+      },
+      {
+        "id": "v028",
+        "vi": "mở cửa",
+        "en": "open for business",
+        "ipa": "mə̌ kɨa"
+      }
+    ],
+    "review_ids": [
+      "v008",
+      "v009",
+      "v010"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: I would like.] [PAUSE 2s] [VI: tôi muốn.] [EN: Iced milk coffee.] [PAUSE 2s] [VI: cà phê sữa đá.] [EN: No sugar.] [PAUSE 2s] [VI: không đường.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — calling a phở restaurant to ask what time they open.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — what time.] [VI: mấy giờ.] [PAUSE 2s] [VI: mấy giờ.] [EN: mấy giờ — what time. Repeat.] [PAUSE 2s] [VI: mấy giờ.] [EN: New word — in the morning.] [VI: buổi sáng.] [PAUSE 2s] [VI: buổi sáng.] [EN: buổi sáng — in the morning. Repeat.] [PAUSE 2s] [VI: buổi sáng.] [EN: New word — open for business.] [VI: mở cửa.] [PAUSE 2s] [VI: mở cửa.] [EN: mở cửa — open for business. Repeat.] [PAUSE 2s] [VI: mở cửa.] [EN: Now hear them together in the scene.] [VI: mấy giờ] [VI: buổi sáng] [VI: mở cửa] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: What time.] [PAUSE 2s] [VI: mấy giờ.] [EN: In the morning.] [PAUSE 2s] [VI: buổi sáng.] [EN: Open for business.] [PAUSE 2s] [VI: mở cửa.] [EN: Reverse — Vietnamese to English.] [VI: mấy giờ.] [PAUSE 2s] [EN: What time.] [VI: buổi sáng.] [PAUSE 2s] [EN: In the morning.] [VI: mở cửa.] [PAUSE 2s] [EN: Open for business.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: mấy giờ] [VI: buổi sáng] [VI: mở cửa] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — too expensive:] [VI: đắt quá.] [PAUSE 2s] [VI: đắt quá.] [EN: đắt quá — too expensive. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D10",
+    "title": "Đắt quá — That is too expensive",
+    "vocab": [
+      {
+        "id": "v029",
+        "vi": "đắt quá",
+        "en": "too expensive",
+        "ipa": "ɗat kʷaː"
+      },
+      {
+        "id": "v030",
+        "vi": "rẻ hơn",
+        "en": "cheaper",
+        "ipa": "ɹɛ̌ həːn"
+      },
+      {
+        "id": "v031",
+        "vi": "được không",
+        "en": "is that okay",
+        "ipa": "ɗɨək xoŋ"
+      }
+    ],
+    "review_ids": [
+      "v003",
+      "v006",
+      "v009"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: How much.] [PAUSE 2s] [VI: bao nhiêu.] [EN: Three.] [PAUSE 2s] [VI: ba.] [EN: Iced milk coffee.] [PAUSE 2s] [VI: cà phê sữa đá.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — bargaining over a souvenir lacquerware bowl at Chợ Lớn.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — too expensive.] [VI: đắt quá.] [PAUSE 2s] [VI: đắt quá.] [EN: đắt quá — too expensive. Repeat.] [PAUSE 2s] [VI: đắt quá.] [EN: New word — cheaper.] [VI: rẻ hơn.] [PAUSE 2s] [VI: rẻ hơn.] [EN: rẻ hơn — cheaper. Repeat.] [PAUSE 2s] [VI: rẻ hơn.] [EN: New word — is that okay.] [VI: được không.] [PAUSE 2s] [VI: được không.] [EN: được không — is that okay. Repeat.] [PAUSE 2s] [VI: được không.] [EN: Now hear them together in the scene.] [VI: đắt quá] [VI: rẻ hơn] [VI: được không] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Too expensive.] [PAUSE 2s] [VI: đắt quá.] [EN: Cheaper.] [PAUSE 2s] [VI: rẻ hơn.] [EN: Is that okay.] [PAUSE 2s] [VI: được không.] [EN: Reverse — Vietnamese to English.] [VI: đắt quá.] [PAUSE 2s] [EN: Too expensive.] [VI: rẻ hơn.] [PAUSE 2s] [EN: Cheaper.] [VI: được không.] [PAUSE 2s] [EN: Is that okay.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: đắt quá] [VI: rẻ hơn] [VI: được không] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — I do not understand:] [VI: tôi không hiểu.] [PAUSE 2s] [VI: tôi không hiểu.] [EN: tôi không hiểu — I do not understand. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D11",
+    "title": "Tôi không hiểu — I do not understand",
+    "vocab": [
+      {
+        "id": "v032",
+        "vi": "tôi không hiểu",
+        "en": "I do not understand",
+        "ipa": "toj xoŋ hîəw"
+      },
+      {
+        "id": "v033",
+        "vi": "nói chậm hơn",
+        "en": "speak more slowly",
+        "ipa": "nɔj t͡ɕəm həːn"
+      },
+      {
+        "id": "v034",
+        "vi": "lại",
+        "en": "again / repeat",
+        "ipa": "laːj"
+      }
+    ],
+    "review_ids": [
+      "v001",
+      "v002",
+      "v004"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Hello.] [PAUSE 2s] [VI: xin chào.] [EN: Thank you.] [PAUSE 2s] [VI: cảm ơn.] [EN: One.] [PAUSE 2s] [VI: một.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — asking a taxi driver to repeat the fare more slowly.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — I do not understand.] [VI: tôi không hiểu.] [PAUSE 2s] [VI: tôi không hiểu.] [EN: tôi không hiểu — I do not understand. Repeat.] [PAUSE 2s] [VI: tôi không hiểu.] [EN: New word — speak more slowly.] [VI: nói chậm hơn.] [PAUSE 2s] [VI: nói chậm hơn.] [EN: nói chậm hơn — speak more slowly. Repeat.] [PAUSE 2s] [VI: nói chậm hơn.] [EN: New word — again / repeat.] [VI: lại.] [PAUSE 2s] [VI: lại.] [EN: lại — again / repeat. Repeat.] [PAUSE 2s] [VI: lại.] [EN: Now hear them together in the scene.] [VI: tôi không hiểu] [VI: nói chậm hơn] [VI: lại] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: I do not understand.] [PAUSE 2s] [VI: tôi không hiểu.] [EN: Speak more slowly.] [PAUSE 2s] [VI: nói chậm hơn.] [EN: Again / repeat.] [PAUSE 2s] [VI: lại.] [EN: Reverse — Vietnamese to English.] [VI: tôi không hiểu.] [PAUSE 2s] [EN: I do not understand.] [VI: nói chậm hơn.] [PAUSE 2s] [EN: Speak more slowly.] [VI: lại.] [PAUSE 2s] [EN: Again / repeat.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: tôi không hiểu] [VI: nói chậm hơn] [VI: lại] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — please give me:] [VI: cho tôi.] [PAUSE 2s] [VI: cho tôi.] [EN: cho tôi — please give me. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D12",
+    "title": "Cho tôi — Please give me",
+    "vocab": [
+      {
+        "id": "v035",
+        "vi": "cho tôi",
+        "en": "please give me",
+        "ipa": "t͡ɕɔ toj"
+      },
+      {
+        "id": "v036",
+        "vi": "hóa đơn",
+        "en": "the bill / receipt",
+        "ipa": "hɔa ɗəːn"
+      },
+      {
+        "id": "v037",
+        "vi": "thêm",
+        "en": "more / additional",
+        "ipa": "tʰem"
+      }
+    ],
+    "review_ids": [
+      "v001",
+      "v007",
+      "v010"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Hello.] [PAUSE 2s] [VI: xin chào.] [EN: Five thousand dong.] [PAUSE 2s] [VI: năm nghìn.] [EN: No sugar.] [PAUSE 2s] [VI: không đường.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — asking for the bill and an extra napkin at a sit-down restaurant.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — please give me.] [VI: cho tôi.] [PAUSE 2s] [VI: cho tôi.] [EN: cho tôi — please give me. Repeat.] [PAUSE 2s] [VI: cho tôi.] [EN: New word — the bill / receipt.] [VI: hóa đơn.] [PAUSE 2s] [VI: hóa đơn.] [EN: hóa đơn — the bill / receipt. Repeat.] [PAUSE 2s] [VI: hóa đơn.] [EN: New word — more / additional.] [VI: thêm.] [PAUSE 2s] [VI: thêm.] [EN: thêm — more / additional. Repeat.] [PAUSE 2s] [VI: thêm.] [EN: Now hear them together in the scene.] [VI: cho tôi] [VI: hóa đơn] [VI: thêm] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Please give me.] [PAUSE 2s] [VI: cho tôi.] [EN: The bill / receipt.] [PAUSE 2s] [VI: hóa đơn.] [EN: More / additional.] [PAUSE 2s] [VI: thêm.] [EN: Reverse — Vietnamese to English.] [VI: cho tôi.] [PAUSE 2s] [EN: Please give me.] [VI: hóa đơn.] [PAUSE 2s] [EN: The bill / receipt.] [VI: thêm.] [PAUSE 2s] [EN: More / additional.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: cho tôi] [VI: hóa đơn] [VI: thêm] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — to order food:] [VI: gọi món.] [PAUSE 2s] [VI: gọi món.] [EN: gọi món — to order food. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D13",
+    "title": "Gọi món — Ordering from a menu",
+    "vocab": [
+      {
+        "id": "v038",
+        "vi": "gọi món",
+        "en": "to order food",
+        "ipa": "ɡɔj mɔn"
+      },
+      {
+        "id": "v039",
+        "vi": "tô lớn",
+        "en": "large bowl",
+        "ipa": "to ləːn"
+      },
+      {
+        "id": "v040",
+        "vi": "ít đá",
+        "en": "less ice",
+        "ipa": "ʔit ɗaː"
+      }
+    ],
+    "review_ids": [
+      "v005",
+      "v006",
+      "v012"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Two.] [PAUSE 2s] [VI: hai.] [EN: Three.] [PAUSE 2s] [VI: ba.] [EN: Bathroom / toilet.] [PAUSE 2s] [VI: nhà vệ sinh.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — ordering phở with customisations at a Phở Hùng restaurant.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — to order food.] [VI: gọi món.] [PAUSE 2s] [VI: gọi món.] [EN: gọi món — to order food. Repeat.] [PAUSE 2s] [VI: gọi món.] [EN: New word — large bowl.] [VI: tô lớn.] [PAUSE 2s] [VI: tô lớn.] [EN: tô lớn — large bowl. Repeat.] [PAUSE 2s] [VI: tô lớn.] [EN: New word — less ice.] [VI: ít đá.] [PAUSE 2s] [VI: ít đá.] [EN: ít đá — less ice. Repeat.] [PAUSE 2s] [VI: ít đá.] [EN: Now hear them together in the scene.] [VI: gọi món] [VI: tô lớn] [VI: ít đá] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: To order food.] [PAUSE 2s] [VI: gọi món.] [EN: Large bowl.] [PAUSE 2s] [VI: tô lớn.] [EN: Less ice.] [PAUSE 2s] [VI: ít đá.] [EN: Reverse — Vietnamese to English.] [VI: gọi món.] [PAUSE 2s] [EN: To order food.] [VI: tô lớn.] [PAUSE 2s] [EN: Large bowl.] [VI: ít đá.] [PAUSE 2s] [EN: Less ice.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: gọi món] [VI: tô lớn] [VI: ít đá] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — four:] [VI: bốn.] [PAUSE 2s] [VI: bốn.] [EN: bốn — four. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D14",
+    "title": "Bốn và năm — Numbers four and five",
+    "vocab": [
+      {
+        "id": "v041",
+        "vi": "bốn",
+        "en": "four",
+        "ipa": "ɓoːn"
+      },
+      {
+        "id": "v042",
+        "vi": "năm",
+        "en": "five",
+        "ipa": "nam"
+      },
+      {
+        "id": "v043",
+        "vi": "mười",
+        "en": "ten",
+        "ipa": "mɨəj"
+      }
+    ],
+    "review_ids": [
+      "v004",
+      "v005",
+      "v006"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: One.] [PAUSE 2s] [VI: một.] [EN: Two.] [PAUSE 2s] [VI: hai.] [EN: Three.] [PAUSE 2s] [VI: ba.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — counting items and paying exact change at a convenience store.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — four.] [VI: bốn.] [PAUSE 2s] [VI: bốn.] [EN: bốn — four. Repeat.] [PAUSE 2s] [VI: bốn.] [EN: New word — five.] [VI: năm.] [PAUSE 2s] [VI: năm.] [EN: năm — five. Repeat.] [PAUSE 2s] [VI: năm.] [EN: New word — ten.] [VI: mười.] [PAUSE 2s] [VI: mười.] [EN: mười — ten. Repeat.] [PAUSE 2s] [VI: mười.] [EN: Now hear them together in the scene.] [VI: bốn] [VI: năm] [VI: mười] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Four.] [PAUSE 2s] [VI: bốn.] [EN: Five.] [PAUSE 2s] [VI: năm.] [EN: Ten.] [PAUSE 2s] [VI: mười.] [EN: Reverse — Vietnamese to English.] [VI: bốn.] [PAUSE 2s] [EN: Four.] [VI: năm.] [PAUSE 2s] [EN: Five.] [VI: mười.] [PAUSE 2s] [EN: Ten.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: bốn] [VI: năm] [VI: mười] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — near:] [VI: gần.] [PAUSE 2s] [VI: gần.] [EN: gần — near. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D15",
+    "title": "Gần hay xa — Near or far?",
+    "vocab": [
+      {
+        "id": "v044",
+        "vi": "gần",
+        "en": "near",
+        "ipa": "ɡə̂n"
+      },
+      {
+        "id": "v045",
+        "vi": "xa",
+        "en": "far",
+        "ipa": "saː"
+      },
+      {
+        "id": "v046",
+        "vi": "đi bộ",
+        "en": "walk / on foot",
+        "ipa": "ɗi ɓo"
+      }
+    ],
+    "review_ids": [
+      "v008",
+      "v009",
+      "v014"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: I would like.] [PAUSE 2s] [VI: tôi muốn.] [EN: Iced milk coffee.] [PAUSE 2s] [VI: cà phê sữa đá.] [EN: Go / to go.] [PAUSE 2s] [VI: đi.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — asking a local whether the nearest ATM is walkable.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — near.] [VI: gần.] [PAUSE 2s] [VI: gần.] [EN: gần — near. Repeat.] [PAUSE 2s] [VI: gần.] [EN: New word — far.] [VI: xa.] [PAUSE 2s] [VI: xa.] [EN: xa — far. Repeat.] [PAUSE 2s] [VI: xa.] [EN: New word — walk / on foot.] [VI: đi bộ.] [PAUSE 2s] [VI: đi bộ.] [EN: đi bộ — walk / on foot. Repeat.] [PAUSE 2s] [VI: đi bộ.] [EN: Now hear them together in the scene.] [VI: gần] [VI: xa] [VI: đi bộ] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Near.] [PAUSE 2s] [VI: gần.] [EN: Far.] [PAUSE 2s] [VI: xa.] [EN: Walk / on foot.] [PAUSE 2s] [VI: đi bộ.] [EN: Reverse — Vietnamese to English.] [VI: gần.] [PAUSE 2s] [EN: Near.] [VI: xa.] [PAUSE 2s] [EN: Far.] [VI: đi bộ.] [PAUSE 2s] [EN: Walk / on foot.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: gần] [VI: xa] [VI: đi bộ] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — weather / sky:] [VI: trời.] [PAUSE 2s] [VI: trời.] [EN: trời — weather / sky. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D16",
+    "title": "Trời nóng quá — The weather is so hot",
+    "vocab": [
+      {
+        "id": "v047",
+        "vi": "trời",
+        "en": "weather / sky",
+        "ipa": "t͡ɕɔːj"
+      },
+      {
+        "id": "v048",
+        "vi": "nóng",
+        "en": "hot",
+        "ipa": "nɔŋ"
+      },
+      {
+        "id": "v049",
+        "vi": "mưa",
+        "en": "rain",
+        "ipa": "mɨa"
+      }
+    ],
+    "review_ids": [
+      "v001",
+      "v010",
+      "v015"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Hello.] [PAUSE 2s] [VI: xin chào.] [EN: No sugar.] [PAUSE 2s] [VI: không đường.] [EN: Ben thanh market.] [PAUSE 2s] [VI: bến thành.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — making small talk about the heat with a shopkeeper.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — weather / sky.] [VI: trời.] [PAUSE 2s] [VI: trời.] [EN: trời — weather / sky. Repeat.] [PAUSE 2s] [VI: trời.] [EN: New word — hot.] [VI: nóng.] [PAUSE 2s] [VI: nóng.] [EN: nóng — hot. Repeat.] [PAUSE 2s] [VI: nóng.] [EN: New word — rain.] [VI: mưa.] [PAUSE 2s] [VI: mưa.] [EN: mưa — rain. Repeat.] [PAUSE 2s] [VI: mưa.] [EN: Now hear them together in the scene.] [VI: trời] [VI: nóng] [VI: mưa] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Weather / sky.] [PAUSE 2s] [VI: trời.] [EN: Hot.] [PAUSE 2s] [VI: nóng.] [EN: Rain.] [PAUSE 2s] [VI: mưa.] [EN: Reverse — Vietnamese to English.] [VI: trời.] [PAUSE 2s] [EN: Weather / sky.] [VI: nóng.] [PAUSE 2s] [EN: Hot.] [VI: mưa.] [PAUSE 2s] [EN: Rain.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: trời] [VI: nóng] [VI: mưa] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — I am lost:] [VI: tôi bị lạc.] [PAUSE 2s] [VI: tôi bị lạc.] [EN: tôi bị lạc — I am lost. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D17",
+    "title": "Tôi bị lạc — I am lost",
+    "vocab": [
+      {
+        "id": "v050",
+        "vi": "tôi bị lạc",
+        "en": "I am lost",
+        "ipa": "toj ɓi lak̚"
+      },
+      {
+        "id": "v051",
+        "vi": "đường này",
+        "en": "this street",
+        "ipa": "ɗɨəŋ naj"
+      },
+      {
+        "id": "v052",
+        "vi": "quẹo trái",
+        "en": "turn left",
+        "ipa": "kʷɛw t͡ɕaj"
+      }
+    ],
+    "review_ids": [
+      "v008",
+      "v009",
+      "v015"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: I would like.] [PAUSE 2s] [VI: tôi muốn.] [EN: Iced milk coffee.] [PAUSE 2s] [VI: cà phê sữa đá.] [EN: Ben thanh market.] [PAUSE 2s] [VI: bến thành.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — stopping a passerby for directions after getting turned around in Bình Thạnh.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — I am lost.] [VI: tôi bị lạc.] [PAUSE 2s] [VI: tôi bị lạc.] [EN: tôi bị lạc — I am lost. Repeat.] [PAUSE 2s] [VI: tôi bị lạc.] [EN: New word — this street.] [VI: đường này.] [PAUSE 2s] [VI: đường này.] [EN: đường này — this street. Repeat.] [PAUSE 2s] [VI: đường này.] [EN: New word — turn left.] [VI: quẹo trái.] [PAUSE 2s] [VI: quẹo trái.] [EN: quẹo trái — turn left. Repeat.] [PAUSE 2s] [VI: quẹo trái.] [EN: Now hear them together in the scene.] [VI: tôi bị lạc] [VI: đường này] [VI: quẹo trái] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: I am lost.] [PAUSE 2s] [VI: tôi bị lạc.] [EN: This street.] [PAUSE 2s] [VI: đường này.] [EN: Turn left.] [PAUSE 2s] [VI: quẹo trái.] [EN: Reverse — Vietnamese to English.] [VI: tôi bị lạc.] [PAUSE 2s] [EN: I am lost.] [VI: đường này.] [PAUSE 2s] [EN: This street.] [VI: quẹo trái.] [PAUSE 2s] [EN: Turn left.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: tôi bị lạc] [VI: đường này] [VI: quẹo trái] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — supermarket:] [VI: siêu thị.] [PAUSE 2s] [VI: siêu thị.] [EN: siêu thị — supermarket. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D18",
+    "title": "Siêu thị — At the supermarket",
+    "vocab": [
+      {
+        "id": "v053",
+        "vi": "siêu thị",
+        "en": "supermarket",
+        "ipa": "sîəw tʰi"
+      },
+      {
+        "id": "v054",
+        "vi": "túi ni lông",
+        "en": "plastic bag",
+        "ipa": "tuj ni loŋ"
+      },
+      {
+        "id": "v055",
+        "vi": "tiền thối",
+        "en": "change / coins back",
+        "ipa": "tiən tʰoj"
+      }
+    ],
+    "review_ids": [
+      "v003",
+      "v012",
+      "v014"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: How much.] [PAUSE 2s] [VI: bao nhiêu.] [EN: Bathroom / toilet.] [PAUSE 2s] [VI: nhà vệ sinh.] [EN: Go / to go.] [PAUSE 2s] [VI: đi.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — buying water and snacks at a Co.op Mart and getting change.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — supermarket.] [VI: siêu thị.] [PAUSE 2s] [VI: siêu thị.] [EN: siêu thị — supermarket. Repeat.] [PAUSE 2s] [VI: siêu thị.] [EN: New word — plastic bag.] [VI: túi ni lông.] [PAUSE 2s] [VI: túi ni lông.] [EN: túi ni lông — plastic bag. Repeat.] [PAUSE 2s] [VI: túi ni lông.] [EN: New word — change / coins back.] [VI: tiền thối.] [PAUSE 2s] [VI: tiền thối.] [EN: tiền thối — change / coins back. Repeat.] [PAUSE 2s] [VI: tiền thối.] [EN: Now hear them together in the scene.] [VI: siêu thị] [VI: túi ni lông] [VI: tiền thối] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Supermarket.] [PAUSE 2s] [VI: siêu thị.] [EN: Plastic bag.] [PAUSE 2s] [VI: túi ni lông.] [EN: Change / coins back.] [PAUSE 2s] [VI: tiền thối.] [EN: Reverse — Vietnamese to English.] [VI: siêu thị.] [PAUSE 2s] [EN: Supermarket.] [VI: túi ni lông.] [PAUSE 2s] [EN: Plastic bag.] [VI: tiền thối.] [PAUSE 2s] [EN: Change / coins back.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: siêu thị] [VI: túi ni lông] [VI: tiền thối] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — I like:] [VI: tôi thích.] [PAUSE 2s] [VI: tôi thích.] [EN: tôi thích — I like. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D19",
+    "title": "Tôi thích — I like",
+    "vocab": [
+      {
+        "id": "v056",
+        "vi": "tôi thích",
+        "en": "I like",
+        "ipa": "toj tʰik̚"
+      },
+      {
+        "id": "v057",
+        "vi": "không thích",
+        "en": "I do not like",
+        "ipa": "xoŋ tʰik̚"
+      },
+      {
+        "id": "v058",
+        "vi": "món ăn",
+        "en": "dish / food item",
+        "ipa": "mɔn ʔan"
+      }
+    ],
+    "review_ids": [
+      "v006",
+      "v013",
+      "v016"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Three.] [PAUSE 2s] [VI: ba.] [EN: On the right.] [PAUSE 2s] [VI: bên phải.] [EN: How long.] [PAUSE 2s] [VI: bao lâu.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — telling a street vendor which dishes you enjoy and which you avoid.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — I like.] [VI: tôi thích.] [PAUSE 2s] [VI: tôi thích.] [EN: tôi thích — I like. Repeat.] [PAUSE 2s] [VI: tôi thích.] [EN: New word — I do not like.] [VI: không thích.] [PAUSE 2s] [VI: không thích.] [EN: không thích — I do not like. Repeat.] [PAUSE 2s] [VI: không thích.] [EN: New word — dish / food item.] [VI: món ăn.] [PAUSE 2s] [VI: món ăn.] [EN: món ăn — dish / food item. Repeat.] [PAUSE 2s] [VI: món ăn.] [EN: Now hear them together in the scene.] [VI: tôi thích] [VI: không thích] [VI: món ăn] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: I like.] [PAUSE 2s] [VI: tôi thích.] [EN: I do not like.] [PAUSE 2s] [VI: không thích.] [EN: Dish / food item.] [PAUSE 2s] [VI: món ăn.] [EN: Reverse — Vietnamese to English.] [VI: tôi thích.] [PAUSE 2s] [EN: I like.] [VI: không thích.] [PAUSE 2s] [EN: I do not like.] [VI: món ăn.] [PAUSE 2s] [EN: Dish / food item.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: tôi thích] [VI: không thích] [VI: món ăn] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — phone number:] [VI: số điện thoại.] [PAUSE 2s] [VI: số điện thoại.] [EN: số điện thoại — phone number. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D20",
+    "title": "Điện thoại — Phone and numbers",
+    "vocab": [
+      {
+        "id": "v059",
+        "vi": "số điện thoại",
+        "en": "phone number",
+        "ipa": "so ɗîən tʰwaːj"
+      },
+      {
+        "id": "v060",
+        "vi": "của tôi",
+        "en": "mine / my",
+        "ipa": "kua toj"
+      },
+      {
+        "id": "v061",
+        "vi": "nhắn tin",
+        "en": "send a message",
+        "ipa": "ɲan tin"
+      }
+    ],
+    "review_ids": [
+      "v007",
+      "v011",
+      "v017"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Five thousand dong.] [PAUSE 2s] [VI: năm nghìn.] [EN: Where.] [PAUSE 2s] [VI: ở đâu.] [EN: Delicious.] [PAUSE 2s] [VI: ngon.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — exchanging phone numbers with a new acquaintance after a language exchange.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — phone number.] [VI: số điện thoại.] [PAUSE 2s] [VI: số điện thoại.] [EN: số điện thoại — phone number. Repeat.] [PAUSE 2s] [VI: số điện thoại.] [EN: New word — mine / my.] [VI: của tôi.] [PAUSE 2s] [VI: của tôi.] [EN: của tôi — mine / my. Repeat.] [PAUSE 2s] [VI: của tôi.] [EN: New word — send a message.] [VI: nhắn tin.] [PAUSE 2s] [VI: nhắn tin.] [EN: nhắn tin — send a message. Repeat.] [PAUSE 2s] [VI: nhắn tin.] [EN: Now hear them together in the scene.] [VI: số điện thoại] [VI: của tôi] [VI: nhắn tin] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Phone number.] [PAUSE 2s] [VI: số điện thoại.] [EN: Mine / my.] [PAUSE 2s] [VI: của tôi.] [EN: Send a message.] [PAUSE 2s] [VI: nhắn tin.] [EN: Reverse — Vietnamese to English.] [VI: số điện thoại.] [PAUSE 2s] [EN: Phone number.] [VI: của tôi.] [PAUSE 2s] [EN: Mine / my.] [VI: nhắn tin.] [PAUSE 2s] [EN: Send a message.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: số điện thoại] [VI: của tôi] [VI: nhắn tin] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — to drink:] [VI: uống.] [PAUSE 2s] [VI: uống.] [EN: uống — to drink. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D21",
+    "title": "Uống gì — What would you like to drink?",
+    "vocab": [
+      {
+        "id": "v062",
+        "vi": "uống",
+        "en": "to drink",
+        "ipa": "ʔuəŋ"
+      },
+      {
+        "id": "v063",
+        "vi": "trà đá",
+        "en": "iced tea",
+        "ipa": "t͡ɕaː ɗaː"
+      },
+      {
+        "id": "v064",
+        "vi": "nước cam",
+        "en": "orange juice",
+        "ipa": "nɨək kam"
+      }
+    ],
+    "review_ids": [
+      "v005",
+      "v006",
+      "v013"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Two.] [PAUSE 2s] [VI: hai.] [EN: Three.] [PAUSE 2s] [VI: ba.] [EN: On the right.] [PAUSE 2s] [VI: bên phải.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — being offered drinks as a guest at a colleague's home in Gò Vấp.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — to drink.] [VI: uống.] [PAUSE 2s] [VI: uống.] [EN: uống — to drink. Repeat.] [PAUSE 2s] [VI: uống.] [EN: New word — iced tea.] [VI: trà đá.] [PAUSE 2s] [VI: trà đá.] [EN: trà đá — iced tea. Repeat.] [PAUSE 2s] [VI: trà đá.] [EN: New word — orange juice.] [VI: nước cam.] [PAUSE 2s] [VI: nước cam.] [EN: nước cam — orange juice. Repeat.] [PAUSE 2s] [VI: nước cam.] [EN: Now hear them together in the scene.] [VI: uống] [VI: trà đá] [VI: nước cam] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: To drink.] [PAUSE 2s] [VI: uống.] [EN: Iced tea.] [PAUSE 2s] [VI: trà đá.] [EN: Orange juice.] [PAUSE 2s] [VI: nước cam.] [EN: Reverse — Vietnamese to English.] [VI: uống.] [PAUSE 2s] [EN: To drink.] [VI: trà đá.] [PAUSE 2s] [EN: Iced tea.] [VI: nước cam.] [PAUSE 2s] [EN: Orange juice.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: uống] [VI: trà đá] [VI: nước cam] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — hey / excuse me (to a man):] [VI: anh ơi.] [PAUSE 2s] [VI: anh ơi.] [EN: anh ơi — hey / excuse me (to a man). Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D22",
+    "title": "Anh ơi — Getting someone's attention",
+    "vocab": [
+      {
+        "id": "v065",
+        "vi": "anh ơi",
+        "en": "hey / excuse me (to a man)",
+        "ipa": "ʔaːjn ʔəːj"
+      },
+      {
+        "id": "v066",
+        "vi": "chị ơi",
+        "en": "excuse me (to a woman)",
+        "ipa": "t͡ɕi ʔəːj"
+      },
+      {
+        "id": "v067",
+        "vi": "chờ một chút",
+        "en": "wait a moment",
+        "ipa": "t͡ɕɔ moˀt̚ t͡ɕut̚"
+      }
+    ],
+    "review_ids": [
+      "v001",
+      "v011",
+      "v019"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Hello.] [PAUSE 2s] [VI: xin chào.] [EN: Where.] [PAUSE 2s] [VI: ở đâu.] [EN: Spicy.] [PAUSE 2s] [VI: cay.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — flagging down a waiter at a busy rooftop bar in District 3.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — hey / excuse me (to a man).] [VI: anh ơi.] [PAUSE 2s] [VI: anh ơi.] [EN: anh ơi — hey / excuse me (to a man). Repeat.] [PAUSE 2s] [VI: anh ơi.] [EN: New word — excuse me (to a woman).] [VI: chị ơi.] [PAUSE 2s] [VI: chị ơi.] [EN: chị ơi — excuse me (to a woman). Repeat.] [PAUSE 2s] [VI: chị ơi.] [EN: New word — wait a moment.] [VI: chờ một chút.] [PAUSE 2s] [VI: chờ một chút.] [EN: chờ một chút — wait a moment. Repeat.] [PAUSE 2s] [VI: chờ một chút.] [EN: Now hear them together in the scene.] [VI: anh ơi] [VI: chị ơi] [VI: chờ một chút] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Hey / excuse me (to a man).] [PAUSE 2s] [VI: anh ơi.] [EN: Excuse me (to a woman).] [PAUSE 2s] [VI: chị ơi.] [EN: Wait a moment.] [PAUSE 2s] [VI: chờ một chút.] [EN: Reverse — Vietnamese to English.] [VI: anh ơi.] [PAUSE 2s] [EN: Hey / excuse me (to a man).] [VI: chị ơi.] [PAUSE 2s] [EN: Excuse me (to a woman).] [VI: chờ một chút.] [PAUSE 2s] [EN: Wait a moment.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: anh ơi] [VI: chị ơi] [VI: chờ một chút] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — sold out / all gone:] [VI: hết rồi.] [PAUSE 2s] [VI: hết rồi.] [EN: hết rồi — sold out / all gone. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D23",
+    "title": "Hết rồi — It is sold out",
+    "vocab": [
+      {
+        "id": "v068",
+        "vi": "hết rồi",
+        "en": "sold out / all gone",
+        "ipa": "het zoj"
+      },
+      {
+        "id": "v069",
+        "vi": "còn không",
+        "en": "do you still have",
+        "ipa": "kɔn xoŋ"
+      },
+      {
+        "id": "v070",
+        "vi": "loại khác",
+        "en": "a different kind",
+        "ipa": "lwaːj xak̚"
+      }
+    ],
+    "review_ids": [
+      "v003",
+      "v013",
+      "v020"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: How much.] [PAUSE 2s] [VI: bao nhiêu.] [EN: On the right.] [PAUSE 2s] [VI: bên phải.] [EN: My name is.] [PAUSE 2s] [VI: tên tôi là.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — discovering the dish you wanted is sold out and asking for an alternative.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — sold out / all gone.] [VI: hết rồi.] [PAUSE 2s] [VI: hết rồi.] [EN: hết rồi — sold out / all gone. Repeat.] [PAUSE 2s] [VI: hết rồi.] [EN: New word — do you still have.] [VI: còn không.] [PAUSE 2s] [VI: còn không.] [EN: còn không — do you still have. Repeat.] [PAUSE 2s] [VI: còn không.] [EN: New word — a different kind.] [VI: loại khác.] [PAUSE 2s] [VI: loại khác.] [EN: loại khác — a different kind. Repeat.] [PAUSE 2s] [VI: loại khác.] [EN: Now hear them together in the scene.] [VI: hết rồi] [VI: còn không] [VI: loại khác] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Sold out / all gone.] [PAUSE 2s] [VI: hết rồi.] [EN: Do you still have.] [PAUSE 2s] [VI: còn không.] [EN: A different kind.] [PAUSE 2s] [VI: loại khác.] [EN: Reverse — Vietnamese to English.] [VI: hết rồi.] [PAUSE 2s] [EN: Sold out / all gone.] [VI: còn không.] [PAUSE 2s] [EN: Do you still have.] [VI: loại khác.] [PAUSE 2s] [EN: A different kind.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: hết rồi] [VI: còn không] [VI: loại khác] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — room:] [VI: phòng.] [PAUSE 2s] [VI: phòng.] [EN: phòng — room. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D24",
+    "title": "Phòng — Asking about a room",
+    "vocab": [
+      {
+        "id": "v071",
+        "vi": "phòng",
+        "en": "room",
+        "ipa": "fɔŋ"
+      },
+      {
+        "id": "v072",
+        "vi": "còn phòng không",
+        "en": "do you have rooms available",
+        "ipa": "kɔn fɔŋ xoŋ"
+      },
+      {
+        "id": "v073",
+        "vi": "một đêm",
+        "en": "one night",
+        "ipa": "moˀt̚ ɗem"
+      }
+    ],
+    "review_ids": [
+      "v004",
+      "v015",
+      "v018"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: One.] [PAUSE 2s] [VI: một.] [EN: Ben thanh market.] [PAUSE 2s] [VI: bến thành.] [EN: Not tasty.] [PAUSE 2s] [VI: không ngon.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — checking into a mini-hotel in Phú Nhuận and asking about availability.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — room.] [VI: phòng.] [PAUSE 2s] [VI: phòng.] [EN: phòng — room. Repeat.] [PAUSE 2s] [VI: phòng.] [EN: New word — do you have rooms available.] [VI: còn phòng không.] [PAUSE 2s] [VI: còn phòng không.] [EN: còn phòng không — do you have rooms available. Repeat.] [PAUSE 2s] [VI: còn phòng không.] [EN: New word — one night.] [VI: một đêm.] [PAUSE 2s] [VI: một đêm.] [EN: một đêm — one night. Repeat.] [PAUSE 2s] [VI: một đêm.] [EN: Now hear them together in the scene.] [VI: phòng] [VI: còn phòng không] [VI: một đêm] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Room.] [PAUSE 2s] [VI: phòng.] [EN: Do you have rooms available.] [PAUSE 2s] [VI: còn phòng không.] [EN: One night.] [PAUSE 2s] [VI: một đêm.] [EN: Reverse — Vietnamese to English.] [VI: phòng.] [PAUSE 2s] [EN: Room.] [VI: còn phòng không.] [PAUSE 2s] [EN: Do you have rooms available.] [VI: một đêm.] [PAUSE 2s] [EN: One night.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: phòng] [VI: còn phòng không] [VI: một đêm] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — wifi:] [VI: wifi.] [PAUSE 2s] [VI: wifi.] [EN: wifi — wifi. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D25",
+    "title": "Wifi ở đâu — Where is the wifi?",
+    "vocab": [
+      {
+        "id": "v074",
+        "vi": "wifi",
+        "en": "wifi",
+        "ipa": "waj faj"
+      },
+      {
+        "id": "v075",
+        "vi": "mật khẩu",
+        "en": "password",
+        "ipa": "mat xəw"
+      },
+      {
+        "id": "v076",
+        "vi": "kết nối",
+        "en": "connection",
+        "ipa": "ket noj"
+      }
+    ],
+    "review_ids": [
+      "v008",
+      "v009",
+      "v020"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: I would like.] [PAUSE 2s] [VI: tôi muốn.] [EN: Iced milk coffee.] [PAUSE 2s] [VI: cà phê sữa đá.] [EN: My name is.] [PAUSE 2s] [VI: tên tôi là.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — asking café staff for the wifi password.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — wifi.] [VI: wifi.] [PAUSE 2s] [VI: wifi.] [EN: wifi — wifi. Repeat.] [PAUSE 2s] [VI: wifi.] [EN: New word — password.] [VI: mật khẩu.] [PAUSE 2s] [VI: mật khẩu.] [EN: mật khẩu — password. Repeat.] [PAUSE 2s] [VI: mật khẩu.] [EN: New word — connection.] [VI: kết nối.] [PAUSE 2s] [VI: kết nối.] [EN: kết nối — connection. Repeat.] [PAUSE 2s] [VI: kết nối.] [EN: Now hear them together in the scene.] [VI: wifi] [VI: mật khẩu] [VI: kết nối] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Wifi.] [PAUSE 2s] [VI: wifi.] [EN: Password.] [PAUSE 2s] [VI: mật khẩu.] [EN: Connection.] [PAUSE 2s] [VI: kết nối.] [EN: Reverse — Vietnamese to English.] [VI: wifi.] [PAUSE 2s] [EN: Wifi.] [VI: mật khẩu.] [PAUSE 2s] [EN: Password.] [VI: kết nối.] [PAUSE 2s] [EN: Connection.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: wifi] [VI: mật khẩu] [VI: kết nối] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — I need:] [VI: tôi cần.] [PAUSE 2s] [VI: tôi cần.] [EN: tôi cần — I need. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D26",
+    "title": "Tôi cần — I need",
+    "vocab": [
+      {
+        "id": "v077",
+        "vi": "tôi cần",
+        "en": "I need",
+        "ipa": "toj kən"
+      },
+      {
+        "id": "v078",
+        "vi": "thuốc",
+        "en": "medicine",
+        "ipa": "tʰuək̚"
+      },
+      {
+        "id": "v079",
+        "vi": "nhà thuốc",
+        "en": "pharmacy",
+        "ipa": "ɲaː tʰuək̚"
+      }
+    ],
+    "review_ids": [
+      "v007",
+      "v011",
+      "v018"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Five thousand dong.] [PAUSE 2s] [VI: năm nghìn.] [EN: Where.] [PAUSE 2s] [VI: ở đâu.] [EN: Not tasty.] [PAUSE 2s] [VI: không ngon.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — finding a pharmacy and explaining you need cold medicine.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — I need.] [VI: tôi cần.] [PAUSE 2s] [VI: tôi cần.] [EN: tôi cần — I need. Repeat.] [PAUSE 2s] [VI: tôi cần.] [EN: New word — medicine.] [VI: thuốc.] [PAUSE 2s] [VI: thuốc.] [EN: thuốc — medicine. Repeat.] [PAUSE 2s] [VI: thuốc.] [EN: New word — pharmacy.] [VI: nhà thuốc.] [PAUSE 2s] [VI: nhà thuốc.] [EN: nhà thuốc — pharmacy. Repeat.] [PAUSE 2s] [VI: nhà thuốc.] [EN: Now hear them together in the scene.] [VI: tôi cần] [VI: thuốc] [VI: nhà thuốc] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: I need.] [PAUSE 2s] [VI: tôi cần.] [EN: Medicine.] [PAUSE 2s] [VI: thuốc.] [EN: Pharmacy.] [PAUSE 2s] [VI: nhà thuốc.] [EN: Reverse — Vietnamese to English.] [VI: tôi cần.] [PAUSE 2s] [EN: I need.] [VI: thuốc.] [PAUSE 2s] [EN: Medicine.] [VI: nhà thuốc.] [PAUSE 2s] [EN: Pharmacy.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: tôi cần] [VI: thuốc] [VI: nhà thuốc] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — have you been here long:] [VI: lâu chưa.] [PAUSE 2s] [VI: lâu chưa.] [EN: lâu chưa — have you been here long. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D27",
+    "title": "Lâu chưa — Have you been here long?",
+    "vocab": [
+      {
+        "id": "v080",
+        "vi": "lâu chưa",
+        "en": "have you been here long",
+        "ipa": "ləw t͡ɕɨa"
+      },
+      {
+        "id": "v081",
+        "vi": "mới đến",
+        "en": "just arrived",
+        "ipa": "məj ɗen"
+      },
+      {
+        "id": "v082",
+        "vi": "đã lâu",
+        "en": "for a long time",
+        "ipa": "ɗaː ləw"
+      }
+    ],
+    "review_ids": [
+      "v001",
+      "v007",
+      "v016"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Hello.] [PAUSE 2s] [VI: xin chào.] [EN: Five thousand dong.] [PAUSE 2s] [VI: năm nghìn.] [EN: How long.] [PAUSE 2s] [VI: bao lâu.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — chatting with an expat neighbour about how long you have both lived in HCMC.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — have you been here long.] [VI: lâu chưa.] [PAUSE 2s] [VI: lâu chưa.] [EN: lâu chưa — have you been here long. Repeat.] [PAUSE 2s] [VI: lâu chưa.] [EN: New word — just arrived.] [VI: mới đến.] [PAUSE 2s] [VI: mới đến.] [EN: mới đến — just arrived. Repeat.] [PAUSE 2s] [VI: mới đến.] [EN: New word — for a long time.] [VI: đã lâu.] [PAUSE 2s] [VI: đã lâu.] [EN: đã lâu — for a long time. Repeat.] [PAUSE 2s] [VI: đã lâu.] [EN: Now hear them together in the scene.] [VI: lâu chưa] [VI: mới đến] [VI: đã lâu] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Have you been here long.] [PAUSE 2s] [VI: lâu chưa.] [EN: Just arrived.] [PAUSE 2s] [VI: mới đến.] [EN: For a long time.] [PAUSE 2s] [VI: đã lâu.] [EN: Reverse — Vietnamese to English.] [VI: lâu chưa.] [PAUSE 2s] [EN: Have you been here long.] [VI: mới đến.] [PAUSE 2s] [EN: Just arrived.] [VI: đã lâu.] [PAUSE 2s] [EN: For a long time.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: lâu chưa] [VI: mới đến] [VI: đã lâu] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — make a reservation:] [VI: đặt bàn.] [PAUSE 2s] [VI: đặt bàn.] [EN: đặt bàn — make a reservation. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D28",
+    "title": "Đặt bàn — Making a reservation",
+    "vocab": [
+      {
+        "id": "v083",
+        "vi": "đặt bàn",
+        "en": "make a reservation",
+        "ipa": "ɗat̚ ɓaːn"
+      },
+      {
+        "id": "v084",
+        "vi": "bao nhiêu người",
+        "en": "how many people",
+        "ipa": "ɓaːw ɲîəw ŋɨəj"
+      },
+      {
+        "id": "v085",
+        "vi": "tối nay",
+        "en": "tonight",
+        "ipa": "toj naj"
+      }
+    ],
+    "review_ids": [
+      "v003",
+      "v009",
+      "v024"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: How much.] [PAUSE 2s] [VI: bao nhiêu.] [EN: Iced milk coffee.] [PAUSE 2s] [VI: cà phê sữa đá.] [EN: Tomorrow.] [PAUSE 2s] [VI: ngày mai.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — calling a restaurant in Thảo Điền to book a table for tonight.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — make a reservation.] [VI: đặt bàn.] [PAUSE 2s] [VI: đặt bàn.] [EN: đặt bàn — make a reservation. Repeat.] [PAUSE 2s] [VI: đặt bàn.] [EN: New word — how many people.] [VI: bao nhiêu người.] [PAUSE 2s] [VI: bao nhiêu người.] [EN: bao nhiêu người — how many people. Repeat.] [PAUSE 2s] [VI: bao nhiêu người.] [EN: New word — tonight.] [VI: tối nay.] [PAUSE 2s] [VI: tối nay.] [EN: tối nay — tonight. Repeat.] [PAUSE 2s] [VI: tối nay.] [EN: Now hear them together in the scene.] [VI: đặt bàn] [VI: bao nhiêu người] [VI: tối nay] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Make a reservation.] [PAUSE 2s] [VI: đặt bàn.] [EN: How many people.] [PAUSE 2s] [VI: bao nhiêu người.] [EN: Tonight.] [PAUSE 2s] [VI: tối nay.] [EN: Reverse — Vietnamese to English.] [VI: đặt bàn.] [PAUSE 2s] [EN: Make a reservation.] [VI: bao nhiêu người.] [PAUSE 2s] [EN: How many people.] [VI: tối nay.] [PAUSE 2s] [EN: Tonight.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: đặt bàn] [VI: bao nhiêu người] [VI: tối nay] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — delivery:] [VI: giao hàng.] [PAUSE 2s] [VI: giao hàng.] [EN: giao hàng — delivery. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D29",
+    "title": "Giao hàng — Food delivery",
+    "vocab": [
+      {
+        "id": "v086",
+        "vi": "giao hàng",
+        "en": "delivery",
+        "ipa": "zaːw haŋ"
+      },
+      {
+        "id": "v087",
+        "vi": "địa chỉ",
+        "en": "address",
+        "ipa": "ɗia t͡ɕi"
+      },
+      {
+        "id": "v088",
+        "vi": "bao lâu nữa",
+        "en": "how much longer",
+        "ipa": "ɓaːw ləw nɨa"
+      }
+    ],
+    "review_ids": [
+      "v005",
+      "v010",
+      "v018"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Two.] [PAUSE 2s] [VI: hai.] [EN: No sugar.] [PAUSE 2s] [VI: không đường.] [EN: Not tasty.] [PAUSE 2s] [VI: không ngon.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — tracking a GrabFood order and asking the driver how much longer they will be.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — delivery.] [VI: giao hàng.] [PAUSE 2s] [VI: giao hàng.] [EN: giao hàng — delivery. Repeat.] [PAUSE 2s] [VI: giao hàng.] [EN: New word — address.] [VI: địa chỉ.] [PAUSE 2s] [VI: địa chỉ.] [EN: địa chỉ — address. Repeat.] [PAUSE 2s] [VI: địa chỉ.] [EN: New word — how much longer.] [VI: bao lâu nữa.] [PAUSE 2s] [VI: bao lâu nữa.] [EN: bao lâu nữa — how much longer. Repeat.] [PAUSE 2s] [VI: bao lâu nữa.] [EN: Now hear them together in the scene.] [VI: giao hàng] [VI: địa chỉ] [VI: bao lâu nữa] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Delivery.] [PAUSE 2s] [VI: giao hàng.] [EN: Address.] [PAUSE 2s] [VI: địa chỉ.] [EN: How much longer.] [PAUSE 2s] [VI: bao lâu nữa.] [EN: Reverse — Vietnamese to English.] [VI: giao hàng.] [PAUSE 2s] [EN: Delivery.] [VI: địa chỉ.] [PAUSE 2s] [EN: Address.] [VI: bao lâu nữa.] [PAUSE 2s] [EN: How much longer.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: giao hàng] [VI: địa chỉ] [VI: bao lâu nữa] [VI: Cảm ơn! Tạm biệt!] [EN: Tomorrow's preview word — goodbye:] [VI: tạm biệt.] [PAUSE 2s] [VI: tạm biệt.] [EN: tạm biệt — goodbye. Listen for it next time.] [EN: Tạm biệt!]"
+      }
+    ]
+  },
+  {
+    "id": "L1-D30",
+    "title": "Ôn tập — Level 1 review",
+    "vocab": [
+      {
+        "id": "v089",
+        "vi": "tạm biệt",
+        "en": "goodbye",
+        "ipa": "tam ɓiet̚"
+      },
+      {
+        "id": "v090",
+        "vi": "hẹn gặp lại",
+        "en": "see you again",
+        "ipa": "hɛn ɡap̚ laːj"
+      },
+      {
+        "id": "v091",
+        "vi": "chúc mừng",
+        "en": "congratulations",
+        "ipa": "t͡ɕuk̚ mɨŋ"
+      }
+    ],
+    "review_ids": [
+      "v001",
+      "v002",
+      "v003"
+    ],
+    "segments": [
+      {
+        "type": "recall",
+        "duration_s": 90,
+        "script": "[EN: Warm-up. English cue — you say the Vietnamese.] [EN: Hello.] [PAUSE 2s] [VI: xin chào.] [EN: Thank you.] [PAUSE 2s] [VI: cảm ơn.] [EN: How much.] [PAUSE 2s] [VI: bao nhiêu.] [EN: Good foundation. Now today's new scene.]"
+      },
+      {
+        "type": "dialogue",
+        "duration_s": 185,
+        "script": "[EN: Scene — a wrap-up café scene revisiting the most common Level 1 situations back-to-back.] [VI: Xin chào!] [EN: The scene opens. Listen for the new words.] [EN: New word — goodbye.] [VI: tạm biệt.] [PAUSE 2s] [VI: tạm biệt.] [EN: tạm biệt — goodbye. Repeat.] [PAUSE 2s] [VI: tạm biệt.] [EN: New word — see you again.] [VI: hẹn gặp lại.] [PAUSE 2s] [VI: hẹn gặp lại.] [EN: hẹn gặp lại — see you again. Repeat.] [PAUSE 2s] [VI: hẹn gặp lại.] [EN: New word — congratulations.] [VI: chúc mừng.] [PAUSE 2s] [VI: chúc mừng.] [EN: chúc mừng — congratulations. Repeat.] [PAUSE 2s] [VI: chúc mừng.] [EN: Now hear them together in the scene.] [VI: tạm biệt] [VI: hẹn gặp lại] [VI: chúc mừng] [VI: Cảm ơn!]"
+      },
+      {
+        "type": "drill",
+        "duration_s": 180,
+        "script": "[EN: Drill time. English cue — Vietnamese response.] [EN: Goodbye.] [PAUSE 2s] [VI: tạm biệt.] [EN: See you again.] [PAUSE 2s] [VI: hẹn gặp lại.] [EN: Congratulations.] [PAUSE 2s] [VI: chúc mừng.] [EN: Reverse — Vietnamese to English.] [VI: tạm biệt.] [PAUSE 2s] [EN: Goodbye.] [VI: hẹn gặp lại.] [PAUSE 2s] [EN: See you again.] [VI: chúc mừng.] [PAUSE 2s] [EN: Congratulations.] [EN: Excellent work.]"
+      },
+      {
+        "type": "synthesis",
+        "duration_s": 145,
+        "script": "[EN: Full scene replay at natural speed.] [VI: tạm biệt] [VI: hẹn gặp lại] [VI: chúc mừng] [VI: Cảm ơn! Tạm biệt!] [EN: You have completed Level 1. Chúc mừng!] [VI: Chúc mừng!] [EN: Tạm biệt!]"
+      }
+    ]
+  }
+]
