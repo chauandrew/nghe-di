@@ -45,12 +45,12 @@ import anthropic
 from elevenlabs.client import ElevenLabs
 from pydub import AudioSegment
 
-from curriculum import CURRICULUM
-from VocabDB import VocabDB
-from models.LessonSegment import LessonSegment
+from lesson_generator.curriculum import CURRICULUM
+from lesson_generator.VocabDB import VocabDB
+from lesson_generator.models.LessonSegment import LessonSegment
 from lesson_generator.models.VocabItem import VocabItem
 
-from config import *
+from lesson_generator.config import *
 
 def generate_lesson_json(
     client: anthropic.Anthropic,
@@ -78,10 +78,11 @@ def generate_lesson_json(
 
     response = client.messages.create(
         model=CLAUDE_MODEL,
-        max_tokens=2048,
+        max_tokens=8092,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": user_msg}],
     )
+    print(response)
 
     raw = response.content[0].text.strip()
     raw = re.sub(r"^```(?:json)?\s*", "", raw)
@@ -106,12 +107,13 @@ def tts_segment(
 
     if not cache_path.exists():
         voice_id = ELEVENLABS_VOICE_VI if language == "vi" else ELEVENLABS_VOICE_EN
+        voice_settings = ELEVENLABS_VOICE_SETTINGS_VI if language == "vi" else ELEVENLABS_VOICE_SETTINGS_EN
 
         audio_bytes = tts_client.text_to_speech.convert(
             voice_id=voice_id,
             text=text,
             model_id=ELEVENLABS_MODEL,
-            voice_settings=ELEVENLABS_VOICE_SETTINGS,
+            voice_settings=voice_settings,
             output_format="mp3_44100_64",
         )
         # convert() returns a generator — collect all chunks
@@ -202,37 +204,41 @@ def process_day(
         print(f"  [{lesson_id}] Already exists — skipping. Delete to regenerate.")
         return
 
-    print(f"  [{lesson_id}] Generating lesson script via Claude...")
-    day_cfg = get_day_config(level, day)
-    review_ids = vocab_db.due_today()
-
-    raw_json = generate_lesson_json(
-        client=anthropic_client,
-        level=level,
-        day=day,
-        new_vocab_hints=day_cfg["vocab"],
-        review_ids=review_ids,
-        scene=day_cfg["scene"],
-        vocab_db=vocab_db,
-    )
-
-    # Register new vocab in the DB
-    for v in raw_json.get("vocab", []):
-        vid = vocab_db.next_id()
-        item = VocabItem(
-            id=vid,
-            vi=v["vi"],
-            en=v["en"],
-            ipa=v.get("ipa", ""),
-            level=level,
-            day_introduced=day,
-        )
-        vocab_db.add(item)
-
-    # Save lesson JSON
+    # Use existing lesson.json if present — skip Claude call
     lesson_json_path = lesson_dir / "lesson.json"
-    lesson_json_path.write_text(json.dumps(raw_json, ensure_ascii=False, indent=2))
-    print(f"  [{lesson_id}] Lesson JSON saved → {lesson_json_path}")
+    if lesson_json_path.exists():
+        print(f"  [{lesson_id}] Found existing lesson.json — skipping Claude.")
+        raw_json = json.loads(lesson_json_path.read_text())
+    else:
+        print(f"  [{lesson_id}] Generating lesson script via Claude...")
+        day_cfg = get_day_config(level, day)
+        review_ids = vocab_db.due_today()
+ 
+        raw_json = generate_lesson_json(
+            client=anthropic_client,
+            level=level,
+            day=day,
+            new_vocab_hints=day_cfg["vocab"],
+            review_ids=review_ids,
+            scene=day_cfg["scene"],
+            vocab_db=vocab_db,
+        )
+ 
+        # Register new vocab in the DB
+        for v in raw_json.get("vocab", []):
+            vid = vocab_db.next_id()
+            item = VocabItem(
+                id=vid,
+                vi=v["vi"],
+                en=v["en"],
+                ipa=v.get("ipa", ""),
+                level=level,
+                day_introduced=day,
+            )
+            vocab_db.add(item)
+ 
+        lesson_json_path.write_text(json.dumps(raw_json, ensure_ascii=False, indent=2))
+        print(f"  [{lesson_id}] Lesson JSON saved → {lesson_json_path}")
 
     if dry_run:
         print(f"  [{lesson_id}] Dry-run: skipping TTS + audio stitching.")
