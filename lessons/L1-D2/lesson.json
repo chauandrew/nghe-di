@@ -1,0 +1,33 @@
+{
+  "id": "L1-D2",
+  "title": "Mua bánh mì — Ordering at the sandwich cart",
+  "vocab": [
+    {"id": "v004", "vi": "một", "en": "one", "ipa": "moˀt̚"},
+    {"id": "v005", "vi": "hai", "en": "two", "ipa": "haːj"},
+    {"id": "v006", "vi": "ba", "en": "three", "ipa": "ɓaː"},
+    {"id": "v007", "vi": "năm nghìn", "en": "five thousand dong", "ipa": "nam ŋìn"}
+  ],
+  "review_ids": ["v001", "v002", "v003"],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Welcome back. Let us warm up with yesterday's three words.] [EN: Hello.] [PAUSE 2s] [VI: Xin chào.] [EN: Thank you.] [PAUSE 2s] [VI: Cảm ơn.] [EN: How much?] [PAUSE 2s] [VI: Bao nhiêu?] [EN: Now the other way — what do these mean?] [VI: Cảm ơn.] [PAUSE 2s] [EN: Thank you.] [VI: Bao nhiêu?] [PAUSE 2s] [EN: How much. Good. Now on to numbers.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: You are at a bánh mì cart near Bến Thành market. The vendor greets you.] [VI: Xin chào! Mua gì không?] [EN: She asked what you would like to buy. You want two sandwiches. First — the number one.] [VI: Một.] [PAUSE 2s] [VI: Một.] [EN: That means one. Repeat.] [PAUSE 2s] [VI: Một.] [EN: Now two.] [VI: Hai.] [PAUSE 2s] [VI: Hai.] [EN: That means two. Repeat.] [PAUSE 2s] [VI: Hai.] [EN: And three.] [VI: Ba.] [PAUSE 2s] [VI: Ba.] [EN: That means three. Repeat.] [PAUSE 2s] [VI: Ba.] [EN: You want two sandwiches — say two, then point.] [PAUSE 2s] [VI: Hai cái.] [EN: That means two pieces. She tells you each one is five thousand dong.] [VI: Một cái năm nghìn.] [EN: Five thousand dong is] [VI: Năm nghìn.] [PAUSE 2s] [VI: Năm nghìn.] [EN: Repeat.] [PAUSE 2s] [VI: Năm nghìn.] [EN: So two costs ten thousand. You pay and say thank you.] [VI: Cảm ơn!] [VI: Không có gì!] [EN: That last phrase means you are welcome — listen for it.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill time. I give the English — you say the Vietnamese.] [EN: One.] [PAUSE 2s] [VI: Một.] [EN: Three.] [PAUSE 2s] [VI: Ba.] [EN: Two.] [PAUSE 2s] [VI: Hai.] [EN: Five thousand dong.] [PAUSE 2s] [VI: Năm nghìn.] [EN: How much?] [PAUSE 2s] [VI: Bao nhiêu?] [EN: Thank you.] [PAUSE 2s] [VI: Cảm ơn.] [EN: Now reverse — I say the Vietnamese, you give the meaning.] [VI: Một.] [PAUSE 2s] [EN: One.] [VI: Năm nghìn.] [PAUSE 2s] [EN: Five thousand dong.] [VI: Hai.] [PAUSE 2s] [EN: Two.] [VI: Ba.] [PAUSE 2s] [EN: Three. Excellent — six words now in active memory.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 145,
+      "script": "[EN: Full scene at natural speed — listen for everything you know.] [VI: Xin chào! Mua gì không?] [VI: Hai cái. Bao nhiêu?] [VI: Một cái năm nghìn. Hai cái mười nghìn.] [VI: Cảm ơn!] [VI: Không có gì!] [EN: Tomorrow — ordering drinks exactly the way you want them. The preview word is — to want.] [VI: Muốn.] [PAUSE 2s] [VI: Muốn.] [EN: That means to want. Listen for it tomorrow.] [VI: Tạm biệt!]"
+    }
+  ]
+}

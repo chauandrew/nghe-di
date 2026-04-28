@@ -1,0 +1,38 @@
+{
+  "id": "L1-D1",
+  "title": "First Words: Greeting a Coffee Vendor & Asking the Price",
+  "vocab": [
+    {
+      "vi": "xin chào",
+      "en": "hello",
+      "ipa": "/sin˧ t͡ɕaːw˨˩/"
+    },
+    {
+      "vi": "cảm ơn",
+      "en": "thank you",
+      "ipa": "/kaːm˧˩˧ əːn˧/"
+    },
+    {
+      "vi": "bao nhiêu",
+      "en": "how much",
+      "ipa": "/ɓaːw˧ ɲiəw˧/"
+    }
+  ],
+  "segments": [
+    {
+      "type": "dialogue",
+      "duration_s": 180,
+      "script": "[EN: Welcome to your very first Vietnamese lesson. Today, you're standing at a small street coffee stall in Ho Chi Minh City. The sun is hot, the coffee smells amazing, and a friendly vendor is waiting for you. Let's learn how to greet her, thank her, and ask the price.] [PAUSE 2s] [EN: In Vietnamese, to say hello, you say] [VI: xin chào] [PAUSE 2s] [EN: Listen again.] [VI: xin chào] [PAUSE 2s] [EN: One more time.] [VI: xin chào] [PAUSE 2s] [EN: The first word] [VI: xin] [EN: means please or politely. The second word] [VI: chào] [EN: means greet. Together they form the polite greeting, hello.] [PAUSE 2s] [EN: Now you try. Say hello in Vietnamese.] [PAUSE 5s] [VI: xin chào] [EN: Good. Now imagine the vendor hands you an iced coffee. You want to say thank you. In Vietnamese, thank you is] [VI: cảm ơn] [PAUSE 2s] [EN: Listen again.] [VI: cảm ơn] [PAUSE 2s] [EN: One more time.] [VI: cảm ơn] [PAUSE 2s] [EN: Notice the falling-rising tone on] [VI: cảm] [EN: — it dips down then comes back up. Try saying thank you now.] [PAUSE 5s] [VI: cảm ơn] [EN: Excellent. Now you want to know the price of the coffee. To ask how much, you say] [VI: bao nhiêu] [PAUSE 2s] [EN: Listen again.] [VI: bao nhiêu] [PAUSE 2s] [EN: One more time.] [VI: bao nhiêu] [PAUSE 2s] [EN: Now you try. Ask how much.] [PAUSE 5s] [VI: bao nhiêu] [EN: Perfect. You now know three essential phrases for the streets of Saigon.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Let's practice these three phrases with spaced repetition. I'll ask you to recall each one. Ready?] [PAUSE 2s] [EN: How do you say hello in Vietnamese?] [PAUSE 5s] [VI: xin chào] [PAUSE 2s] [EN: How do you say thank you?] [PAUSE 5s] [VI: cảm ơn] [PAUSE 2s] [EN: How do you ask how much?] [PAUSE 5s] [VI: bao nhiêu] [PAUSE 3s] [EN: Good. Now let's mix them up. The vendor just greeted you. Greet her back. Say hello.] [PAUSE 5s] [VI: xin chào] [PAUSE 2s] [EN: Now ask her the price of the coffee. Say how much.] [PAUSE 5s] [VI: bao nhiêu] [PAUSE 2s] [EN: She tells you the price. You hand her the money. Now say thank you.] [PAUSE 5s] [VI: cảm ơn] [PAUSE 3s] [EN: Let's go again from the top but faster. Say hello.] [PAUSE 3s] [VI: xin chào] [EN: Ask how much.] [PAUSE 3s] [VI: bao nhiêu] [EN: Say thank you.] [PAUSE 3s] [VI: cảm ơn] [PAUSE 2s] [EN: Now I'll say the English, and you respond immediately in Vietnamese. Hello.] [PAUSE 3s] [VI: xin chào] [EN: How much?] [PAUSE 3s] [VI: bao nhiêu] [EN: Thank you.] [PAUSE 3s] [VI: cảm ơn] [EN: One more round. Thank you.] [PAUSE 3s] [VI: cảm ơn] [EN: Hello.] [PAUSE 3s] [VI: xin chào] [EN: How much?] [PAUSE 3s] [VI: bao nhiêu] [EN: Outstanding work. You're getting faster.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Now let's put it all together in a real scene. You walk up to a coffee stall on a busy Saigon street. You greet the vendor.] [PAUSE 2s] [VI: Xin chào!] [PAUSE 3s] [EN: The vendor smiles and says] [VI: Xin chào!] [PAUSE 2s] [EN: You point to the iced milk coffee on the menu and ask the price.] [PAUSE 2s] [VI: Bao nhiêu?] [PAUSE 3s] [EN: The vendor holds up her fingers and tells you the price. You nod and hand her the money. She gives you the coffee. You say] [PAUSE 2s] [VI: Cảm ơn!] [PAUSE 2s] [EN: She replies] [VI: Cảm ơn!] [EN: and waves goodbye.] [PAUSE 3s] [EN: Now let's replay the whole scene at natural speed. Listen carefully.] [VI: Xin chào!] [VI: Xin chào!] [VI: Bao nhiêu?] [PAUSE 1s] [VI: Cảm ơn!] [VI: Cảm ơn!] [PAUSE 3s] [EN: Wonderful. You just completed your first Vietnamese conversation.] [PAUSE 2s] [EN: In your next lesson, you'll learn the word] [VI: cà phê] [EN: which means coffee. You'll be able to order your drink by name. See you next time!]"
+    }
+  ]
+}
