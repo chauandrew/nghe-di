@@ -12,12 +12,13 @@ VOCAB_DB_PATH = OUTPUT_DIR / "vocab_db.json"
 # Find voices at elevenlabs.io/voice-library, or paste a cloned voice ID here.
 # eleven_multilingual_v2 handles Vietnamese tones reasonably well.
 # Tip: clone a native HCMC speaker for best accent accuracy.
-ELEVENLABS_VOICE_VI = "JYT6xPLD3LGl0ui3YXNq"   # "Khanh"
+ELEVENLABS_VOICE_VI_F = "N0Z0aL8qHhzwUHwRBcVo"   # "Thanh" - female
+ELEVENLABS_VOICE_VI_M = "JYT6xPLD3LGl0ui3YXNq"   # "Khanh" - male
 ELEVENLABS_VOICE_EN = "D11AWvkESE7DJwqIVi7L"   # "Brian"
 ELEVENLABS_MODEL    = "eleven_flash_v2_5"  # Cheaper model, supports Vietnamese
 
 ELEVENLABS_VOICE_SETTINGS_EN = VoiceSettings(
-    speed=1.1,
+    speed=1.0,
     stability=0.75,           # Lower = more expressive, higher = more consistent
     similarity_boost=0.75,
     style=0.20,
@@ -66,25 +67,67 @@ Schema:
 }
  
 Script formatting rules:
-- Wrap Vietnamese speech in [VI: text]
-- Wrap English narration in [EN: text]
-- Write pauses as [PAUSE 3s], [PAUSE 5s] etc.
+- [VI_M: text] — male Vietnamese voice (the learner's voice, or a male character)
+- [VI_F: text] — female Vietnamese voice (a female character, e.g. vendor, colleague)
+- [VI: text]   — shorthand for [VI_M: text], use for the learner's prompted responses
+- [EN: text]   — English narrator voice
+- [PAUSE 3s]   — silence gap in seconds
 - Use realistic HCMC dialogue scenes (street cafés, markets, xe ôm rides, restaurants)
 - After every new Vietnamese word/phrase, immediately provide the English gloss in [EN: ...]
 - Southern (HCMC) phonology: 6 tones, final -c/-ch → glottal stop, ơ distinct from ă
 - Pimsleur style: build from repetition, graduated intervals, never more than 4 new words
  
+Gender and pronoun guidance:
+- In dialogues, assign a consistent gender to each character and use the correct voice tag throughout
+- Use natural southern Vietnamese pronouns: anh (older male), chị (older female), em (younger speaker)
+- Female characters (vendors, colleagues, friends) use [VI_F: ...] and refer to themselves as "em" or "chị"
+- The learner uses [VI: ...] or [VI_M: ...] and can use "anh" or "em" depending on context
+- This allows natural exchanges like: [VI_F: Anh muốn uống gì?] [VI: Anh muốn cà phê sữa đá.]
+ 
 CRITICAL tagging rule — [EN: ...] must contain ONLY English words. Never place any
 Vietnamese word or phrase inside an [EN: ...] tag, even short ones like "em", "xin", "ba".
-Always use a separate [VI: ...] tag for Vietnamese. Split mixed sentences into separate tags.
+Always use a separate [VI: ...] or [VI_F: ...] tag for Vietnamese. Split mixed sentences.
  
 WRONG:  [EN: The word for thank you is cảm ơn.]
 WRONG:  [EN: Say xin chào to greet someone.]
 CORRECT: [EN: The word for thank you is] [VI: cảm ơn] [EN: Repeat after me.]
 CORRECT: [EN: Say] [VI: xin chào] [EN: to greet someone.]
  
+Narration style:
+- Be terse. No scene-setting narration like "You are at a café in District 1." or "The vendor looks up and smiles."
+- Jump straight into dialogue and vocabulary. Trust the learner to follow context from the Vietnamese itself.
+- Never narrate what is about to happen. Do it.
+- Keep English narration to the minimum needed to gloss a word or cue a response.
+ 
+Pause rules:
+- ONLY add a [PAUSE Xs] when the learner is expected to speak. Two cases:
+  1. Production pause — learner repeats a word or phrase out loud:
+     Pattern: [EN: cue word or phrase —] [PAUSE 4s] [VI: answer]
+     Example: [EN: Thank you —] [PAUSE 4s] [VI: Cảm ơn.]
+  2. Response pause — learner answers a question in Vietnamese:
+     Pattern: [EN: question in English —] [PAUSE 4s] [VI: answer]
+     Example: [EN: How do you say hello?] [PAUSE 4s] [VI: Xin chào.]
+- Use 4s for production pauses (speaking takes more time than listening).
+- Use 3s for recognition pauses (reverse drill: Vietnamese cue → English meaning).
+- Add a .5s pause after rhetorical or transitional phrases like "Ready?", "Listen.",
+  "Now reverse.", "Good.", "Let us begin.", or after scene dialogue the learner just listens to.
+- Always place the pause BEFORE the answer reveal, not after it.
+ 
+Tone explanations (southern Vietnamese):
+- When first introducing a new word, describe its tone in one short sentence using these descriptions:
+    ngang (no mark): "flat tone"
+    huyền (à):       "falling tone"
+    sắc (á):         "high, rising tone"
+    hỏi (ả):         "falling, rising tone"
+    ngã (ã):         "broken, rising tone"
+    nặng (ạ):        "falling, broken tone"
+- Periodically remind the learner of a word's tone during drill and recall — roughly every 3rd or
+  4th time a word appears. Do not explain the tone every single time.
+- Example: [VI_F: Cảm ơn] [EN: means thank you.] [VI_F: Cảm] [EN: has a falling, rising tone.] [VI_F: Ơn] [EN: has a flat tone.]
+
+ 
 Segment guidelines:
-- recall:    ~90s  — prompt 3-5 items from prior lesson with [PAUSE 3s] for learner to respond, then confirm
-- dialogue:  ~180s — introduce new vocab in a realistic HCMC scene, repeat each new word 3x
-- drill:     ~180s — graduated interval repetition, mix new + review, use [PAUSE 3s] throughout
-- synthesis: ~150s — full scene replay at natural pace + preview 1 word from next lesson"""
+- recall:    ~90s  — prompt 3-5 items from prior lesson, learner responds, confirm
+- dialogue:  ~180s — introduce new vocab in natural dialogue, each new word glossed and tone-explained on first use, repeated 3x with pauses
+- drill:     ~180s — graduated interval repetition, mix new + review, pauses only for learner responses
+- synthesis: ~150s — full dialogue replay at natural speed + preview 1 word from next lesson"""

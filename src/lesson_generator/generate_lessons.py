@@ -106,9 +106,16 @@ def tts_segment(
     cache_path = cache_dir / f"{key}.mp3"
 
     if not cache_path.exists():
-        voice_id = ELEVENLABS_VOICE_VI if language == "vi" else ELEVENLABS_VOICE_EN
-        voice_settings = ELEVENLABS_VOICE_SETTINGS_VI if language == "vi" else ELEVENLABS_VOICE_SETTINGS_EN
-
+        if language == "vi_f":
+            voice_id = ELEVENLABS_VOICE_VI_F
+            voice_settings = ELEVENLABS_VOICE_SETTINGS_VI
+        elif language in ("vi", "vi_m"):
+            voice_id = ELEVENLABS_VOICE_VI_M
+            voice_settings = ELEVENLABS_VOICE_SETTINGS_VI
+        else:
+            voice_id = ELEVENLABS_VOICE_EN
+            voice_settings = ELEVENLABS_VOICE_SETTINGS_EN
+ 
         audio_bytes = tts_client.text_to_speech.convert(
             voice_id=voice_id,
             text=text,
@@ -119,7 +126,7 @@ def tts_segment(
         # convert() returns a generator — collect all chunks
         cache_path.write_bytes(b"".join(audio_bytes))
         time.sleep(0.1)   # brief courtesy pause between API calls
-
+ 
     return AudioSegment.from_mp3(cache_path)
 
 
@@ -130,40 +137,94 @@ def parse_script(script: str) -> list[tuple[str, str]]:
     Example: "[EN: Hello] [VI: Xin chào] [PAUSE 3s]"
     """
     tokens = []
-    pattern = re.compile(r'\[VI:\s*(.*?)\]|\[EN:\s*(.*?)\]|\[PAUSE\s*(\d+)s\]', re.IGNORECASE)
+    pattern = re.compile(
+        r'\[VI_F:\s*(.*?)\]|\[VI_M:\s*(.*?)\]|\[VI:\s*(.*?)\]|\[EN:\s*(.*?)\]|\[PAUSE\s*(\d+)s\]',
+        re.IGNORECASE
+    )
     for m in pattern.finditer(script):
         if m.group(1):
-            tokens.append(("vi", m.group(1).strip()))
+            tokens.append(("vi_f", m.group(1).strip()))   # [VI_F: ...] — female voice
         elif m.group(2):
-            tokens.append(("en", m.group(2).strip()))
+            tokens.append(("vi_m", m.group(2).strip()))   # [VI_M: ...] — male voice (explicit)
         elif m.group(3):
-            tokens.append(("pause", m.group(3)))
+            tokens.append(("vi_m", m.group(3).strip()))   # [VI: ...]   — male voice (default)
+        elif m.group(4):
+            tokens.append(("en", m.group(4).strip()))
+        elif m.group(5):
+            tokens.append(("pause", m.group(5)))
     return tokens
+
+# Rhetorical/transitional phrases that get a short 0.5s breath pause after them
+# rather than no pause at all — makes the audio feel less rushed.
+RHETORICAL_PHRASES = {
+    "ready", "ready?", "listen", "listen.", "good", "good.",
+    "now reverse", "now reverse.", "let us begin", "let us begin.",
+    "excellent", "excellent.", "well done", "well done.",
+}
+ 
+ 
+def _rhetorical(text: str) -> bool:
+    return text.strip().rstrip(".?!").lower() in {p.rstrip(".?") for p in RHETORICAL_PHRASES}
 
 
 def build_audio(
     segments: list[LessonSegment],
     tts_client: ElevenLabs,
     cache_dir: Path,
+    phrase_counts: dict[str, int] | None = None,
 ) -> AudioSegment:
-    """Stitch all lesson segments into one AudioSegment."""
+    """Stitch all lesson segments into one AudioSegment.
+ 
+    Pause adjustments applied at render time:
+    - Rhetorical/transitional phrases (e.g. "Ready?") get a 0.5s breath pause.
+    - Familiar phrases (seen 2+ times across the lesson) get their pause reduced
+      by 25% — learners need less thinking time for words they have already heard.
+    """
+    if phrase_counts is None:
+        phrase_counts = {}
+ 
     full_audio = AudioSegment.silent(duration=500)  # 0.5s lead-in
-
+ 
     for seg in segments:
         tokens = parse_script(seg.script)
-
+        prev_type: str | None = None
+        prev_content: str | None = None
+ 
         for token_type, content in tokens:
             if token_type == "pause":
-                ms = int(content) * 1000
-                full_audio += AudioSegment.silent(duration=ms)
-            elif token_type in ("vi", "en"):
+                base_ms = int(content) * 1000
+ 
+                # Reduce pause for familiar phrases — if the preceding VI token
+                # has already appeared 2+ times, the learner is warming up to it.
+                if prev_type in ("vi_m", "vi_f") and prev_content:
+                    key = prev_content.strip().lower().rstrip(".,!?")
+                    count = phrase_counts.get(key, 0)
+                    if count >= 2:
+                        base_ms = int(base_ms * 0.75)
+ 
+                full_audio += AudioSegment.silent(duration=base_ms)
+ 
+            elif token_type in ("vi_m", "vi_f", "en"):
                 chunk = tts_segment(tts_client, content, token_type, cache_dir)
                 full_audio += chunk
-                full_audio += AudioSegment.silent(duration=300)  # brief breath gap
-
+ 
+                # Track how many times each VI phrase has been rendered
+                if token_type in ("vi_m", "vi_f"):
+                    key = content.strip().lower().rstrip(".,!?")
+                    phrase_counts[key] = phrase_counts.get(key, 0) + 1
+ 
+                # Rhetorical EN phrases get a 0.7s breath pause; others get
+                # the standard 400ms gap.
+                if token_type == "en" and _rhetorical(content):
+                    full_audio += AudioSegment.silent(duration=700)
+                else:
+                    full_audio += AudioSegment.silent(duration=400)
+ 
+            prev_type, prev_content = token_type, content
+ 
         # Inter-segment pause
         full_audio += AudioSegment.silent(duration=PAUSE_DURATIONS["short"])
-
+ 
     full_audio += AudioSegment.silent(duration=1000)  # 1s trail-out
     return full_audio
 

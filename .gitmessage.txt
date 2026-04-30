@@ -1,0 +1,22 @@
+# <type>: <what changed> (max ~50 chars)
+#
+# Types: feat, fix, refactor, chore, docs, test, spike
+
+<type>: <short summary>
+
+# Why (what problem / goal?)
+<1–2 lines>
+
+# What (key changes)
+- 
+- 
+- 
+
+# Notes (optional: tradeoffs, follow-ups, gotchas)
+- 
+
+# ----
+# Rules:
+# - Use present tense ("add", "fix", not "added")
+# - Be specific (what + where if helpful)
+# - Delete unused sections
