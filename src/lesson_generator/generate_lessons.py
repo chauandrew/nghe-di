@@ -82,7 +82,6 @@ def generate_lesson_json(
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": user_msg}],
     )
-    print(response)
 
     raw = response.content[0].text.strip()
     raw = re.sub(r"^```(?:json)?\s*", "", raw)
@@ -153,6 +152,59 @@ def parse_script(script: str) -> list[tuple[str, str]]:
         elif m.group(5):
             tokens.append(("pause", m.group(5)))
     return tokens
+
+
+# Vietnamese-specific letters (precomposed diacritics + đ/ơ/ư), spanning
+# Latin-1 Supplement, Latin Extended-A/B, and Latin Extended Additional.
+# Deliberately excludes typographic punctuation like — and curly quotes so
+# legitimate English cues ("Thank you —") are not flagged.
+_VIETNAMESE_CHARS = re.compile(r'[À-ɏḀ-ỿ]')
+
+# Any bracketed token, used to find tags the parser would silently drop.
+_ANY_TAG = re.compile(r'\[[^\]]*\]')
+_KNOWN_TAG = re.compile(
+    r'\[(?:VI_F|VI_M|VI|EN):\s*.*?\]|\[PAUSE\s*\d+(?:\.\d+)?s\]',
+    re.IGNORECASE,
+)
+
+
+def validate_lesson(raw_json: dict) -> list[str]:
+    """Return a list of problems with a generated lesson. Empty list == OK.
+
+    Catches the failure modes that would otherwise only surface as a billed,
+    broken MP3:
+      - Vietnamese text inside an [EN: ...] tag (the prompt's #1 rule)
+      - empty voice/narrator tags
+      - bracketed tags the parser cannot recognise (typos, missing 's', etc.)
+      - segments that contain no parseable tokens at all
+    """
+    problems: list[str] = []
+    segments = raw_json.get("segments", [])
+    if not segments:
+        problems.append("lesson has no segments")
+
+    for i, seg in enumerate(segments):
+        script = seg.get("script", "") if isinstance(seg, dict) else ""
+        loc = f"segment {i} ({seg.get('type', '?') if isinstance(seg, dict) else '?'})"
+
+        # Unrecognised bracketed tags would be silently dropped by parse_script.
+        for tag in _ANY_TAG.findall(script):
+            if not _KNOWN_TAG.fullmatch(tag):
+                problems.append(f"{loc}: unrecognised tag {tag!r}")
+
+        tokens = parse_script(script)
+        if not tokens:
+            problems.append(f"{loc}: no parseable tokens")
+
+        for token_type, content in tokens:
+            if token_type in ("vi_m", "vi_f", "en") and not content.strip():
+                problems.append(f"{loc}: empty [{token_type.upper()}] tag")
+            if token_type == "en" and _VIETNAMESE_CHARS.search(content):
+                problems.append(
+                    f"{loc}: Vietnamese text inside [EN: ...] -> {content!r}"
+                )
+
+    return problems
 
 # Rhetorical/transitional phrases that get a short 0.5s breath pause after them
 # rather than no pause at all — makes the audio feel less rushed.
@@ -270,11 +322,12 @@ def process_day(
     if lesson_json_path.exists():
         print(f"  [{lesson_id}] Found existing lesson.json — skipping Claude.")
         raw_json = json.loads(lesson_json_path.read_text())
+        freshly_generated = False
     else:
         print(f"  [{lesson_id}] Generating lesson script via Claude...")
         day_cfg = get_day_config(level, day)
         review_ids = vocab_db.due_on_day(level, day)
- 
+
         raw_json = generate_lesson_json(
             client=anthropic_client,
             level=level,
@@ -284,7 +337,20 @@ def process_day(
             scene=day_cfg["scene"],
             vocab_db=vocab_db,
         )
- 
+        freshly_generated = True
+
+    # Validate before spending ElevenLabs credits (and before polluting the
+    # vocab DB / caching a broken lesson.json).
+    problems = validate_lesson(raw_json)
+    if problems:
+        print(f"  [{lesson_id}] ✗ Lesson failed validation — not saving:")
+        for p in problems:
+            print(f"      - {p}")
+        if freshly_generated:
+            print(f"  [{lesson_id}] Re-run to regenerate.")
+        return
+
+    if freshly_generated:
         # Register new vocab in the DB
         for v in raw_json.get("vocab", []):
             vid = vocab_db.next_id()
@@ -297,12 +363,12 @@ def process_day(
                 day_introduced=day,
             )
             vocab_db.add(item)
- 
+
         lesson_json_path.write_text(json.dumps(raw_json, ensure_ascii=False, indent=2))
         print(f"  [{lesson_id}] Lesson JSON saved → {lesson_json_path}")
 
     if dry_run:
-        print(f"  [{lesson_id}] Dry-run: skipping TTS + audio stitching.")
+        print(f"  [{lesson_id}] ✓ Valid. Dry-run: skipping TTS + audio stitching.")
         return
 
     # Build audio via ElevenLabs

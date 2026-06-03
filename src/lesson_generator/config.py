@@ -60,7 +60,7 @@ PAUSE_DURATIONS = {
 }
 
 # Anthropic model used for lesson generation
-CLAUDE_MODEL = "claude-opus-4-6"
+CLAUDE_MODEL = "claude-opus-4-8"
 
 # ---------------------------------------------------------------------------
 # Lesson generation via Claude
