@@ -5,11 +5,7 @@
     "en": "hello",
     "ipa": "/sin˧ t͡ɕaːw˨˩/",
     "level": 1,
-    "day_introduced": 1,
-    "ease_factor": 2.5,
-    "interval_days": 1,
-    "repetitions": 0,
-    "next_review": "2026-04-28"
+    "day_introduced": 1
   },
   "v002": {
     "id": "v002",
@@ -17,11 +13,7 @@
     "en": "thank you",
     "ipa": "/kaːm˧˩˧ əːn˧/",
     "level": 1,
-    "day_introduced": 1,
-    "ease_factor": 2.5,
-    "interval_days": 1,
-    "repetitions": 0,
-    "next_review": "2026-04-28"
+    "day_introduced": 1
   },
   "v003": {
     "id": "v003",
@@ -29,10 +21,6 @@
     "en": "how much",
     "ipa": "/ɓaːw˧ ɲiəw˧/",
     "level": 1,
-    "day_introduced": 1,
-    "ease_factor": 2.5,
-    "interval_days": 1,
-    "repetitions": 0,
-    "next_review": "2026-04-28"
+    "day_introduced": 1
   }
 }

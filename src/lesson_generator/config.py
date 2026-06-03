@@ -33,6 +33,25 @@ ELEVENLABS_VOICE_SETTINGS_VI = VoiceSettings(
     use_speaker_boost=True,
 )
 
+# ---------------------------------------------------------------------------
+# Spaced repetition (deterministic, lesson-day based)
+# ---------------------------------------------------------------------------
+# Lessons are generated as static MP3s, so there is no learner-grading loop.
+# Instead of calendar-date SM-2, reviews are scheduled by *lesson-day index*:
+# a word introduced on absolute day N is reviewed on days N + offset.
+SRS_REVIEW_OFFSETS = [1, 3, 7, 16, 35]
+
+# Days per level — used to turn (level, day) into a continuous absolute day
+# index so review scheduling carries across level boundaries
+# (e.g. L2-D1 follows L1-D30).
+DAYS_PER_LEVEL = 30
+
+
+def absolute_day(level: int, day: int) -> int:
+    """Continuous day index across levels. L1-D1 -> 1, L2-D1 -> DAYS_PER_LEVEL+1."""
+    return (level - 1) * DAYS_PER_LEVEL + day
+
+
 # Silence durations (milliseconds) used between segments
 PAUSE_DURATIONS = {
     "short":  1500,   # between prompt and repeat

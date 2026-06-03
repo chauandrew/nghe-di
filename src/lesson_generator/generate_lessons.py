@@ -138,7 +138,7 @@ def parse_script(script: str) -> list[tuple[str, str]]:
     """
     tokens = []
     pattern = re.compile(
-        r'\[VI_F:\s*(.*?)\]|\[VI_M:\s*(.*?)\]|\[VI:\s*(.*?)\]|\[EN:\s*(.*?)\]|\[PAUSE\s*(\d+)s\]',
+        r'\[VI_F:\s*(.*?)\]|\[VI_M:\s*(.*?)\]|\[VI:\s*(.*?)\]|\[EN:\s*(.*?)\]|\[PAUSE\s*(\d+(?:\.\d+)?)s\]',
         re.IGNORECASE
     )
     for m in pattern.finditer(script):
@@ -192,7 +192,7 @@ def build_audio(
  
         for token_type, content in tokens:
             if token_type == "pause":
-                base_ms = int(content) * 1000
+                base_ms = int(float(content) * 1000)
  
                 # Reduce pause for familiar phrases — if the preceding VI token
                 # has already appeared 2+ times, the learner is warming up to it.
@@ -273,7 +273,7 @@ def process_day(
     else:
         print(f"  [{lesson_id}] Generating lesson script via Claude...")
         day_cfg = get_day_config(level, day)
-        review_ids = vocab_db.due_today()
+        review_ids = vocab_db.due_on_day(level, day)
  
         raw_json = generate_lesson_json(
             client=anthropic_client,
