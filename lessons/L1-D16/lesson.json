@@ -1,0 +1,31 @@
+{
+  "id": "L1-D16",
+  "title": "Trả giá — Bargaining at the market",
+  "vocab": [
+    {"vi": "đắt quá", "en": "too expensive", "ipa": "/ɗat˧˥ kwaː˧˥/"},
+    {"vi": "giảm giá", "en": "to discount", "ipa": "/jaːm˧˩˧ jaː˧˥/"},
+    {"vi": "được không", "en": "is that okay", "ipa": "/ɗɨək˨˩ʔ xəwŋ˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Are you hungry, to a man?] [PAUSE 4s] [VI: Anh có đói không?] [EN: Where is the restroom?] [PAUSE 4s] [VI: Nhà vệ sinh ở đâu?] [EN: My name is Nam.] [PAUSE 4s] [VI: Tên tôi là Nam.] [EN: What is your name?] [PAUSE 4s] [VI: Bạn tên gì?] [EN: What does this mean?] [VI_F: Phải không?] [PAUSE 3s] [EN: Right?] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: You are bargaining for a souvenir. Listen.] [PAUSE 0.5s] [VI_F: Dạ, một trăm ngàn.] [EN: That is too expensive. Say] [VI_M: Đắt quá!] [EN: This means too expensive. You know] [VI: quá] [EN: too. Both syllables high, rising.] [EN: Say too expensive.] [PAUSE 4s] [VI: Đắt quá!] [EN: Good.] [PAUSE 0.5s] [EN: To ask for a discount, say] [VI_M: Giảm giá.] [VI_M: Giảm] [EN: has a falling, rising tone.] [VI_M: Giá] [EN: has a high, rising tone.] [EN: Say discount.] [PAUSE 4s] [VI: Giảm giá.] [EN: Good.] [PAUSE 0.5s] [EN: To ask is that okay, say] [VI_M: Được không?] [EN: Now, discount, is that okay?] [PAUSE 4s] [VI: Giảm giá, được không?] [EN: A common street version is] [VI: bớt đi] [EN: meaning take a bit off. Say it.] [PAUSE 4s] [VI: Bớt đi.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Too expensive.] [PAUSE 4s] [VI: Đắt quá!] [EN: To discount.] [PAUSE 4s] [VI: Giảm giá.] [EN: Is that okay?] [PAUSE 4s] [VI: Được không?] [EN: Too expensive! Discount, is that okay?] [PAUSE 4s] [VI: Đắt quá! Giảm giá, được không?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Được không?] [PAUSE 3s] [EN: Is that okay.] [EN: What does this mean?] [VI_F: Giảm giá.] [PAUSE 3s] [EN: To discount.] [EN: And ask how much is this.] [PAUSE 4s] [VI: Cái này bao nhiêu?] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, cái này bao nhiêu?] [VI_F: Dạ, một trăm ngàn.] [VI_M: Đắt quá! Giảm giá được không?] [VI_F: Dạ, tám chục thôi.] [PAUSE 0.5s] [EN: Now you try. Say too expensive.] [PAUSE 4s] [VI: Đắt quá!] [EN: Ask for a discount, is that okay?] [PAUSE 4s] [VI: Giảm giá, được không?] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you ask people to slow down. The preview word is] [VI: lại] [EN: which means again.]"
+    }
+  ]
+}

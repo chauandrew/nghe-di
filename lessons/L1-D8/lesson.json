@@ -1,0 +1,32 @@
+{
+  "id": "L1-D8",
+  "title": "Không — Saying no and not",
+  "vocab": [
+    {"vi": "ngon", "en": "delicious", "ipa": "/ŋɔn˧/"},
+    {"vi": "cay", "en": "spicy", "ipa": "/kaj˧/"},
+    {"vi": "quá", "en": "very or too", "ipa": "/kwaː˧˥/"},
+    {"vi": "không phải", "en": "not, that is not so", "ipa": "/xəwŋ˧ faj˨˩ʔ/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Say hello.] [PAUSE 4s] [VI: Xin chào.] [EN: I want a glass of coffee.] [PAUSE 4s] [VI: Tôi muốn một ly cà phê.] [EN: This one.] [PAUSE 4s] [VI: Cái này.] [EN: Water.] [PAUSE 4s] [VI: Nước.] [EN: What does this mean?] [VI_F: Dạ.] [PAUSE 3s] [EN: A polite yes.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: To make a word negative, put] [VI: không] [EN: in front of it. First, two new words. Delicious is] [VI_F: Ngon.] [EN: flat tone.] [EN: Say delicious.] [PAUSE 4s] [VI: Ngon.] [EN: Now make it negative: not delicious.] [VI_F: Không ngon.] [EN: Say not delicious.] [PAUSE 4s] [VI: Không ngon.] [EN: Good. The rule works on any word. Not want.] [PAUSE 4s] [VI: Không muốn.] [EN: Good.] [PAUSE 0.5s] [EN: Spicy is] [VI_F: Cay.] [EN: To say very or too, add] [VI: quá] [EN: after. Too spicy.] [VI_F: Cay quá!] [EN: Say too spicy.] [PAUSE 4s] [VI: Cay quá!] [EN: Very delicious.] [PAUSE 4s] [VI: Ngon quá!] [EN: Good.] [PAUSE 0.5s] [EN: To say no, that is not it, use] [VI_F: Không phải.] [EN: Say it.] [PAUSE 4s] [VI: Không phải.] [EN: For example, no, I want coffee.] [PAUSE 4s] [VI: Không phải, tôi muốn cà phê.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 185,
+      "script": "[EN: Drill the negative. Delicious.] [PAUSE 4s] [VI: Ngon.] [EN: Not delicious.] [PAUSE 4s] [VI: Không ngon.] [EN: I want.] [PAUSE 4s] [VI: Tôi muốn.] [EN: I do not want.] [PAUSE 4s] [VI: Tôi không muốn.] [EN: Too spicy!] [PAUSE 4s] [VI: Cay quá!] [EN: No, that is not it.] [PAUSE 4s] [VI: Không phải.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Không ngon.] [PAUSE 3s] [EN: Not delicious.] [EN: What does this mean?] [VI_F: Quá.] [PAUSE 3s] [EN: Very, or too.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Ngon không anh?] [VI_M: Ngon quá! Nhưng cay quá.] [EN: He said] [VI: nhưng] [EN: which means but.] [VI_F: Dạ, cay hả.] [PAUSE 0.5s] [EN: Now you try. Say very delicious.] [PAUSE 4s] [VI: Ngon quá!] [EN: Say not delicious.] [PAUSE 4s] [VI: Không ngon.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn to ask yes or no questions. The preview word is] [VI: có] [EN: which means to have, or yes.]"
+    }
+  ]
+}

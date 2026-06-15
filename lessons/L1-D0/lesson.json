@@ -1,0 +1,32 @@
+{
+  "id": "L1-D0",
+  "title": "Phát âm — Pronunciation primer: vowels and tones",
+  "vocab": [],
+  "segments": [
+    {
+      "type": "dialogue",
+      "duration_s": 170,
+      "script": "[EN: Welcome to Nghe Di. Before the lessons, a short guide to the sounds. We will group the vowels by the shape of your mouth.] [PAUSE 0.5s] [EN: Group one is rounded. Round your lips. Listen.] [VI_F: u] [EN: like the oo in food.] [PAUSE 0.5s] [VI_F: ô] [EN: like the o in go.] [PAUSE 0.5s] [VI_F: o] [EN: like the aw in saw.] [EN: Round your lips and repeat.] [PAUSE 4s] [VI: u] [PAUSE 0.5s] [VI: ô] [PAUSE 0.5s] [VI: o] [EN: Good.] [PAUSE 0.5s] [EN: Group two is neutral. Keep your lips relaxed, not rounded. This group is the hard one for English speakers.] [VI_F: ư] [EN: It is like the oo in food, but with your lips relaxed, not rounded.] [PAUSE 0.5s] [VI_F: ơ] [EN: like the u in fur.] [PAUSE 0.5s] [VI_F: â] [EN: the same sound, but short.] [EN: Relax your lips and repeat.] [PAUSE 4s] [VI: ư] [PAUSE 0.5s] [VI: ơ] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 120,
+      "script": "[EN: Group three is front. Spread your lips into a smile, tongue forward. Listen.] [VI_F: i] [EN: like the ee in see.] [PAUSE 0.5s] [VI_F: ê] [EN: like the ay in say.] [PAUSE 0.5s] [VI_F: e] [EN: like the e in bed.] [EN: Smile and repeat.] [PAUSE 4s] [VI: i] [PAUSE 0.5s] [VI: ê] [PAUSE 0.5s] [VI: e] [EN: Good. Three mouth shapes — rounded, relaxed, and smiling.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 150,
+      "script": "[EN: Now the contrast that matters most: rounded versus relaxed. Round your lips —] [VI_F: u] [EN: now relax them —] [VI_F: ư] [EN: Again. Rounded —] [VI_F: u] [EN: relaxed —] [VI_F: ư] [EN: You try. Rounded —] [PAUSE 3s] [VI: u] [EN: relaxed —] [PAUSE 3s] [VI: ư] [PAUSE 0.5s] [EN: One more pair, in real words.] [VI_F: cô] [EN: means aunt, with rounded lips.] [PAUSE 0.5s] [VI_F: cơ] [EN: relaxed lips. Repeat the pair.] [PAUSE 4s] [VI: cô] [PAUSE 0.5s] [VI: cơ] [EN: If you can hear and make that difference, the rest will come.]"
+    },
+    {
+      "type": "recall",
+      "duration_s": 150,
+      "script": "[EN: Now the tones. Southern Vietnamese has six. The same sound, a different pitch, a different meaning. Listen to one sound through all six.] [PAUSE 0.5s] [VI_F: ma] [EN: a flat tone.] [PAUSE 0.5s] [VI_F: mà] [EN: a falling tone.] [PAUSE 0.5s] [VI_F: má] [EN: a high, rising tone.] [PAUSE 0.5s] [VI_F: mả] [EN: a falling, rising tone.] [PAUSE 0.5s] [VI_F: mã] [EN: a broken, rising tone.] [PAUSE 0.5s] [VI_F: mạ] [EN: a falling, broken tone.] [EN: Now you. A flat tone —] [PAUSE 3s] [VI: ma] [EN: a falling tone —] [PAUSE 3s] [VI: mà] [EN: a high, rising tone —] [PAUSE 3s] [VI: má] [EN: Good. Each lesson will remind you of a word's tone as you learn it.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 90,
+      "script": "[EN: That is enough to begin. Remember three mouth shapes — rounded, relaxed, and smiling — and six tones. Do not aim for perfection now; your ear will sharpen with every lesson.] [PAUSE 0.5s] [EN: Let us start. Lesson one is greetings.] [VI_F: Xin chào!]"
+    }
+  ]
+}

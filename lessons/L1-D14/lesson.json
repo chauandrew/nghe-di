@@ -1,0 +1,31 @@
+{
+  "id": "L1-D14",
+  "title": "Đi xe ôm — Taking a motorbike taxi",
+  "vocab": [
+    {"vi": "đi", "en": "to go", "ipa": "/ɗi˧/"},
+    {"vi": "Bến Thành", "en": "Ben Thanh, a market", "ipa": "/ɓen˧˥ tʰaːɲ˨˩/"},
+    {"vi": "bao lâu", "en": "how long", "ipa": "/ɓaːw˧ ləw˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: I want a glass of coffee.] [PAUSE 4s] [VI: Tôi muốn một ly cà phê.] [EN: Less ice.] [PAUSE 4s] [VI: Ít đá.] [EN: Where is the restroom?] [PAUSE 4s] [VI: Nhà vệ sinh ở đâu?] [EN: Water.] [PAUSE 4s] [VI: Nước.] [EN: What does this mean?] [VI_F: Bên phải.] [PAUSE 3s] [EN: On the right.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: You hire a motorbike taxi. Listen.] [PAUSE 0.5s] [VI_M: Anh ơi, đi Bến Thành.] [EN: To go is] [VI_F: Đi.] [EN: flat tone.] [EN: Say to go.] [PAUSE 4s] [VI: Đi.] [EN: Good.] [PAUSE 0.5s] [EN: Your destination, a famous market.] [VI_F: Bến Thành.] [VI_F: Bến] [EN: has a high, rising tone.] [VI_F: Thành] [EN: has a falling tone.] [EN: Tell the driver, go to the market.] [PAUSE 4s] [VI: Đi Bến Thành.] [EN: Good.] [PAUSE 0.5s] [EN: To ask how long, say] [VI_F: Bao lâu?] [EN: both syllables flat.] [EN: Ask how long.] [PAUSE 4s] [VI: Bao lâu?] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. To go.] [PAUSE 4s] [VI: Đi.] [EN: How long?] [PAUSE 4s] [VI: Bao lâu?] [EN: Go to the market.] [PAUSE 4s] [VI: Đi Bến Thành.] [EN: How much?] [PAUSE 4s] [VI: Bao nhiêu?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Bao lâu?] [PAUSE 3s] [EN: How long.] [EN: What does this mean?] [VI_F: Đi.] [PAUSE 3s] [EN: To go.] [EN: And more ice.] [PAUSE 4s] [VI: Thêm đá.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Anh ơi, đi Bến Thành. Bao nhiêu?] [VI_F: Dạ, bốn chục ngàn.] [VI_M: Bao lâu?] [VI_F: Dạ, mười lăm phút.] [EN: She said] [VI: phút] [EN: which means minute.] [PAUSE 0.5s] [EN: Now you try. Tell the driver to go to the market, ask how much.] [PAUSE 4s] [VI: Đi Bến Thành. Bao nhiêu?] [EN: Ask how long.] [PAUSE 4s] [VI: Bao lâu?] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you introduce yourself. The preview phrase is] [VI: tên tôi là] [EN: which means my name is.]"
+    }
+  ]
+}

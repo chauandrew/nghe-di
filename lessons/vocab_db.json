@@ -17,10 +17,738 @@
   },
   "v003": {
     "id": "v003",
+    "vi": "dạ",
+    "en": "polite yes or soft opener",
+    "ipa": "/jaː˨˩ʔ/",
+    "level": 1,
+    "day_introduced": 1
+  },
+  "v004": {
+    "id": "v004",
+    "vi": "anh",
+    "en": "you or I, an older man",
+    "ipa": "/aɲ˧/",
+    "level": 1,
+    "day_introduced": 2
+  },
+  "v005": {
+    "id": "v005",
+    "vi": "chị",
+    "en": "you or I, an older woman",
+    "ipa": "/t͡ɕi˨˩ʔ/",
+    "level": 1,
+    "day_introduced": 2
+  },
+  "v006": {
+    "id": "v006",
+    "vi": "em",
+    "en": "you or I, a younger person",
+    "ipa": "/ɛm˧/",
+    "level": 1,
+    "day_introduced": 2
+  },
+  "v007": {
+    "id": "v007",
     "vi": "bao nhiêu",
     "en": "how much",
     "ipa": "/ɓaːw˧ ɲiəw˧/",
     "level": 1,
-    "day_introduced": 1
+    "day_introduced": 3
+  },
+  "v008": {
+    "id": "v008",
+    "vi": "một",
+    "en": "one",
+    "ipa": "/moˀt̚˨˩ʔ/",
+    "level": 1,
+    "day_introduced": 3
+  },
+  "v009": {
+    "id": "v009",
+    "vi": "hai",
+    "en": "two",
+    "ipa": "/haːj˧/",
+    "level": 1,
+    "day_introduced": 3
+  },
+  "v010": {
+    "id": "v010",
+    "vi": "ba",
+    "en": "three",
+    "ipa": "/ɓaː˧/",
+    "level": 1,
+    "day_introduced": 3
+  },
+  "v011": {
+    "id": "v011",
+    "vi": "bốn",
+    "en": "four",
+    "ipa": "/ɓon˧˥/",
+    "level": 1,
+    "day_introduced": 4
+  },
+  "v012": {
+    "id": "v012",
+    "vi": "năm",
+    "en": "five",
+    "ipa": "/nam˧/",
+    "level": 1,
+    "day_introduced": 4
+  },
+  "v013": {
+    "id": "v013",
+    "vi": "mười",
+    "en": "ten",
+    "ipa": "/mɨəj˨˩/",
+    "level": 1,
+    "day_introduced": 4
+  },
+  "v014": {
+    "id": "v014",
+    "vi": "cái",
+    "en": "generic measure word for things",
+    "ipa": "/kaːj˧˥/",
+    "level": 1,
+    "day_introduced": 5
+  },
+  "v015": {
+    "id": "v015",
+    "vi": "ly",
+    "en": "glass (measure word)",
+    "ipa": "/li˧/",
+    "level": 1,
+    "day_introduced": 5
+  },
+  "v016": {
+    "id": "v016",
+    "vi": "chai",
+    "en": "bottle (measure word)",
+    "ipa": "/t͡ɕaːj˧/",
+    "level": 1,
+    "day_introduced": 5
+  },
+  "v017": {
+    "id": "v017",
+    "vi": "tô",
+    "en": "bowl (measure word)",
+    "ipa": "/to˧/",
+    "level": 1,
+    "day_introduced": 5
+  },
+  "v018": {
+    "id": "v018",
+    "vi": "ổ",
+    "en": "loaf (measure word)",
+    "ipa": "/o˧˩˧/",
+    "level": 1,
+    "day_introduced": 5
+  },
+  "v019": {
+    "id": "v019",
+    "vi": "người",
+    "en": "person (measure word)",
+    "ipa": "/ŋɨəj˨˩/",
+    "level": 1,
+    "day_introduced": 5
+  },
+  "v020": {
+    "id": "v020",
+    "vi": "này",
+    "en": "this",
+    "ipa": "/naj˨˩/",
+    "level": 1,
+    "day_introduced": 5
+  },
+  "v021": {
+    "id": "v021",
+    "vi": "đó",
+    "en": "that",
+    "ipa": "/ɗɔ˧˥/",
+    "level": 1,
+    "day_introduced": 5
+  },
+  "v022": {
+    "id": "v022",
+    "vi": "chục",
+    "en": "a unit of ten",
+    "ipa": "/t͡ɕuk˨˩ʔ/",
+    "level": 1,
+    "day_introduced": 6
+  },
+  "v023": {
+    "id": "v023",
+    "vi": "trăm",
+    "en": "hundred",
+    "ipa": "/ʈam˧/",
+    "level": 1,
+    "day_introduced": 6
+  },
+  "v024": {
+    "id": "v024",
+    "vi": "ngàn",
+    "en": "thousand",
+    "ipa": "/ŋaːn˨˩/",
+    "level": 1,
+    "day_introduced": 6
+  },
+  "v025": {
+    "id": "v025",
+    "vi": "tôi muốn",
+    "en": "I want",
+    "ipa": "/toj˧ muə̆n˧˥/",
+    "level": 1,
+    "day_introduced": 7
+  },
+  "v026": {
+    "id": "v026",
+    "vi": "cà phê",
+    "en": "coffee",
+    "ipa": "/kaː˨˩ fe˧/",
+    "level": 1,
+    "day_introduced": 7
+  },
+  "v027": {
+    "id": "v027",
+    "vi": "nước",
+    "en": "water",
+    "ipa": "/nɨək˧˥/",
+    "level": 1,
+    "day_introduced": 7
+  },
+  "v028": {
+    "id": "v028",
+    "vi": "ngon",
+    "en": "delicious",
+    "ipa": "/ŋɔn˧/",
+    "level": 1,
+    "day_introduced": 8
+  },
+  "v029": {
+    "id": "v029",
+    "vi": "cay",
+    "en": "spicy",
+    "ipa": "/kaj˧/",
+    "level": 1,
+    "day_introduced": 8
+  },
+  "v030": {
+    "id": "v030",
+    "vi": "quá",
+    "en": "very or too",
+    "ipa": "/kwaː˧˥/",
+    "level": 1,
+    "day_introduced": 8
+  },
+  "v031": {
+    "id": "v031",
+    "vi": "không phải",
+    "en": "not, that is not so",
+    "ipa": "/xəwŋ˧ faj˨˩ʔ/",
+    "level": 1,
+    "day_introduced": 8
+  },
+  "v032": {
+    "id": "v032",
+    "vi": "có",
+    "en": "to have, there is, yes",
+    "ipa": "/kɔ˧˥/",
+    "level": 1,
+    "day_introduced": 9
+  },
+  "v033": {
+    "id": "v033",
+    "vi": "đói",
+    "en": "hungry",
+    "ipa": "/ɗɔj˧˥/",
+    "level": 1,
+    "day_introduced": 9
+  },
+  "v034": {
+    "id": "v034",
+    "vi": "phải không",
+    "en": "right? (tag question)",
+    "ipa": "/faj˨˩ʔ xəwŋ˧/",
+    "level": 1,
+    "day_introduced": 9
+  },
+  "v035": {
+    "id": "v035",
+    "vi": "ăn",
+    "en": "to eat",
+    "ipa": "/an˧/",
+    "level": 1,
+    "day_introduced": 10
+  },
+  "v036": {
+    "id": "v036",
+    "vi": "rồi",
+    "en": "already, done",
+    "ipa": "/zoj˨˩/",
+    "level": 1,
+    "day_introduced": 10
+  },
+  "v037": {
+    "id": "v037",
+    "vi": "chưa",
+    "en": "not yet; yet?",
+    "ipa": "/t͡ɕɨə˧/",
+    "level": 1,
+    "day_introduced": 10
+  },
+  "v038": {
+    "id": "v038",
+    "vi": "thêm",
+    "en": "more",
+    "ipa": "/tʰem˧/",
+    "level": 1,
+    "day_introduced": 11
+  },
+  "v039": {
+    "id": "v039",
+    "vi": "ít",
+    "en": "less, a little",
+    "ipa": "/it˧˥/",
+    "level": 1,
+    "day_introduced": 11
+  },
+  "v040": {
+    "id": "v040",
+    "vi": "đá",
+    "en": "ice",
+    "ipa": "/ɗaː˧˥/",
+    "level": 1,
+    "day_introduced": 11
+  },
+  "v041": {
+    "id": "v041",
+    "vi": "thích",
+    "en": "to like",
+    "ipa": "/tʰik˧˥/",
+    "level": 1,
+    "day_introduced": 12
+  },
+  "v042": {
+    "id": "v042",
+    "vi": "đường",
+    "en": "sugar",
+    "ipa": "/ɗɨəŋ˨˩/",
+    "level": 1,
+    "day_introduced": 12
+  },
+  "v043": {
+    "id": "v043",
+    "vi": "ở đâu",
+    "en": "where",
+    "ipa": "/əː˧˩˧ ɗəw˧/",
+    "level": 1,
+    "day_introduced": 13
+  },
+  "v044": {
+    "id": "v044",
+    "vi": "nhà vệ sinh",
+    "en": "restroom",
+    "ipa": "/ɲaː˨˩ ve˨˩ʔ siŋ˧/",
+    "level": 1,
+    "day_introduced": 13
+  },
+  "v045": {
+    "id": "v045",
+    "vi": "bên phải",
+    "en": "on the right",
+    "ipa": "/ɓen˧ faj˧˩˧/",
+    "level": 1,
+    "day_introduced": 13
+  },
+  "v046": {
+    "id": "v046",
+    "vi": "đi",
+    "en": "to go",
+    "ipa": "/ɗi˧/",
+    "level": 1,
+    "day_introduced": 14
+  },
+  "v047": {
+    "id": "v047",
+    "vi": "Bến Thành",
+    "en": "Ben Thanh, a market",
+    "ipa": "/ɓen˧˥ tʰaːɲ˨˩/",
+    "level": 1,
+    "day_introduced": 14
+  },
+  "v048": {
+    "id": "v048",
+    "vi": "bao lâu",
+    "en": "how long",
+    "ipa": "/ɓaːw˧ ləw˧/",
+    "level": 1,
+    "day_introduced": 14
+  },
+  "v049": {
+    "id": "v049",
+    "vi": "tên tôi là",
+    "en": "my name is",
+    "ipa": "/ten˧ toj˧ laː˨˩/",
+    "level": 1,
+    "day_introduced": 15
+  },
+  "v050": {
+    "id": "v050",
+    "vi": "bạn tên gì",
+    "en": "what is your name",
+    "ipa": "/ɓaːn˨˩ʔ ten˧ zi˨˩/",
+    "level": 1,
+    "day_introduced": 15
+  },
+  "v051": {
+    "id": "v051",
+    "vi": "đắt quá",
+    "en": "too expensive",
+    "ipa": "/ɗat˧˥ kwaː˧˥/",
+    "level": 1,
+    "day_introduced": 16
+  },
+  "v052": {
+    "id": "v052",
+    "vi": "giảm giá",
+    "en": "to discount",
+    "ipa": "/jaːm˧˩˧ jaː˧˥/",
+    "level": 1,
+    "day_introduced": 16
+  },
+  "v053": {
+    "id": "v053",
+    "vi": "được không",
+    "en": "is that okay",
+    "ipa": "/ɗɨək˨˩ʔ xəwŋ˧/",
+    "level": 1,
+    "day_introduced": 16
+  },
+  "v054": {
+    "id": "v054",
+    "vi": "tôi không hiểu",
+    "en": "I do not understand",
+    "ipa": "/toj˧ xəwŋ˧ hiəw˧˩˧/",
+    "level": 1,
+    "day_introduced": 17
+  },
+  "v055": {
+    "id": "v055",
+    "vi": "nói chậm hơn",
+    "en": "speak slower",
+    "ipa": "/nɔj˧˥ t͡ɕəm˨˩ʔ həːn˧/",
+    "level": 1,
+    "day_introduced": 17
+  },
+  "v056": {
+    "id": "v056",
+    "vi": "lại",
+    "en": "again",
+    "ipa": "/laːj˨˩ʔ/",
+    "level": 1,
+    "day_introduced": 17
+  },
+  "v057": {
+    "id": "v057",
+    "vi": "cho tôi",
+    "en": "give me",
+    "ipa": "/t͡ɕɔ˧ toj˧/",
+    "level": 1,
+    "day_introduced": 18
+  },
+  "v058": {
+    "id": "v058",
+    "vi": "hóa đơn",
+    "en": "the bill",
+    "ipa": "/hwaː˧˥ ɗəːn˧/",
+    "level": 1,
+    "day_introduced": 18
+  },
+  "v059": {
+    "id": "v059",
+    "vi": "gọi món",
+    "en": "to order",
+    "ipa": "/ɣɔj˨˩ʔ mɔn˧˥/",
+    "level": 1,
+    "day_introduced": 19
+  },
+  "v060": {
+    "id": "v060",
+    "vi": "lớn",
+    "en": "big",
+    "ipa": "/ləːn˧˥/",
+    "level": 1,
+    "day_introduced": 19
+  },
+  "v061": {
+    "id": "v061",
+    "vi": "phần",
+    "en": "portion, serving (measure word)",
+    "ipa": "/fən˨˩/",
+    "level": 1,
+    "day_introduced": 19
+  },
+  "v062": {
+    "id": "v062",
+    "vi": "hôm nay",
+    "en": "today",
+    "ipa": "/hom˧ naj˧/",
+    "level": 1,
+    "day_introduced": 20
+  },
+  "v063": {
+    "id": "v063",
+    "vi": "ngày mai",
+    "en": "tomorrow",
+    "ipa": "/ŋaj˨˩ maj˧/",
+    "level": 1,
+    "day_introduced": 20
+  },
+  "v064": {
+    "id": "v064",
+    "vi": "hôm qua",
+    "en": "yesterday",
+    "ipa": "/hom˧ kwaː˧/",
+    "level": 1,
+    "day_introduced": 20
+  },
+  "v065": {
+    "id": "v065",
+    "vi": "mấy giờ",
+    "en": "what time",
+    "ipa": "/məj˧˥ zəː˨˩/",
+    "level": 1,
+    "day_introduced": 21
+  },
+  "v066": {
+    "id": "v066",
+    "vi": "buổi sáng",
+    "en": "morning",
+    "ipa": "/ɓuəj˧˩˧ saːŋ˧˥/",
+    "level": 1,
+    "day_introduced": 21
+  },
+  "v067": {
+    "id": "v067",
+    "vi": "mở cửa",
+    "en": "to open",
+    "ipa": "/məː˧˩˧ kɨə˧˩˧/",
+    "level": 1,
+    "day_introduced": 21
+  },
+  "v068": {
+    "id": "v068",
+    "vi": "gần",
+    "en": "near",
+    "ipa": "/ɣən˨˩/",
+    "level": 1,
+    "day_introduced": 22
+  },
+  "v069": {
+    "id": "v069",
+    "vi": "xa",
+    "en": "far",
+    "ipa": "/saː˧/",
+    "level": 1,
+    "day_introduced": 22
+  },
+  "v070": {
+    "id": "v070",
+    "vi": "đi bộ",
+    "en": "to walk",
+    "ipa": "/ɗi˧ ɓo˨˩ʔ/",
+    "level": 1,
+    "day_introduced": 22
+  },
+  "v071": {
+    "id": "v071",
+    "vi": "siêu thị",
+    "en": "supermarket",
+    "ipa": "/siəw˧ tʰi˨˩ʔ/",
+    "level": 1,
+    "day_introduced": 23
+  },
+  "v072": {
+    "id": "v072",
+    "vi": "túi ni lông",
+    "en": "plastic bag",
+    "ipa": "/tuj˧˥ ni˧ loŋ˧/",
+    "level": 1,
+    "day_introduced": 23
+  },
+  "v073": {
+    "id": "v073",
+    "vi": "tiền thối",
+    "en": "change",
+    "ipa": "/tiən˨˩ tʰoj˧˥/",
+    "level": 1,
+    "day_introduced": 23
+  },
+  "v074": {
+    "id": "v074",
+    "vi": "anh ơi",
+    "en": "excuse me, to a man",
+    "ipa": "/aɲ˧ əːj˧/",
+    "level": 1,
+    "day_introduced": 24
+  },
+  "v075": {
+    "id": "v075",
+    "vi": "chị ơi",
+    "en": "excuse me, to a woman",
+    "ipa": "/t͡ɕi˨˩ʔ əːj˧/",
+    "level": 1,
+    "day_introduced": 24
+  },
+  "v076": {
+    "id": "v076",
+    "vi": "chờ một chút",
+    "en": "wait a moment",
+    "ipa": "/t͡ɕəː˨˩ moˀt̚˨˩ʔ t͡ɕut˧˥/",
+    "level": 1,
+    "day_introduced": 24
+  },
+  "v077": {
+    "id": "v077",
+    "vi": "hết rồi",
+    "en": "sold out",
+    "ipa": "/het˧˥ zoj˨˩/",
+    "level": 1,
+    "day_introduced": 25
+  },
+  "v078": {
+    "id": "v078",
+    "vi": "còn không",
+    "en": "is there any left",
+    "ipa": "/kɔn˨˩ xəwŋ˧/",
+    "level": 1,
+    "day_introduced": 25
+  },
+  "v079": {
+    "id": "v079",
+    "vi": "loại khác",
+    "en": "another kind",
+    "ipa": "/lwaːj˨˩ʔ xaːk˧˥/",
+    "level": 1,
+    "day_introduced": 25
+  },
+  "v080": {
+    "id": "v080",
+    "vi": "phòng",
+    "en": "room",
+    "ipa": "/fɔŋ˨˩/",
+    "level": 1,
+    "day_introduced": 26
+  },
+  "v081": {
+    "id": "v081",
+    "vi": "còn phòng không",
+    "en": "any rooms available",
+    "ipa": "/kɔn˨˩ fɔŋ˨˩ xəwŋ˧/",
+    "level": 1,
+    "day_introduced": 26
+  },
+  "v082": {
+    "id": "v082",
+    "vi": "một đêm",
+    "en": "one night",
+    "ipa": "/moˀt̚˨˩ʔ ɗem˧/",
+    "level": 1,
+    "day_introduced": 26
+  },
+  "v083": {
+    "id": "v083",
+    "vi": "tôi bị lạc",
+    "en": "I am lost",
+    "ipa": "/toj˧ ɓi˨˩ʔ laːk˨˩ʔ/",
+    "level": 1,
+    "day_introduced": 27
+  },
+  "v084": {
+    "id": "v084",
+    "vi": "đường này",
+    "en": "this street",
+    "ipa": "/ɗɨəŋ˨˩ naj˨˩/",
+    "level": 1,
+    "day_introduced": 27
+  },
+  "v085": {
+    "id": "v085",
+    "vi": "quẹo trái",
+    "en": "turn left",
+    "ipa": "/kwɛw˨˩ʔ ʈaːj˧˥/",
+    "level": 1,
+    "day_introduced": 27
+  },
+  "v086": {
+    "id": "v086",
+    "vi": "tôi cần",
+    "en": "I need",
+    "ipa": "/toj˧ kən˨˩/",
+    "level": 1,
+    "day_introduced": 28
+  },
+  "v087": {
+    "id": "v087",
+    "vi": "thuốc",
+    "en": "medicine",
+    "ipa": "/tʰuək˧˥/",
+    "level": 1,
+    "day_introduced": 28
+  },
+  "v088": {
+    "id": "v088",
+    "vi": "nhà thuốc",
+    "en": "pharmacy",
+    "ipa": "/ɲaː˨˩ tʰuək˧˥/",
+    "level": 1,
+    "day_introduced": 28
+  },
+  "v089": {
+    "id": "v089",
+    "vi": "đặt bàn",
+    "en": "book a table",
+    "ipa": "/ɗat˨˩ʔ ɓaːn˨˩/",
+    "level": 1,
+    "day_introduced": 29
+  },
+  "v090": {
+    "id": "v090",
+    "vi": "mấy người",
+    "en": "how many people",
+    "ipa": "/məj˧˥ ŋɨəj˨˩/",
+    "level": 1,
+    "day_introduced": 29
+  },
+  "v091": {
+    "id": "v091",
+    "vi": "tối nay",
+    "en": "tonight",
+    "ipa": "/toj˧˥ naj˧/",
+    "level": 1,
+    "day_introduced": 29
+  },
+  "v092": {
+    "id": "v092",
+    "vi": "tạm biệt",
+    "en": "goodbye",
+    "ipa": "/taːm˨˩ʔ ɓiət˨˩ʔ/",
+    "level": 1,
+    "day_introduced": 30
+  },
+  "v093": {
+    "id": "v093",
+    "vi": "hẹn gặp lại",
+    "en": "see you again",
+    "ipa": "/hɛn˨˩ʔ ɣap˨˩ʔ laːj˨˩ʔ/",
+    "level": 1,
+    "day_introduced": 30
+  },
+  "v094": {
+    "id": "v094",
+    "vi": "chúc mừng",
+    "en": "congratulations",
+    "ipa": "/t͡ɕuk˧˥ mɨŋ˨˩/",
+    "level": 1,
+    "day_introduced": 30
   }
 }

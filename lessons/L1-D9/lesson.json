@@ -1,0 +1,31 @@
+{
+  "id": "L1-D9",
+  "title": "Có... không? — Asking yes or no questions",
+  "vocab": [
+    {"vi": "có", "en": "to have, there is, yes", "ipa": "/kɔ˧˥/"},
+    {"vi": "đói", "en": "hungry", "ipa": "/ɗɔj˧˥/"},
+    {"vi": "phải không", "en": "right? (tag question)", "ipa": "/faj˨˩ʔ xəwŋ˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Address an older woman.] [PAUSE 4s] [VI: Chị.] [EN: Hundred.] [PAUSE 4s] [VI: Trăm.] [EN: Very delicious!] [PAUSE 4s] [VI: Ngon quá!] [EN: Not delicious.] [PAUSE 4s] [VI: Không ngon.] [EN: What does this mean?] [VI_F: Không phải.] [PAUSE 3s] [EN: No, that is not so.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 190,
+      "script": "[EN: To turn a statement into a yes or no question, add] [VI: không] [EN: at the end. Delicious — is it delicious?] [VI_F: Ngon không?] [EN: Ask, is it delicious?] [PAUSE 4s] [VI: Ngon không?] [EN: Good. Answer yes with] [VI: có] [EN: or no with] [VI: không] [EN: Yes.] [VI_F: Có.] [EN: It also means to have, or there is. It has a high, rising tone.] [EN: Say yes.] [PAUSE 4s] [VI: Có.] [EN: Good.] [PAUSE 0.5s] [EN: To ask is there, or do you have, use] [VI: có] [EN: before and] [VI: không] [EN: after. Is there coffee?] [VI_F: Có cà phê không?] [EN: Ask, is there coffee?] [PAUSE 4s] [VI: Có cà phê không?] [EN: Good.] [PAUSE 0.5s] [EN: Hungry is] [VI_F: Đói.] [EN: round your lips a little. Are you hungry?] [VI_F: Anh có đói không?] [EN: Ask an older man if he is hungry.] [PAUSE 4s] [VI: Anh có đói không?] [EN: Good.] [PAUSE 0.5s] [EN: For a quick, right? tag, add] [VI_F: phải không?] [EN: This one is coffee, right?] [PAUSE 4s] [VI: Cái này cà phê, phải không?] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 185,
+      "script": "[EN: Drill. Is it delicious?] [PAUSE 4s] [VI: Ngon không?] [EN: Is there water?] [PAUSE 4s] [VI: Có nước không?] [EN: Are you hungry?] [PAUSE 4s] [VI: Anh có đói không?] [EN: Answer yes.] [PAUSE 4s] [VI: Có.] [EN: Answer no.] [PAUSE 4s] [VI: Không.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Có cà phê không?] [PAUSE 3s] [EN: Is there coffee?] [EN: What does this mean?] [VI_F: Phải không?] [PAUSE 3s] [EN: Right?] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, có cà phê không?] [VI_F: Dạ có. Anh muốn mấy ly?] [VI_M: Hai ly. Cảm ơn chị.] [PAUSE 0.5s] [EN: Now you try. Ask, is there water?] [PAUSE 4s] [VI: Có nước không?] [EN: Ask an older man if he is hungry.] [PAUSE 4s] [VI: Anh có đói không?] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you ask if something is done yet. The preview word is] [VI: chưa] [EN: which means yet.]"
+    }
+  ]
+}

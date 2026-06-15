@@ -1,0 +1,31 @@
+{
+  "id": "L1-D11",
+  "title": "Thêm, ít, đá — Customizing your order",
+  "vocab": [
+    {"vi": "thêm", "en": "more", "ipa": "/tʰem˧/"},
+    {"vi": "ít", "en": "less, a little", "ipa": "/it˧˥/"},
+    {"vi": "đá", "en": "ice", "ipa": "/ɗaː˧˥/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Five.] [PAUSE 4s] [VI: Năm.] [EN: Very delicious!] [PAUSE 4s] [VI: Ngon quá!] [EN: Have you eaten yet?] [PAUSE 4s] [VI: Anh ăn chưa?] [EN: Answer, already.] [PAUSE 4s] [VI: Rồi.] [EN: What does this mean?] [VI_F: Chưa.] [PAUSE 3s] [EN: Not yet.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: Now adjust an order. More is] [VI_F: Thêm.] [EN: flat tone.] [EN: Say more.] [PAUSE 4s] [VI: Thêm.] [EN: Less, or a little, is] [VI_F: Ít.] [EN: high, rising tone.] [EN: Say less.] [PAUSE 4s] [VI: Ít.] [EN: Ice is] [VI_F: Đá.] [EN: Say ice.] [PAUSE 4s] [VI: Đá.] [EN: Good.] [PAUSE 0.5s] [EN: Combine them. More ice.] [PAUSE 4s] [VI: Thêm đá.] [EN: Less ice.] [PAUSE 4s] [VI: Ít đá.] [EN: And using] [VI: không] [EN: from before, no ice.] [PAUSE 4s] [VI: Không đá.] [EN: Good.] [PAUSE 0.5s] [EN: To soften a request into a gentle suggestion, add] [VI: đi] [EN: at the end. Add a bit more.] [VI_F: Thêm đi.] [EN: Say add a bit more.] [PAUSE 4s] [VI: Thêm đi.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 185,
+      "script": "[EN: Drill. More.] [PAUSE 4s] [VI: Thêm.] [EN: Less ice.] [PAUSE 4s] [VI: Ít đá.] [EN: No ice.] [PAUSE 4s] [VI: Không đá.] [EN: Give me more coffee.] [PAUSE 4s] [VI: Cho tôi thêm cà phê.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Ít đá.] [PAUSE 3s] [EN: Less ice.] [EN: What does this mean?] [VI_F: Thêm.] [PAUSE 3s] [EN: More.] [EN: And from before, no, that is not so.] [PAUSE 4s] [VI: Không phải.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạ, anh muốn gì?] [VI_M: Một ly cà phê, ít đá.] [VI_F: Dạ. Thêm đá không anh?] [VI_M: Dạ không, ít đá thôi.] [PAUSE 0.5s] [EN: Now you try. Say, one glass of coffee, less ice.] [PAUSE 4s] [VI: Một ly cà phê, ít đá.] [EN: Say, no ice.] [PAUSE 4s] [VI: Không đá.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you say what you like. The preview word is] [VI: thích] [EN: which means to like.]"
+    }
+  ]
+}

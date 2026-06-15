@@ -1,0 +1,31 @@
+{
+  "id": "L1-D19",
+  "title": "Gọi món — Ordering food",
+  "vocab": [
+    {"vi": "gọi món", "en": "to order", "ipa": "/ɣɔj˨˩ʔ mɔn˧˥/"},
+    {"vi": "lớn", "en": "big", "ipa": "/ləːn˧˥/"},
+    {"vi": "phần", "en": "portion, serving (measure word)", "ipa": "/fən˨˩/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: How much?] [PAUSE 4s] [VI: Bao nhiêu?] [EN: I like, no sugar.] [PAUSE 4s] [VI: Tôi thích, không đường.] [EN: Give me the bill.] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [EN: To discount.] [PAUSE 4s] [VI: Giảm giá.] [EN: What does this mean?] [VI_F: Được không?] [PAUSE 3s] [EN: Is that okay.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: You sit down to order. Listen.] [PAUSE 0.5s] [VI_F: Dạ, anh gọi món chưa?] [EN: To order is] [VI_M: Gọi món.] [VI_M: Gọi] [EN: has a falling, broken tone.] [VI_M: Món] [EN: has a high, rising tone.] [EN: Say to order.] [PAUSE 4s] [VI: Gọi món.] [EN: Good.] [PAUSE 0.5s] [EN: Big is] [VI_F: Lớn.] [EN: high, rising tone; relax your lips for this vowel.] [EN: A big bowl, using the bowl measure word.] [PAUSE 4s] [VI: Tô lớn.] [EN: Good.] [PAUSE 0.5s] [EN: A portion or serving is] [VI_F: Phần.] [EN: it works like a measure word. One portion.] [PAUSE 4s] [VI: Một phần.] [EN: Now order: give me one big bowl.] [PAUSE 4s] [VI: Cho tôi một tô lớn.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. To order.] [PAUSE 4s] [VI: Gọi món.] [EN: A big bowl.] [PAUSE 4s] [VI: Tô lớn.] [EN: One portion.] [PAUSE 4s] [VI: Một phần.] [EN: Give me two portions.] [PAUSE 4s] [VI: Cho tôi hai phần.] [EN: Give me one big bowl, less ice.] [PAUSE 4s] [VI: Cho tôi một tô lớn, ít đá.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Tô lớn.] [PAUSE 3s] [EN: A big bowl.] [EN: What does this mean?] [VI_F: Một phần.] [PAUSE 3s] [EN: One portion.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạ, anh gọi món chưa?] [VI_M: Cho tôi một tô lớn, hai phần.] [VI_F: Dạ, có liền.] [EN: She said] [VI: có liền] [EN: meaning, coming right up.] [VI_M: Cảm ơn chị.] [PAUSE 0.5s] [EN: Now you try. Order one big bowl.] [PAUSE 4s] [VI: Cho tôi một tô lớn.] [EN: Order two portions.] [PAUSE 4s] [VI: Cho tôi hai phần.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you talk about days. The preview word is] [VI: hôm nay] [EN: which means today.]"
+    }
+  ]
+}

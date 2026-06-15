@@ -1,0 +1,31 @@
+{
+  "id": "L1-D28",
+  "title": "Nhà thuốc — Finding medicine",
+  "vocab": [
+    {"vi": "tôi cần", "en": "I need", "ipa": "/toj˧ kən˨˩/"},
+    {"vi": "thuốc", "en": "medicine", "ipa": "/tʰuək˧˥/"},
+    {"vi": "nhà thuốc", "en": "pharmacy", "ipa": "/ɲaː˨˩ tʰuək˧˥/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: I like, no sugar.] [PAUSE 4s] [VI: Tôi thích, không đường.] [EN: What time?] [PAUSE 4s] [VI: Mấy giờ?] [EN: Sold out.] [PAUSE 4s] [VI: Hết rồi.] [EN: I am lost.] [PAUSE 4s] [VI: Tôi bị lạc.] [EN: What does this mean?] [VI_F: Quẹo trái.] [PAUSE 3s] [EN: Turn left.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: You feel sick and look for medicine. Listen.] [PAUSE 0.5s] [VI_F: Dạ, anh muốn gì?] [EN: To say I need, say] [VI_M: Tôi cần.] [VI_M: Cần] [EN: has a falling tone; relax your lips for this vowel.] [EN: Say I need.] [PAUSE 4s] [VI: Tôi cần.] [EN: Medicine is] [VI_F: Thuốc.] [EN: high, rising tone, rounded lips.] [EN: Now say, I need medicine.] [PAUSE 4s] [VI: Tôi cần thuốc.] [EN: A pharmacy is] [VI_F: Nhà thuốc.] [EN: Now ask, where is the pharmacy?] [PAUSE 4s] [VI: Nhà thuốc ở đâu?] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. I need.] [PAUSE 4s] [VI: Tôi cần.] [EN: Medicine.] [PAUSE 4s] [VI: Thuốc.] [EN: Pharmacy.] [PAUSE 4s] [VI: Nhà thuốc.] [EN: I need medicine. Where is the pharmacy?] [PAUSE 4s] [VI: Tôi cần thuốc. Nhà thuốc ở đâu?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Thuốc.] [PAUSE 3s] [EN: Medicine.] [EN: What does this mean?] [VI_F: Tôi cần.] [PAUSE 3s] [EN: I need.] [EN: And, is there medicine?] [PAUSE 4s] [VI: Có thuốc không?] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, nhà thuốc ở đâu?] [VI_F: Dạ, quẹo trái, gần lắm.] [VI_M: Tôi cần thuốc.] [VI_F: Dạ, anh đi thẳng nha.] [EN: She said] [VI: đi thẳng] [EN: which means go straight.] [PAUSE 0.5s] [EN: Now you try. Say I need medicine.] [PAUSE 4s] [VI: Tôi cần thuốc.] [EN: Ask where the pharmacy is.] [PAUSE 4s] [VI: Nhà thuốc ở đâu?] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you book a table. The preview phrase is] [VI: đặt bàn] [EN: which means book a table.]"
+    }
+  ]
+}

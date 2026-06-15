@@ -1,43 +1,31 @@
 {
   "id": "L1-D1",
-  "title": "Greeting a vendor and asking the price",
+  "title": "Chào hỏi — Greeting people politely",
   "vocab": [
-    {
-      "vi": "xin chào",
-      "en": "hello",
-      "ipa": "/sin t͡ɕaːw/"
-    },
-    {
-      "vi": "cảm ơn",
-      "en": "thank you",
-      "ipa": "/kaːm˧˩˧ əːn/"
-    },
-    {
-      "vi": "bao nhiêu",
-      "en": "how much",
-      "ipa": "/ɓaːw ɲiəw/"
-    }
+    {"vi": "xin chào", "en": "hello", "ipa": "/sin˧ t͡ɕaːw˨˩/"},
+    {"vi": "cảm ơn", "en": "thank you", "ipa": "/kaːm˧˩˧ əːn˧/"},
+    {"vi": "dạ", "en": "polite yes or soft opener", "ipa": "/jaː˨˩ʔ/"}
   ],
   "segments": [
     {
       "type": "dialogue",
       "duration_s": 180,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Xin chào!] [EN: means hello.] [VI_F: Xin] [EN: has a flat tone.] [VI_F: Chào] [EN: has a falling tone.] [EN: Repeat — hello.] [PAUSE 4s] [VI: Xin chào.] [PAUSE 0.5s] [EN: Again.] [PAUSE 4s] [VI: Xin chào.] [PAUSE 0.5s] [EN: Now listen to the next phrase.] [VI_F: Cảm ơn.] [EN: means thank you.] [VI_F: Cảm] [EN: has a falling, rising tone.] [VI_F: Ơn] [EN: has a flat tone.] [EN: Repeat — thank you.] [PAUSE 4s] [VI: Cảm ơn.] [PAUSE 0.5s] [EN: Again.] [PAUSE 4s] [VI: Cảm ơn.] [PAUSE 0.5s] [EN: Now listen.] [VI_F: Bao nhiêu?] [EN: means how much.] [VI_F: Bao] [EN: has a flat tone.] [VI_F: Nhiêu] [EN: has a flat tone.] [EN: Repeat — how much.] [PAUSE 4s] [VI: Bao nhiêu?] [PAUSE 0.5s] [EN: Again.] [PAUSE 4s] [VI: Bao nhiêu?] [PAUSE 0.5s] [EN: One more time.] [PAUSE 4s] [VI: Bao nhiêu?]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Xin chào.] [EN: This means hello.] [VI_F: Xin] [EN: has a flat tone.] [VI_F: Chào] [EN: has a falling tone.] [EN: Say hello.] [PAUSE 4s] [VI: Xin chào.] [EN: Again.] [PAUSE 4s] [VI: Xin chào.] [EN: Good.] [PAUSE 0.5s] [EN: To say thank you.] [VI_F: Cảm ơn.] [EN: This means thank you.] [VI_F: Cảm] [EN: has a falling, rising tone.] [VI_F: Ơn] [EN: has a flat tone. Keep your lips relaxed for this vowel, not rounded.] [EN: Say thank you.] [PAUSE 4s] [VI: Cảm ơn.] [EN: Again.] [PAUSE 4s] [VI: Cảm ơn.] [EN: Good.] [PAUSE 0.5s] [EN: There is no word for please in Vietnamese. Politeness comes from one small word.] [VI_F: Dạ.] [EN: This is a polite yes, and a soft, respectful way to begin a reply. It has a falling, broken tone.] [EN: Say it.] [PAUSE 4s] [VI: Dạ.] [EN: Now soften your thank you. Say, yes, thank you.] [PAUSE 4s] [VI: Dạ, cảm ơn.] [EN: Again.] [PAUSE 4s] [VI: Dạ, cảm ơn.] [EN: Good.]"
     },
     {
       "type": "drill",
       "duration_s": 180,
-      "script": "[EN: How do you say hello?] [PAUSE 4s] [VI: Xin chào.] [PAUSE 0.5s] [EN: How do you say thank you?] [PAUSE 4s] [VI: Cảm ơn.] [PAUSE 0.5s] [EN: How do you say how much?] [PAUSE 4s] [VI: Bao nhiêu?] [PAUSE 0.5s] [EN: Now say hello.] [PAUSE 4s] [VI: Xin chào.] [PAUSE 0.5s] [EN: Now reverse. What does this mean?] [VI_F: Cảm ơn.] [PAUSE 3s] [EN: Thank you.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Bao nhiêu?] [PAUSE 3s] [EN: How much.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Xin chào.] [PAUSE 3s] [EN: Hello.] [PAUSE 0.5s] [EN: Say thank you.] [PAUSE 4s] [VI: Cảm ơn.] [EN: Remember,] [VI: cảm] [EN: has a falling, rising tone.] [PAUSE 0.5s] [EN: Say how much.] [PAUSE 4s] [VI: Bao nhiêu?] [PAUSE 0.5s] [EN: Say hello.] [PAUSE 4s] [VI: Xin chào.] [EN: Remember,] [VI: chào] [EN: has a falling tone.] [PAUSE 0.5s] [EN: Say how much.] [PAUSE 4s] [VI: Bao nhiêu?] [PAUSE 0.5s] [EN: Say thank you.] [PAUSE 4s] [VI: Cảm ơn.]"
+      "script": "[EN: Let us practice. How do you say hello?] [PAUSE 4s] [VI: Xin chào.] [EN: Say thank you.] [PAUSE 4s] [VI: Cảm ơn.] [EN: Say the polite yes.] [PAUSE 4s] [VI: Dạ.] [EN: Soften it. Say, yes, thank you.] [PAUSE 4s] [VI: Dạ, cảm ơn.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Cảm ơn.] [PAUSE 3s] [EN: Thank you.] [EN: What does this mean?] [VI_F: Dạ.] [PAUSE 3s] [EN: A polite yes.] [EN: What does this mean?] [VI_F: Xin chào.] [PAUSE 3s] [EN: Hello.] [EN: Good.] [PAUSE 0.5s] [EN: Greet someone.] [PAUSE 4s] [VI: Xin chào.] [EN: Politely thank them.] [PAUSE 4s] [VI: Dạ, cảm ơn.]"
     },
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Let us review all three phrases.] [PAUSE 0.5s] [EN: How do you say hello?] [PAUSE 4s] [VI: Xin chào.] [PAUSE 0.5s] [EN: How do you say how much?] [PAUSE 4s] [VI: Bao nhiêu?] [PAUSE 0.5s] [EN: How do you say thank you?] [PAUSE 4s] [VI: Cảm ơn.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Bao nhiêu?] [PAUSE 3s] [EN: How much.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Xin chào.] [PAUSE 3s] [EN: Hello.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Cảm ơn.] [PAUSE 3s] [EN: Thank you.] [PAUSE 0.5s] [EN: Good.]"
+      "script": "[EN: Quick review.] [PAUSE 0.5s] [EN: Hello.] [PAUSE 4s] [VI: Xin chào.] [EN: A polite yes.] [PAUSE 4s] [VI: Dạ.] [EN: Thank you.] [PAUSE 4s] [VI: Cảm ơn.] [EN: What does this mean?] [VI_F: Dạ.] [PAUSE 3s] [EN: A polite yes.] [EN: Good.]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen to this exchange at a coffee stall.] [PAUSE 0.5s] [VI_M: Xin chào!] [VI_F: Xin chào!] [VI_M: Bao nhiêu?] [VI_F: Bao nhiêu?] [VI_M: Cảm ơn.] [VI_F: Cảm ơn.] [PAUSE 0.5s] [EN: Now you try. The vendor greets you. Greet her back.] [VI_F: Xin chào!] [PAUSE 4s] [VI: Xin chào!] [PAUSE 0.5s] [EN: Ask how much.] [PAUSE 4s] [VI: Bao nhiêu?] [PAUSE 0.5s] [EN: Say thank you.] [PAUSE 4s] [VI: Cảm ơn.] [PAUSE 0.5s] [EN: Now the full exchange one more time at natural speed.] [PAUSE 0.5s] [VI_M: Xin chào!] [VI_F: Xin chào!] [VI_M: Bao nhiêu?] [VI_F: Bao nhiêu?] [VI_M: Cảm ơn.] [VI_F: Cảm ơn!] [PAUSE 0.5s] [EN: In the next lesson, you will learn the word] [VI: cà phê] [EN: which means coffee.]"
+      "script": "[EN: Listen to a short, polite exchange.] [PAUSE 0.5s] [VI_F: Xin chào!] [VI_M: Dạ, xin chào.] [VI_F: Cảm ơn nha.] [EN: She added] [VI: nha] [EN: a friendly softener.] [VI_M: Dạ, cảm ơn.] [PAUSE 0.5s] [EN: Now you try. Greet her.] [PAUSE 4s] [VI: Xin chào.] [EN: Thank her politely.] [PAUSE 4s] [VI: Dạ, cảm ơn.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn how to address people. The preview word is] [VI: anh] [EN: which is how you address an older man.]"
     }
   ]
 }

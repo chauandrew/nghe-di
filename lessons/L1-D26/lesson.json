@@ -1,0 +1,31 @@
+{
+  "id": "L1-D26",
+  "title": "Đặt phòng — Checking into a hotel",
+  "vocab": [
+    {"vi": "phòng", "en": "room", "ipa": "/fɔŋ˨˩/"},
+    {"vi": "còn phòng không", "en": "any rooms available", "ipa": "/kɔn˨˩ fɔŋ˨˩ xəwŋ˧/"},
+    {"vi": "một đêm", "en": "one night", "ipa": "/moˀt̚˨˩ʔ ɗem˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Have you eaten yet?] [PAUSE 4s] [VI: Anh ăn chưa?] [EN: A big bowl.] [PAUSE 4s] [VI: Tô lớn.] [EN: Supermarket.] [PAUSE 4s] [VI: Siêu thị.] [EN: Sold out.] [PAUSE 4s] [VI: Hết rồi.] [EN: What does this mean?] [VI_F: Loại khác.] [PAUSE 3s] [EN: Another kind.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: You arrive at a small hotel. Listen.] [PAUSE 0.5s] [VI_F: Dạ, anh muốn gì?] [EN: Room is] [VI_F: Phòng.] [EN: falling tone, rounded lips.] [EN: Say room.] [PAUSE 4s] [VI: Phòng.] [EN: To ask if rooms are available, you reuse the same frame: any rooms left?] [VI_M: Còn phòng không?] [EN: Ask if there are rooms.] [PAUSE 4s] [VI: Còn phòng không?] [EN: Good.] [PAUSE 0.5s] [EN: For one night, say] [VI_M: Một đêm.] [VI_M: Đêm] [EN: has a flat tone.] [EN: Now say, one room, one night.] [PAUSE 4s] [VI: Một phòng, một đêm.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Room.] [PAUSE 4s] [VI: Phòng.] [EN: Are there any rooms available?] [PAUSE 4s] [VI: Còn phòng không?] [EN: One night.] [PAUSE 4s] [VI: Một đêm.] [EN: One room for one night, how much?] [PAUSE 4s] [VI: Một phòng một đêm, bao nhiêu?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Một đêm.] [PAUSE 3s] [EN: One night.] [EN: What does this mean?] [VI_F: Còn phòng không?] [PAUSE 3s] [EN: Are there any rooms available.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, còn phòng không?] [VI_F: Dạ còn. Mấy đêm anh?] [VI_M: Một đêm. Bao nhiêu?] [VI_F: Dạ, ba trăm ngàn.] [PAUSE 0.5s] [EN: Now you try. Ask if rooms are available.] [PAUSE 4s] [VI: Còn phòng không?] [EN: Say one room, one night.] [PAUSE 4s] [VI: Một phòng, một đêm.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you ask for directions when lost. The preview phrase is] [VI: tôi bị lạc] [EN: which means I am lost.]"
+    }
+  ]
+}
