@@ -1,33 +1,31 @@
 {
   "id": "L1-D2",
-  "title": "Mua bánh mì — Ordering at the sandwich cart",
+  "title": "Anh, chị, em — Addressing people",
   "vocab": [
-    {"id": "v004", "vi": "một", "en": "one", "ipa": "moˀt̚"},
-    {"id": "v005", "vi": "hai", "en": "two", "ipa": "haːj"},
-    {"id": "v006", "vi": "ba", "en": "three", "ipa": "ɓaː"},
-    {"id": "v007", "vi": "năm nghìn", "en": "five thousand dong", "ipa": "nam ŋìn"}
+    {"vi": "anh", "en": "you or I, an older man", "ipa": "/aɲ˧/"},
+    {"vi": "chị", "en": "you or I, an older woman", "ipa": "/t͡ɕi˨˩ʔ/"},
+    {"vi": "em", "en": "you or I, a younger person", "ipa": "/ɛm˧/"}
   ],
-  "review_ids": ["v001", "v002", "v003"],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Welcome back. Let us warm up with yesterday's three words.] [EN: Hello.] [PAUSE 2s] [VI: Xin chào.] [EN: Thank you.] [PAUSE 2s] [VI: Cảm ơn.] [EN: How much?] [PAUSE 2s] [VI: Bao nhiêu?] [EN: Now the other way — what do these mean?] [VI: Cảm ơn.] [PAUSE 2s] [EN: Thank you.] [VI: Bao nhiêu?] [PAUSE 2s] [EN: How much. Good. Now on to numbers.]"
+      "script": "[EN: Warm up from yesterday.] [PAUSE 0.5s] [EN: Say hello.] [PAUSE 4s] [VI: Xin chào.] [EN: Say thank you.] [PAUSE 4s] [VI: Cảm ơn.] [EN: The polite yes.] [PAUSE 4s] [VI: Dạ.] [EN: What does this mean?] [VI_F: Dạ, cảm ơn.] [PAUSE 3s] [EN: Yes, thank you.] [EN: Good.]"
     },
     {
       "type": "dialogue",
       "duration_s": 185,
-      "script": "[EN: You are at a bánh mì cart near Bến Thành market. The vendor greets you.] [VI: Xin chào! Mua gì không?] [EN: She asked what you would like to buy. You want two sandwiches. First — the number one.] [VI: Một.] [PAUSE 2s] [VI: Một.] [EN: That means one. Repeat.] [PAUSE 2s] [VI: Một.] [EN: Now two.] [VI: Hai.] [PAUSE 2s] [VI: Hai.] [EN: That means two. Repeat.] [PAUSE 2s] [VI: Hai.] [EN: And three.] [VI: Ba.] [PAUSE 2s] [VI: Ba.] [EN: That means three. Repeat.] [PAUSE 2s] [VI: Ba.] [EN: You want two sandwiches — say two, then point.] [PAUSE 2s] [VI: Hai cái.] [EN: That means two pieces. She tells you each one is five thousand dong.] [VI: Một cái năm nghìn.] [EN: Five thousand dong is] [VI: Năm nghìn.] [PAUSE 2s] [VI: Năm nghìn.] [EN: Repeat.] [PAUSE 2s] [VI: Năm nghìn.] [EN: So two costs ten thousand. You pay and say thank you.] [VI: Cảm ơn!] [VI: Không có gì!] [EN: That last phrase means you are welcome — listen for it.]"
+      "script": "[EN: In Vietnamese you address people by age and gender. There is no neutral you. Listen.] [PAUSE 0.5s] [EN: To an older man, use] [VI_F: Anh.] [EN: This means you, or I, for an older man. It has a flat tone.] [EN: Say it.] [PAUSE 4s] [VI: Anh.] [EN: Again.] [PAUSE 4s] [VI: Anh.] [EN: Good.] [PAUSE 0.5s] [EN: To an older woman, use] [VI_F: Chị.] [EN: This means you, or I, for an older woman. It has a falling, broken tone.] [EN: Say it.] [PAUSE 4s] [VI: Chị.] [EN: Again.] [PAUSE 4s] [VI: Chị.] [EN: Good.] [PAUSE 0.5s] [EN: To a younger person, use] [VI_F: Em.] [EN: This means you, or I, for a younger person. It has a flat tone.] [EN: Say it.] [PAUSE 4s] [VI: Em.] [EN: Now greet an older man, attach his pronoun.] [PAUSE 4s] [VI: Xin chào anh.] [EN: Greet an older woman.] [PAUSE 4s] [VI: Xin chào chị.] [EN: Good.]"
     },
     {
       "type": "drill",
       "duration_s": 180,
-      "script": "[EN: Drill time. I give the English — you say the Vietnamese.] [EN: One.] [PAUSE 2s] [VI: Một.] [EN: Three.] [PAUSE 2s] [VI: Ba.] [EN: Two.] [PAUSE 2s] [VI: Hai.] [EN: Five thousand dong.] [PAUSE 2s] [VI: Năm nghìn.] [EN: How much?] [PAUSE 2s] [VI: Bao nhiêu?] [EN: Thank you.] [PAUSE 2s] [VI: Cảm ơn.] [EN: Now reverse — I say the Vietnamese, you give the meaning.] [VI: Một.] [PAUSE 2s] [EN: One.] [VI: Năm nghìn.] [PAUSE 2s] [EN: Five thousand dong.] [VI: Hai.] [PAUSE 2s] [EN: Two.] [VI: Ba.] [PAUSE 2s] [EN: Three. Excellent — six words now in active memory.]"
+      "script": "[EN: Drill. Address an older man.] [PAUSE 4s] [VI: Anh.] [EN: Address an older woman.] [PAUSE 4s] [VI: Chị.] [EN: Address a younger person.] [PAUSE 4s] [VI: Em.] [EN: Thank an older woman, attach her pronoun.] [PAUSE 4s] [VI: Cảm ơn chị.] [EN: Thank an older man.] [PAUSE 4s] [VI: Cảm ơn anh.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Chị.] [PAUSE 3s] [EN: You or I, an older woman.] [EN: What does this mean?] [VI_F: Em.] [PAUSE 3s] [EN: You or I, a younger person.] [EN: And the polite yes from before.] [PAUSE 4s] [VI: Dạ.] [EN: Good.]"
     },
     {
       "type": "synthesis",
-      "duration_s": 145,
-      "script": "[EN: Full scene at natural speed — listen for everything you know.] [VI: Xin chào! Mua gì không?] [VI: Hai cái. Bao nhiêu?] [VI: Một cái năm nghìn. Hai cái mười nghìn.] [VI: Cảm ơn!] [VI: Không có gì!] [EN: Tomorrow — ordering drinks exactly the way you want them. The preview word is — to want.] [VI: Muốn.] [PAUSE 2s] [VI: Muốn.] [EN: That means to want. Listen for it tomorrow.] [VI: Tạm biệt!]"
+      "duration_s": 150,
+      "script": "[EN: Listen. A younger clerk greets an older customer.] [PAUSE 0.5s] [VI_F: Dạ, xin chào anh.] [VI_M: Chào em.] [VI_F: Dạ, cảm ơn anh nha.] [VI_M: Cảm ơn em.] [PAUSE 0.5s] [EN: Now you try. Greet an older woman politely.] [PAUSE 4s] [VI: Dạ, xin chào chị.] [EN: Thank an older man.] [PAUSE 4s] [VI: Cảm ơn anh.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you ask prices and start counting. The preview phrase is] [VI: bao nhiêu] [EN: which means how much.]"
     }
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "id": "L1-D23",
+  "title": "Siêu thị — Shopping and getting change",
+  "vocab": [
+    {"vi": "siêu thị", "en": "supermarket", "ipa": "/siəw˧ tʰi˨˩ʔ/"},
+    {"vi": "túi ni lông", "en": "plastic bag", "ipa": "/tuj˧˥ ni˧ loŋ˧/"},
+    {"vi": "tiền thối", "en": "change", "ipa": "/tiən˨˩ tʰoj˧˥/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: I want a glass of coffee.] [PAUSE 4s] [VI: Tôi muốn một ly cà phê.] [EN: Too expensive!] [PAUSE 4s] [VI: Đắt quá!] [EN: Today.] [PAUSE 4s] [VI: Hôm nay.] [EN: Near.] [PAUSE 4s] [VI: Gần.] [EN: What does this mean?] [VI_F: Xa.] [PAUSE 3s] [EN: Far.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: You buy snacks and water. Listen.] [PAUSE 0.5s] [VI_F: Dạ, anh muốn túi không?] [EN: Supermarket is] [VI_F: Siêu thị.] [VI_F: Thị] [EN: has a falling, broken tone.] [EN: Say supermarket.] [PAUSE 4s] [VI: Siêu thị.] [EN: A plastic bag is] [VI_F: Túi ni lông.] [VI_F: Túi] [EN: has a high, rising tone.] [EN: Say plastic bag.] [PAUSE 4s] [VI: Túi ni lông.] [EN: Your change is] [VI_F: Tiền thối.] [VI_F: Tiền] [EN: has a falling tone.] [EN: Now ask, is there a bag?] [PAUSE 4s] [VI: Có túi không?] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Supermarket.] [PAUSE 4s] [VI: Siêu thị.] [EN: Plastic bag.] [PAUSE 4s] [VI: Túi ni lông.] [EN: Change.] [PAUSE 4s] [VI: Tiền thối.] [EN: Give me a plastic bag.] [PAUSE 4s] [VI: Cho tôi túi ni lông.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Tiền thối.] [PAUSE 3s] [EN: Change.] [EN: What does this mean?] [VI_F: Siêu thị.] [PAUSE 3s] [EN: Supermarket.] [EN: And, one hundred thousand.] [PAUSE 4s] [VI: Một trăm ngàn.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạ, anh muốn túi không?] [VI_M: Dạ, cho tôi túi ni lông.] [VI_F: Đây tiền thối của anh.] [VI_M: Cảm ơn chị.] [PAUSE 0.5s] [EN: Now you try. Ask, is there a bag?] [PAUSE 4s] [VI: Có túi không?] [EN: Ask for the change.] [PAUSE 4s] [VI: Cho tôi tiền thối.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you call a waiter. The preview phrase is] [VI: anh ơi] [EN: which means excuse me, to a man.]"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "L1-D25",
+  "title": "Hết rồi — When a dish is sold out",
+  "vocab": [
+    {"vi": "hết rồi", "en": "sold out", "ipa": "/het˧˥ zoj˨˩/"},
+    {"vi": "còn không", "en": "is there any left", "ipa": "/kɔn˨˩ xəwŋ˧/"},
+    {"vi": "loại khác", "en": "another kind", "ipa": "/lwaːj˨˩ʔ xaːk˧˥/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Is there coffee?] [PAUSE 4s] [VI: Có cà phê không?] [EN: Give me the bill.] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [EN: Near.] [PAUSE 4s] [VI: Gần.] [EN: Excuse me, to a woman.] [PAUSE 4s] [VI: Chị ơi!] [EN: What does this mean?] [VI_F: Chờ một chút.] [PAUSE 3s] [EN: Wait a moment.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: The dish you wanted is gone. Listen.] [PAUSE 0.5s] [VI_F: Dạ, món đó hết rồi.] [EN: Sold out is] [VI_F: Hết rồi.] [VI_F: Hết] [EN: has a high, rising tone.] [EN: You know] [VI: rồi] [EN: already. Say sold out.] [PAUSE 4s] [VI: Hết rồi.] [EN: Good.] [PAUSE 0.5s] [EN: To ask if any is left, use the yes-no frame around] [VI: còn] [EN: meaning remain. Is there any left?] [VI_M: Còn không?] [EN: Ask is there any left.] [PAUSE 4s] [VI: Còn không?] [EN: Another kind is] [VI_F: Loại khác.] [VI_F: Loại] [EN: has a falling, broken tone.] [EN: Say another kind.] [PAUSE 4s] [VI: Loại khác.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Sold out.] [PAUSE 4s] [VI: Hết rồi.] [EN: Is there any left?] [PAUSE 4s] [VI: Còn không?] [EN: Another kind.] [PAUSE 4s] [VI: Loại khác.] [EN: It is sold out. Give me another kind.] [PAUSE 4s] [VI: Hết rồi. Cho tôi loại khác.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Còn không?] [PAUSE 3s] [EN: Is there any left.] [EN: What does this mean?] [VI_F: Loại khác.] [PAUSE 3s] [EN: Another kind.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, cho tôi món này.] [VI_F: Dạ, hết rồi.] [VI_M: Còn loại khác không?] [VI_F: Dạ còn, có cái này.] [PAUSE 0.5s] [EN: Now you try. Ask is there any left.] [PAUSE 4s] [VI: Còn không?] [EN: Ask for another kind.] [PAUSE 4s] [VI: Cho tôi loại khác.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you check into a hotel. The preview word is] [VI: phòng] [EN: which means room.]"
+    }
+  ]
+}

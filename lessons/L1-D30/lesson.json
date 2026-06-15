@@ -1,0 +1,31 @@
+{
+  "id": "L1-D30",
+  "title": "Tạm biệt — Level 1 wrap-up and farewells",
+  "vocab": [
+    {"vi": "tạm biệt", "en": "goodbye", "ipa": "/taːm˨˩ʔ ɓiət˨˩ʔ/"},
+    {"vi": "hẹn gặp lại", "en": "see you again", "ipa": "/hɛn˨˩ʔ ɣap˨˩ʔ laːj˨˩ʔ/"},
+    {"vi": "chúc mừng", "en": "congratulations", "ipa": "/t͡ɕuk˧˥ mɨŋ˨˩/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Today we wrap up Level 1. Warm up.] [PAUSE 0.5s] [EN: Go to the market.] [PAUSE 4s] [VI: Đi Bến Thành.] [EN: Supermarket.] [PAUSE 4s] [VI: Siêu thị.] [EN: I am lost.] [PAUSE 4s] [VI: Tôi bị lạc.] [EN: Book a table for tonight.] [PAUSE 4s] [VI: Đặt bàn tối nay.] [EN: What does this mean?] [VI_F: Mấy người?] [PAUSE 3s] [EN: How many people.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: You say goodbye to a colleague. Listen.] [PAUSE 0.5s] [VI_F: Vui quá! Tạm biệt nha anh.] [EN: She said] [VI: vui] [EN: which means happy, or fun.] [EN: Goodbye is] [VI_F: Tạm biệt.] [EN: both syllables falling, broken.] [EN: Say goodbye.] [PAUSE 4s] [VI: Tạm biệt.] [EN: See you again is] [VI_F: Hẹn gặp lại.] [EN: all three syllables falling, broken.] [EN: Say see you again.] [PAUSE 4s] [VI: Hẹn gặp lại.] [EN: To congratulate someone, say] [VI_F: Chúc mừng.] [VI_F: Chúc] [EN: has a high, rising tone.] [EN: Say congratulations.] [PAUSE 4s] [VI: Chúc mừng.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 185,
+      "script": "[EN: Drill. Goodbye.] [PAUSE 4s] [VI: Tạm biệt.] [EN: See you again.] [PAUSE 4s] [VI: Hẹn gặp lại.] [EN: Congratulations.] [PAUSE 4s] [VI: Chúc mừng.] [EN: Now a quick tour of Level 1. Greet an older woman politely.] [PAUSE 4s] [VI: Dạ, xin chào chị.] [EN: How much is this?] [PAUSE 4s] [VI: Cái này bao nhiêu?] [EN: I want two glasses of coffee, no sugar.] [PAUSE 4s] [VI: Tôi muốn hai ly cà phê, không đường.] [EN: Is there water?] [PAUSE 4s] [VI: Có nước không?] [EN: Too expensive! Discount, is that okay?] [PAUSE 4s] [VI: Đắt quá! Giảm giá, được không?] [EN: Excellent.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: One last exchange at natural speed.] [PAUSE 0.5s] [VI_F: Hôm nay vui quá. Cảm ơn anh nha!] [VI_M: Dạ, cảm ơn chị. Hẹn gặp lại.] [VI_F: Tạm biệt!] [VI_M: Tạm biệt!] [PAUSE 0.5s] [EN: Now you try. Say see you again.] [PAUSE 4s] [VI: Hẹn gặp lại.] [EN: Say goodbye.] [PAUSE 4s] [VI: Tạm biệt.] [EN: Congratulations, you have finished Level 1.] [PAUSE 0.5s] [VI: Chúc mừng!] [EN: Level 2 builds longer conversations on these same frames. See you there.]"
+    }
+  ]
+}

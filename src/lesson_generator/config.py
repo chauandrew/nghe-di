@@ -117,7 +117,28 @@ Narration style:
 - Jump straight into dialogue and vocabulary. Trust the learner to follow context from the Vietnamese itself.
 - Never narrate what is about to happen. Do it.
 - Keep English narration to the minimum needed to gloss a word or cue a response.
- 
+
+Vocabulary control (important — do not break this):
+- Teaching segments (recall, dialogue, drill) must use ONLY Vietnamese words taught in
+  this lesson or a prior lesson. Never put an untaught content word in front of the learner.
+- Synthesis scenes should sound natural but must STILL stay within taught words, plus the
+  allowed function-word set below. Do not slip untaught nouns/verbs into a scene for flavour.
+- Allowed function words (may appear once glossed): dạ (polite "yes" / soft opener),
+  nha (friendly softener), hả (tag question, "right?"), lắm and quá (intensifier, "very/too"),
+  vậy (so/then), không (yes-no question marker at the end), của (possessive, "of"),
+  rồi (already), ơi (vocative), alô (hello, on the phone).
+- The FIRST time any allowed function word appears in a lesson, gloss it once in [EN: ...].
+  After that you may reuse it freely within that lesson.
+
+Southern (HCMC) conventions:
+- Use ngàn for "thousand", never nghìn.
+- There is no word for "please". Politeness comes from pronouns and from dạ. Open polite
+  replies with dạ, and attach the listener's pronoun to thanks and questions:
+  "Cảm ơn anh", "Bao nhiêu vậy chị?".
+- Address the listener as anh (older man), chị (older woman), or em (younger person); the
+  learner refers to themselves with the matching pronoun.
+- To ask for a lower price use giảm giá ("to discount"); do not use rẻ hơn.
+
 Pause rules:
 - ONLY add a [PAUSE Xs] when the learner is expected to speak. Two cases:
   1. Production pause — learner repeats a word or phrase out loud:
@@ -144,9 +165,36 @@ Tone explanations (southern Vietnamese):
   4th time a word appears. Do not explain the tone every single time.
 - Example: [VI_F: Cảm ơn] [EN: means thank you.] [VI_F: Cảm] [EN: has a falling, rising tone.] [VI_F: Ơn] [EN: has a flat tone.]
 
+Vowel pronunciation cues (use sparingly, like tone reminders):
+- The hardest vowels for English speakers are the NEUTRAL (unrounded) ones: ư, ơ, â. English
+  has no ư, and learners wrongly round their lips. When a new word hinges on one, add ONE short
+  mouth-shape cue alongside the tone cue, in [EN: ...], referring to the sound, never the spelling:
+    rounded vowels (o, ô, u): "round your lips"
+    neutral vowels (ư, ơ, â):  "keep your lips relaxed, not rounded"
+    front vowels (i, ê, e):    "spread your lips into a smile"
+- Example: [VI_F: nước] [EN: the ư sound here — keep your lips relaxed, not rounded.]
+- Never write a Vietnamese vowel letter inside an [EN: ...] tag; describe the sound, or put the
+  syllable in a [VI: ...] tag. Reserve cues for ư / ơ / â and the rounded-versus-neutral contrast.
+
  
+Grammar and structure lessons (favour structure over vocabulary):
+- Some lessons teach a STRUCTURE — a reusable pattern — rather than new content words
+  (negation, yes/no questions, completion questions, measure words). For these:
+    1. State the pattern in one plain English sentence.
+    2. Drill it by SUBSTITUTION: hold the frame fixed and swap in words the learner
+       already knows. This is where the lesson's value is — prioritise it over new vocab.
+    3. Introduce at most one or two genuinely new words; recombine known vocabulary.
+- Measure words (classifiers): to count a noun, use [number] + [measure] + [noun],
+  e.g. hai ly cà phê (two glasses of coffee), một tô phở (one bowl of pho).
+  Common southern measure words: cái (generic), tô (bowl), ly (glass), chai (bottle),
+  ổ (loaf, for bánh mì).
+- Yes/no questions: [statement] + không?  OR  có + [verb/noun] + không?
+  Answer with có (yes) or không (no).
+- Completion questions: [subject] + [verb] + chưa?  Answer rồi (already) or chưa (not yet).
+- Negation: không + [verb or adjective], e.g. không ngon (not tasty), không muốn (do not want).
+
 Segment guidelines:
 - recall:    ~90s  — prompt 3-5 items from prior lesson, learner responds, confirm
-- dialogue:  ~180s — introduce new vocab in natural dialogue, each new word glossed and tone-explained on first use, repeated 3x with pauses
-- drill:     ~180s — graduated interval repetition, mix new + review, pauses only for learner responses
+- dialogue:  ~180s — introduce new vocab OR a structure; gloss + tone-explain each new word on first use; for structures, state the rule then model it
+- drill:     ~180s — graduated interval repetition; for structures, drill by substitution; pauses only for learner responses
 - synthesis: ~150s — full dialogue replay at natural speed + preview 1 word from next lesson"""

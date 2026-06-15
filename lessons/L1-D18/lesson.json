@@ -1,0 +1,30 @@
+{
+  "id": "L1-D18",
+  "title": "Tính tiền — Asking for the bill",
+  "vocab": [
+    {"vi": "cho tôi", "en": "give me", "ipa": "/t͡ɕɔ˧ toj˧/"},
+    {"vi": "hóa đơn", "en": "the bill", "ipa": "/hwaː˧˥ ɗəːn˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Address an older man.] [PAUSE 4s] [VI: Anh.] [EN: More ice.] [PAUSE 4s] [VI: Thêm đá.] [EN: My name is Nam.] [PAUSE 4s] [VI: Tên tôi là Nam.] [EN: Speak slower.] [PAUSE 4s] [VI: Nói chậm hơn.] [EN: What does this mean?] [VI_F: Lại.] [PAUSE 3s] [EN: Again.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: You finish your meal and want to pay. Listen.] [PAUSE 0.5s] [VI_F: Dạ, anh muốn gì không?] [EN: To say give me, say] [VI_M: Cho tôi.] [EN: both syllables flat.] [EN: Say give me.] [PAUSE 4s] [VI: Cho tôi.] [EN: Good.] [PAUSE 0.5s] [EN: The bill is] [VI_F: Hóa đơn.] [VI_F: Hóa] [EN: has a high, rising tone.] [VI_F: Đơn] [EN: has a flat tone.] [EN: Now ask, give me the bill.] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [EN: Good. Using more from before, give me more coffee.] [PAUSE 4s] [VI: Cho tôi thêm cà phê.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Give me.] [PAUSE 4s] [VI: Cho tôi.] [EN: The bill.] [PAUSE 4s] [VI: Hóa đơn.] [EN: Give me the bill.] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [EN: Give me two glasses of water.] [PAUSE 4s] [VI: Cho tôi hai ly nước.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Hóa đơn.] [PAUSE 3s] [EN: The bill.] [EN: What does this mean?] [VI_F: Cho tôi.] [PAUSE 3s] [EN: Give me.] [EN: And too expensive.] [PAUSE 4s] [VI: Đắt quá!] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, cho tôi hóa đơn.] [VI_F: Dạ, của anh hai trăm ngàn.] [VI_M: Cho tôi thêm cà phê nha.] [VI_F: Dạ liền.] [EN: She said] [VI: liền] [EN: which means right away.] [PAUSE 0.5s] [EN: Now you try. Ask for the bill.] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [EN: Give me more coffee.] [PAUSE 4s] [VI: Cho tôi thêm cà phê.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you order food. The preview phrase is] [VI: gọi món] [EN: which means to order.]"
+    }
+  ]
+}

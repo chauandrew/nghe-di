@@ -1,0 +1,30 @@
+{
+  "id": "L1-D15",
+  "title": "Giới thiệu — Introducing yourself",
+  "vocab": [
+    {"vi": "tên tôi là", "en": "my name is", "ipa": "/ten˧ toj˧ laː˨˩/"},
+    {"vi": "bạn tên gì", "en": "what is your name", "ipa": "/ɓaːn˨˩ʔ ten˧ zi˨˩/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Very delicious!] [PAUSE 4s] [VI: Ngon quá!] [EN: I like coffee.] [PAUSE 4s] [VI: Tôi thích cà phê.] [EN: Go to the market.] [PAUSE 4s] [VI: Đi Bến Thành.] [EN: Sugar.] [PAUSE 4s] [VI: Đường.] [EN: What does this mean?] [VI_F: Không phải.] [PAUSE 3s] [EN: No, that is not so.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: A coworker greets you. Listen.] [PAUSE 0.5s] [VI_F: Dạ, anh tên gì?] [EN: To ask someone's name, say] [VI_F: Bạn tên gì?] [VI_F: Bạn] [EN: has a falling, broken tone.] [VI_F: Gì] [EN: has a falling tone, and means what.] [EN: Ask her name.] [PAUSE 4s] [VI: Bạn tên gì?] [EN: Good.] [PAUSE 0.5s] [EN: To give your name, say] [VI_M: Tên tôi là.] [VI_M: Là] [EN: has a falling tone.] [EN: Say my name is, then a name.] [PAUSE 4s] [VI: Tên tôi là Nam.] [EN: Good.] [PAUSE 0.5s] [EN: To confirm with a tag, use] [VI: phải không] [EN: You are Nam, right?] [PAUSE 4s] [VI: Anh là Nam, phải không?] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. What is your name?] [PAUSE 4s] [VI: Bạn tên gì?] [EN: My name is Nam.] [PAUSE 4s] [VI: Tên tôi là Nam.] [EN: You are Nam, right?] [PAUSE 4s] [VI: Anh là Nam, phải không?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Bạn tên gì?] [PAUSE 3s] [EN: What is your name.] [EN: What does this mean?] [VI_F: Tên tôi là.] [PAUSE 3s] [EN: My name is.] [EN: And greet an older woman politely.] [PAUSE 4s] [VI: Dạ, xin chào chị.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạ, anh tên gì?] [VI_M: Tên tôi là Nam. Còn chị?] [EN: He said] [VI: còn] [EN: which means and how about.] [VI_F: Dạ, tên em là Lan.] [PAUSE 0.5s] [EN: Now you try. Ask her name.] [PAUSE 4s] [VI: Bạn tên gì?] [EN: Give your own name.] [PAUSE 4s] [VI: Tên tôi là Nam.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you bargain. The preview phrase is] [VI: giảm giá] [EN: which means to discount.]"
+    }
+  ]
+}
