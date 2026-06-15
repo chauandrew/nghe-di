@@ -35,6 +35,7 @@ Output structure:
 
 import os
 import re
+import sys
 import json
 import time
 import argparse
@@ -388,6 +389,45 @@ def process_day(
     print(f"  [{lesson_id}] Done → {mp3_path}")
 
 
+def validate_existing_lessons(level: int) -> int:
+    """Validate every existing lesson.json for a level. Returns the failure count.
+
+    Reads files only — no Anthropic/ElevenLabs calls — so it runs offline and
+    free. Use it to re-check the whole corpus after hand-edits.
+    """
+    lesson_files = sorted(
+        OUTPUT_DIR.glob(f"L{level}-D*/lesson.json"),
+        key=lambda p: int(re.search(rf"L{level}-D(\d+)", p.parent.name).group(1)),
+    )
+    if not lesson_files:
+        print(f"No lessons found for Level {level} under {OUTPUT_DIR}/.")
+        return 0
+
+    failures = 0
+    for path in lesson_files:
+        lesson_id = path.parent.name
+        try:
+            raw = json.loads(path.read_text())
+        except json.JSONDecodeError as e:
+            print(f"  [{lesson_id}] ✗ invalid JSON: {e}")
+            failures += 1
+            continue
+        problems = validate_lesson(raw)
+        if problems:
+            failures += 1
+            print(f"  [{lesson_id}] ✗ {len(problems)} problem(s):")
+            for p in problems:
+                print(f"      - {p}")
+        else:
+            print(f"  [{lesson_id}] ✓")
+
+    print(
+        f"\n{len(lesson_files)} lesson(s) checked — "
+        f"{'all valid' if not failures else str(failures) + ' with problems'}."
+    )
+    return failures
+
+
 def parse_day_range(s: str) -> list[int]:
     """Parse '1', '1-5', or '1,3,5' into a sorted list of ints."""
     days = []
@@ -406,7 +446,14 @@ def main():
     parser.add_argument("--level",   type=int, default=1,   help="Curriculum level (1-5)")
     parser.add_argument("--days",    type=str, default="1", help="Days to generate, e.g. '1', '1-5', '1,3,7'")
     parser.add_argument("--dry-run", action="store_true",   help="Generate JSON only, skip TTS + audio")
+    parser.add_argument("--validate-only", action="store_true",
+                        help="Validate existing lesson.json files for the level and exit (no API calls)")
     args = parser.parse_args()
+
+    if args.validate_only:
+        print(f"NgheĐi validator — Level {args.level}")
+        failures = validate_existing_lessons(args.level)
+        sys.exit(1 if failures else 0)
 
     days = parse_day_range(args.days)
     print(f"NgheĐi generator — Level {args.level}, Day(s): {days}")
