@@ -26,7 +26,9 @@ happen — past, present, future — and stringing clauses together.
 **Grammar backbone:** progressive `đang`, future `sẽ`, completed `đã`/`rồi` vs.
 `chưa`; when-clauses (`khi`, `lúc`); frequency (`thường`, `hay`, `thỉnh thoảng`,
 `luôn`, `không bao giờ`); sequencing (`trước`, `sau`, `rồi`, `sau đó`); joining
-(`và`, `với`, `cũng`); comparatives (`hơn`, `bằng`, `nhất`).
+(`và`, `với`, `cũng`); comparatives (`hơn`, `bằng`, `nhất`); **colloquial
+softeners** (`nha`, `nhé`, `nghen`, `đi`) and **casual question particles**
+(`vậy`, `hả`, `à` — "sao vậy?", "gì vậy?").
 
 **Vocabulary domains:** full clock + days/months/dates, daily-routine verbs,
 transport, hobbies/free time, extended pronouns/family address.
@@ -44,23 +46,23 @@ transport, hobbies/free time, extended pronouns/family address.
 | 9 | Extended address | ông, bà, cô, chú, bác, con |
 | 10 | Scenario: describe your day | (cumulative routine synthesis) |
 | 11 | `[STRUCTURE]` When-clauses | khi, lúc |
-| 12 | Transport | xe buýt, taxi, Grab, máy bay |
-| 13 | Scenario: weekend plans | `sẽ` + time |
-| 14 | Scenario: talking about yesterday | `đã` + past time |
-| 15 | `[STRUCTURE]` Joining | và, với, cũng |
-| 16 | Months & dates | tháng, ngày mấy, năm |
-| 17 | Scenario: make an appointment | scheduling |
-| 18 | Seasons & weather over time | mùa; extends L1 weather |
-| 19 | Scenario: at the bus/train station | buying tickets |
+| 12 | `[STRUCTURE]` Casual questions | vậy, hả, à ("sao vậy?", "gì vậy?") |
+| 13 | Transport | xe buýt, taxi, Grab, máy bay |
+| 14 | Scenario: weekend plans | `sẽ` + time |
+| 15 | Scenario: talking about yesterday | `đã` + past time |
+| 16 | `[STRUCTURE]` Joining | và, với, cũng |
+| 17 | Months & dates | tháng, ngày mấy, năm |
+| 18 | Scenario: make an appointment | scheduling |
+| 19 | `[STRUCTURE]` Friendly softeners | nha, nhé, nghen, đi (soften requests) |
 | 20 | `[STRUCTURE]` Comparatives | hơn, bằng, nhất |
 | 21 | Scenario: compare two options | price/size/distance |
 | 22 | Hobbies & free time | chơi, xem, nghe, đọc |
-| 23 | Scenario: invite someone out | rủ, đi … không |
+| 23 | Scenario: invite someone out | rủ, đi … không, … nha (reuses softeners) |
 | 24 | `[STRUCTURE]` Duration | … bao lâu rồi, … được (how long doing) |
 | 25 | Scenario: catching up | how long have you …? |
-| 26 | Cumulative routine + frequency review | drill day |
-| 27 | Scenario: phone call to reschedule | |
-| 28 | Numbers 11–100+, ordinals | thứ-, hundreds review |
+| 26 | Scenario: phone call to reschedule | |
+| 27 | Numbers 11–100+, ordinals | thứ-, hundreds review |
+| 28 | Scenario: at the bus/train station | buying tickets |
 | 29 | Scenario: a day-in-the-life dialogue | full integration |
 | 30 | Review + bridge to L3 | |
 
@@ -74,7 +76,8 @@ preferences, reasons, and suggestions.
 **Grammar backbone:** adjective order (noun + adjective); degree (`rất`, `hơi`,
 `khá`, `quá`); suggestions/imperatives (`hãy`, `đừng`, `… nhé`, `mình … đi`);
 reason (`vì … nên`); opinion (`tôi nghĩ`, `theo tôi`, `thấy … thế nào`);
-location prepositions; possessive & relationships.
+location prepositions; possessive & relationships; **emphasis & soft negation**
+(`đâu` as in "đâu có" / "không … đâu", `luôn`, `chứ`, `mà` — attitude particles).
 
 **Vocabulary domains:** family, jobs, appearance/personality, house & rooms,
 city places, colors, clothing, emotions.
@@ -100,15 +103,15 @@ city places, colors, clothing, emotions.
 | 17 | Appearance & personality | cao, thấp, dễ thương, hiền, vui tính |
 | 18 | Scenario: describe a friend | |
 | 19 | `[STRUCTURE]` Opinions | tôi nghĩ, theo tôi, thấy … thế nào |
-| 20 | Scenario: opinion about food/a place | |
-| 21 | Clothing | áo, quần, size, màu, thử |
-| 22 | Scenario: buying clothes | color/size/try on |
-| 23 | Comparing people/things | hơn + degree review |
-| 24 | Introductions | đây là … (this is my …) |
-| 25 | Scenario: introduce two people | |
-| 26 | Invitations & RSVP | mời, rảnh không, được/bận |
-| 27 | Scenario: invite to a birthday + reply | |
-| 28 | Cumulative description review | drill day |
+| 20 | `[STRUCTURE]` Emphasis & soft negation | đâu ("đâu có", "không…đâu"), luôn, chứ, mà |
+| 21 | Scenario: opinion about food/a place | uses đâu/luôn/chứ for attitude |
+| 22 | Clothing | áo, quần, size, màu, thử |
+| 23 | Scenario: buying clothes | color/size/try on |
+| 24 | Comparing people/things | hơn + degree review |
+| 25 | Introductions | đây là … (this is my …) |
+| 26 | Scenario: introduce two people | |
+| 27 | Invitations & RSVP | mời, rảnh không, được/bận |
+| 28 | Scenario: invite to a birthday + reply | |
 | 29 | Scenario: a social gathering | full integration |
 | 30 | Review + bridge to L4 | |
 
@@ -200,7 +203,7 @@ food culture, work/career, travel narration, current topics.
 | 19 | Scenario: describe a person/place in detail | |
 | 20 | Work & career | công ty, dự án, áp lực, thăng chức |
 | 21 | Scenario: a work conversation | |
-| 22 | `[STRUCTURE]` Emphasis & particles | chứ, mà, đấy, cơ |
+| 22 | `[STRUCTURE]` Emphasis & particles | chứ, mà, đấy, cơ (builds on L2–L3 softeners/negation) |
 | 23 | Scenario: lively casual conversation | |
 | 24 | Travel narration | kể về chuyến đi, ấn tượng |
 | 25 | Scenario: recount a memorable trip | |
@@ -224,3 +227,10 @@ food culture, work/career, travel narration, current topics.
   scenarios then recombine known frames + a few new domain words.
 - `[STRUCTURE]` count per level (~7) deliberately mirrors Level 1 so the cognitive
   load per level stays roughly constant even as content gets harder.
+- **Colloquial particles** (`nha`/`nhé`/`nghen`, `vậy`/`hả`/`à`, `đâu`/`luôn`/
+  `chứ`/`mà`, …) are taught as their own `[STRUCTURE]` lessons in L2–L3 and as
+  the L5 capstone, then spiralled into later scenarios. Unlike Level 1, where
+  they are only glossed in passing, the *taught* particles should be added to
+  `vocab_db.json` so the SRS actually drills them. `đâu` (emphatic "no way")
+  and `luôn` ("right away/altogether") in particular must be taught explicitly —
+  they are not inferable from the question-word `đâu` or any English analogue.
