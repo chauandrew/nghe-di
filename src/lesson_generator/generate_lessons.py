@@ -229,52 +229,60 @@ def build_audio(
     """Stitch all lesson segments into one AudioSegment.
  
     Pause adjustments applied at render time:
-    - Rhetorical/transitional phrases (e.g. "Ready?") get a 0.5s breath pause.
-    - Familiar phrases (seen 2+ times across the lesson) get their pause reduced
-      by 25% — learners need less thinking time for words they have already heard.
+    - Production pauses (a long pause right before a spoken answer) are scaled to
+      the LENGTH of that answer: a one- or two-word answer gets a shorter pause
+      than a full sentence. The script value is treated as the maximum.
+    - Familiar phrases (the upcoming answer seen 2+ times this lesson) get a
+      further 20% trim — less thinking time for words already heard.
+    - Rhetorical/transitional phrases (e.g. "Ready?") get a 0.7s breath pause;
+      short breath pauses (under 3s) are left exactly as written.
     """
     if phrase_counts is None:
         phrase_counts = {}
- 
+
     full_audio = AudioSegment.silent(duration=500)  # 0.5s lead-in
- 
+
     for seg in segments:
         tokens = parse_script(seg.script)
-        prev_type: str | None = None
-        prev_content: str | None = None
- 
-        for token_type, content in tokens:
+
+        for i, (token_type, content) in enumerate(tokens):
             if token_type == "pause":
                 base_ms = int(float(content) * 1000)
- 
-                # Reduce pause for familiar phrases — if the preceding VI token
-                # has already appeared 2+ times, the learner is warming up to it.
-                if prev_type in ("vi_m", "vi_f") and prev_content:
-                    key = prev_content.strip().lower().rstrip(".,!?")
-                    count = phrase_counts.get(key, 0)
-                    if count >= 2:
-                        base_ms = int(base_ms * 0.75)
- 
+
+                # Only resize "production" pauses: a long pause (>=3s) that is
+                # immediately followed by a Vietnamese answer. Short breath
+                # pauses and pre-English (recognition) pauses are left untouched.
+                nxt = tokens[i + 1] if i + 1 < len(tokens) else None
+                if base_ms >= 3000 and nxt and nxt[0] in ("vi_m", "vi_f"):
+                    syllables = len(nxt[1].split()) or 1
+                    # ~0.8s per syllable + 1.2s buffer, capped at the script value.
+                    target = 1200 + 800 * syllables
+                    base_ms = min(base_ms, target)
+
+                    key = nxt[1].strip().lower().rstrip(".,!?")
+                    if phrase_counts.get(key, 0) >= 2:
+                        base_ms = int(base_ms * 0.8)
+
+                    base_ms = max(base_ms, 1800)  # never shorter than 1.8s
+
                 full_audio += AudioSegment.silent(duration=base_ms)
- 
+
             elif token_type in ("vi_m", "vi_f", "en"):
                 chunk = tts_segment(tts_client, content, token_type, cache_dir)
                 full_audio += chunk
- 
+
                 # Track how many times each VI phrase has been rendered
                 if token_type in ("vi_m", "vi_f"):
                     key = content.strip().lower().rstrip(".,!?")
                     phrase_counts[key] = phrase_counts.get(key, 0) + 1
- 
+
                 # Rhetorical EN phrases get a 0.7s breath pause; others get
                 # the standard 400ms gap.
                 if token_type == "en" and _rhetorical(content):
                     full_audio += AudioSegment.silent(duration=700)
                 else:
                     full_audio += AudioSegment.silent(duration=400)
- 
-            prev_type, prev_content = token_type, content
- 
+
         # Inter-segment pause
         full_audio += AudioSegment.silent(duration=PAUSE_DURATIONS["short"])
  
@@ -428,6 +436,60 @@ def validate_existing_lessons(level: int) -> int:
     return failures
 
 
+def reprocess_phrase(texts: list[str], level: int) -> None:
+    """Force re-synthesis of one or more phrases.
+
+    Deletes the cached TTS clip(s) for each phrase (across the three voices and
+    common case/punctuation variants) AND deletes any lesson MP3s that contain
+    the phrase, so the next generation run re-fetches the audio from ElevenLabs
+    and re-stitches the affected lessons.
+
+    Note: re-fetching identical text usually yields a very similar clip (the
+    model is largely deterministic). If a word is mispronounced, also nudge the
+    text (respelling/punctuation) or raise stability in config — both change the
+    result, and a text change additionally gives it a fresh cache key.
+    """
+    cache_dir = OUTPUT_DIR / "_tts_cache"
+    langs = ("vi_f", "vi_m", "en")
+    suffixes = ("", ".", "!", "?", ",", "...")
+
+    removed_clips = 0
+    for text in texts:
+        base = text.strip()
+        variants = {base, base.lower(), base.upper(), base.capitalize()}
+        candidates = set()
+        for v in variants:
+            stem = v.rstrip(".!?,")
+            for s in suffixes:
+                candidates.add(v)
+                candidates.add(stem + s)
+        hit = 0
+        for cand in candidates:
+            for lang in langs:
+                key = hashlib.md5(f"{lang}:{cand}".encode()).hexdigest()
+                clip = cache_dir / f"{key}.mp3"
+                if clip.exists():
+                    clip.unlink()
+                    removed_clips += 1
+                    hit += 1
+        print(f"  {text!r}: removed {hit} cached clip(s)")
+
+    # Delete lesson MP3s that contain any of the phrases so they rebuild.
+    rebuilt = []
+    for path in sorted(OUTPUT_DIR.glob(f"L{level}-D*/lesson.json")):
+        script_blob = path.read_text().lower()
+        if any(t.strip().lower() in script_blob for t in texts):
+            mp3 = path.parent / f"{path.parent.name}.mp3"
+            if mp3.exists():
+                mp3.unlink()
+                rebuilt.append(path.parent.name)
+    if rebuilt:
+        days = ",".join(name.split("-D")[-1] for name in rebuilt)
+        print(f"\nDeleted MP3s for: {', '.join(rebuilt)}")
+        print(f"Re-run to rebuild:  --level {level} --days {days}")
+    print(f"\n{removed_clips} cache clip(s) removed.")
+
+
 def parse_day_range(s: str) -> list[int]:
     """Parse '1', '1-5', or '1,3,5' into a sorted list of ints."""
     days = []
@@ -448,12 +510,21 @@ def main():
     parser.add_argument("--dry-run", action="store_true",   help="Generate JSON only, skip TTS + audio")
     parser.add_argument("--validate-only", action="store_true",
                         help="Validate existing lesson.json files for the level and exit (no API calls)")
+    parser.add_argument("--reprocess", type=str, default=None,
+                        help="Force re-synthesis of phrase(s) (comma-separated): purge their cached "
+                             "clips and delete affected lesson MP3s, then exit. No API calls.")
     args = parser.parse_args()
 
     if args.validate_only:
         print(f"NgheĐi validator — Level {args.level}")
         failures = validate_existing_lessons(args.level)
         sys.exit(1 if failures else 0)
+
+    if args.reprocess:
+        phrases = [p.strip() for p in args.reprocess.split(",") if p.strip()]
+        print(f"NgheĐi reprocess — Level {args.level}: {phrases}")
+        reprocess_phrase(phrases, args.level)
+        sys.exit(0)
 
     days = parse_day_range(args.days)
     print(f"NgheĐi generator — Level {args.level}, Day(s): {days}")

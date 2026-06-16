@@ -11,7 +11,7 @@
     {
       "type": "dialogue",
       "duration_s": 120,
-      "script": "[EN: Group three is front. Spread your lips into a smile, tongue forward. Listen.] [VI_F: i] [EN: like the ee in see.] [PAUSE 0.5s] [VI_F: ê] [EN: like the ay in say.] [PAUSE 0.5s] [VI_F: e] [EN: like the e in bed.] [EN: Smile and repeat.] [PAUSE 4s] [VI: i] [PAUSE 0.5s] [VI: ê] [PAUSE 0.5s] [VI: e] [EN: Good. Three mouth shapes — rounded, relaxed, and smiling.]"
+      "script": "[EN: Group three is smiling. Spread your lips into a smile, tongue forward. Listen.] [VI_F: i] [EN: like the ee in see.] [PAUSE 0.5s] [VI_F: ê] [EN: like the ay in say.] [PAUSE 0.5s] [VI_F: e] [EN: like the e in bed.] [EN: Smile and repeat.] [PAUSE 4s] [VI: i] [PAUSE 0.5s] [VI: ê] [PAUSE 0.5s] [VI: e] [EN: Good. Three mouth shapes — rounded, relaxed, and smiling.]"
     },
     {
       "type": "drill",
