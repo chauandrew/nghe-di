@@ -1,0 +1,31 @@
+{
+  "id": "L3-D7",
+  "title": "Cảm thấy — Feelings",
+  "vocab": [
+    {"vi": "vui", "en": "happy", "ipa": "/vuj˧/"},
+    {"vi": "buồn", "en": "sad", "ipa": "/ɓuən˨˩/"},
+    {"vi": "mệt", "en": "tired", "ipa": "/met˨˩ʔ/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Monday.] [PAUSE 3s] [VI: Thứ hai.] [EN: Bigger.] [PAUSE 3s] [VI: Lớn hơn.] [EN: I am a teacher.] [PAUSE 4s] [VI: Tôi là giáo viên.] [EN: What does this mean?] [VI_F: Kỹ sư.] [PAUSE 3s] [EN: Engineer.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: To say how you feel, use] [VI: thấy,] [EN: to feel, before the adjective. Happy is] [VI_F: Vui.] [EN: a flat tone. I feel happy.] [PAUSE 4s] [VI: Tôi thấy vui.] [EN: Good.] [PAUSE 0.5s] [EN: Sad is] [VI_F: Buồn.] [EN: a falling tone. Tired is] [VI_F: Mệt.] [EN: a falling, broken tone. I feel tired.] [PAUSE 4s] [VI: Tôi thấy mệt.] [EN: Good. You can also stack degree: I feel very tired.] [PAUSE 4s] [VI: Tôi thấy rất mệt.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Happy.] [PAUSE 3s] [VI: Vui.] [EN: Sad.] [PAUSE 3s] [VI: Buồn.] [EN: Tired.] [PAUSE 3s] [VI: Mệt.] [EN: I feel happy.] [PAUSE 4s] [VI: Tôi thấy vui.] [EN: I feel a bit tired.] [PAUSE 4s] [VI: Tôi thấy hơi mệt.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Buồn.] [PAUSE 3s] [EN: Sad.] [EN: What does this mean?] [VI_F: Mệt.] [PAUSE 3s] [EN: Tired.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Sao anh buồn vậy?] [VI_M: Dạ, hôm nay tôi hơi mệt.] [VI_F: Vậy nghỉ đi nha.] [PAUSE 0.5s] [EN: Now you try. Say, I feel happy.] [PAUSE 4s] [VI: Tôi thấy vui.] [EN: Say, I feel a bit tired.] [PAUSE 4s] [VI: Tôi thấy hơi mệt.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you ask how someone is. The preview phrase is] [VI: sao rồi] [EN: which means how's it going.]"
+    }
+  ]
+}

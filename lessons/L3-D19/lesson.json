@@ -1,0 +1,30 @@
+{
+  "id": "L3-D19",
+  "title": "Tôi nghĩ — Giving an opinion",
+  "vocab": [
+    {"vi": "tôi nghĩ", "en": "I think", "ipa": "/toj˧ ŋi˧ˀ˥/"},
+    {"vi": "theo tôi", "en": "in my opinion", "ipa": "/tʰɛw˧ toj˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: This weekend I will rest.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ nghỉ.] [EN: Quite, fairly.] [PAUSE 3s] [VI: Khá.] [EN: The bank is next to the market.] [PAUSE 4s] [VI: Ngân hàng bên cạnh chợ.] [EN: What does this mean?] [VI_F: Tính tình.] [PAUSE 3s] [EN: Personality.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: To give an opinion, start with I think.] [VI_F: Tôi nghĩ.] [EN: relax your lips for this vowel. I think this dish is delicious.] [PAUSE 4s] [VI: Tôi nghĩ món này ngon.] [EN: Good.] [PAUSE 0.5s] [EN: In my opinion is] [VI_F: Theo tôi.] [EN: In my opinion, it is too expensive.] [PAUSE 4s] [VI: Theo tôi, đắt quá.] [EN: To ask someone's opinion, use] [VI: thấy thế nào,] [EN: find it how. What do you think of this dish?] [PAUSE 4s] [VI: Anh thấy món này thế nào?] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. I think.] [PAUSE 3s] [VI: Tôi nghĩ.] [EN: In my opinion.] [PAUSE 3s] [VI: Theo tôi.] [EN: I think this dish is delicious.] [PAUSE 4s] [VI: Tôi nghĩ món này ngon.] [EN: In my opinion, it is too expensive.] [PAUSE 4s] [VI: Theo tôi, đắt quá.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Theo tôi.] [PAUSE 3s] [EN: In my opinion.] [EN: What does this mean?] [VI_F: Tôi nghĩ.] [PAUSE 3s] [EN: I think.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh thấy quán này thế nào?] [VI_M: Tôi nghĩ cà phê ngon. Nhưng theo tôi, hơi đắt.] [VI_F: Ừ, đúng.] [PAUSE 0.5s] [EN: Now you try. Say, I think this dish is delicious.] [PAUSE 4s] [VI: Tôi nghĩ món này ngon.] [EN: Say, in my opinion, it's too expensive.] [PAUSE 4s] [VI: Theo tôi, đắt quá.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn to disagree with attitude. The preview word is] [VI: đâu] [EN: which can mean no way.]"
+    }
+  ]
+}

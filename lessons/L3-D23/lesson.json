@@ -1,0 +1,31 @@
+{
+  "id": "L3-D23",
+  "title": "Vừa không — Buying clothes",
+  "vocab": [
+    {"vi": "chật", "en": "tight", "ipa": "/t͡ɕət˨˩ʔ/"},
+    {"vi": "rộng", "en": "loose, roomy", "ipa": "/zoŋ˨˩ʔ/"},
+    {"vi": "vừa", "en": "fits, just right", "ipa": "/vɨə˨˩/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To meet.] [PAUSE 3s] [VI: Gặp.] [EN: I feel happy.] [PAUSE 4s] [VI: Tôi thấy vui.] [EN: No way, not at all.] [PAUSE 4s] [VI: Đâu có!] [EN: What does this mean?] [VI_F: Thử.] [PAUSE 3s] [EN: To try on.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: After you try clothes on, you describe the fit. Tight is] [VI_F: Chật.] [EN: a falling, broken tone. This shirt is tight.] [PAUSE 4s] [VI: Áo này chật.] [EN: Loose, or roomy, is] [VI_F: Rộng.] [EN: a falling, broken tone; relax your lips. It fits, or it's just right, is] [VI_F: Vừa.] [EN: a falling tone; relax your lips for this vowel. It fits well.] [PAUSE 4s] [VI: Vừa lắm.] [EN: Good. Do you have a bigger one? It's a bit tight.] [PAUSE 4s] [VI: Có cái lớn hơn không? Hơi chật.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Tight.] [PAUSE 3s] [VI: Chật.] [EN: Loose.] [PAUSE 3s] [VI: Rộng.] [EN: It fits.] [PAUSE 3s] [VI: Vừa.] [EN: This shirt is tight.] [PAUSE 4s] [VI: Áo này chật.] [EN: It's a bit loose.] [PAUSE 4s] [VI: Hơi rộng.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Vừa.] [PAUSE 3s] [EN: It fits, just right.] [EN: What does this mean?] [VI_F: Rộng.] [PAUSE 3s] [EN: Loose, roomy.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Áo vừa không anh?] [VI_M: Hơi chật. Có cái lớn hơn không?] [VI_F: Dạ có, anh thử cái này.] [VI_M: À, cái này vừa.] [PAUSE 0.5s] [EN: Now you try. Say, this shirt is tight.] [PAUSE 4s] [VI: Áo này chật.] [EN: Say, it fits well.] [PAUSE 4s] [VI: Vừa lắm.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you compare things. The preview word is] [VI: giống] [EN: which means the same, alike.]"
+    }
+  ]
+}

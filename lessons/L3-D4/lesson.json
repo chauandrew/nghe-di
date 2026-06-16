@@ -1,0 +1,32 @@
+{
+  "id": "L3-D4",
+  "title": "Màu sắc — Colors",
+  "vocab": [
+    {"vi": "màu", "en": "color", "ipa": "/maw˨˩/"},
+    {"vi": "đỏ", "en": "red", "ipa": "/ɗɔ˧˩˧/"},
+    {"vi": "xanh", "en": "blue/green", "ipa": "/saɲ˧/"},
+    {"vi": "vàng", "en": "yellow", "ipa": "/vaːŋ˨˩/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Book a table.] [PAUSE 4s] [VI: Đặt bàn.] [EN: To meet.] [PAUSE 3s] [VI: Gặp.] [EN: Very beautiful.] [PAUSE 4s] [VI: Rất đẹp.] [EN: What does this mean?] [VI_F: Khá.] [PAUSE 3s] [EN: Quite, fairly.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: Color is] [VI_F: Màu.] [EN: a falling tone. Like adjectives, the color comes after the noun. Red is] [VI_F: Đỏ.] [EN: a falling, rising tone. A red car, literally car color red.] [PAUSE 4s] [VI: Xe màu đỏ.] [EN: Good.] [PAUSE 0.5s] [EN: Blue or green — Vietnamese uses one word for both — is] [VI_F: Xanh.] [EN: a flat tone. Yellow is] [VI_F: Vàng.] [EN: a falling tone. Say blue, then yellow.] [PAUSE 4s] [VI: Xanh, vàng.] [EN: A yellow house.] [PAUSE 4s] [VI: Nhà màu vàng.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Color.] [PAUSE 3s] [VI: Màu.] [EN: Red.] [PAUSE 3s] [VI: Đỏ.] [EN: A red car.] [PAUSE 4s] [VI: Xe màu đỏ.] [EN: A yellow house.] [PAUSE 4s] [VI: Nhà màu vàng.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Xanh.] [PAUSE 3s] [EN: Blue or green.] [EN: What does this mean?] [VI_F: Vàng.] [PAUSE 3s] [EN: Yellow.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen at a shop.] [PAUSE 0.5s] [VI_F: Anh thích màu nào?] [VI_M: Tôi thích màu xanh. Có cái màu đỏ không?] [VI_F: Dạ có.] [PAUSE 0.5s] [EN: Now you try. Say, a red car.] [PAUSE 4s] [VI: Xe màu đỏ.] [EN: Say, I like blue.] [PAUSE 4s] [VI: Tôi thích màu xanh.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you describe your family. The preview phrase is] [VI: gia đình] [EN: which means family.]"
+    }
+  ]
+}

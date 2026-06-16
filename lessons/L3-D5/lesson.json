@@ -1,0 +1,30 @@
+{
+  "id": "L3-D5",
+  "title": "Gia đình tôi — Describing your family",
+  "vocab": [
+    {"vi": "gia đình", "en": "family", "ipa": "/zaː˧ ɗiɲ˨˩/"},
+    {"vi": "người", "en": "person, people (counter)", "ipa": "/ŋɨəj˨˩/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Goodbye.] [PAUSE 4s] [VI: Tạm biệt.] [EN: See you tomorrow, okay?] [PAUSE 4s] [VI: Mai gặp nha.] [EN: A red car.] [PAUSE 4s] [VI: Xe màu đỏ.] [EN: What does this mean?] [VI_F: Vàng.] [PAUSE 3s] [EN: Yellow.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: Family is] [VI_F: Gia đình.] [EN: Say family.] [PAUSE 4s] [VI: Gia đình.] [EN: To count people, you use] [VI: người,] [EN: which you know. My family has four people.] [PAUSE 4s] [VI: Gia đình tôi có bốn người.] [EN: Good.] [PAUSE 0.5s] [EN: Now introduce them with] [VI: đây là,] [EN: this is. This is my dad and my mom.] [PAUSE 4s] [VI: Đây là ba và má của tôi.] [EN: My family is small.] [PAUSE 4s] [VI: Gia đình tôi nhỏ.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Family.] [PAUSE 3s] [VI: Gia đình.] [EN: My family has four people.] [PAUSE 4s] [VI: Gia đình tôi có bốn người.] [EN: This is my dad.] [PAUSE 4s] [VI: Đây là ba của tôi.] [EN: My family is small.] [PAUSE 4s] [VI: Gia đình tôi nhỏ.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Gia đình.] [PAUSE 3s] [EN: Family.] [EN: And, how many people?] [PAUSE 4s] [VI: Mấy người?] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Gia đình anh có mấy người?] [VI_M: Dạ, bốn người, ba, má, vợ tôi, và tôi.] [VI_F: Gia đình nhỏ, vui nha.] [PAUSE 0.5s] [EN: Now you try. Ask, how many people in your family?] [PAUSE 4s] [VI: Gia đình anh có mấy người?] [EN: Say, my family has four people.] [PAUSE 4s] [VI: Gia đình tôi có bốn người.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you talk about jobs. The preview word is] [VI: bác sĩ] [EN: which means doctor.]"
+    }
+  ]
+}

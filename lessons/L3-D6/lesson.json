@@ -1,0 +1,31 @@
+{
+  "id": "L3-D6",
+  "title": "Nghề nghiệp — Jobs",
+  "vocab": [
+    {"vi": "bác sĩ", "en": "doctor", "ipa": "/ɓaːk˧˥ si˧˩˧/"},
+    {"vi": "giáo viên", "en": "teacher", "ipa": "/zaːw˧˥ viən˧/"},
+    {"vi": "kỹ sư", "en": "engineer", "ipa": "/ki˧ˀ˥ sɨ˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: What time is it?] [PAUSE 3s] [VI: Mấy giờ?] [EN: The cheapest.] [PAUSE 4s] [VI: Rẻ nhất.] [EN: My family has four people.] [PAUSE 4s] [VI: Gia đình tôi có bốn người.] [EN: What does this mean?] [VI_F: Khá.] [PAUSE 3s] [EN: Quite, fairly.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: To ask someone's job, say] [VI: làm nghề gì,] [EN: do what profession. A doctor is] [VI_F: Bác sĩ.] [EN: Say doctor.] [PAUSE 4s] [VI: Bác sĩ.] [EN: I am a doctor — note Vietnamese drops the word for am.] [PAUSE 4s] [VI: Tôi là bác sĩ.] [EN: Good.] [PAUSE 0.5s] [EN: A teacher is] [VI_F: Giáo viên.] [EN: An engineer is] [VI_F: Kỹ sư.] [EN: relax your lips for this vowel. Say engineer.] [PAUSE 4s] [VI: Kỹ sư.] [EN: My wife is a teacher.] [PAUSE 4s] [VI: Vợ tôi là giáo viên.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Doctor.] [PAUSE 3s] [VI: Bác sĩ.] [EN: Teacher.] [PAUSE 3s] [VI: Giáo viên.] [EN: Engineer.] [PAUSE 3s] [VI: Kỹ sư.] [EN: I am a teacher.] [PAUSE 4s] [VI: Tôi là giáo viên.] [EN: My husband is an engineer.] [PAUSE 4s] [VI: Chồng tôi là kỹ sư.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Bác sĩ.] [PAUSE 3s] [EN: Doctor.] [EN: What does this mean?] [VI_F: Kỹ sư.] [PAUSE 3s] [EN: Engineer.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh làm nghề gì?] [VI_M: Dạ, tôi là kỹ sư. Còn chị?] [VI_F: Em là giáo viên.] [PAUSE 0.5s] [EN: Now you try. Say, I am a teacher.] [PAUSE 4s] [VI: Tôi là giáo viên.] [EN: Say, my wife is a doctor.] [PAUSE 4s] [VI: Vợ tôi là bác sĩ.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you talk about feelings. The preview word is] [VI: vui] [EN: which means happy.]"
+    }
+  ]
+}

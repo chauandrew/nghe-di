@@ -1,0 +1,32 @@
+{
+  "id": "L3-D20",
+  "title": "Đâu có — Emphasis and soft negation",
+  "vocab": [
+    {"vi": "đâu", "en": "no way / not at all (emphatic)", "ipa": "/ɗəw˧/"},
+    {"vi": "luôn", "en": "right away / altogether (intensifier)", "ipa": "/luən˧/"},
+    {"vi": "chứ", "en": "of course / surely", "ipa": "/t͡ɕɨ˧˥/"},
+    {"vi": "mà", "en": "but / you see (insisting)", "ipa": "/maː˨˩/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To go out.] [PAUSE 3s] [VI: Đi chơi.] [EN: Let's go, okay?] [PAUSE 4s] [VI: Mình đi nha.] [EN: I think this dish is delicious.] [PAUSE 4s] [VI: Tôi nghĩ món này ngon.] [EN: What does this mean?] [VI_F: Theo tôi.] [PAUSE 3s] [EN: In my opinion.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 195,
+      "script": "[EN: You know] [VI: đâu] [EN: as where. But it has a second life: it makes a denial emphatic, like nuh-uh, not at all. Two patterns. First, put] [VI: đâu có] [EN: in front to deny something. Did you take it? No I didn't!] [VI_M: Đâu có!] [EN: Say, no way!] [PAUSE 4s] [VI: Đâu có!] [EN: It's not expensive at all.] [PAUSE 4s] [VI: Đâu có đắt.] [EN: Good.] [PAUSE 0.5s] [EN: Second, put] [VI: đâu] [EN: at the END to strengthen a negative. It's not, at all.] [VI_M: Không phải đâu.] [EN: Say, not at all.] [PAUSE 4s] [VI: Không phải đâu.] [EN: Good.] [PAUSE 0.5s] [EN: Three quick attitude words. Right away, or altogether, is] [VI_F: Luôn.] [EN: Let's go right now.] [PAUSE 4s] [VI: Đi luôn.] [EN: Of course is] [VI_F: Chứ.] [EN: Of course! Sure!] [PAUSE 4s] [VI: Được chứ!] [EN: And to insist gently, end with] [VI: mà,] [EN: like, but I'm telling you. It's cheap, I'm telling you.] [PAUSE 4s] [VI: Rẻ mà.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 185,
+      "script": "[EN: Drill. No way!] [PAUSE 4s] [VI: Đâu có!] [EN: It's not expensive at all.] [PAUSE 4s] [VI: Đâu có đắt.] [EN: Strengthen the negative.] [PAUSE 4s] [VI: Không phải đâu.] [EN: Let's go right now.] [PAUSE 4s] [VI: Đi luôn.] [EN: Of course! Sure!] [PAUSE 4s] [VI: Được chứ!] [EN: It's cheap, I'm telling you.] [PAUSE 4s] [VI: Rẻ mà.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Đâu có!] [PAUSE 3s] [EN: No way, not at all.] [EN: What does this mean?] [VI_F: Luôn.] [PAUSE 3s] [EN: Right away, altogether.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 155,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cái này đắt lắm hả?] [VI_M: Đâu có! Rẻ mà. Mua luôn đi.] [VI_F: Vậy hả? Được chứ.] [PAUSE 0.5s] [EN: Now you try. Deny it — no way, not expensive at all.] [PAUSE 4s] [VI: Đâu có đắt.] [EN: Say, of course!] [PAUSE 4s] [VI: Được chứ!] [EN: Say, let's go right now.] [PAUSE 4s] [VI: Đi luôn.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you give opinions about food and places. The preview word is] [VI: dở] [EN: which means bad, not tasty.]"
+    }
+  ]
+}

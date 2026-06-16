@@ -1,0 +1,30 @@
+{
+  "id": "L3-D11",
+  "title": "Ở giữa — Placing things",
+  "vocab": [
+    {"vi": "ở giữa", "en": "in the middle, between", "ipa": "/əː˧˩˧ zɨə˧˩˧/"},
+    {"vi": "đối diện", "en": "across from, opposite", "ipa": "/ɗoj˧˥ ziən˨˩ʔ/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To work.] [PAUSE 4s] [VI: Làm việc.] [EN: These days.] [PAUSE 3s] [VI: Dạo này.] [EN: On the table.] [PAUSE 4s] [VI: Trên bàn.] [EN: What does this mean?] [VI_F: Bên cạnh.] [PAUSE 3s] [EN: Next to.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: In the middle, or between, is] [VI_F: Ở giữa.] [EN: relax your lips for this vowel. The bank is in the middle.] [PAUSE 4s] [VI: Ngân hàng ở giữa.] [EN: Good.] [PAUSE 0.5s] [EN: Across from, or opposite, is] [VI_F: Đối diện.] [EN: The market is across from the bank.] [PAUSE 4s] [VI: Chợ đối diện ngân hàng.] [EN: She said] [VI: ngân hàng,] [EN: bank, and] [VI: chợ,] [EN: market — you will learn these tomorrow. Say across from.] [PAUSE 4s] [VI: Đối diện.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. In the middle.] [PAUSE 3s] [VI: Ở giữa.] [EN: Across from.] [PAUSE 3s] [VI: Đối diện.] [EN: The restroom is in the middle.] [PAUSE 4s] [VI: Nhà vệ sinh ở giữa.] [EN: It is across from the kitchen.] [PAUSE 4s] [VI: Đối diện bếp.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Ở giữa.] [PAUSE 3s] [EN: In the middle.] [EN: What does this mean?] [VI_F: Đối diện.] [PAUSE 3s] [EN: Across from.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Nhà vệ sinh ở đâu chị?] [VI_F: Dạ, ở giữa, đối diện bếp.] [VI_M: Dạ, cảm ơn.] [PAUSE 0.5s] [EN: Now you try. Say, in the middle.] [PAUSE 4s] [VI: Ở giữa.] [EN: Say, across from the kitchen.] [PAUSE 4s] [VI: Đối diện bếp.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn places around the city. The preview word is] [VI: chợ] [EN: which means market.]"
+    }
+  ]
+}

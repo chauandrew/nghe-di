@@ -1,0 +1,32 @@
+{
+  "id": "L3-D2",
+  "title": "Đẹp, mới — Describing things",
+  "vocab": [
+    {"vi": "đẹp", "en": "beautiful, nice", "ipa": "/ɗɛp˧˥/"},
+    {"vi": "lớn", "en": "big", "ipa": "/ləːn˧˥/"},
+    {"vi": "nhỏ", "en": "small", "ipa": "/ɲɔ˧˩˧/"},
+    {"vi": "mới", "en": "new", "ipa": "/məj˧˥/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: I am lost.] [PAUSE 4s] [VI: Tôi bị lạc.] [EN: With.] [PAUSE 3s] [VI: Với.] [EN: These days, lately.] [PAUSE 3s] [VI: Dạo này.] [EN: What does this mean?] [VI_F: Chồng.] [PAUSE 3s] [EN: Husband.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: Here is a key rule: in Vietnamese, the adjective comes AFTER the noun, not before. Beautiful is] [VI_F: Đẹp.] [EN: a high, rising tone. So a beautiful house is, literally, house beautiful.] [PAUSE 4s] [VI: Nhà đẹp.] [EN: Good.] [PAUSE 0.5s] [EN: Big is] [VI_F: Lớn.] [EN: small is] [VI_F: Nhỏ.] [EN: a falling, rising tone. A big house, a small house.] [PAUSE 4s] [VI: Nhà lớn, nhà nhỏ.] [EN: New is] [VI_F: Mới.] [EN: a high, rising tone. A new car —] [VI: xe mới.] [PAUSE 4s] [VI: Xe mới.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill, noun then adjective. A beautiful house.] [PAUSE 4s] [VI: Nhà đẹp.] [EN: A big house.] [PAUSE 4s] [VI: Nhà lớn.] [EN: A small house.] [PAUSE 4s] [VI: Nhà nhỏ.] [EN: A new car.] [PAUSE 4s] [VI: Xe mới.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Nhỏ.] [PAUSE 3s] [EN: Small.] [EN: What does this mean?] [VI_F: Mới.] [PAUSE 3s] [EN: New.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Nhà anh lớn không?] [VI_M: Dạ, nhỏ thôi. Nhưng đẹp.] [VI_F: Vậy hả.] [PAUSE 0.5s] [EN: Now you try. Say, a beautiful house.] [PAUSE 4s] [VI: Nhà đẹp.] [EN: Say, a new car.] [PAUSE 4s] [VI: Xe mới.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn to say how much. The preview word is] [VI: rất] [EN: which means very.]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "L3-D16",
+  "title": "Tại vì — Explaining why",
+  "vocab": [
+    {"vi": "tại vì", "en": "because (spoken)", "ipa": "/taj˨˩ʔ vi˨˩/"},
+    {"vi": "cho nên", "en": "so, that's why", "ipa": "/t͡ɕɔ˧ nen˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: When.] [PAUSE 3s] [VI: Khi.] [EN: Living room.] [PAUSE 3s] [VI: Phòng khách.] [EN: Don't be sad.] [PAUSE 4s] [VI: Đừng buồn.] [EN: What does this mean?] [VI_F: Nên.] [PAUSE 3s] [EN: So, therefore.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: In everyday speech, because is often] [VI_F: Tại vì.] [EN: It works just like] [VI: vì.] [EN: Why do you like it? Because it is delicious.] [PAUSE 4s] [VI: Tại vì ngon.] [EN: Good.] [PAUSE 0.5s] [EN: And so, that's why, is] [VI_F: Cho nên.] [EN: like] [VI: nên.] [EN: I like this dish because it is not spicy.] [PAUSE 4s] [VI: Tôi thích món này tại vì không cay.] [EN: It is too expensive, that's why I don't buy it.] [PAUSE 4s] [VI: Đắt quá, cho nên tôi không mua.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Because, spoken.] [PAUSE 3s] [VI: Tại vì.] [EN: So, that's why.] [PAUSE 3s] [VI: Cho nên.] [EN: I like it because it is delicious.] [PAUSE 4s] [VI: Tôi thích tại vì ngon.] [EN: It's too expensive, that's why I don't buy it.] [PAUSE 4s] [VI: Đắt quá, cho nên tôi không mua.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Tại vì.] [PAUSE 3s] [EN: Because.] [EN: What does this mean?] [VI_F: Cho nên.] [PAUSE 3s] [EN: So, that's why.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Sao anh thích quán này?] [VI_M: Tại vì cà phê ngon, và rẻ.] [VI_F: Ừ, đúng rồi.] [PAUSE 0.5s] [EN: Now you try. Say, I like it because it is delicious.] [PAUSE 4s] [VI: Tôi thích tại vì ngon.] [EN: Say, too expensive, that's why I don't buy it.] [PAUSE 4s] [VI: Đắt quá, cho nên tôi không mua.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you describe people. The preview word is] [VI: cao] [EN: which means tall.]"
+    }
+  ]
+}

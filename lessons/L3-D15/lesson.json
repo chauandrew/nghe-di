@@ -1,0 +1,30 @@
+{
+  "id": "L3-D15",
+  "title": "Vì... nên — Because and so",
+  "vocab": [
+    {"vi": "vì", "en": "because", "ipa": "/vi˨˩/"},
+    {"vi": "nên", "en": "so, therefore", "ipa": "/nen˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Midday.] [PAUSE 3s] [VI: Buổi trưa.] [EN: A normal day.] [PAUSE 4s] [VI: Một ngày bình thường.] [EN: Let's take a stroll, okay?] [PAUSE 4s] [VI: Mình đi dạo nha.] [EN: What does this mean?] [VI_F: Cùng.] [PAUSE 3s] [EN: Together.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: To give a reason, use this pair: because, at the start, and so, before the result. Because is] [VI_F: Vì.] [EN: a falling tone. So, or therefore, is] [VI_F: Nên.] [EN: a flat tone. Because it is raining, so I stay home.] [PAUSE 4s] [VI: Vì tôi bận, nên tôi không đi.] [EN: Good.] [PAUSE 0.5s] [EN: Because I am tired, so I rest.] [PAUSE 4s] [VI: Vì tôi mệt, nên tôi nghỉ.] [EN: You can answer with just] [VI: vì.] [EN: Why? Because it is far.] [PAUSE 4s] [VI: Vì xa.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Because.] [PAUSE 3s] [VI: Vì.] [EN: So, therefore.] [PAUSE 3s] [VI: Nên.] [EN: Because I am busy, so I don't go.] [PAUSE 4s] [VI: Vì tôi bận, nên tôi không đi.] [EN: Because I am tired, so I rest.] [PAUSE 4s] [VI: Vì tôi mệt, nên tôi nghỉ.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Vì.] [PAUSE 3s] [EN: Because.] [EN: What does this mean?] [VI_F: Nên.] [PAUSE 3s] [EN: So, therefore.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Sao anh không đi chơi?] [VI_M: Vì tôi bận, nên tôi không đi.] [VI_F: À, vậy hả.] [PAUSE 0.5s] [EN: Now you try. Say, because it is raining, so I stay home.] [PAUSE 4s] [VI: Vì tôi bận, nên tôi không đi.] [EN: Say, because I am tired, so I rest.] [PAUSE 4s] [VI: Vì tôi mệt, nên tôi nghỉ.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you explain likes and dislikes. The preview phrase is] [VI: tại vì] [EN: which also means because.]"
+    }
+  ]
+}

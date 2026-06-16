@@ -1,0 +1,32 @@
+{
+  "id": "L3-D10",
+  "title": "Ở đâu — Where things are",
+  "vocab": [
+    {"vi": "trên", "en": "on, above", "ipa": "/ʈen˧/"},
+    {"vi": "dưới", "en": "under, below", "ipa": "/zɨəj˧˩˧/"},
+    {"vi": "trong", "en": "in, inside", "ipa": "/ʈɔŋ˧/"},
+    {"vi": "bên cạnh", "en": "next to, beside", "ipa": "/ɓen˧ kaɲ˨˩ʔ/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To wake up.] [PAUSE 4s] [VI: Dậy.] [EN: How long, up to now?] [PAUSE 4s] [VI: Bao lâu rồi?] [EN: I feel tired.] [PAUSE 4s] [VI: Tôi thấy mệt.] [EN: What does this mean?] [VI_F: Bếp.] [PAUSE 3s] [EN: Kitchen.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: Location words go before the place. On, or above, is] [VI_F: Trên.] [EN: a flat tone. On the table.] [PAUSE 4s] [VI: Trên bàn.] [EN: Under is] [VI_F: Dưới.] [EN: a falling, rising tone; relax your lips for this vowel. Inside is] [VI_F: Trong.] [EN: a flat tone. In the kitchen.] [PAUSE 4s] [VI: Trong bếp.] [EN: Next to, or beside, is] [VI_F: Bên cạnh.] [EN: Next to the house.] [PAUSE 4s] [VI: Bên cạnh nhà.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. On the table.] [PAUSE 4s] [VI: Trên bàn.] [EN: In the kitchen.] [PAUSE 4s] [VI: Trong bếp.] [EN: Next to the house.] [PAUSE 4s] [VI: Bên cạnh nhà.] [EN: The coffee is on the table.] [PAUSE 4s] [VI: Cà phê ở trên bàn.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Dưới.] [PAUSE 3s] [EN: Under, below.] [EN: What does this mean?] [VI_F: Bên cạnh.] [PAUSE 3s] [EN: Next to, beside.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, cà phê ở đâu?] [VI_F: Dạ, ở trên bàn, trong bếp.] [VI_M: À, cảm ơn chị.] [PAUSE 0.5s] [EN: Now you try. Say, on the table.] [PAUSE 4s] [VI: Trên bàn.] [EN: Say, in the kitchen.] [PAUSE 4s] [VI: Trong bếp.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you place things more precisely. The preview phrase is] [VI: ở giữa] [EN: which means in the middle.]"
+    }
+  ]
+}

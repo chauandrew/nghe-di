@@ -1,0 +1,31 @@
+{
+  "id": "L3-D3",
+  "title": "Rất, hơi — Degree",
+  "vocab": [
+    {"vi": "rất", "en": "very (before adjective)", "ipa": "/ʐət˧˥/"},
+    {"vi": "hơi", "en": "a bit, slightly", "ipa": "/həːj˧/"},
+    {"vi": "khá", "en": "quite, fairly", "ipa": "/xaː˧˥/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: I need medicine.] [PAUSE 4s] [VI: Tôi cần thuốc.] [EN: Month.] [PAUSE 3s] [VI: Tháng.] [EN: A beautiful house.] [PAUSE 4s] [VI: Nhà đẹp.] [EN: What does this mean?] [VI_F: Mới.] [PAUSE 3s] [EN: New.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: You know] [VI: quá,] [EN: very or too, which goes after. Here are degree words that go BEFORE the adjective. Very is] [VI_F: Rất.] [EN: a high, rising tone. Very beautiful.] [PAUSE 4s] [VI: Rất đẹp.] [EN: Good.] [PAUSE 0.5s] [EN: A bit, or slightly, is] [VI_F: Hơi.] [EN: a flat tone; it often softens something negative. A bit small.] [PAUSE 4s] [VI: Hơi nhỏ.] [EN: Quite, or fairly, is] [VI_F: Khá.] [EN: a high, rising tone. Quite big.] [PAUSE 4s] [VI: Khá lớn.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Very beautiful.] [PAUSE 4s] [VI: Rất đẹp.] [EN: A bit small.] [PAUSE 4s] [VI: Hơi nhỏ.] [EN: Quite big.] [PAUSE 4s] [VI: Khá lớn.] [EN: This house is very beautiful.] [PAUSE 4s] [VI: Nhà này rất đẹp.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Hơi.] [PAUSE 3s] [EN: A bit, slightly.] [EN: What does this mean?] [VI_F: Rất.] [PAUSE 3s] [EN: Very.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Nhà này đẹp không?] [VI_M: Rất đẹp! Nhưng hơi nhỏ.] [VI_F: Ừ, khá nhỏ.] [PAUSE 0.5s] [EN: Now you try. Say, very beautiful.] [PAUSE 4s] [VI: Rất đẹp.] [EN: Say, a bit small.] [PAUSE 4s] [VI: Hơi nhỏ.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn colors. The preview word is] [VI: màu] [EN: which means color.]"
+    }
+  ]
+}

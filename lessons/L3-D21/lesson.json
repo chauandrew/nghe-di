@@ -1,0 +1,30 @@
+{
+  "id": "L3-D21",
+  "title": "Dở hay tuyệt — Opinions about food and places",
+  "vocab": [
+    {"vi": "dở", "en": "bad, not tasty", "ipa": "/jəː˧˩˧/"},
+    {"vi": "tuyệt", "en": "great, wonderful", "ipa": "/twiət˨˩ʔ/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: And, with, also.] [PAUSE 4s] [VI: Và, với, cũng.] [EN: Family.] [PAUSE 3s] [VI: Gia đình.] [EN: No way, not at all.] [PAUSE 4s] [VI: Đâu có!] [EN: What does this mean?] [VI_F: Luôn.] [PAUSE 3s] [EN: Right away, altogether.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: The opposite of ngon, delicious, is] [VI_F: Dở.] [EN: a falling, rising tone; relax your lips for this vowel. It means bad, not tasty. This dish is bad.] [PAUSE 4s] [VI: Món này dở.] [EN: Good.] [PAUSE 0.5s] [EN: For great, or wonderful, say] [VI_F: Tuyệt.] [EN: a falling, broken tone. This place is great!] [PAUSE 4s] [VI: Quán này tuyệt!] [EN: Now use your attitude words. Is it bad? No way, it's great!] [PAUSE 4s] [VI: Đâu có, tuyệt mà!] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Bad, not tasty.] [PAUSE 3s] [VI: Dở.] [EN: Great, wonderful.] [PAUSE 3s] [VI: Tuyệt.] [EN: This dish is bad.] [PAUSE 4s] [VI: Món này dở.] [EN: This place is great!] [PAUSE 4s] [VI: Quán này tuyệt!] [EN: No way, it's great, I'm telling you!] [PAUSE 4s] [VI: Đâu có, tuyệt mà!] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Dở.] [PAUSE 3s] [EN: Bad, not tasty.] [EN: What does this mean?] [VI_F: Tuyệt.] [PAUSE 3s] [EN: Great, wonderful.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Món này dở hả?] [VI_M: Đâu có! Ngon mà, tôi nghĩ rất tuyệt.] [VI_F: Vậy hả, em thử nha.] [PAUSE 0.5s] [EN: Now you try. Say, this place is great.] [PAUSE 4s] [VI: Quán này tuyệt!] [EN: Deny that it's bad — no way!] [PAUSE 4s] [VI: Đâu có!] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you shop for clothes. The preview word is] [VI: áo] [EN: which means shirt.]"
+    }
+  ]
+}

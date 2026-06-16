@@ -1374,5 +1374,605 @@
     "ipa": "/tiəp˧˥ tʰɛw˧/",
     "level": 2,
     "day_introduced": 30
+  },
+  "v173": {
+    "id": "v173",
+    "vi": "má",
+    "en": "mom (southern)",
+    "ipa": "/maː˧˥/",
+    "level": 3,
+    "day_introduced": 1
+  },
+  "v174": {
+    "id": "v174",
+    "vi": "vợ",
+    "en": "wife",
+    "ipa": "/vəː˨˩ʔ/",
+    "level": 3,
+    "day_introduced": 1
+  },
+  "v175": {
+    "id": "v175",
+    "vi": "chồng",
+    "en": "husband",
+    "ipa": "/t͡ɕoŋ˨˩/",
+    "level": 3,
+    "day_introduced": 1
+  },
+  "v176": {
+    "id": "v176",
+    "vi": "đẹp",
+    "en": "beautiful, nice",
+    "ipa": "/ɗɛp˧˥/",
+    "level": 3,
+    "day_introduced": 2
+  },
+  "v177": {
+    "id": "v177",
+    "vi": "nhỏ",
+    "en": "small",
+    "ipa": "/ɲɔ˧˩˧/",
+    "level": 3,
+    "day_introduced": 2
+  },
+  "v178": {
+    "id": "v178",
+    "vi": "mới",
+    "en": "new",
+    "ipa": "/məj˧˥/",
+    "level": 3,
+    "day_introduced": 2
+  },
+  "v179": {
+    "id": "v179",
+    "vi": "rất",
+    "en": "very (before adjective)",
+    "ipa": "/ʐət˧˥/",
+    "level": 3,
+    "day_introduced": 3
+  },
+  "v180": {
+    "id": "v180",
+    "vi": "hơi",
+    "en": "a bit, slightly",
+    "ipa": "/həːj˧/",
+    "level": 3,
+    "day_introduced": 3
+  },
+  "v181": {
+    "id": "v181",
+    "vi": "khá",
+    "en": "quite, fairly",
+    "ipa": "/xaː˧˥/",
+    "level": 3,
+    "day_introduced": 3
+  },
+  "v182": {
+    "id": "v182",
+    "vi": "màu",
+    "en": "color",
+    "ipa": "/maw˨˩/",
+    "level": 3,
+    "day_introduced": 4
+  },
+  "v183": {
+    "id": "v183",
+    "vi": "đỏ",
+    "en": "red",
+    "ipa": "/ɗɔ˧˩˧/",
+    "level": 3,
+    "day_introduced": 4
+  },
+  "v184": {
+    "id": "v184",
+    "vi": "xanh",
+    "en": "blue/green",
+    "ipa": "/saɲ˧/",
+    "level": 3,
+    "day_introduced": 4
+  },
+  "v185": {
+    "id": "v185",
+    "vi": "vàng",
+    "en": "yellow",
+    "ipa": "/vaːŋ˨˩/",
+    "level": 3,
+    "day_introduced": 4
+  },
+  "v186": {
+    "id": "v186",
+    "vi": "gia đình",
+    "en": "family",
+    "ipa": "/zaː˧ ɗiɲ˨˩/",
+    "level": 3,
+    "day_introduced": 5
+  },
+  "v187": {
+    "id": "v187",
+    "vi": "bác sĩ",
+    "en": "doctor",
+    "ipa": "/ɓaːk˧˥ si˧˩˧/",
+    "level": 3,
+    "day_introduced": 6
+  },
+  "v188": {
+    "id": "v188",
+    "vi": "giáo viên",
+    "en": "teacher",
+    "ipa": "/zaːw˧˥ viən˧/",
+    "level": 3,
+    "day_introduced": 6
+  },
+  "v189": {
+    "id": "v189",
+    "vi": "kỹ sư",
+    "en": "engineer",
+    "ipa": "/ki˧ˀ˥ sɨ˧/",
+    "level": 3,
+    "day_introduced": 6
+  },
+  "v190": {
+    "id": "v190",
+    "vi": "vui",
+    "en": "happy",
+    "ipa": "/vuj˧/",
+    "level": 3,
+    "day_introduced": 7
+  },
+  "v191": {
+    "id": "v191",
+    "vi": "buồn",
+    "en": "sad",
+    "ipa": "/ɓuən˨˩/",
+    "level": 3,
+    "day_introduced": 7
+  },
+  "v192": {
+    "id": "v192",
+    "vi": "mệt",
+    "en": "tired",
+    "ipa": "/met˨˩ʔ/",
+    "level": 3,
+    "day_introduced": 7
+  },
+  "v193": {
+    "id": "v193",
+    "vi": "khỏe",
+    "en": "well, healthy",
+    "ipa": "/xwɛ˧˩˧/",
+    "level": 3,
+    "day_introduced": 8
+  },
+  "v194": {
+    "id": "v194",
+    "vi": "sao rồi",
+    "en": "how's it going",
+    "ipa": "/saw˧ zoj˨˩/",
+    "level": 3,
+    "day_introduced": 8
+  },
+  "v195": {
+    "id": "v195",
+    "vi": "phòng khách",
+    "en": "living room",
+    "ipa": "/fɔŋ˨˩ xaːk˧˥/",
+    "level": 3,
+    "day_introduced": 9
+  },
+  "v196": {
+    "id": "v196",
+    "vi": "phòng ngủ",
+    "en": "bedroom",
+    "ipa": "/fɔŋ˨˩ ŋu˧˩˧/",
+    "level": 3,
+    "day_introduced": 9
+  },
+  "v197": {
+    "id": "v197",
+    "vi": "bếp",
+    "en": "kitchen",
+    "ipa": "/ɓep˧˥/",
+    "level": 3,
+    "day_introduced": 9
+  },
+  "v198": {
+    "id": "v198",
+    "vi": "trên",
+    "en": "on, above",
+    "ipa": "/ʈen˧/",
+    "level": 3,
+    "day_introduced": 10
+  },
+  "v199": {
+    "id": "v199",
+    "vi": "dưới",
+    "en": "under, below",
+    "ipa": "/zɨəj˧˩˧/",
+    "level": 3,
+    "day_introduced": 10
+  },
+  "v200": {
+    "id": "v200",
+    "vi": "trong",
+    "en": "in, inside",
+    "ipa": "/ʈɔŋ˧/",
+    "level": 3,
+    "day_introduced": 10
+  },
+  "v201": {
+    "id": "v201",
+    "vi": "bên cạnh",
+    "en": "next to, beside",
+    "ipa": "/ɓen˧ kaɲ˨˩ʔ/",
+    "level": 3,
+    "day_introduced": 10
+  },
+  "v202": {
+    "id": "v202",
+    "vi": "ở giữa",
+    "en": "in the middle, between",
+    "ipa": "/əː˧˩˧ zɨə˧˩˧/",
+    "level": 3,
+    "day_introduced": 11
+  },
+  "v203": {
+    "id": "v203",
+    "vi": "đối diện",
+    "en": "across from, opposite",
+    "ipa": "/ɗoj˧˥ ziən˨˩ʔ/",
+    "level": 3,
+    "day_introduced": 11
+  },
+  "v204": {
+    "id": "v204",
+    "vi": "chợ",
+    "en": "market",
+    "ipa": "/t͡ɕəː˨˩ʔ/",
+    "level": 3,
+    "day_introduced": 12
+  },
+  "v205": {
+    "id": "v205",
+    "vi": "công viên",
+    "en": "park",
+    "ipa": "/koŋ˧ viən˧/",
+    "level": 3,
+    "day_introduced": 12
+  },
+  "v206": {
+    "id": "v206",
+    "vi": "ngân hàng",
+    "en": "bank",
+    "ipa": "/ŋən˧ haːŋ˨˩/",
+    "level": 3,
+    "day_introduced": 12
+  },
+  "v207": {
+    "id": "v207",
+    "vi": "hãy",
+    "en": "do (gentle command)",
+    "ipa": "/haj˧˩˧/",
+    "level": 3,
+    "day_introduced": 13
+  },
+  "v208": {
+    "id": "v208",
+    "vi": "đừng",
+    "en": "don't",
+    "ipa": "/ɗɨŋ˨˩/",
+    "level": 3,
+    "day_introduced": 13
+  },
+  "v209": {
+    "id": "v209",
+    "vi": "mình",
+    "en": "we / let's (inclusive)",
+    "ipa": "/miɲ˨˩/",
+    "level": 3,
+    "day_introduced": 13
+  },
+  "v210": {
+    "id": "v210",
+    "vi": "đi dạo",
+    "en": "to take a stroll",
+    "ipa": "/ɗi˧ zaːw˨˩ʔ/",
+    "level": 3,
+    "day_introduced": 14
+  },
+  "v211": {
+    "id": "v211",
+    "vi": "cùng",
+    "en": "together",
+    "ipa": "/kuŋ˨˩/",
+    "level": 3,
+    "day_introduced": 14
+  },
+  "v212": {
+    "id": "v212",
+    "vi": "vì",
+    "en": "because",
+    "ipa": "/vi˨˩/",
+    "level": 3,
+    "day_introduced": 15
+  },
+  "v213": {
+    "id": "v213",
+    "vi": "nên",
+    "en": "so, therefore",
+    "ipa": "/nen˧/",
+    "level": 3,
+    "day_introduced": 15
+  },
+  "v214": {
+    "id": "v214",
+    "vi": "tại vì",
+    "en": "because (spoken)",
+    "ipa": "/taj˨˩ʔ vi˨˩/",
+    "level": 3,
+    "day_introduced": 16
+  },
+  "v215": {
+    "id": "v215",
+    "vi": "cho nên",
+    "en": "so, that's why",
+    "ipa": "/t͡ɕɔ˧ nen˧/",
+    "level": 3,
+    "day_introduced": 16
+  },
+  "v216": {
+    "id": "v216",
+    "vi": "cao",
+    "en": "tall",
+    "ipa": "/kaw˧/",
+    "level": 3,
+    "day_introduced": 17
+  },
+  "v217": {
+    "id": "v217",
+    "vi": "thấp",
+    "en": "short (height)",
+    "ipa": "/tʰəp˧˥/",
+    "level": 3,
+    "day_introduced": 17
+  },
+  "v218": {
+    "id": "v218",
+    "vi": "dễ thương",
+    "en": "cute, lovable",
+    "ipa": "/ze˧ˀ˥ tʰɨəŋ˧/",
+    "level": 3,
+    "day_introduced": 17
+  },
+  "v219": {
+    "id": "v219",
+    "vi": "hiền",
+    "en": "kind, gentle",
+    "ipa": "/hiən˨˩/",
+    "level": 3,
+    "day_introduced": 17
+  },
+  "v220": {
+    "id": "v220",
+    "vi": "tính tình",
+    "en": "personality, temperament",
+    "ipa": "/tiɲ˧˥ tiɲ˨˩/",
+    "level": 3,
+    "day_introduced": 18
+  },
+  "v221": {
+    "id": "v221",
+    "vi": "trông",
+    "en": "to look, to appear",
+    "ipa": "/ʈoŋ˧/",
+    "level": 3,
+    "day_introduced": 18
+  },
+  "v222": {
+    "id": "v222",
+    "vi": "tôi nghĩ",
+    "en": "I think",
+    "ipa": "/toj˧ ŋi˧ˀ˥/",
+    "level": 3,
+    "day_introduced": 19
+  },
+  "v223": {
+    "id": "v223",
+    "vi": "theo tôi",
+    "en": "in my opinion",
+    "ipa": "/tʰɛw˧ toj˧/",
+    "level": 3,
+    "day_introduced": 19
+  },
+  "v224": {
+    "id": "v224",
+    "vi": "đâu",
+    "en": "no way / not at all (emphatic)",
+    "ipa": "/ɗəw˧/",
+    "level": 3,
+    "day_introduced": 20
+  },
+  "v225": {
+    "id": "v225",
+    "vi": "luôn",
+    "en": "right away / altogether (intensifier)",
+    "ipa": "/luən˧/",
+    "level": 3,
+    "day_introduced": 20
+  },
+  "v226": {
+    "id": "v226",
+    "vi": "chứ",
+    "en": "of course / surely",
+    "ipa": "/t͡ɕɨ˧˥/",
+    "level": 3,
+    "day_introduced": 20
+  },
+  "v227": {
+    "id": "v227",
+    "vi": "mà",
+    "en": "but / you see (insisting)",
+    "ipa": "/maː˨˩/",
+    "level": 3,
+    "day_introduced": 20
+  },
+  "v228": {
+    "id": "v228",
+    "vi": "dở",
+    "en": "bad, not tasty",
+    "ipa": "/jəː˧˩˧/",
+    "level": 3,
+    "day_introduced": 21
+  },
+  "v229": {
+    "id": "v229",
+    "vi": "tuyệt",
+    "en": "great, wonderful",
+    "ipa": "/twiət˨˩ʔ/",
+    "level": 3,
+    "day_introduced": 21
+  },
+  "v230": {
+    "id": "v230",
+    "vi": "áo",
+    "en": "shirt, top",
+    "ipa": "/aːw˧˥/",
+    "level": 3,
+    "day_introduced": 22
+  },
+  "v231": {
+    "id": "v231",
+    "vi": "quần",
+    "en": "pants",
+    "ipa": "/kwən˨˩/",
+    "level": 3,
+    "day_introduced": 22
+  },
+  "v232": {
+    "id": "v232",
+    "vi": "thử",
+    "en": "to try (on)",
+    "ipa": "/tʰɨ˧˩˧/",
+    "level": 3,
+    "day_introduced": 22
+  },
+  "v233": {
+    "id": "v233",
+    "vi": "chật",
+    "en": "tight",
+    "ipa": "/t͡ɕət˨˩ʔ/",
+    "level": 3,
+    "day_introduced": 23
+  },
+  "v234": {
+    "id": "v234",
+    "vi": "rộng",
+    "en": "loose, roomy",
+    "ipa": "/zoŋ˨˩ʔ/",
+    "level": 3,
+    "day_introduced": 23
+  },
+  "v235": {
+    "id": "v235",
+    "vi": "vừa",
+    "en": "fits, just right",
+    "ipa": "/vɨə˨˩/",
+    "level": 3,
+    "day_introduced": 23
+  },
+  "v236": {
+    "id": "v236",
+    "vi": "giống",
+    "en": "the same, alike",
+    "ipa": "/zoŋ˧˥/",
+    "level": 3,
+    "day_introduced": 24
+  },
+  "v237": {
+    "id": "v237",
+    "vi": "khác",
+    "en": "different",
+    "ipa": "/xaːk˧˥/",
+    "level": 3,
+    "day_introduced": 24
+  },
+  "v238": {
+    "id": "v238",
+    "vi": "đây là",
+    "en": "this is",
+    "ipa": "/ɗəj˧ laː˨˩/",
+    "level": 3,
+    "day_introduced": 25
+  },
+  "v239": {
+    "id": "v239",
+    "vi": "giới thiệu",
+    "en": "to introduce",
+    "ipa": "/zəj˧˥ tʰiəw˨˩ʔ/",
+    "level": 3,
+    "day_introduced": 25
+  },
+  "v240": {
+    "id": "v240",
+    "vi": "bạn bè",
+    "en": "friends",
+    "ipa": "/ɓaːn˨˩ʔ ɓɛ˨˩/",
+    "level": 3,
+    "day_introduced": 26
+  },
+  "v241": {
+    "id": "v241",
+    "vi": "quen",
+    "en": "to know, be acquainted",
+    "ipa": "/kwɛn˧/",
+    "level": 3,
+    "day_introduced": 26
+  },
+  "v242": {
+    "id": "v242",
+    "vi": "mời",
+    "en": "to invite",
+    "ipa": "/məːj˨˩/",
+    "level": 3,
+    "day_introduced": 27
+  },
+  "v243": {
+    "id": "v243",
+    "vi": "sinh nhật",
+    "en": "birthday",
+    "ipa": "/siɲ˧ ɲət˨˩ʔ/",
+    "level": 3,
+    "day_introduced": 27
+  },
+  "v244": {
+    "id": "v244",
+    "vi": "tham gia",
+    "en": "to join, attend",
+    "ipa": "/tʰaːm˧ zaː˧/",
+    "level": 3,
+    "day_introduced": 28
+  },
+  "v245": {
+    "id": "v245",
+    "vi": "tiệc",
+    "en": "party",
+    "ipa": "/tiək˨˩ʔ/",
+    "level": 3,
+    "day_introduced": 28
+  },
+  "v246": {
+    "id": "v246",
+    "vi": "họp mặt",
+    "en": "get-together, reunion",
+    "ipa": "/hɔp˨˩ʔ mat˨˩ʔ/",
+    "level": 3,
+    "day_introduced": 29
+  },
+  "v247": {
+    "id": "v247",
+    "vi": "vui vẻ",
+    "en": "cheerful, fun",
+    "ipa": "/vuj˧ vɛ˧˩˧/",
+    "level": 3,
+    "day_introduced": 29
   }
 }

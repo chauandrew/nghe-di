@@ -1,0 +1,30 @@
+{
+  "id": "L3-D27",
+  "title": "Mời — Invitations",
+  "vocab": [
+    {"vi": "mời", "en": "to invite", "ipa": "/məːj˨˩/"},
+    {"vi": "sinh nhật", "en": "birthday", "ipa": "/siɲ˧ ɲət˨˩ʔ/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To play.] [PAUSE 3s] [VI: Chơi.] [EN: In the middle.] [PAUSE 3s] [VI: Ở giữa.] [EN: No way, not at all.] [PAUSE 4s] [VI: Đâu có!] [EN: What does this mean?] [VI_F: Quen.] [PAUSE 3s] [EN: To be acquainted.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: To invite is] [VI_F: Mời.] [EN: a falling tone; relax your lips for this vowel. I invite you. It is also how you offer something politely.] [PAUSE 4s] [VI: Tôi mời anh.] [EN: Good.] [PAUSE 0.5s] [EN: A birthday is] [VI_F: Sinh nhật.] [EN: Say birthday.] [PAUSE 4s] [VI: Sinh nhật.] [EN: I invite you to my birthday.] [PAUSE 4s] [VI: Tôi mời anh đi sinh nhật.] [EN: Are you free? You know] [VI: rảnh.] [EN: Are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. To invite.] [PAUSE 3s] [VI: Mời.] [EN: Birthday.] [PAUSE 3s] [VI: Sinh nhật.] [EN: I invite you to my birthday.] [PAUSE 4s] [VI: Tôi mời anh đi sinh nhật.] [EN: Are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Mời.] [PAUSE 3s] [EN: To invite.] [EN: What does this mean?] [VI_F: Sinh nhật.] [PAUSE 3s] [EN: Birthday.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần sinh nhật em. Em mời anh nha!] [VI_M: Dạ, cảm ơn em. Mấy giờ vậy?] [VI_F: Bảy giờ tối nha.] [PAUSE 0.5s] [EN: Now you try. Say, I invite you to my birthday.] [PAUSE 4s] [VI: Tôi mời anh đi sinh nhật.] [EN: Ask, are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you respond to an invitation. The preview word is] [VI: tham gia] [EN: which means to join, attend.]"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "L3-D9",
+  "title": "Trong nhà — Rooms of the house",
+  "vocab": [
+    {"vi": "phòng khách", "en": "living room", "ipa": "/fɔŋ˨˩ xaːk˧˥/"},
+    {"vi": "phòng ngủ", "en": "bedroom", "ipa": "/fɔŋ˨˩ ŋu˧˩˧/"},
+    {"vi": "bếp", "en": "kitchen", "ipa": "/ɓep˧˥/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: I will go.] [PAUSE 4s] [VI: Tôi sẽ đi.] [EN: Are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: A new car.] [PAUSE 4s] [VI: Xe mới.] [EN: What does this mean?] [VI_F: Sao rồi?] [PAUSE 3s] [EN: How's it going.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: You know] [VI: phòng,] [EN: room. The living room is] [VI_F: Phòng khách.] [EN: Say living room.] [PAUSE 4s] [VI: Phòng khách.] [EN: The bedroom is] [VI_F: Phòng ngủ.] [EN: literally, sleep room. Say bedroom.] [PAUSE 4s] [VI: Phòng ngủ.] [EN: The kitchen is] [VI_F: Bếp.] [EN: a high, rising tone. My house has two bedrooms.] [PAUSE 4s] [VI: Nhà tôi có hai phòng ngủ.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Living room.] [PAUSE 3s] [VI: Phòng khách.] [EN: Bedroom.] [PAUSE 3s] [VI: Phòng ngủ.] [EN: Kitchen.] [PAUSE 3s] [VI: Bếp.] [EN: My house has two bedrooms.] [PAUSE 4s] [VI: Nhà tôi có hai phòng ngủ.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Bếp.] [PAUSE 3s] [EN: Kitchen.] [EN: What does this mean?] [VI_F: Phòng khách.] [PAUSE 3s] [EN: Living room.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Nhà anh có mấy phòng?] [VI_M: Dạ, hai phòng ngủ, một phòng khách, và bếp.] [VI_F: Đẹp quá!] [PAUSE 0.5s] [EN: Now you try. Say, living room.] [PAUSE 4s] [VI: Phòng khách.] [EN: Say, my house has two bedrooms.] [PAUSE 4s] [VI: Nhà tôi có hai phòng ngủ.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you say where things are. The preview word is] [VI: trên] [EN: which means on, above.]"
+    }
+  ]
+}

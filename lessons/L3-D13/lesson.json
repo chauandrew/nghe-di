@@ -1,0 +1,31 @@
+{
+  "id": "L3-D13",
+  "title": "Mình đi nha — Making suggestions",
+  "vocab": [
+    {"vi": "hãy", "en": "do (gentle command)", "ipa": "/haj˧˩˧/"},
+    {"vi": "đừng", "en": "don't", "ipa": "/ɗɨŋ˨˩/"},
+    {"vi": "mình", "en": "we / let's (inclusive)", "ipa": "/miɲ˨˩/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Before, first.] [PAUSE 3s] [VI: Trước.] [EN: One hundred.] [PAUSE 4s] [VI: Một trăm.] [EN: The bank is next to the market.] [PAUSE 4s] [VI: Ngân hàng bên cạnh chợ.] [EN: What does this mean?] [VI_F: Trong.] [PAUSE 3s] [EN: Inside.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: To say let's, including yourself, use] [VI_F: Mình.] [EN: a falling tone — it means we. Add] [VI: đi] [EN: at the end for a suggestion. Let's go.] [PAUSE 4s] [VI: Mình đi.] [EN: Let's eat, okay?] [PAUSE 4s] [VI: Mình ăn nha.] [EN: Good.] [PAUSE 0.5s] [EN: For a gentle command, do this, use] [VI_F: Hãy.] [EN: before the verb. Please rest.] [PAUSE 4s] [VI: Hãy nghỉ.] [EN: For don't, use] [VI_F: Đừng.] [EN: relax your lips for this vowel. Don't be sad.] [PAUSE 4s] [VI: Đừng buồn.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Let's go.] [PAUSE 4s] [VI: Mình đi.] [EN: Let's eat, okay?] [PAUSE 4s] [VI: Mình ăn nha.] [EN: Don't be sad.] [PAUSE 4s] [VI: Đừng buồn.] [EN: Please rest.] [PAUSE 4s] [VI: Hãy nghỉ.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Đừng.] [PAUSE 3s] [EN: Don't.] [EN: What does this mean?] [VI_F: Mình.] [PAUSE 3s] [EN: We, let's.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh mệt hả? Đừng làm nữa, nghỉ đi.] [VI_M: Ừ. Mình đi cà phê nha?] [VI_F: Dạ, được!] [PAUSE 0.5s] [EN: Now you try. Say, let's go, okay?] [PAUSE 4s] [VI: Mình đi nha.] [EN: Say, don't be sad.] [PAUSE 4s] [VI: Đừng buồn.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you suggest an outing. The preview phrase is] [VI: đi dạo] [EN: which means to take a stroll.]"
+    }
+  ]
+}

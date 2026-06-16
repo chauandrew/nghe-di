@@ -1,0 +1,27 @@
+{
+  "id": "L3-D30",
+  "title": "Ôn tập — Level 3 review",
+  "vocab": [],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Today we review Level 3. Warm up.] [PAUSE 0.5s] [EN: My family has four people.] [PAUSE 4s] [VI: Gia đình tôi có bốn người.] [EN: I am a teacher.] [PAUSE 4s] [VI: Tôi là giáo viên.] [EN: I feel a bit tired.] [PAUSE 4s] [VI: Tôi thấy hơi mệt.] [EN: What does this mean?] [VI_F: Vui vẻ.] [PAUSE 3s] [EN: Cheerful, fun.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 180,
+      "script": "[EN: A tour of Level 3. Describe a thing — a beautiful, new house.] [PAUSE 4s] [VI: Nhà mới, đẹp.] [EN: Say, very beautiful, a bit small.] [PAUSE 4s] [VI: Rất đẹp, hơi nhỏ.] [EN: Say where it is — next to the market, across from the park.] [PAUSE 4s] [VI: Bên cạnh chợ, đối diện công viên.] [EN: Give a reason — because it's cheap, so I like it.] [PAUSE 4s] [VI: Vì rẻ, nên tôi thích.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Keep going. Give an opinion — I think it's great.] [PAUSE 4s] [VI: Tôi nghĩ rất tuyệt.] [EN: Deny with attitude — no way, not expensive at all!] [PAUSE 4s] [VI: Đâu có đắt!] [EN: Suggest — let's take a stroll together, okay?] [PAUSE 4s] [VI: Mình đi dạo cùng nha.] [EN: Introduce — this is my friend, Nam.] [PAUSE 4s] [VI: Đây là bạn tôi, Nam.] [EN: Now reverse. What does this mean?] [VI_F: Khác.] [PAUSE 3s] [EN: Different.] [EN: Excellent.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 155,
+      "script": "[EN: One last exchange at natural speed.] [PAUSE 0.5s] [VI_F: Cuối tuần nhà em họp mặt, em mời anh nha!] [VI_M: Đi chứ! Nhà em ở đâu?] [VI_F: Bên cạnh công viên. Nhà nhỏ, mà đẹp lắm.] [VI_M: Vui quá. Hẹn gặp lại nha!] [PAUSE 0.5s] [EN: Now you try. Invite a friend to a gathering.] [PAUSE 4s] [VI: Mình họp mặt, mời anh nha.] [EN: Accept warmly.] [PAUSE 4s] [VI: Đi chứ!] [EN: Congratulations — you have finished Level 3.] [PAUSE 0.5s] [VI: Chúc mừng!] [EN: Level 4 is next: health, money, travel, and solving problems.]"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "L3-D17",
+  "title": "Cao, hiền — Appearance and personality",
+  "vocab": [
+    {"vi": "cao", "en": "tall", "ipa": "/kaw˧/"},
+    {"vi": "thấp", "en": "short (height)", "ipa": "/tʰəp˧˥/"},
+    {"vi": "dễ thương", "en": "cute, lovable", "ipa": "/ze˧ˀ˥ tʰɨəŋ˧/"},
+    {"vi": "hiền", "en": "kind, gentle", "ipa": "/hiən˨˩/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Casual, what's up?] [PAUSE 4s] [VI: Sao vậy?] [EN: Wife.] [PAUSE 3s] [VI: Vợ.] [EN: On the table.] [PAUSE 4s] [VI: Trên bàn.] [EN: What does this mean?] [VI_F: Cho nên.] [PAUSE 3s] [EN: So, that's why.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: Tall is] [VI_F: Cao.] [EN: a flat tone. Short, in height, is] [VI_F: Thấp.] [EN: a high, rising tone. He is tall.] [PAUSE 4s] [VI: Anh ấy cao.] [EN: She added] [VI: ấy,] [EN: which after a pronoun means that person —] [VI: anh ấy] [EN: is he. Good.] [PAUSE 0.5s] [EN: Cute, or lovable, is] [VI_F: Dễ thương.] [EN: relax your lips for this vowel. Kind, or gentle, is] [VI_F: Hiền.] [EN: a falling tone. She is very kind.] [PAUSE 4s] [VI: Chị ấy rất hiền.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Tall.] [PAUSE 3s] [VI: Cao.] [EN: Short.] [PAUSE 3s] [VI: Thấp.] [EN: Cute.] [PAUSE 3s] [VI: Dễ thương.] [EN: Kind.] [PAUSE 3s] [VI: Hiền.] [EN: He is tall.] [PAUSE 4s] [VI: Anh ấy cao.] [EN: She is very kind.] [PAUSE 4s] [VI: Chị ấy rất hiền.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Thấp.] [PAUSE 3s] [EN: Short.] [EN: What does this mean?] [VI_F: Hiền.] [PAUSE 3s] [EN: Kind, gentle.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Bạn anh trông sao?] [VI_M: Anh ấy cao, dễ thương, và rất hiền.] [VI_F: Vui nha.] [PAUSE 0.5s] [EN: Now you try. Say, he is tall.] [PAUSE 4s] [VI: Anh ấy cao.] [EN: Say, she is very kind.] [PAUSE 4s] [VI: Chị ấy rất hiền.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you describe a friend. The preview word is] [VI: trông] [EN: which means to look, to appear.]"
+    }
+  ]
+}
