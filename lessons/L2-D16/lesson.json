@@ -1,0 +1,31 @@
+{
+  "id": "L2-D16",
+  "title": "Và, với, cũng — Joining ideas",
+  "vocab": [
+    {"vi": "và", "en": "and", "ipa": "/vaː˨˩/"},
+    {"vi": "với", "en": "with", "ipa": "/vəj˧˥/"},
+    {"vi": "cũng", "en": "also, too", "ipa": "/kuŋ˧ˀ˥/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: More ice.] [PAUSE 4s] [VI: Thêm đá.] [EN: See you again.] [PAUSE 4s] [VI: Hẹn gặp lại.] [EN: A man your parent's age.] [PAUSE 3s] [VI: Chú.] [EN: Yesterday I went out.] [PAUSE 4s] [VI: Hôm qua tôi đi chơi.] [EN: What does this mean?] [VI_F: Tuần trước.] [PAUSE 3s] [EN: Last week.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: To join two things, and is] [VI_F: Và.] [EN: a falling tone. Coffee and water.] [PAUSE 4s] [VI: Cà phê và nước.] [EN: Good.] [PAUSE 0.5s] [EN: With, as in together with someone, is] [VI_F: Với.] [EN: a high, rising tone. I go out with a friend.] [PAUSE 4s] [VI: Tôi đi chơi với bạn.] [EN: Good.] [PAUSE 0.5s] [EN: Also, or too, is] [VI_F: Cũng.] [EN: a broken, rising tone; it goes before the verb. I also like coffee.] [PAUSE 4s] [VI: Tôi cũng thích cà phê.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. And.] [PAUSE 3s] [VI: Và.] [EN: With.] [PAUSE 3s] [VI: Với.] [EN: Also.] [PAUSE 3s] [VI: Cũng.] [EN: Coffee and water.] [PAUSE 4s] [VI: Cà phê và nước.] [EN: I go out with a friend.] [PAUSE 4s] [VI: Tôi đi chơi với bạn.] [EN: I also like coffee.] [PAUSE 4s] [VI: Tôi cũng thích cà phê.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Với.] [PAUSE 3s] [EN: With.] [EN: What does this mean?] [VI_F: Cũng.] [PAUSE 3s] [EN: Also, too.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần em đi chơi với bạn.] [VI_M: À, anh cũng đi chơi.] [VI_F: Vui nha!] [PAUSE 0.5s] [EN: Now you try. Say coffee and water.] [PAUSE 4s] [VI: Cà phê và nước.] [EN: Say I also like coffee.] [PAUSE 4s] [VI: Tôi cũng thích cà phê.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn months and dates. The preview word is] [VI: tháng] [EN: which means month.]"
+    }
+  ]
+}

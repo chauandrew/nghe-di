@@ -1,0 +1,31 @@
+{
+  "id": "L2-D8",
+  "title": "Trước, sau — Putting things in order",
+  "vocab": [
+    {"vi": "trước", "en": "before, first", "ipa": "/ʈɨək˧˥/"},
+    {"vi": "sau", "en": "after", "ipa": "/saw˧/"},
+    {"vi": "sau đó", "en": "after that, then", "ipa": "/saw˧ ɗɔ˧˥/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: How much?] [PAUSE 3s] [VI: Bao nhiêu?] [EN: Near.] [PAUSE 3s] [VI: Gần.] [EN: Three thirty.] [PAUSE 4s] [VI: Ba giờ rưỡi.] [EN: I usually cook.] [PAUSE 4s] [VI: Tôi thường nấu ăn.] [EN: What does this mean?] [VI_F: Thỉnh thoảng.] [PAUSE 3s] [EN: Sometimes.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: To sequence events, use these words. First, or before, is] [VI_F: Trước.] [EN: a high, rising tone. After is] [VI_F: Sau.] [EN: a flat tone. And after that is] [VI_F: Sau đó.] [EN: Say after that.] [PAUSE 4s] [VI: Sau đó.] [EN: Good.] [PAUSE 0.5s] [EN: You already know] [VI: rồi] [EN: for then, or next. So a routine: first I wake up, then I eat breakfast, after that I go to work.] [PAUSE 0.5s] [VI_M: Tôi dậy trước, rồi ăn sáng, sau đó đi làm.] [EN: Say, I wake up first.] [PAUSE 4s] [VI: Tôi dậy trước.] [EN: Then I eat breakfast.] [PAUSE 4s] [VI: Rồi ăn sáng.] [EN: After that, I go to work.] [PAUSE 4s] [VI: Sau đó đi làm.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Before, or first.] [PAUSE 3s] [VI: Trước.] [EN: After.] [PAUSE 3s] [VI: Sau.] [EN: After that.] [PAUSE 3s] [VI: Sau đó.] [EN: I eat breakfast first.] [PAUSE 4s] [VI: Tôi ăn sáng trước.] [EN: After that, I go to work.] [PAUSE 4s] [VI: Sau đó đi làm.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Sau đó.] [PAUSE 3s] [EN: After that.] [EN: What does this mean?] [VI_F: Trước.] [PAUSE 3s] [EN: Before, or first.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Buổi sáng anh làm gì?] [VI_M: Tôi dậy trước, rồi ăn sáng, sau đó đi làm.] [VI_F: Đều đặn ghê.] [PAUSE 0.5s] [EN: Now you try. Say I wake up first, then eat breakfast.] [PAUSE 4s] [VI: Tôi dậy trước, rồi ăn sáng.] [EN: Say, after that, I go to work.] [PAUSE 4s] [VI: Sau đó đi làm.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn to address older and younger people. The preview word is] [VI: ông] [EN: which addresses an older man, like a grandfather.]"
+    }
+  ]
+}

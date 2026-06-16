@@ -1,0 +1,31 @@
+{
+  "id": "L2-D28",
+  "title": "Mua vé — At the station",
+  "vocab": [
+    {"vi": "ga", "en": "station", "ipa": "/ɣaː˧/"},
+    {"vi": "vé", "en": "ticket", "ipa": "/vɛ˧˥/"},
+    {"vi": "chuyến", "en": "trip, departure", "ipa": "/t͡ɕwiən˧˥/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Supermarket.] [PAUSE 3s] [VI: Siêu thị.] [EN: What's up? casually.] [PAUSE 4s] [VI: Sao vậy?] [EN: Cheaper.] [PAUSE 3s] [VI: Rẻ hơn.] [EN: One hundred.] [PAUSE 4s] [VI: Một trăm.] [EN: What does this mean?] [VI_F: Thứ tự.] [PAUSE 3s] [EN: Order, ranking.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: A station is] [VI_F: Ga.] [EN: a flat tone. The train station is] [VI: ga xe lửa.] [EN: A ticket is] [VI_F: Vé.] [EN: a high, rising tone. To buy is] [VI: mua.] [EN: I want to buy a ticket.] [PAUSE 4s] [VI: Tôi muốn mua vé.] [EN: Good.] [PAUSE 0.5s] [EN: A scheduled trip or departure is] [VI_F: Chuyến.] [EN: a high, rising tone. To ask which departure, say] [VI: chuyến nào.] [EN: The next trip.] [PAUSE 4s] [VI: Chuyến sau.] [EN: I want a ticket for the next trip.] [PAUSE 4s] [VI: Tôi muốn mua vé chuyến sau.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Station.] [PAUSE 3s] [VI: Ga.] [EN: Ticket.] [PAUSE 3s] [VI: Vé.] [EN: Trip, departure.] [PAUSE 3s] [VI: Chuyến.] [EN: I want to buy a ticket.] [PAUSE 4s] [VI: Tôi muốn mua vé.] [EN: A ticket for the next trip.] [PAUSE 4s] [VI: Vé chuyến sau.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Vé.] [PAUSE 3s] [EN: Ticket.] [EN: What does this mean?] [VI_F: Chuyến.] [PAUSE 3s] [EN: Trip, departure.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen at the station.] [PAUSE 0.5s] [VI_M: Chị ơi, cho tôi mua vé đi Đà Lạt.] [VI_F: Dạ, chuyến mấy giờ anh?] [VI_M: Chuyến sau. Bao nhiêu vậy?] [VI_F: Dạ, hai trăm ngàn.] [PAUSE 0.5s] [EN: Now you try. Say I want to buy a ticket.] [PAUSE 4s] [VI: Tôi muốn mua vé.] [EN: Say, the next trip.] [PAUSE 4s] [VI: Chuyến sau.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you describe a normal day. The preview word is] [VI: bình thường] [EN: which means usual, normal.]"
+    }
+  ]
+}

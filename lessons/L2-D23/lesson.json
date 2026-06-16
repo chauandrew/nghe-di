@@ -1,0 +1,30 @@
+{
+  "id": "L2-D23",
+  "title": "Rủ đi chơi — Inviting someone out",
+  "vocab": [
+    {"vi": "rủ", "en": "to invite along, ask to join", "ipa": "/zu˧˩˧/"},
+    {"vi": "rảnh", "en": "free, not busy", "ipa": "/zaɲ˧˩˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Give me the bill.] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [EN: Sometimes.] [PAUSE 3s] [VI: Thỉnh thoảng.] [EN: With.] [PAUSE 3s] [VI: Với.] [EN: I like to watch movies.] [PAUSE 4s] [VI: Tôi thích xem phim.] [EN: What does this mean?] [VI_F: Nghe nhạc.] [PAUSE 3s] [EN: To listen to music.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: To ask someone along, the verb is] [VI_F: Rủ.] [EN: a falling, rising tone. But first, check they are free. Free, not busy, is] [VI_F: Rảnh.] [EN: also falling, rising. Are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Good.] [PAUSE 0.5s] [EN: Then invite, using the question frame you know,] [VI: đi ... không.] [EN: Want to go out?] [PAUSE 4s] [VI: Đi chơi không?] [EN: Soften it with nha. Let's go out, okay?] [PAUSE 4s] [VI: Đi chơi nha.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. To invite along.] [PAUSE 3s] [VI: Rủ.] [EN: Free, not busy.] [PAUSE 3s] [VI: Rảnh.] [EN: Are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Want to go out?] [PAUSE 4s] [VI: Đi chơi không?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Rảnh?] [PAUSE 3s] [EN: Free, not busy.] [EN: What does this mean?] [VI_F: Rủ.] [PAUSE 3s] [EN: To invite along.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần anh rảnh không? Đi chơi nha?] [VI_M: Dạ rảnh. Đi đâu vậy?] [VI_F: Đi xem phim nghen.] [VI_M: Ừ, được!] [PAUSE 0.5s] [EN: Now you try. Ask, are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Invite them out, warmly.] [PAUSE 4s] [VI: Đi chơi nha.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you say how long you have been doing something. The preview phrase is] [VI: bao lâu rồi] [EN: which means how long so far.]"
+    }
+  ]
+}

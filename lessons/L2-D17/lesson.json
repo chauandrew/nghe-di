@@ -1,0 +1,30 @@
+{
+  "id": "L2-D17",
+  "title": "Tháng, ngày — Months and dates",
+  "vocab": [
+    {"vi": "tháng", "en": "month", "ipa": "/tʰaːŋ˧˥/"},
+    {"vi": "ngày mấy", "en": "what date (which day)", "ipa": "/ŋaj˨˩ məj˧˥/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: I like coffee.] [PAUSE 4s] [VI: Tôi thích cà phê.] [EN: Morning.] [PAUSE 3s] [VI: Buổi sáng.] [EN: Afternoon.] [PAUSE 3s] [VI: Buổi chiều.] [EN: I also like coffee.] [PAUSE 4s] [VI: Tôi cũng thích cà phê.] [EN: What does this mean?] [VI_F: Với.] [PAUSE 3s] [EN: With.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: Months are numbered. Month is] [VI_F: Tháng.] [EN: a high, rising tone. January is just month one.] [VI_F: Tháng một.] [EN: Say month one, January.] [PAUSE 4s] [VI: Tháng một.] [EN: May is month five.] [PAUSE 4s] [VI: Tháng năm.] [EN: Good. You already know] [VI: năm] [EN: also means year — here, with] [VI: tháng,] [EN: it is the number five.] [PAUSE 0.5s] [EN: To ask the date, what day, say] [VI_F: Ngày mấy?] [EN: using] [VI: mấy,] [EN: how many, that you know. What is the date today?] [PAUSE 4s] [VI: Hôm nay ngày mấy?] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Month.] [PAUSE 3s] [VI: Tháng.] [EN: January, month one.] [PAUSE 4s] [VI: Tháng một.] [EN: May, month five.] [PAUSE 4s] [VI: Tháng năm.] [EN: What is the date today?] [PAUSE 4s] [VI: Hôm nay ngày mấy?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Tháng.] [PAUSE 3s] [EN: Month.] [EN: What does this mean?] [VI_F: Ngày mấy?] [PAUSE 3s] [EN: What date.] [EN: And, what day of the week?] [PAUSE 4s] [VI: Hôm nay thứ mấy?] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Hôm nay ngày mấy anh?] [VI_M: Dạ, ngày mười, tháng năm.] [VI_F: À, cảm ơn anh.] [PAUSE 0.5s] [EN: Now you try. Ask what the date is today.] [PAUSE 4s] [VI: Hôm nay ngày mấy?] [EN: Say, January, month one.] [PAUSE 4s] [VI: Tháng một.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you make an appointment. The preview word is] [VI: hẹn] [EN: which means to make a date or appointment.]"
+    }
+  ]
+}

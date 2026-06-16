@@ -1,0 +1,31 @@
+{
+  "id": "L2-D13",
+  "title": "Đi xe gì — Transport",
+  "vocab": [
+    {"vi": "xe buýt", "en": "bus", "ipa": "/sɛ˧ ɓwit˧˥/"},
+    {"vi": "Grab", "en": "Grab (ride app)", "ipa": "/ɣɛp/"},
+    {"vi": "máy bay", "en": "airplane", "ipa": "/maj˧˥ ɓaj˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Very delicious!] [PAUSE 4s] [VI: Ngon quá!] [EN: I am lost.] [PAUSE 4s] [VI: Tôi bị lạc.] [EN: To work.] [PAUSE 4s] [VI: Làm việc.] [EN: What's up? casually.] [PAUSE 4s] [VI: Sao vậy?] [EN: What does this mean?] [VI_F: Buổi chiều.] [PAUSE 3s] [EN: Afternoon.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: To go somewhere, you say] [VI: đi] [EN: plus the vehicle. A bus is] [VI_F: Xe buýt.] [EN: Say I go by bus.] [PAUSE 4s] [VI: Tôi đi xe buýt.] [EN: A Grab ride is just] [VI_F: Grab.] [EN: To book a Grab, you can say] [VI: đặt Grab.] [EN: I will book a Grab.] [PAUSE 4s] [VI: Tôi sẽ đặt Grab.] [EN: Good.] [PAUSE 0.5s] [EN: An airplane is] [VI_F: Máy bay.] [VI_F: Máy] [EN: has a high, rising tone. Say airplane.] [PAUSE 4s] [VI: Máy bay.] [EN: Tomorrow I will go by plane.] [PAUSE 4s] [VI: Ngày mai tôi sẽ đi máy bay.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Bus.] [PAUSE 3s] [VI: Xe buýt.] [EN: Airplane.] [PAUSE 3s] [VI: Máy bay.] [EN: I go by bus.] [PAUSE 4s] [VI: Tôi đi xe buýt.] [EN: I will book a Grab.] [PAUSE 4s] [VI: Tôi sẽ đặt Grab.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Máy bay.] [PAUSE 3s] [EN: Airplane.] [EN: What does this mean?] [VI_F: Xe buýt.] [PAUSE 3s] [EN: Bus.] [EN: And, how long? from before.] [PAUSE 4s] [VI: Bao lâu?] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh đi bằng gì?] [VI_M: Dạ, tôi đặt Grab. Đi xe buýt lâu quá.] [VI_F: Ừ.] [EN: She said] [VI: ừ] [EN: a casual yes.] [PAUSE 0.5s] [EN: Now you try. Say I go by bus.] [PAUSE 4s] [VI: Tôi đi xe buýt.] [EN: Say I will book a Grab.] [PAUSE 4s] [VI: Tôi sẽ đặt Grab.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you make weekend plans. The preview phrase is] [VI: cuối tuần] [EN: which means the weekend.]"
+    }
+  ]
+}

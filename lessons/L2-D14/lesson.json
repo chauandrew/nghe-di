@@ -1,0 +1,30 @@
+{
+  "id": "L2-D14",
+  "title": "Cuối tuần — Weekend plans",
+  "vocab": [
+    {"vi": "cuối tuần", "en": "weekend", "ipa": "/kuəj˧˥ twən˨˩/"},
+    {"vi": "nghỉ", "en": "to rest, have off", "ipa": "/ŋi˧˩˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Is there coffee?] [PAUSE 4s] [VI: Có cà phê không?] [EN: I need medicine.] [PAUSE 4s] [VI: Tôi cần thuốc.] [EN: Sometimes.] [PAUSE 3s] [VI: Thỉnh thoảng.] [EN: When.] [PAUSE 3s] [VI: Khi.] [EN: What does this mean?] [VI_F: Máy bay.] [PAUSE 3s] [EN: Airplane.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: The weekend is] [VI_F: Cuối tuần.] [EN: Say the weekend.] [PAUSE 4s] [VI: Cuối tuần.] [EN: To rest, or have a day off, is] [VI_F: Nghỉ.] [EN: a falling, rising tone. Say to rest.] [PAUSE 4s] [VI: Nghỉ.] [EN: Now make a plan with] [VI: sẽ,] [EN: will. This weekend I will rest.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ nghỉ.] [EN: Good.] [PAUSE 0.5s] [EN: This weekend I will go to the market.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ đi Bến Thành.] [EN: To ask someone's plan, use what will you do. What will you do this weekend?] [PAUSE 4s] [VI: Cuối tuần anh sẽ làm gì?] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Weekend.] [PAUSE 3s] [VI: Cuối tuần.] [EN: To rest.] [PAUSE 3s] [VI: Nghỉ.] [EN: This weekend I will rest.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ nghỉ.] [EN: What will you do this weekend?] [PAUSE 4s] [VI: Cuối tuần anh sẽ làm gì?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Nghỉ.] [PAUSE 3s] [EN: To rest, have off.] [EN: What does this mean?] [VI_F: Cuối tuần.] [PAUSE 3s] [EN: Weekend.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần anh làm gì vậy?] [VI_M: Dạ, tôi sẽ nghỉ. Còn chị?] [VI_F: Em sẽ đi chơi.] [PAUSE 0.5s] [EN: Now you try. Ask, what will you do this weekend?] [PAUSE 4s] [VI: Cuối tuần anh sẽ làm gì?] [EN: Say, this weekend I will rest.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ nghỉ.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you talk about yesterday. The preview phrase is] [VI: đi chơi] [EN: which means to go out, hang out.]"
+    }
+  ]
+}

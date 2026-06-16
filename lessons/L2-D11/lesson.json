@@ -1,0 +1,30 @@
+{
+  "id": "L2-D11",
+  "title": "Khi, lúc — Saying when",
+  "vocab": [
+    {"vi": "khi", "en": "when (at the time that)", "ipa": "/xi˧/"},
+    {"vi": "lúc", "en": "at (a time); the moment", "ipa": "/luk˧˥/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Thousand.] [PAUSE 3s] [VI: Ngàn.] [EN: Sold out.] [PAUSE 4s] [VI: Hết rồi.] [EN: I will go.] [PAUSE 4s] [VI: Tôi sẽ đi.] [EN: After that.] [PAUSE 3s] [VI: Sau đó.] [EN: What does this mean?] [VI_F: Buổi chiều.] [PAUSE 3s] [EN: Afternoon.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: You met this word already, in telling time — at six o'clock is] [VI: lúc sáu giờ.] [EN: It means at a moment.] [VI_F: Lúc.] [EN: a high, rising tone. I wake up at six.] [PAUSE 4s] [VI: Tôi dậy lúc sáu giờ.] [EN: Good.] [PAUSE 0.5s] [EN: To join two actions in time, use] [VI_F: Khi.] [EN: which means when, a flat tone. When I wake up, I eat breakfast.] [PAUSE 0.5s] [VI_M: Khi tôi dậy, tôi ăn sáng.] [EN: Say, when I wake up.] [PAUSE 4s] [VI: Khi tôi dậy.] [EN: When I go home, I cook.] [PAUSE 4s] [VI: Khi tôi về nhà, tôi nấu ăn.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. At, a moment.] [PAUSE 3s] [VI: Lúc.] [EN: When.] [PAUSE 3s] [VI: Khi.] [EN: At eight o'clock.] [PAUSE 4s] [VI: Lúc tám giờ.] [EN: When I wake up, I eat breakfast.] [PAUSE 4s] [VI: Khi tôi dậy, tôi ăn sáng.] [EN: When I go home, I cook.] [PAUSE 4s] [VI: Khi tôi về nhà, tôi nấu ăn.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Khi.] [PAUSE 3s] [EN: When.] [EN: What does this mean?] [VI_F: Lúc.] [PAUSE 3s] [EN: At, a moment.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Khi nào anh về nhà?] [VI_M: Dạ, lúc năm giờ. Khi về nhà, tôi nấu ăn.] [VI_F: Vậy hả.] [PAUSE 0.5s] [EN: Now you try. Say at six o'clock.] [PAUSE 4s] [VI: Lúc sáu giờ.] [EN: Say, when I go home, I cook.] [PAUSE 4s] [VI: Khi tôi về nhà, tôi nấu ăn.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn casual, everyday questions. The preview word is] [VI: vậy] [EN: which softens a question, like saying so.]"
+    }
+  ]
+}

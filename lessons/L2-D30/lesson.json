@@ -1,0 +1,30 @@
+{
+  "id": "L2-D30",
+  "title": "Ôn tập — Level 2 review",
+  "vocab": [
+    {"vi": "ôn tập", "en": "to review", "ipa": "/on˧ təp˨˩ʔ/"},
+    {"vi": "tiếp theo", "en": "next", "ipa": "/tiəp˧˥ tʰɛw˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Today we review Level 2. Warm up.] [PAUSE 0.5s] [EN: This weekend I will rest.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ nghỉ.] [EN: I want to buy a ticket.] [PAUSE 4s] [VI: Tôi muốn mua vé.] [EN: How are you these days?] [PAUSE 4s] [VI: Dạo này anh khỏe không?] [EN: What does this mean?] [VI_F: Bình thường.] [PAUSE 3s] [EN: Usual, normal.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 175,
+      "script": "[EN: To review is] [VI_F: Ôn tập.] [EN: Say to review.] [PAUSE 4s] [VI: Ôn tập.] [EN: And next is] [VI_F: Tiếp theo.] [EN: Say next.] [PAUSE 4s] [VI: Tiếp theo.] [EN: Now let us tour Level 2. Say what time it is — half past three.] [PAUSE 4s] [VI: Ba giờ rưỡi.] [EN: Say, I am eating.] [PAUSE 4s] [VI: Tôi đang ăn.] [EN: Say, I will go home at five.] [PAUSE 4s] [VI: Tôi sẽ về nhà lúc năm giờ.] [EN: Say, I usually cook.] [PAUSE 4s] [VI: Tôi thường nấu ăn.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Keep going. Ask, what's up? casually.] [PAUSE 4s] [VI: Sao vậy?] [EN: Say, see you tomorrow, okay?] [PAUSE 4s] [VI: Mai gặp nha.] [EN: Say, this one is cheaper.] [PAUSE 4s] [VI: Cái này rẻ hơn.] [EN: Ask, are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Say, how long have you been here?] [PAUSE 4s] [VI: Anh ở đây bao lâu rồi?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Tiếp theo.] [PAUSE 3s] [EN: Next.] [EN: Excellent.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 155,
+      "script": "[EN: One last exchange at natural speed.] [PAUSE 0.5s] [VI_F: Lâu rồi không gặp! Dạo này anh sao?] [VI_M: Dạ khỏe. Cuối tuần này anh rảnh, đi chơi nha?] [VI_F: Dạ được! Mấy giờ?] [VI_M: Mười giờ sáng nghen.] [VI_F: Ừ, hẹn gặp lại!] [PAUSE 0.5s] [EN: Now you try. Say, long time no see.] [PAUSE 4s] [VI: Lâu rồi không gặp.] [EN: Invite them out this weekend, warmly.] [PAUSE 4s] [VI: Cuối tuần đi chơi nha.] [EN: Congratulations — you have finished Level 2.] [PAUSE 0.5s] [VI: Chúc mừng!] [EN: Level 3 is next: describing people, places, and your opinions.]"
+    }
+  ]
+}

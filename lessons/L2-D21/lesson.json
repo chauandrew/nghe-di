@@ -1,0 +1,30 @@
+{
+  "id": "L2-D21",
+  "title": "Cái nào — Comparing two options",
+  "vocab": [
+    {"vi": "lớn hơn", "en": "bigger", "ipa": "/ləːn˧˥ həːn˧/"},
+    {"vi": "rẻ hơn", "en": "cheaper", "ipa": "/ʐɛ˧˩˧ həːn˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Too expensive!] [PAUSE 4s] [VI: Đắt quá!] [EN: To wake up.] [PAUSE 4s] [VI: Dậy.] [EN: This weekend I will rest.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ nghỉ.] [EN: The cheapest.] [PAUSE 4s] [VI: Rẻ nhất.] [EN: What does this mean?] [VI_F: Bằng.] [PAUSE 3s] [EN: Equal to.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: Let's combine the adjectives you know with] [VI: hơn.] [EN: Bigger is] [VI_F: Lớn hơn.] [EN: Say bigger.] [PAUSE 4s] [VI: Lớn hơn.] [EN: Cheaper is] [VI_F: Rẻ hơn.] [EN: Say cheaper.] [PAUSE 4s] [VI: Rẻ hơn.] [EN: Good.] [PAUSE 0.5s] [EN: Now choose. To ask which one, say] [VI: cái nào.] [EN: Which one is bigger?] [PAUSE 4s] [VI: Cái nào lớn hơn?] [EN: This one is bigger but that one is cheaper.] [PAUSE 4s] [VI: Cái này lớn hơn, nhưng cái đó rẻ hơn.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Bigger.] [PAUSE 3s] [VI: Lớn hơn.] [EN: Cheaper.] [PAUSE 3s] [VI: Rẻ hơn.] [EN: Which one is bigger?] [PAUSE 4s] [VI: Cái nào lớn hơn?] [EN: This one is cheaper.] [PAUSE 4s] [VI: Cái này rẻ hơn.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Lớn hơn.] [PAUSE 3s] [EN: Bigger.] [EN: What does this mean?] [VI_F: Cái nào?] [PAUSE 3s] [EN: Which one.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cái nào lớn hơn anh?] [VI_M: Cái này lớn hơn, nhưng cái đó rẻ hơn.] [VI_F: Vậy cho tôi cái đó.] [PAUSE 0.5s] [EN: Now you try. Ask, which one is cheaper?] [PAUSE 4s] [VI: Cái nào rẻ hơn?] [EN: Say, this one is bigger.] [PAUSE 4s] [VI: Cái này lớn hơn.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you talk about hobbies. The preview word is] [VI: chơi] [EN: which means to play.]"
+    }
+  ]
+}

@@ -750,5 +750,629 @@
     "ipa": "/t͡ɕuk˧˥ mɨŋ˨˩/",
     "level": 1,
     "day_introduced": 30
+  },
+  "v095": {
+    "id": "v095",
+    "vi": "giờ",
+    "en": "hour, o'clock",
+    "ipa": "/zəː˨˩/",
+    "level": 2,
+    "day_introduced": 1
+  },
+  "v096": {
+    "id": "v096",
+    "vi": "rưỡi",
+    "en": "half (past)",
+    "ipa": "/zɨəj˧˩˧/",
+    "level": 2,
+    "day_introduced": 1
+  },
+  "v097": {
+    "id": "v097",
+    "vi": "sáng",
+    "en": "morning",
+    "ipa": "/saːŋ˧˥/",
+    "level": 2,
+    "day_introduced": 1
+  },
+  "v098": {
+    "id": "v098",
+    "vi": "tối",
+    "en": "evening, night",
+    "ipa": "/toj˧˥/",
+    "level": 2,
+    "day_introduced": 1
+  },
+  "v099": {
+    "id": "v099",
+    "vi": "thứ hai",
+    "en": "Monday",
+    "ipa": "/tʰɨ˧˥ haːj˧/",
+    "level": 2,
+    "day_introduced": 2
+  },
+  "v100": {
+    "id": "v100",
+    "vi": "thứ bảy",
+    "en": "Saturday",
+    "ipa": "/tʰɨ˧˥ ɓaj˧˩˧/",
+    "level": 2,
+    "day_introduced": 2
+  },
+  "v101": {
+    "id": "v101",
+    "vi": "chủ nhật",
+    "en": "Sunday",
+    "ipa": "/t͡ɕu˧˩˧ ɲət˨˩ʔ/",
+    "level": 2,
+    "day_introduced": 2
+  },
+  "v102": {
+    "id": "v102",
+    "vi": "đang",
+    "en": "am/is/are ...ing (in progress)",
+    "ipa": "/ɗaːŋ˧/",
+    "level": 2,
+    "day_introduced": 3
+  },
+  "v103": {
+    "id": "v103",
+    "vi": "đã",
+    "en": "already / did (past marker)",
+    "ipa": "/ɗaː˧ˀ˥/",
+    "level": 2,
+    "day_introduced": 4
+  },
+  "v104": {
+    "id": "v104",
+    "vi": "sẽ",
+    "en": "will (future marker)",
+    "ipa": "/sɛ˧ˀ˥/",
+    "level": 2,
+    "day_introduced": 4
+  },
+  "v105": {
+    "id": "v105",
+    "vi": "dậy",
+    "en": "to wake up, get up",
+    "ipa": "/jəj˨˩ʔ/",
+    "level": 2,
+    "day_introduced": 5
+  },
+  "v106": {
+    "id": "v106",
+    "vi": "ngủ",
+    "en": "to sleep",
+    "ipa": "/ŋu˧˩˧/",
+    "level": 2,
+    "day_introduced": 5
+  },
+  "v107": {
+    "id": "v107",
+    "vi": "ăn sáng",
+    "en": "to eat breakfast",
+    "ipa": "/an˧ saːŋ˧˥/",
+    "level": 2,
+    "day_introduced": 5
+  },
+  "v108": {
+    "id": "v108",
+    "vi": "làm việc",
+    "en": "to work",
+    "ipa": "/laːm˨˩ viək˨˩ʔ/",
+    "level": 2,
+    "day_introduced": 6
+  },
+  "v109": {
+    "id": "v109",
+    "vi": "về nhà",
+    "en": "to go home",
+    "ipa": "/ve˨˩ ɲaː˨˩/",
+    "level": 2,
+    "day_introduced": 6
+  },
+  "v110": {
+    "id": "v110",
+    "vi": "nấu ăn",
+    "en": "to cook",
+    "ipa": "/nəw˧˥ an˧/",
+    "level": 2,
+    "day_introduced": 6
+  },
+  "v111": {
+    "id": "v111",
+    "vi": "thường",
+    "en": "usually, often",
+    "ipa": "/tʰɨəŋ˨˩/",
+    "level": 2,
+    "day_introduced": 7
+  },
+  "v112": {
+    "id": "v112",
+    "vi": "hay",
+    "en": "often (and: or)",
+    "ipa": "/haj˧/",
+    "level": 2,
+    "day_introduced": 7
+  },
+  "v113": {
+    "id": "v113",
+    "vi": "thỉnh thoảng",
+    "en": "sometimes",
+    "ipa": "/tʰiɲ˧˩˧ tʰwaːŋ˧˩˧/",
+    "level": 2,
+    "day_introduced": 7
+  },
+  "v114": {
+    "id": "v114",
+    "vi": "trước",
+    "en": "before, first",
+    "ipa": "/ʈɨək˧˥/",
+    "level": 2,
+    "day_introduced": 8
+  },
+  "v115": {
+    "id": "v115",
+    "vi": "sau",
+    "en": "after",
+    "ipa": "/saw˧/",
+    "level": 2,
+    "day_introduced": 8
+  },
+  "v116": {
+    "id": "v116",
+    "vi": "sau đó",
+    "en": "after that, then",
+    "ipa": "/saw˧ ɗɔ˧˥/",
+    "level": 2,
+    "day_introduced": 8
+  },
+  "v117": {
+    "id": "v117",
+    "vi": "ông",
+    "en": "you/I, an older man (grandfather age)",
+    "ipa": "/oŋ˧/",
+    "level": 2,
+    "day_introduced": 9
+  },
+  "v118": {
+    "id": "v118",
+    "vi": "bà",
+    "en": "you/I, an older woman (grandmother age)",
+    "ipa": "/ɓaː˨˩/",
+    "level": 2,
+    "day_introduced": 9
+  },
+  "v119": {
+    "id": "v119",
+    "vi": "cô",
+    "en": "you/I, a woman your parent's age; also Miss/teacher",
+    "ipa": "/ko˧/",
+    "level": 2,
+    "day_introduced": 9
+  },
+  "v120": {
+    "id": "v120",
+    "vi": "chú",
+    "en": "you/I, a man your parent's age",
+    "ipa": "/t͡ɕu˧˥/",
+    "level": 2,
+    "day_introduced": 9
+  },
+  "v121": {
+    "id": "v121",
+    "vi": "buổi trưa",
+    "en": "midday, noon",
+    "ipa": "/ɓuəj˧˩˧ ʈɨə˧/",
+    "level": 2,
+    "day_introduced": 10
+  },
+  "v122": {
+    "id": "v122",
+    "vi": "buổi chiều",
+    "en": "afternoon",
+    "ipa": "/ɓuəj˧˩˧ t͡ɕiəw˨˩/",
+    "level": 2,
+    "day_introduced": 10
+  },
+  "v123": {
+    "id": "v123",
+    "vi": "khi",
+    "en": "when (at the time that)",
+    "ipa": "/xi˧/",
+    "level": 2,
+    "day_introduced": 11
+  },
+  "v124": {
+    "id": "v124",
+    "vi": "lúc",
+    "en": "at (a time); the moment",
+    "ipa": "/luk˧˥/",
+    "level": 2,
+    "day_introduced": 11
+  },
+  "v125": {
+    "id": "v125",
+    "vi": "vậy",
+    "en": "so/then (softens a question)",
+    "ipa": "/vəj˨˩ʔ/",
+    "level": 2,
+    "day_introduced": 12
+  },
+  "v126": {
+    "id": "v126",
+    "vi": "hả",
+    "en": "huh? right? (casual tag)",
+    "ipa": "/haː˧˩˧/",
+    "level": 2,
+    "day_introduced": 12
+  },
+  "v127": {
+    "id": "v127",
+    "vi": "à",
+    "en": "oh / really? (realization)",
+    "ipa": "/aː˨˩/",
+    "level": 2,
+    "day_introduced": 12
+  },
+  "v128": {
+    "id": "v128",
+    "vi": "xe buýt",
+    "en": "bus",
+    "ipa": "/sɛ˧ ɓwit˧˥/",
+    "level": 2,
+    "day_introduced": 13
+  },
+  "v129": {
+    "id": "v129",
+    "vi": "Grab",
+    "en": "Grab (ride app)",
+    "ipa": "/ɣɛp/",
+    "level": 2,
+    "day_introduced": 13
+  },
+  "v130": {
+    "id": "v130",
+    "vi": "máy bay",
+    "en": "airplane",
+    "ipa": "/maj˧˥ ɓaj˧/",
+    "level": 2,
+    "day_introduced": 13
+  },
+  "v131": {
+    "id": "v131",
+    "vi": "cuối tuần",
+    "en": "weekend",
+    "ipa": "/kuəj˧˥ twən˨˩/",
+    "level": 2,
+    "day_introduced": 14
+  },
+  "v132": {
+    "id": "v132",
+    "vi": "nghỉ",
+    "en": "to rest, have off",
+    "ipa": "/ŋi˧˩˧/",
+    "level": 2,
+    "day_introduced": 14
+  },
+  "v133": {
+    "id": "v133",
+    "vi": "đi chơi",
+    "en": "to go out, hang out",
+    "ipa": "/ɗi˧ t͡ɕəːj˧/",
+    "level": 2,
+    "day_introduced": 15
+  },
+  "v134": {
+    "id": "v134",
+    "vi": "tuần trước",
+    "en": "last week",
+    "ipa": "/twən˨˩ ʈɨək˧˥/",
+    "level": 2,
+    "day_introduced": 15
+  },
+  "v135": {
+    "id": "v135",
+    "vi": "và",
+    "en": "and",
+    "ipa": "/vaː˨˩/",
+    "level": 2,
+    "day_introduced": 16
+  },
+  "v136": {
+    "id": "v136",
+    "vi": "với",
+    "en": "with",
+    "ipa": "/vəj˧˥/",
+    "level": 2,
+    "day_introduced": 16
+  },
+  "v137": {
+    "id": "v137",
+    "vi": "cũng",
+    "en": "also, too",
+    "ipa": "/kuŋ˧ˀ˥/",
+    "level": 2,
+    "day_introduced": 16
+  },
+  "v138": {
+    "id": "v138",
+    "vi": "tháng",
+    "en": "month",
+    "ipa": "/tʰaːŋ˧˥/",
+    "level": 2,
+    "day_introduced": 17
+  },
+  "v139": {
+    "id": "v139",
+    "vi": "ngày mấy",
+    "en": "what date (which day)",
+    "ipa": "/ŋaj˨˩ məj˧˥/",
+    "level": 2,
+    "day_introduced": 17
+  },
+  "v140": {
+    "id": "v140",
+    "vi": "hẹn",
+    "en": "to make an appointment, arrange to meet",
+    "ipa": "/hɛn˨˩ʔ/",
+    "level": 2,
+    "day_introduced": 18
+  },
+  "v141": {
+    "id": "v141",
+    "vi": "gặp",
+    "en": "to meet",
+    "ipa": "/ɣap˨˩ʔ/",
+    "level": 2,
+    "day_introduced": 18
+  },
+  "v142": {
+    "id": "v142",
+    "vi": "lịch",
+    "en": "schedule, calendar",
+    "ipa": "/lik˨˩ʔ/",
+    "level": 2,
+    "day_introduced": 18
+  },
+  "v143": {
+    "id": "v143",
+    "vi": "nha",
+    "en": "okay? (warm softener, southern)",
+    "ipa": "/ɲaː˧/",
+    "level": 2,
+    "day_introduced": 19
+  },
+  "v144": {
+    "id": "v144",
+    "vi": "nhé",
+    "en": "okay? (warm softener)",
+    "ipa": "/ɲɛ˧˥/",
+    "level": 2,
+    "day_introduced": 19
+  },
+  "v145": {
+    "id": "v145",
+    "vi": "nghen",
+    "en": "okay? (very southern softener)",
+    "ipa": "/ŋɛn˧/",
+    "level": 2,
+    "day_introduced": 19
+  },
+  "v146": {
+    "id": "v146",
+    "vi": "hơn",
+    "en": "more, -er (than)",
+    "ipa": "/həːn˧/",
+    "level": 2,
+    "day_introduced": 20
+  },
+  "v147": {
+    "id": "v147",
+    "vi": "bằng",
+    "en": "equal to, as ... as",
+    "ipa": "/ɓaŋ˨˩/",
+    "level": 2,
+    "day_introduced": 20
+  },
+  "v148": {
+    "id": "v148",
+    "vi": "nhất",
+    "en": "most, -est",
+    "ipa": "/ɲət˧˥/",
+    "level": 2,
+    "day_introduced": 20
+  },
+  "v149": {
+    "id": "v149",
+    "vi": "lớn hơn",
+    "en": "bigger",
+    "ipa": "/ləːn˧˥ həːn˧/",
+    "level": 2,
+    "day_introduced": 21
+  },
+  "v150": {
+    "id": "v150",
+    "vi": "rẻ hơn",
+    "en": "cheaper",
+    "ipa": "/ʐɛ˧˩˧ həːn˧/",
+    "level": 2,
+    "day_introduced": 21
+  },
+  "v151": {
+    "id": "v151",
+    "vi": "chơi",
+    "en": "to play",
+    "ipa": "/t͡ɕəːj˧/",
+    "level": 2,
+    "day_introduced": 22
+  },
+  "v152": {
+    "id": "v152",
+    "vi": "xem",
+    "en": "to watch",
+    "ipa": "/sɛm˧/",
+    "level": 2,
+    "day_introduced": 22
+  },
+  "v153": {
+    "id": "v153",
+    "vi": "nghe nhạc",
+    "en": "to listen to music",
+    "ipa": "/ŋɛ˧ ɲaːk˨˩ʔ/",
+    "level": 2,
+    "day_introduced": 22
+  },
+  "v154": {
+    "id": "v154",
+    "vi": "rủ",
+    "en": "to invite along, ask to join",
+    "ipa": "/zu˧˩˧/",
+    "level": 2,
+    "day_introduced": 23
+  },
+  "v155": {
+    "id": "v155",
+    "vi": "rảnh",
+    "en": "free, not busy",
+    "ipa": "/zaɲ˧˩˧/",
+    "level": 2,
+    "day_introduced": 23
+  },
+  "v156": {
+    "id": "v156",
+    "vi": "bao lâu rồi",
+    "en": "how long (up to now)",
+    "ipa": "/ɓaːw˧ ləw˧ zoj˨˩/",
+    "level": 2,
+    "day_introduced": 24
+  },
+  "v157": {
+    "id": "v157",
+    "vi": "được",
+    "en": "for (a duration); to be able",
+    "ipa": "/ɗɨək˨˩ʔ/",
+    "level": 2,
+    "day_introduced": 24
+  },
+  "v158": {
+    "id": "v158",
+    "vi": "lâu rồi",
+    "en": "(it's been) a long time",
+    "ipa": "/ləw˧ zoj˨˩/",
+    "level": 2,
+    "day_introduced": 25
+  },
+  "v159": {
+    "id": "v159",
+    "vi": "dạo này",
+    "en": "these days, lately",
+    "ipa": "/jaːw˨˩ʔ naj˨˩/",
+    "level": 2,
+    "day_introduced": 25
+  },
+  "v160": {
+    "id": "v160",
+    "vi": "bận",
+    "en": "busy",
+    "ipa": "/ɓən˨˩ʔ/",
+    "level": 2,
+    "day_introduced": 26
+  },
+  "v161": {
+    "id": "v161",
+    "vi": "dời",
+    "en": "to postpone, move (a time)",
+    "ipa": "/jəːj˨˩/",
+    "level": 2,
+    "day_introduced": 26
+  },
+  "v162": {
+    "id": "v162",
+    "vi": "trễ",
+    "en": "late",
+    "ipa": "/ʈe˧ˀ˥/",
+    "level": 2,
+    "day_introduced": 26
+  },
+  "v163": {
+    "id": "v163",
+    "vi": "hai mươi",
+    "en": "twenty",
+    "ipa": "/haːj˧ mɨəj˧/",
+    "level": 2,
+    "day_introduced": 27
+  },
+  "v164": {
+    "id": "v164",
+    "vi": "một trăm",
+    "en": "one hundred",
+    "ipa": "/moˀt̚˨˩ʔ ʈam˧/",
+    "level": 2,
+    "day_introduced": 27
+  },
+  "v165": {
+    "id": "v165",
+    "vi": "thứ tự",
+    "en": "order, ranking",
+    "ipa": "/tʰɨ˧˥ tɨ˨˩ʔ/",
+    "level": 2,
+    "day_introduced": 27
+  },
+  "v166": {
+    "id": "v166",
+    "vi": "ga",
+    "en": "station",
+    "ipa": "/ɣaː˧/",
+    "level": 2,
+    "day_introduced": 28
+  },
+  "v167": {
+    "id": "v167",
+    "vi": "vé",
+    "en": "ticket",
+    "ipa": "/vɛ˧˥/",
+    "level": 2,
+    "day_introduced": 28
+  },
+  "v168": {
+    "id": "v168",
+    "vi": "chuyến",
+    "en": "trip, departure",
+    "ipa": "/t͡ɕwiən˧˥/",
+    "level": 2,
+    "day_introduced": 28
+  },
+  "v169": {
+    "id": "v169",
+    "vi": "một ngày",
+    "en": "a day",
+    "ipa": "/moˀt̚˨˩ʔ ŋaj˨˩/",
+    "level": 2,
+    "day_introduced": 29
+  },
+  "v170": {
+    "id": "v170",
+    "vi": "bình thường",
+    "en": "usual, normal",
+    "ipa": "/ɓiɲ˨˩ tʰɨəŋ˨˩/",
+    "level": 2,
+    "day_introduced": 29
+  },
+  "v171": {
+    "id": "v171",
+    "vi": "ôn tập",
+    "en": "to review",
+    "ipa": "/on˧ təp˨˩ʔ/",
+    "level": 2,
+    "day_introduced": 30
+  },
+  "v172": {
+    "id": "v172",
+    "vi": "tiếp theo",
+    "en": "next",
+    "ipa": "/tiəp˧˥ tʰɛw˧/",
+    "level": 2,
+    "day_introduced": 30
   }
 }

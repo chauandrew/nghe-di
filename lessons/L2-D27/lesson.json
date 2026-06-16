@@ -1,0 +1,31 @@
+{
+  "id": "L2-D27",
+  "title": "Số lớn — Bigger numbers and order",
+  "vocab": [
+    {"vi": "hai mươi", "en": "twenty", "ipa": "/haːj˧ mɨəj˧/"},
+    {"vi": "một trăm", "en": "one hundred", "ipa": "/moˀt̚˨˩ʔ ʈam˧/"},
+    {"vi": "thứ tự", "en": "order, ranking", "ipa": "/tʰɨ˧˥ tɨ˨˩ʔ/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Near.] [PAUSE 3s] [VI: Gần.] [EN: When.] [PAUSE 3s] [VI: Khi.] [EN: The cheapest.] [PAUSE 4s] [VI: Rẻ nhất.] [EN: Today I am busy.] [PAUSE 4s] [VI: Hôm nay tôi bận.] [EN: What does this mean?] [VI_F: Trễ.] [PAUSE 3s] [EN: Late.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: You can build the tens with] [VI: mươi.] [EN: Twenty is two tens.] [VI_F: Hai mươi.] [EN: Twenty-five, recall, is] [VI: hai mươi lăm.] [EN: Say twenty.] [PAUSE 4s] [VI: Hai mươi.] [EN: Thirty.] [PAUSE 4s] [VI: Ba mươi.] [EN: One hundred is] [VI_F: Một trăm.] [EN: Say one hundred.] [PAUSE 4s] [VI: Một trăm.] [EN: Good.] [PAUSE 0.5s] [EN: For ordinals — first, second, third — use] [VI: thứ,] [EN: the same word as for weekdays. First is] [VI: thứ nhất,] [EN: second is] [VI: thứ hai.] [EN: Order, or ranking, is] [VI_F: Thứ tự.] [EN: Say in order.] [PAUSE 4s] [VI: Thứ tự.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Twenty.] [PAUSE 3s] [VI: Hai mươi.] [EN: Thirty.] [PAUSE 3s] [VI: Ba mươi.] [EN: One hundred.] [PAUSE 4s] [VI: Một trăm.] [EN: First.] [PAUSE 4s] [VI: Thứ nhất.] [EN: Second.] [PAUSE 4s] [VI: Thứ hai.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Một trăm.] [PAUSE 3s] [EN: One hundred.] [EN: What does this mean?] [VI_F: Thứ tự.] [PAUSE 3s] [EN: Order, ranking.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cái này bao nhiêu?] [VI_M: Dạ, một trăm hai mươi ngàn.] [VI_F: Đắt quá! Bớt đi.] [PAUSE 0.5s] [EN: Now you try. Say twenty.] [PAUSE 4s] [VI: Hai mươi.] [EN: Say one hundred.] [PAUSE 4s] [VI: Một trăm.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you buy a ticket at the station. The preview word is] [VI: vé] [EN: which means ticket.]"
+    }
+  ]
+}

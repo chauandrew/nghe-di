@@ -1,0 +1,31 @@
+{
+  "id": "L2-D6",
+  "title": "Đi làm — Work, home, cooking",
+  "vocab": [
+    {"vi": "làm việc", "en": "to work", "ipa": "/laːm˨˩ viək˨˩ʔ/"},
+    {"vi": "về nhà", "en": "to go home", "ipa": "/ve˨˩ ɲaː˨˩/"},
+    {"vi": "nấu ăn", "en": "to cook", "ipa": "/nəw˧˥ an˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Say hello.] [PAUSE 3s] [VI: Xin chào.] [EN: Today.] [PAUSE 3s] [VI: Hôm nay.] [EN: I am going.] [PAUSE 4s] [VI: Tôi đang đi.] [EN: To wake up.] [PAUSE 4s] [VI: Dậy.] [EN: What does this mean?] [VI_F: Tối nay.] [PAUSE 3s] [EN: Tonight.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: To work is] [VI_F: Làm việc.] [EN: Say to work.] [PAUSE 4s] [VI: Làm việc.] [EN: In speech people often just say] [VI: đi làm,] [EN: to go to work. I go to work at eight.] [PAUSE 4s] [VI: Tôi đi làm lúc tám giờ.] [EN: Good.] [PAUSE 0.5s] [EN: To go home is] [VI_F: Về nhà.] [EN: Say to go home.] [PAUSE 4s] [VI: Về nhà.] [EN: I will go home at five.] [PAUSE 4s] [VI: Tôi sẽ về nhà lúc năm giờ.] [EN: Good.] [PAUSE 0.5s] [EN: To cook is] [VI_F: Nấu ăn.] [VI_F: Nấu] [EN: has a high, rising tone. Say to cook.] [PAUSE 4s] [VI: Nấu ăn.] [EN: In the evening I cook.] [PAUSE 4s] [VI: Buổi tối tôi nấu ăn.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. To work.] [PAUSE 4s] [VI: Làm việc.] [EN: To go home.] [PAUSE 4s] [VI: Về nhà.] [EN: To cook.] [PAUSE 4s] [VI: Nấu ăn.] [EN: I go to work at eight.] [PAUSE 4s] [VI: Tôi đi làm lúc tám giờ.] [EN: I will go home at five.] [PAUSE 4s] [VI: Tôi sẽ về nhà lúc năm giờ.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Về nhà.] [PAUSE 3s] [EN: To go home.] [EN: What does this mean?] [VI_F: Nấu ăn.] [PAUSE 3s] [EN: To cook.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh đi làm mấy giờ?] [VI_M: Dạ, tám giờ. Buổi tối tôi về nhà nấu ăn.] [VI_F: Giỏi quá!] [PAUSE 0.5s] [EN: Now you try. Say I go to work at eight.] [PAUSE 4s] [VI: Tôi đi làm lúc tám giờ.] [EN: Say I will go home and cook.] [PAUSE 4s] [VI: Tôi sẽ về nhà nấu ăn.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you say how often you do things. The preview word is] [VI: thường] [EN: which means usually.]"
+    }
+  ]
+}

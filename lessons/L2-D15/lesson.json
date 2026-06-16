@@ -1,0 +1,30 @@
+{
+  "id": "L2-D15",
+  "title": "Hôm qua — Talking about yesterday",
+  "vocab": [
+    {"vi": "đi chơi", "en": "to go out, hang out", "ipa": "/ɗi˧ t͡ɕəːj˧/"},
+    {"vi": "tuần trước", "en": "last week", "ipa": "/twən˨˩ ʈɨək˧˥/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Have you eaten yet?] [PAUSE 4s] [VI: Anh ăn chưa?] [EN: Tonight.] [PAUSE 3s] [VI: Tối nay.] [EN: After that.] [PAUSE 3s] [VI: Sau đó.] [EN: This weekend I will rest.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ nghỉ.] [EN: What does this mean?] [VI_F: Nghỉ.] [PAUSE 3s] [EN: To rest.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: To talk about the past, use] [VI: đã,] [EN: or just a past time word. Yesterday is] [VI: hôm qua.] [EN: To go out, or hang out, is] [VI_F: Đi chơi.] [EN: Say to go out.] [PAUSE 4s] [VI: Đi chơi.] [EN: Yesterday I went out.] [PAUSE 4s] [VI: Hôm qua tôi đi chơi.] [EN: Good. Notice the verb did not change — the time word] [VI: hôm qua] [EN: already tells you it is past.] [PAUSE 0.5s] [EN: Last week is] [VI_F: Tuần trước.] [EN: Say last week.] [PAUSE 4s] [VI: Tuần trước.] [EN: Last week I went to the market.] [PAUSE 4s] [VI: Tuần trước tôi đi Bến Thành.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. To go out.] [PAUSE 3s] [VI: Đi chơi.] [EN: Last week.] [PAUSE 3s] [VI: Tuần trước.] [EN: Yesterday I went out.] [PAUSE 4s] [VI: Hôm qua tôi đi chơi.] [EN: Last week I went to the market.] [PAUSE 4s] [VI: Tuần trước tôi đi Bến Thành.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Tuần trước.] [PAUSE 3s] [EN: Last week.] [EN: What does this mean?] [VI_F: Đi chơi.] [PAUSE 3s] [EN: To go out.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Hôm qua anh làm gì?] [VI_M: Dạ, tôi đi chơi với bạn.] [VI_F: Vui không?] [VI_M: Vui lắm!] [PAUSE 0.5s] [EN: Now you try. Say yesterday I went out.] [PAUSE 4s] [VI: Hôm qua tôi đi chơi.] [EN: Say last week I went to the market.] [PAUSE 4s] [VI: Tuần trước tôi đi Bến Thành.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you join ideas together. The preview word is] [VI: và] [EN: which means and.]"
+    }
+  ]
+}

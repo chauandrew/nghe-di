@@ -1,0 +1,31 @@
+{
+  "id": "L2-D5",
+  "title": "Buổi sáng — Morning routine",
+  "vocab": [
+    {"vi": "dậy", "en": "to wake up, get up", "ipa": "/jəj˨˩ʔ/"},
+    {"vi": "ngủ", "en": "to sleep", "ipa": "/ŋu˧˩˧/"},
+    {"vi": "ăn sáng", "en": "to eat breakfast", "ipa": "/an˧ saːŋ˧˥/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To order.] [PAUSE 4s] [VI: Gọi món.] [EN: I will go.] [PAUSE 4s] [VI: Tôi sẽ đi.] [EN: Monday.] [PAUSE 3s] [VI: Thứ hai.] [EN: What does this mean?] [VI_F: Tôi đã ăn.] [PAUSE 3s] [EN: I already ate.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: Now some daily-routine verbs you can plug into the markers] [VI: đang, đã, sẽ.] [EN: To wake up is] [VI_F: Dậy.] [EN: It has a falling, broken tone. In the south the d sounds like a y. Say wake up.] [PAUSE 4s] [VI: Dậy.] [EN: I wake up at six.] [PAUSE 4s] [VI: Tôi dậy lúc sáu giờ.] [EN: Good.] [PAUSE 0.5s] [EN: To sleep is] [VI_F: Ngủ.] [EN: a falling, rising tone. Say to sleep.] [PAUSE 4s] [VI: Ngủ.] [EN: To eat breakfast is] [VI_F: Ăn sáng.] [EN: literally, eat morning. Say eat breakfast.] [PAUSE 4s] [VI: Ăn sáng.] [EN: Now, I am eating breakfast.] [PAUSE 4s] [VI: Tôi đang ăn sáng.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. To wake up.] [PAUSE 4s] [VI: Dậy.] [EN: To sleep.] [PAUSE 4s] [VI: Ngủ.] [EN: To eat breakfast.] [PAUSE 4s] [VI: Ăn sáng.] [EN: I wake up at six.] [PAUSE 4s] [VI: Tôi dậy lúc sáu giờ.] [EN: I am eating breakfast.] [PAUSE 4s] [VI: Tôi đang ăn sáng.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Ngủ.] [PAUSE 3s] [EN: To sleep.] [EN: What does this mean?] [VI_F: Dậy.] [PAUSE 3s] [EN: To wake up.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh dậy mấy giờ?] [VI_M: Dạ, tôi dậy lúc sáu giờ, rồi ăn sáng.] [VI_F: Sớm quá!] [PAUSE 0.5s] [EN: Now you try. Say I wake up at six.] [PAUSE 4s] [VI: Tôi dậy lúc sáu giờ.] [EN: Say I am eating breakfast.] [PAUSE 4s] [VI: Tôi đang ăn sáng.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow, more daily verbs. The preview phrase is] [VI: làm việc] [EN: which means to work.]"
+    }
+  ]
+}

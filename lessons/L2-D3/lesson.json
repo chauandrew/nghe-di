@@ -1,0 +1,29 @@
+{
+  "id": "L2-D3",
+  "title": "Đang — Saying what is happening now",
+  "vocab": [
+    {"vi": "đang", "en": "am/is/are ...ing (in progress)", "ipa": "/ɗaːŋ˧/"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: I do not understand.] [PAUSE 4s] [VI: Tôi không hiểu.] [EN: Monday.] [PAUSE 3s] [VI: Thứ hai.] [EN: Are there any rooms available?] [PAUSE 4s] [VI: Còn phòng không?] [EN: What does this mean?] [VI_F: Chủ nhật.] [PAUSE 3s] [EN: Sunday.] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 185,
+      "script": "[EN: Vietnamese verbs do not change form. To say an action is happening right now, just put one word in front of the verb.] [VI_F: Đang.] [EN: It has a flat tone. So, to eat is] [VI: ăn.] [EN: I am eating is] [VI_M: Tôi đang ăn.] [EN: Say I am eating.] [PAUSE 4s] [VI: Tôi đang ăn.] [EN: To go is] [VI: đi.] [EN: I am going is] [VI_M: Tôi đang đi.] [EN: Say I am going.] [PAUSE 4s] [VI: Tôi đang đi.] [EN: Good.] [PAUSE 0.5s] [EN: It works with any verb you know. I am going to the market.] [PAUSE 4s] [VI: Tôi đang đi Bến Thành.] [EN: To ask what someone is doing, use it with] [VI: làm gì,] [EN: doing what. What are you doing?] [VI_F: Anh đang làm gì?] [EN: Ask an older man what he is doing.] [PAUSE 4s] [VI: Anh đang làm gì?] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 180,
+      "script": "[EN: Drill. Hold the frame, change the verb. I am eating.] [PAUSE 4s] [VI: Tôi đang ăn.] [EN: I am going.] [PAUSE 4s] [VI: Tôi đang đi.] [EN: I am going to the market.] [PAUSE 4s] [VI: Tôi đang đi Bến Thành.] [EN: What are you doing?] [PAUSE 4s] [VI: Anh đang làm gì?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Tôi đang ăn.] [PAUSE 3s] [EN: I am eating.] [EN: And from before, say two o'clock.] [PAUSE 4s] [VI: Hai giờ.] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen to a phone call.] [PAUSE 0.5s] [VI_F: Anh đang làm gì vậy?] [VI_M: Dạ, anh đang ăn. Còn em?] [VI_F: Em đang đi Bến Thành.] [PAUSE 0.5s] [EN: Now you try. Ask an older woman what she is doing.] [PAUSE 4s] [VI: Chị đang làm gì?] [EN: Say, I am eating.] [PAUSE 4s] [VI: Tôi đang ăn.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you handle past and future. The preview word is] [VI: đã] [EN: which marks something that already happened.]"
+    }
+  ]
+}
