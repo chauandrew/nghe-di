@@ -25,7 +25,7 @@
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần em đi chơi với bạn.] [VI_M: À, anh cũng đi chơi.] [VI_F: Vui nha!] [PAUSE 0.5s] [EN: Now you try. Say coffee and water.] [PAUSE 4s] [VI: Cà phê và nước.] [EN: Say I also like coffee.] [PAUSE 4s] [VI: Tôi cũng thích cà phê.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn months and dates. The preview word is] [VI: tháng] [EN: which means month.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần em đi chơi với bạn.] [VI_M: À, anh cũng đi chơi.] [VI_F: Vui nha!] [PAUSE 0.5s] [EN: Now you try. Say coffee and water.] [PAUSE 4s] [VI: Cà phê và nước.] [EN: Say I also like coffee.] [PAUSE 4s] [VI: Tôi cũng thích cà phê.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you count past ten. The preview word is] [VI: hai mươi] [EN: which means twenty.]"
     }
   ]
 }

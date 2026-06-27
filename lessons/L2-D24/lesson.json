@@ -1,30 +1,30 @@
 {
   "id": "L2-D24",
-  "title": "Bao lâu rồi — How long so far",
+  "title": "Rủ đi chơi — Inviting someone out",
   "vocab": [
-    {"vi": "bao lâu rồi", "en": "how long (up to now)", "ipa": "/ɓaːw˧ ləw˧ zoj˨˩/"},
-    {"vi": "được", "en": "for (a duration); to be able", "ipa": "/ɗɨək˨˩ʔ/"}
+    {"vi": "rủ", "en": "to invite along, ask to join", "ipa": "/zu˧˩˧/"},
+    {"vi": "rảnh", "en": "free, not busy", "ipa": "/zaɲ˧˩˧/"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To order.] [PAUSE 4s] [VI: Gọi món.] [EN: Before, first.] [PAUSE 3s] [VI: Trước.] [EN: What is the date today?] [PAUSE 4s] [VI: Hôm nay ngày mấy?] [EN: Are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: What does this mean?] [VI_F: Rủ.] [PAUSE 3s] [EN: To invite along.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Give me the bill.] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [EN: Sometimes.] [PAUSE 3s] [VI: Thỉnh thoảng.] [EN: With.] [PAUSE 3s] [VI: Với.] [EN: I like to watch movies.] [PAUSE 4s] [VI: Tôi thích xem phim.] [EN: What does this mean?] [VI_F: Nghe nhạc.] [PAUSE 3s] [EN: To listen to music.] [EN: Good.]"
     },
     {
       "type": "dialogue",
       "duration_s": 185,
-      "script": "[EN: You know] [VI: bao lâu,] [EN: how long, and] [VI: rồi,] [EN: already. Together they ask how long up to now.] [VI_F: Bao lâu rồi?] [EN: How long have you been in Vietnam?] [PAUSE 4s] [VI: Anh ở Việt Nam bao lâu rồi?] [EN: Good.] [PAUSE 0.5s] [EN: To answer a span of time, use] [VI: được] [EN: before the amount. You know it as okay; here it marks a duration. I have been here for two years.] [PAUSE 4s] [VI: Tôi ở đây được hai năm.] [EN: Say, for two years.] [PAUSE 4s] [VI: Được hai năm.] [EN: I have worked here for one month.] [PAUSE 4s] [VI: Tôi làm việc ở đây được một tháng.] [EN: Good.]"
+      "script": "[EN: To ask someone along, the verb is] [VI_F: Rủ.] [EN: a falling, rising tone. But first, check they are free. Free, not busy, is] [VI_F: Rảnh.] [EN: also falling, rising. Are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Good.] [PAUSE 0.5s] [EN: Then invite, using the question frame you know,] [VI: đi ... không.] [EN: Want to go out?] [PAUSE 4s] [VI: Đi chơi không?] [EN: Soften it with nha. Let's go out, okay?] [PAUSE 4s] [VI: Đi chơi nha.] [EN: Good.]"
     },
     {
       "type": "drill",
       "duration_s": 180,
-      "script": "[EN: Drill. How long, up to now?] [PAUSE 3s] [VI: Bao lâu rồi?] [EN: How long have you been in Vietnam?] [PAUSE 4s] [VI: Anh ở Việt Nam bao lâu rồi?] [EN: For two years.] [PAUSE 4s] [VI: Được hai năm.] [EN: For one month.] [PAUSE 4s] [VI: Được một tháng.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Bao lâu rồi?] [PAUSE 3s] [EN: How long, up to now.] [EN: Good.]"
+      "script": "[EN: Drill. To invite along.] [PAUSE 3s] [VI: Rủ.] [EN: Free, not busy.] [PAUSE 3s] [VI: Rảnh.] [EN: Are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Want to go out?] [PAUSE 4s] [VI: Đi chơi không?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Rảnh?] [PAUSE 3s] [EN: Free, not busy.] [EN: What does this mean?] [VI_F: Rủ.] [PAUSE 3s] [EN: To invite along.] [EN: Good.]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh ở đây bao lâu rồi?] [VI_M: Dạ, được hai năm. Còn chị?] [VI_F: Em ở đây được một tháng.] [PAUSE 0.5s] [EN: Now you try. Ask, how long have you been in Vietnam?] [PAUSE 4s] [VI: Anh ở Việt Nam bao lâu rồi?] [EN: Say, for two years.] [PAUSE 4s] [VI: Được hai năm.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you catch up with an old friend. The preview phrase is] [VI: dạo này] [EN: which means these days, lately.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần anh rảnh không? Đi chơi nha?] [VI_M: Dạ rảnh. Đi đâu vậy?] [VI_F: Đi xem phim nghen.] [VI_M: Ừ, được!] [PAUSE 0.5s] [EN: Now you try. Ask, are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Invite them out, warmly.] [PAUSE 4s] [VI: Đi chơi nha.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you say how long you have been doing something. The preview phrase is] [VI: bao lâu rồi] [EN: which means how long so far.]"
     }
   ]
 }

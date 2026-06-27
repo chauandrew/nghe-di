@@ -1,31 +1,30 @@
 {
   "id": "L2-D22",
-  "title": "Sở thích — Hobbies and free time",
+  "title": "Cái nào — Comparing two options",
   "vocab": [
-    {"vi": "chơi", "en": "to play", "ipa": "/t͡ɕəːj˧/"},
-    {"vi": "xem", "en": "to watch", "ipa": "/sɛm˧/"},
-    {"vi": "nghe nhạc", "en": "to listen to music", "ipa": "/ŋɛ˧ ɲaːk˨˩ʔ/"}
+    {"vi": "lớn hơn", "en": "bigger", "ipa": "/ləːn˧˥ həːn˧/"},
+    {"vi": "rẻ hơn", "en": "cheaper", "ipa": "/ʐɛ˧˩˧ həːn˧/"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: I do not understand.] [PAUSE 4s] [VI: Tôi không hiểu.] [EN: To go home.] [PAUSE 4s] [VI: Về nhà.] [EN: I also like coffee.] [PAUSE 4s] [VI: Tôi cũng thích cà phê.] [EN: Which one is cheaper?] [PAUSE 4s] [VI: Cái nào rẻ hơn?] [EN: What does this mean?] [VI_F: Lớn hơn.] [PAUSE 3s] [EN: Bigger.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Too expensive!] [PAUSE 4s] [VI: Đắt quá!] [EN: To wake up.] [PAUSE 4s] [VI: Dậy.] [EN: This weekend I will rest.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ nghỉ.] [EN: The cheapest.] [PAUSE 4s] [VI: Rẻ nhất.] [EN: What does this mean?] [VI_F: Bằng.] [PAUSE 3s] [EN: Equal to.] [EN: Good.]"
     },
     {
       "type": "dialogue",
       "duration_s": 185,
-      "script": "[EN: To play is] [VI_F: Chơi.] [EN: a flat tone; relax your lips for this vowel. I like to play soccer —] [VI: đá banh.] [PAUSE 4s] [VI: Tôi thích chơi đá banh.] [EN: Good.] [PAUSE 0.5s] [EN: To watch is] [VI_F: Xem.] [EN: a flat tone. I like to watch movies, phim.] [PAUSE 4s] [VI: Tôi thích xem phim.] [EN: To listen to music is] [VI_F: Nghe nhạc.] [EN: Say to listen to music.] [PAUSE 4s] [VI: Nghe nhạc.] [EN: On the weekend I listen to music.] [PAUSE 4s] [VI: Cuối tuần tôi nghe nhạc.] [EN: Good.]"
+      "script": "[EN: Let's combine the adjectives you know with] [VI: hơn.] [EN: Bigger is] [VI_F: Lớn hơn.] [EN: Say bigger.] [PAUSE 4s] [VI: Lớn hơn.] [EN: Cheaper is] [VI_F: Rẻ hơn.] [EN: Say cheaper.] [PAUSE 4s] [VI: Rẻ hơn.] [EN: Good.] [PAUSE 0.5s] [EN: Now choose. To ask which one, say] [VI: cái nào.] [EN: Which one is bigger?] [PAUSE 4s] [VI: Cái nào lớn hơn?] [EN: This one is bigger but that one is cheaper.] [PAUSE 4s] [VI: Cái này lớn hơn, nhưng cái đó rẻ hơn.] [EN: Good.]"
     },
     {
       "type": "drill",
       "duration_s": 180,
-      "script": "[EN: Drill. To play.] [PAUSE 3s] [VI: Chơi.] [EN: To watch.] [PAUSE 3s] [VI: Xem.] [EN: To listen to music.] [PAUSE 3s] [VI: Nghe nhạc.] [EN: I like to watch movies.] [PAUSE 4s] [VI: Tôi thích xem phim.] [EN: On the weekend I listen to music.] [PAUSE 4s] [VI: Cuối tuần tôi nghe nhạc.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Xem.] [PAUSE 3s] [EN: To watch.] [EN: What does this mean?] [VI_F: Nghe nhạc.] [PAUSE 3s] [EN: To listen to music.] [EN: Good.]"
+      "script": "[EN: Drill. Bigger.] [PAUSE 3s] [VI: Lớn hơn.] [EN: Cheaper.] [PAUSE 3s] [VI: Rẻ hơn.] [EN: Which one is bigger?] [PAUSE 4s] [VI: Cái nào lớn hơn?] [EN: This one is cheaper.] [PAUSE 4s] [VI: Cái này rẻ hơn.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Lớn hơn.] [PAUSE 3s] [EN: Bigger.] [EN: What does this mean?] [VI_F: Cái nào?] [PAUSE 3s] [EN: Which one.] [EN: Good.]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần anh thích làm gì?] [VI_M: Tôi thích xem phim và nghe nhạc. Còn em?] [VI_F: Em hay đi chơi với bạn.] [PAUSE 0.5s] [EN: Now you try. Say I like to watch movies.] [PAUSE 4s] [VI: Tôi thích xem phim.] [EN: Say on the weekend I listen to music.] [PAUSE 4s] [VI: Cuối tuần tôi nghe nhạc.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you invite someone out. The preview word is] [VI: rủ] [EN: which means to invite along.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cái nào lớn hơn anh?] [VI_M: Cái này lớn hơn, nhưng cái đó rẻ hơn.] [VI_F: Vậy cho tôi cái đó.] [PAUSE 0.5s] [EN: Now you try. Ask, which one is cheaper?] [PAUSE 4s] [VI: Cái nào rẻ hơn?] [EN: Say, this one is bigger.] [PAUSE 4s] [VI: Cái này lớn hơn.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you talk about hobbies. The preview word is] [VI: chơi] [EN: which means to play.]"
     }
   ]
 }
