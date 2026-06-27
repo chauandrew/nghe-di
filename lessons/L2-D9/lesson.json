@@ -11,7 +11,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Four.] [PAUSE 3s] [VI: Bốn.] [EN: To walk.] [PAUSE 3s] [VI: Đi bộ.] [EN: I usually cook.] [PAUSE 4s] [VI: Tôi thường nấu ăn.] [EN: After that, I go to work.] [PAUSE 4s] [VI: Sau đó đi làm.] [EN: What does this mean?] [VI_F: Sau.] [PAUSE 3s] [EN: After.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Before, first.] [PAUSE 3s] [VI: Trước.] [EN: After.] [PAUSE 3s] [VI: Sau.] [EN: After that, then.] [PAUSE 4s] [VI: Sau đó.] [EN: Supermarket.] [PAUSE 4s] [VI: Siêu thị.] [EN: Good.]"
     },
     {
       "type": "dialogue",

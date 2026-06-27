@@ -10,7 +10,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Supermarket.] [PAUSE 3s] [VI: Siêu thị.] [EN: What's up? casually.] [PAUSE 4s] [VI: Sao vậy?] [EN: Cheaper.] [PAUSE 3s] [VI: Rẻ hơn.] [EN: One hundred.] [PAUSE 4s] [VI: Một trăm.] [EN: What does this mean?] [VI_F: Thứ tự.] [PAUSE 3s] [EN: Order, ranking.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Busy.] [PAUSE 3s] [VI: Bận.] [EN: To postpone, move.] [PAUSE 3s] [VI: Dời.] [EN: Late.] [PAUSE 3s] [VI: Trễ.] [EN: Plastic bag.] [PAUSE 4s] [VI: Túi ni lông.] [EN: Good.]"
     },
     {
       "type": "dialogue",

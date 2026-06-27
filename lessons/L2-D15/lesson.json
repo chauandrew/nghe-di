@@ -9,7 +9,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Have you eaten yet?] [PAUSE 4s] [VI: Anh ăn chưa?] [EN: Tonight.] [PAUSE 3s] [VI: Tối nay.] [EN: After that.] [PAUSE 3s] [VI: Sau đó.] [EN: This weekend I will rest.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ nghỉ.] [EN: What does this mean?] [VI_F: Nghỉ.] [PAUSE 3s] [EN: To rest.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Weekend.] [PAUSE 4s] [VI: Cuối tuần.] [EN: To rest, have off.] [PAUSE 3s] [VI: Nghỉ.] [EN: How many people.] [PAUSE 4s] [VI: Mấy người.] [EN: Tonight.] [PAUSE 4s] [VI: Tối nay.] [EN: Good.]"
     },
     {
       "type": "dialogue",

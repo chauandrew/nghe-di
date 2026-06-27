@@ -9,7 +9,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Today we review Level 2. Warm up.] [PAUSE 0.5s] [EN: This weekend I will rest.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ nghỉ.] [EN: I want to buy a ticket.] [PAUSE 4s] [VI: Tôi muốn mua vé.] [EN: How are you these days?] [PAUSE 4s] [VI: Dạo này anh khỏe không?] [EN: What does this mean?] [VI_F: Bình thường.] [PAUSE 3s] [EN: Usual, normal.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: A day.] [PAUSE 4s] [VI: Một ngày.] [EN: Usual, normal.] [PAUSE 4s] [VI: Bình thường.] [EN: Another kind.] [PAUSE 4s] [VI: Loại khác.] [EN: Busy.] [PAUSE 3s] [VI: Bận.] [EN: Good.]"
     },
     {
       "type": "dialogue",

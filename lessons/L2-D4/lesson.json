@@ -9,7 +9,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Give me the bill.] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [EN: I am going.] [PAUSE 4s] [VI: Tôi đang đi.] [EN: Two o'clock.] [PAUSE 3s] [VI: Hai giờ.] [EN: What does this mean?] [VI_F: Tôi đang ăn.] [PAUSE 3s] [EN: I am eating.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Đang.] [PAUSE 3s] [EN: The in-progress marker, like -ing.] [EN: I am lost.] [PAUSE 4s] [VI: Tôi bị lạc.] [EN: This street.] [PAUSE 4s] [VI: Đường này.] [EN: Turn left.] [PAUSE 4s] [VI: Quẹo trái.] [EN: Good.]"
     },
     {
       "type": "dialogue",

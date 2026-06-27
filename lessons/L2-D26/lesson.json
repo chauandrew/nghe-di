@@ -9,7 +9,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Yesterday I went out.] [PAUSE 4s] [VI: Hôm qua tôi đi chơi.] [EN: A man your parent's age.] [PAUSE 3s] [VI: Chú.] [EN: Let's meet on Monday.] [PAUSE 4s] [VI: Mình gặp thứ hai nha.] [EN: For two years.] [PAUSE 4s] [VI: Được hai năm.] [EN: What does this mean?] [VI_F: Bao lâu rồi?] [PAUSE 3s] [EN: How long, up to now.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: How long.] [PAUSE 4s] [VI: Bao lâu rồi.] [EN: What does this mean?] [VI_F: Được.] [PAUSE 3s] [EN: For a length of time, or okay.] [EN: What time.] [PAUSE 4s] [VI: Mấy giờ.] [EN: Morning.] [PAUSE 4s] [VI: Buổi sáng.] [EN: Good.]"
     },
     {
       "type": "dialogue",

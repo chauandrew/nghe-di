@@ -9,7 +9,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Give me the bill.] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [EN: Sometimes.] [PAUSE 3s] [VI: Thỉnh thoảng.] [EN: With.] [PAUSE 3s] [VI: Với.] [EN: I like to watch movies.] [PAUSE 4s] [VI: Tôi thích xem phim.] [EN: What does this mean?] [VI_F: Nghe nhạc.] [PAUSE 3s] [EN: To listen to music.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To play.] [PAUSE 3s] [VI: Chơi.] [EN: To watch.] [PAUSE 3s] [VI: Xem.] [EN: To listen to music.] [PAUSE 4s] [VI: Nghe nhạc.] [EN: To order.] [PAUSE 4s] [VI: Gọi món.] [EN: Good.]"
     },
     {
       "type": "dialogue",

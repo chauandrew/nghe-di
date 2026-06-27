@@ -10,7 +10,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: More ice.] [PAUSE 4s] [VI: Thêm đá.] [EN: See you again.] [PAUSE 4s] [VI: Hẹn gặp lại.] [EN: A man your parent's age.] [PAUSE 3s] [VI: Chú.] [EN: Yesterday I went out.] [PAUSE 4s] [VI: Hôm qua tôi đi chơi.] [EN: What does this mean?] [VI_F: Tuần trước.] [PAUSE 3s] [EN: Last week.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To go out, hang out.] [PAUSE 4s] [VI: Đi chơi.] [EN: Last week.] [PAUSE 4s] [VI: Tuần trước.] [EN: Congratulations.] [PAUSE 4s] [VI: Chúc mừng.] [EN: More.] [PAUSE 3s] [VI: Thêm.] [EN: Good.]"
     },
     {
       "type": "dialogue",

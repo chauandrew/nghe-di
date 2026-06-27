@@ -10,7 +10,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: I want coffee.] [PAUSE 4s] [VI: Tôi muốn cà phê.] [EN: Are there any rooms available?] [PAUSE 4s] [VI: Còn phòng không?] [EN: When I wake up, I eat breakfast.] [PAUSE 4s] [VI: Khi tôi dậy, tôi ăn sáng.] [EN: What does this mean?] [VI_F: Lúc.] [PAUSE 3s] [EN: At, a moment.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: When.] [PAUSE 3s] [VI: Khi.] [EN: What does this mean?] [VI_F: Lúc.] [PAUSE 3s] [EN: At a certain time.] [EN: Room.] [PAUSE 3s] [VI: Phòng.] [EN: Any rooms available.] [PAUSE 4s] [VI: Còn phòng không.] [EN: Good.]"
     },
     {
       "type": "dialogue",

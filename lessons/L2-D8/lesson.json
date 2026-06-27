@@ -10,7 +10,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: How much?] [PAUSE 3s] [VI: Bao nhiêu?] [EN: Near.] [PAUSE 3s] [VI: Gần.] [EN: Three thirty.] [PAUSE 4s] [VI: Ba giờ rưỡi.] [EN: I usually cook.] [PAUSE 4s] [VI: Tôi thường nấu ăn.] [EN: What does this mean?] [VI_F: Thỉnh thoảng.] [PAUSE 3s] [EN: Sometimes.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Usually, often.] [PAUSE 3s] [VI: Thường.] [EN: Often.] [PAUSE 3s] [VI: Hay.] [EN: Sometimes.] [PAUSE 4s] [VI: Thỉnh thoảng.] [EN: Near.] [PAUSE 3s] [VI: Gần.] [EN: Good.]"
     },
     {
       "type": "dialogue",

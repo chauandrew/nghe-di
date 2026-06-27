@@ -10,7 +10,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: My name is Nam.] [PAUSE 4s] [VI: Tên tôi là Nam.] [EN: I will go.] [PAUSE 4s] [VI: Tôi sẽ đi.] [EN: Airplane.] [PAUSE 3s] [VI: Máy bay.] [EN: Let's meet on Monday.] [PAUSE 4s] [VI: Mình gặp thứ hai nha.] [EN: What does this mean?] [VI_F: Gặp.] [PAUSE 3s] [EN: To meet.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Hẹn.] [PAUSE 3s] [EN: To make an appointment.] [EN: To meet.] [PAUSE 3s] [VI: Gặp.] [EN: Schedule, calendar.] [PAUSE 3s] [VI: Lịch.] [EN: My name is.] [PAUSE 4s] [VI: Tên tôi là.] [EN: Good.]"
     },
     {
       "type": "dialogue",

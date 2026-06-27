@@ -10,7 +10,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: What time is it?] [PAUSE 3s] [VI: Mấy giờ?] [EN: Three thirty.] [PAUSE 4s] [VI: Ba giờ rưỡi.] [EN: Eight at night.] [PAUSE 4s] [VI: Tám giờ tối.] [EN: What does this mean?] [VI_F: Sáng.] [PAUSE 3s] [EN: Morning.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Hour, o'clock.] [PAUSE 3s] [VI: Giờ.] [EN: Half.] [PAUSE 3s] [VI: Rưỡi.] [EN: Morning.] [PAUSE 3s] [VI: Sáng.] [EN: Evening, night.] [PAUSE 3s] [VI: Tối.] [EN: Good.]"
     },
     {
       "type": "dialogue",

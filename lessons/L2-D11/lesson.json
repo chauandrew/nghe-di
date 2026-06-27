@@ -9,7 +9,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Thousand.] [PAUSE 3s] [VI: Ngàn.] [EN: Sold out.] [PAUSE 4s] [VI: Hết rồi.] [EN: I will go.] [PAUSE 4s] [VI: Tôi sẽ đi.] [EN: After that.] [PAUSE 3s] [VI: Sau đó.] [EN: What does this mean?] [VI_F: Buổi chiều.] [PAUSE 3s] [EN: Afternoon.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Midday, noon.] [PAUSE 4s] [VI: Buổi trưa.] [EN: Afternoon.] [PAUSE 4s] [VI: Buổi chiều.] [EN: Sold out.] [PAUSE 4s] [VI: Hết rồi.] [EN: Is there any left.] [PAUSE 4s] [VI: Còn không.] [EN: Good.]"
     },
     {
       "type": "dialogue",

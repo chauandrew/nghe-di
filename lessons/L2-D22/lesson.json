@@ -9,7 +9,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Too expensive!] [PAUSE 4s] [VI: Đắt quá!] [EN: To wake up.] [PAUSE 4s] [VI: Dậy.] [EN: This weekend I will rest.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ nghỉ.] [EN: The cheapest.] [PAUSE 4s] [VI: Rẻ nhất.] [EN: What does this mean?] [VI_F: Bằng.] [PAUSE 3s] [EN: Equal to.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: More, -er.] [PAUSE 3s] [VI: Hơn.] [EN: Equal to, as ... as.] [PAUSE 3s] [VI: Bằng.] [EN: Most, -est.] [PAUSE 3s] [VI: Nhất.] [EN: I do not understand.] [PAUSE 4s] [VI: Tôi không hiểu.] [EN: Good.]"
     },
     {
       "type": "dialogue",

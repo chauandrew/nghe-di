@@ -10,7 +10,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Where is the restroom?] [PAUSE 4s] [VI: Nhà vệ sinh ở đâu?] [EN: Monday.] [PAUSE 3s] [VI: Thứ hai.] [EN: When.] [PAUSE 3s] [VI: Khi.] [EN: What is the date today?] [PAUSE 4s] [VI: Hôm nay ngày mấy?] [EN: What does this mean?] [VI_F: Tháng.] [PAUSE 3s] [EN: Month.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Month.] [PAUSE 3s] [VI: Tháng.] [EN: What date.] [PAUSE 4s] [VI: Ngày mấy.] [EN: To go.] [PAUSE 3s] [VI: Đi.] [EN: Ben Thanh, a market.] [PAUSE 4s] [VI: Bến Thành.] [EN: Good.]"
     },
     {
       "type": "dialogue",

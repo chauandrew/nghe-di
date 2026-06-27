@@ -10,7 +10,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Too expensive!] [PAUSE 4s] [VI: Đắt quá!] [EN: I will go.] [PAUSE 4s] [VI: Tôi sẽ đi.] [EN: Bus.] [PAUSE 3s] [VI: Xe buýt.] [EN: See you tomorrow, okay?] [PAUSE 4s] [VI: Mai gặp nha.] [EN: What does this mean?] [VI_F: Nghen.] [PAUSE 3s] [EN: A warm okay.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Nha.] [PAUSE 3s] [EN: A warm, friendly okay.] [EN: What does this mean?] [VI_F: Nhé.] [PAUSE 3s] [EN: A warm, friendly okay.] [EN: What does this mean?] [VI_F: Nghen.] [PAUSE 3s] [EN: A very southern, warm okay.] [EN: Too expensive.] [PAUSE 4s] [VI: Đắt quá.] [EN: Good.]"
     },
     {
       "type": "dialogue",

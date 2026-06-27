@@ -10,7 +10,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Address an older man.] [PAUSE 3s] [VI: Anh.] [EN: I will go.] [PAUSE 4s] [VI: Tôi sẽ đi.] [EN: To work.] [PAUSE 4s] [VI: Làm việc.] [EN: What time do you open?] [PAUSE 4s] [VI: Mấy giờ mở cửa?] [EN: What does this mean?] [VI_F: Về nhà.] [PAUSE 3s] [EN: To go home.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To work.] [PAUSE 4s] [VI: Làm việc.] [EN: To go home.] [PAUSE 4s] [VI: Về nhà.] [EN: To cook.] [PAUSE 4s] [VI: Nấu ăn.] [EN: What does this mean?] [VI_F: Hẹn gặp lại.] [PAUSE 3s] [EN: See you again.] [EN: Good.]"
     },
     {
       "type": "dialogue",

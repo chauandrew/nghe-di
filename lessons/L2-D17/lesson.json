@@ -11,7 +11,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up. You will need your numbers today.] [PAUSE 0.5s] [EN: Ten.] [PAUSE 3s] [VI: Mười.] [EN: Hundred.] [PAUSE 3s] [VI: Trăm.] [EN: Coffee and water.] [PAUSE 4s] [VI: Cà phê và nước.] [EN: I also like coffee.] [PAUSE 4s] [VI: Tôi cũng thích cà phê.] [EN: What does this mean?] [VI_F: Cuối tuần.] [PAUSE 3s] [EN: Weekend.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: And.] [PAUSE 3s] [VI: Và.] [EN: With.] [PAUSE 3s] [VI: Với.] [EN: Also, too.] [PAUSE 3s] [VI: Cũng.] [EN: To like.] [PAUSE 3s] [VI: Thích.] [EN: Good.]"
     },
     {
       "type": "dialogue",

@@ -8,7 +8,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: I do not understand.] [PAUSE 4s] [VI: Tôi không hiểu.] [EN: Monday.] [PAUSE 3s] [VI: Thứ hai.] [EN: Are there any rooms available?] [PAUSE 4s] [VI: Còn phòng không?] [EN: What does this mean?] [VI_F: Chủ nhật.] [PAUSE 3s] [EN: Sunday.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Monday.] [PAUSE 4s] [VI: Thứ hai.] [EN: Saturday.] [PAUSE 4s] [VI: Thứ bảy.] [EN: Sunday.] [PAUSE 4s] [VI: Chủ nhật.] [EN: Goodbye.] [PAUSE 4s] [VI: Tạm biệt.] [EN: Good.]"
     },
     {
       "type": "dialogue",

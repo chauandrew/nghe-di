@@ -10,7 +10,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: I do not understand.] [PAUSE 4s] [VI: Tôi không hiểu.] [EN: To go home.] [PAUSE 4s] [VI: Về nhà.] [EN: I also like coffee.] [PAUSE 4s] [VI: Tôi cũng thích cà phê.] [EN: Which one is cheaper?] [PAUSE 4s] [VI: Cái nào rẻ hơn?] [EN: What does this mean?] [VI_F: Lớn hơn.] [PAUSE 3s] [EN: Bigger.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Bigger.] [PAUSE 4s] [VI: Lớn hơn.] [EN: Cheaper.] [PAUSE 4s] [VI: Rẻ hơn.] [EN: Give me.] [PAUSE 4s] [VI: Cho tôi.] [EN: The bill.] [PAUSE 4s] [VI: Hóa đơn.] [EN: Good.]"
     },
     {
       "type": "dialogue",

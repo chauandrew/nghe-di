@@ -9,7 +9,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up — pieces of your day.] [PAUSE 0.5s] [EN: I wake up at six.] [PAUSE 4s] [VI: Tôi dậy lúc sáu giờ.] [EN: After that, I go to work.] [PAUSE 4s] [VI: Sau đó đi làm.] [EN: I usually cook.] [PAUSE 4s] [VI: Tôi thường nấu ăn.] [EN: What does this mean?] [VI_F: Chuyến.] [PAUSE 3s] [EN: Trip, departure.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Station.] [PAUSE 3s] [VI: Ga.] [EN: Ticket.] [PAUSE 3s] [VI: Vé.] [EN: Trip, departure.] [PAUSE 3s] [VI: Chuyến.] [EN: Excuse me, to a man.] [PAUSE 4s] [VI: Anh ơi.] [EN: Good.]"
     },
     {
       "type": "dialogue",

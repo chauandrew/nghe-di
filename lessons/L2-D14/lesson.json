@@ -9,7 +9,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Is there coffee?] [PAUSE 4s] [VI: Có cà phê không?] [EN: I need medicine.] [PAUSE 4s] [VI: Tôi cần thuốc.] [EN: Sometimes.] [PAUSE 3s] [VI: Thỉnh thoảng.] [EN: When.] [PAUSE 3s] [VI: Khi.] [EN: What does this mean?] [VI_F: Máy bay.] [PAUSE 3s] [EN: Airplane.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Bus.] [PAUSE 4s] [VI: Xe buýt.] [EN: Grab.] [PAUSE 3s] [VI: Grab.] [EN: Airplane.] [PAUSE 4s] [VI: Máy bay.] [EN: Pharmacy.] [PAUSE 4s] [VI: Nhà thuốc.] [EN: Good.]"
     },
     {
       "type": "dialogue",

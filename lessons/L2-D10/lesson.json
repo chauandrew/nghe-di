@@ -9,7 +9,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up — these knit your day together.] [PAUSE 0.5s] [EN: Morning.] [PAUSE 3s] [VI: Buổi sáng.] [EN: I wake up at six.] [PAUSE 4s] [VI: Tôi dậy lúc sáu giờ.] [EN: After that, I go to work.] [PAUSE 4s] [VI: Sau đó đi làm.] [EN: What does this mean?] [VI_F: Thường.] [PAUSE 3s] [EN: Usually.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Ông.] [PAUSE 3s] [EN: An older man, grandfather age.] [EN: What does this mean?] [VI_F: Bà.] [PAUSE 3s] [EN: An older woman, grandmother age.] [EN: What does this mean?] [VI_F: Cô.] [PAUSE 3s] [EN: A woman your parent’s age.] [EN: What does this mean?] [VI_F: Chú.] [PAUSE 3s] [EN: A man your parent’s age.] [EN: Good.]"
     },
     {
       "type": "dialogue",

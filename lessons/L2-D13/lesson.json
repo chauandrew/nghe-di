@@ -10,7 +10,7 @@
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Very delicious!] [PAUSE 4s] [VI: Ngon quá!] [EN: I am lost.] [PAUSE 4s] [VI: Tôi bị lạc.] [EN: To work.] [PAUSE 4s] [VI: Làm việc.] [EN: What's up? casually.] [PAUSE 4s] [VI: Sao vậy?] [EN: What does this mean?] [VI_F: Buổi chiều.] [PAUSE 3s] [EN: Afternoon.] [EN: Good.]"
+      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Vậy.] [PAUSE 3s] [EN: A casual question softener.] [EN: What does this mean?] [VI_F: Hả.] [PAUSE 3s] [EN: A casual huh, or right.] [EN: What does this mean?] [VI_F: À.] [PAUSE 3s] [EN: Oh, or really.] [EN: Delicious.] [PAUSE 3s] [VI: Ngon.] [EN: Good.]"
     },
     {
       "type": "dialogue",
