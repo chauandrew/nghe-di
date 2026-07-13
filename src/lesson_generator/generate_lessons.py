@@ -69,12 +69,30 @@ def generate_lesson_json(
         if item:
             review_words.append(f"{item.vi} ({item.en})")
 
+    # Every word taught before today. The model has no memory across calls, so
+    # without this list it cannot honour "use only previously-taught words" and
+    # will silently smuggle in untaught vocabulary.
+    current_abs = absolute_day(level, day)
+    taught_words = sorted(
+        {
+            item.vi
+            for item in vocab_db.items.values()
+            if absolute_day(item.level, item.day_introduced) < current_abs
+        }
+    )
+
     user_msg = (
         f"Generate lesson L{level}-D{day}.\n"
         f"New vocabulary hints: {', '.join(new_vocab_hints)}.\n"
-        f"Review items due today ({len(review_words)}): {', '.join(review_words) or 'none'}.\n"
+        f"Review items due today, most-at-risk first — drill ALL of them in the recall "
+        f"segment ({len(review_words)}): {', '.join(review_words) or 'none'}.\n"
+        f"Previously taught words you MAY reuse freely ({len(taught_words)}): "
+        f"{', '.join(taught_words) or 'none'}.\n"
+        f"Do NOT use any Vietnamese content word that is not in the two lists above "
+        f"(new hints + previously taught), except the allowed function words.\n"
         f"Scene: {scene}.\n"
-        f"Keep total new words to 3-4 maximum. Output JSON only."
+        f"Introduce at most 3 new content words (4 only if they form a natural set "
+        f"like numbers). Repeat each new word many times, slowly at first. Output JSON only."
     )
 
     response = client.messages.create(
@@ -99,23 +117,39 @@ def tts_segment(
     text: str,
     language: str,
     cache_dir: Path,
+    speed: float | None = None,
 ) -> AudioSegment:
-    """Synthesise text → AudioSegment via ElevenLabs. Cached by content hash."""
+    """Synthesise text → AudioSegment via ElevenLabs. Cached by content hash.
+
+    `speed` overrides the voice's default speed for this one call (used to slow
+    down first exposures of a new word). It is folded into the cache key so the
+    slow and normal renderings of the same text never collide.
+    """
     cache_dir.mkdir(parents=True, exist_ok=True)
-    key = hashlib.md5(f"{language}:{text}".encode()).hexdigest()
+
+    if language == "vi_f":
+        voice_id = ELEVENLABS_VOICE_VI_F
+        base_settings = ELEVENLABS_VOICE_SETTINGS_VI
+    elif language in ("vi", "vi_m"):
+        voice_id = ELEVENLABS_VOICE_VI_M
+        base_settings = ELEVENLABS_VOICE_SETTINGS_VI
+    else:
+        voice_id = ELEVENLABS_VOICE_EN
+        base_settings = ELEVENLABS_VOICE_SETTINGS_EN
+
+    effective_speed = base_settings.speed if speed is None else speed
+    voice_settings = (
+        base_settings if speed is None
+        else base_settings.model_copy(update={"speed": speed})
+    )
+
+    # Key on the resolved voice_id (not the "vi_f"/"vi_m" label) so that swapping
+    # a voice in config invalidates exactly that voice's clips, and so [VI:] and
+    # [VI_M:] (same voice) correctly share cache.
+    key = hashlib.md5(f"{voice_id}:{effective_speed}:{text}".encode()).hexdigest()
     cache_path = cache_dir / f"{key}.mp3"
 
     if not cache_path.exists():
-        if language == "vi_f":
-            voice_id = ELEVENLABS_VOICE_VI_F
-            voice_settings = ELEVENLABS_VOICE_SETTINGS_VI
-        elif language in ("vi", "vi_m"):
-            voice_id = ELEVENLABS_VOICE_VI_M
-            voice_settings = ELEVENLABS_VOICE_SETTINGS_VI
-        else:
-            voice_id = ELEVENLABS_VOICE_EN
-            voice_settings = ELEVENLABS_VOICE_SETTINGS_EN
- 
         audio_bytes = tts_client.text_to_speech.convert(
             voice_id=voice_id,
             text=text,
@@ -225,9 +259,10 @@ def build_audio(
     tts_client: ElevenLabs,
     cache_dir: Path,
     phrase_counts: dict[str, int] | None = None,
+    new_vocab: set[str] | None = None,
 ) -> AudioSegment:
     """Stitch all lesson segments into one AudioSegment.
- 
+
     Pause adjustments applied at render time:
     - Production pauses (a long pause right before a spoken answer) are scaled to
       the LENGTH of that answer: a one- or two-word answer gets a shorter pause
@@ -236,9 +271,17 @@ def build_audio(
       further 20% trim — less thinking time for words already heard.
     - Rhetorical/transitional phrases (e.g. "Ready?") get a 0.7s breath pause;
       short breath pauses (under 3s) are left exactly as written.
+
+    Speed adjustment:
+    - The first SLOW_FIRST_N times a word in `new_vocab` is spoken it is rendered
+      at VI_SPEED_SLOW so the learner can catch the tone; later renderings use the
+      normal pace. `new_vocab` holds the normalised (lowercased, de-punctuated) vi
+      strings introduced in THIS lesson.
     """
     if phrase_counts is None:
         phrase_counts = {}
+    if new_vocab is None:
+        new_vocab = set()
 
     full_audio = AudioSegment.silent(duration=500)  # 0.5s lead-in
 
@@ -268,17 +311,28 @@ def build_audio(
                 full_audio += AudioSegment.silent(duration=base_ms)
 
             elif token_type in ("vi_m", "vi_f", "en"):
-                chunk = tts_segment(tts_client, content, token_type, cache_dir)
+                # Slow down the first few renderings of a new word.
+                speed = None
+                is_slow = False
+                if token_type in ("vi_m", "vi_f"):
+                    key = content.strip().lower().rstrip(".,!?")
+                    if key in new_vocab and phrase_counts.get(key, 0) < SLOW_FIRST_N:
+                        speed = VI_SPEED_SLOW
+                        is_slow = True
+
+                chunk = tts_segment(tts_client, content, token_type, cache_dir, speed=speed)
                 full_audio += chunk
 
                 # Track how many times each VI phrase has been rendered
                 if token_type in ("vi_m", "vi_f"):
-                    key = content.strip().lower().rstrip(".,!?")
                     phrase_counts[key] = phrase_counts.get(key, 0) + 1
 
-                # Rhetorical EN phrases get a 0.7s breath pause; others get
-                # the standard 400ms gap.
-                if token_type == "en" and _rhetorical(content):
+                # A slow first-exposure word gets a longer beat after it so the
+                # repeated renderings do not run together. Rhetorical EN phrases
+                # get a 0.7s breath pause; everything else gets the 400ms gap.
+                if is_slow:
+                    full_audio += AudioSegment.silent(duration=650)
+                elif token_type == "en" and _rhetorical(content):
                     full_audio += AudioSegment.silent(duration=700)
                 else:
                     full_audio += AudioSegment.silent(duration=400)
@@ -384,7 +438,11 @@ def process_day(
     print(f"  [{lesson_id}] Synthesising audio segments via ElevenLabs...")
     cache_dir = OUTPUT_DIR / "_tts_cache"
     segments = [LessonSegment(**s) for s in raw_json.get("segments", [])]
-    audio = build_audio(segments, tts_client, cache_dir)
+    new_vocab = {
+        v["vi"].strip().lower().rstrip(".,!?")
+        for v in raw_json.get("vocab", [])
+    }
+    audio = build_audio(segments, tts_client, cache_dir, new_vocab=new_vocab)
 
     print(f"  [{lesson_id}] Exporting MP3 ({len(audio)/1000:.1f}s)...")
     audio.export(mp3_path, format="mp3", bitrate="64k", tags={
@@ -450,8 +508,15 @@ def reprocess_phrase(texts: list[str], level: int) -> None:
     result, and a text change additionally gives it a fresh cache key.
     """
     cache_dir = OUTPUT_DIR / "_tts_cache"
-    langs = ("vi_f", "vi_m", "en")
     suffixes = ("", ".", "!", "?", ",", "...")
+    # A clip's cache key is md5(voice_id : speed : text). A word may exist at more
+    # than one speed (slow on first exposure, normal afterwards), so purge every
+    # (voice, speed) variant.
+    voice_speeds = {
+        ELEVENLABS_VOICE_VI_F: (VI_SPEED_NORMAL, VI_SPEED_SLOW),
+        ELEVENLABS_VOICE_VI_M: (VI_SPEED_NORMAL, VI_SPEED_SLOW),
+        ELEVENLABS_VOICE_EN:   (EN_SPEED,),
+    }
 
     removed_clips = 0
     for text in texts:
@@ -465,13 +530,14 @@ def reprocess_phrase(texts: list[str], level: int) -> None:
                 candidates.add(stem + s)
         hit = 0
         for cand in candidates:
-            for lang in langs:
-                key = hashlib.md5(f"{lang}:{cand}".encode()).hexdigest()
-                clip = cache_dir / f"{key}.mp3"
-                if clip.exists():
-                    clip.unlink()
-                    removed_clips += 1
-                    hit += 1
+            for voice_id, speeds in voice_speeds.items():
+                for sp in speeds:
+                    key = hashlib.md5(f"{voice_id}:{sp}:{cand}".encode()).hexdigest()
+                    clip = cache_dir / f"{key}.mp3"
+                    if clip.exists():
+                        clip.unlink()
+                        removed_clips += 1
+                        hit += 1
         print(f"  {text!r}: removed {hit} cached clip(s)")
 
     # Delete lesson MP3s that contain any of the phrases so they rebuild.

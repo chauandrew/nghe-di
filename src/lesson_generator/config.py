@@ -17,8 +17,22 @@ ELEVENLABS_VOICE_VI_M = "JYT6xPLD3LGl0ui3YXNq"   # "Khanh" - male
 ELEVENLABS_VOICE_EN = "D11AWvkESE7DJwqIVi7L"   # "Brian"
 ELEVENLABS_MODEL    = "eleven_flash_v2_5"  # Cheaper model, supports Vietnamese
 
+# Vietnamese speaking speeds. A brand-new content word is introduced at SLOW
+# speed so an English ear can catch the tone contour before hearing the word at
+# conversational pace. ElevenLabs' speed floor is ~0.7 (below that the tone
+# smears), so SLOW cannot go much lower. Anything that is not a first-exposure
+# of a new word uses NORMAL.
+VI_SPEED_NORMAL = 0.85   # general Vietnamese pace (was 0.90; slower per feedback)
+VI_SPEED_SLOW   = 0.72   # first exposures of a new word
+EN_SPEED        = 1.0    # English narrator
+
+# How many of a new word's first renderings play slowly before dropping to
+# NORMAL. Covers the isolated introduction (model says it, learner repeats it)
+# without dragging out the later drills, where the word should sound natural.
+SLOW_FIRST_N = 2
+
 ELEVENLABS_VOICE_SETTINGS_EN = VoiceSettings(
-    speed=1.0,
+    speed=EN_SPEED,
     stability=0.75,           # Lower = more expressive, higher = more consistent
     similarity_boost=0.75,
     style=0.20,
@@ -26,7 +40,7 @@ ELEVENLABS_VOICE_SETTINGS_EN = VoiceSettings(
 )
 
 ELEVENLABS_VOICE_SETTINGS_VI = VoiceSettings(
-    speed=0.90,
+    speed=VI_SPEED_NORMAL,
     stability=0.75,           # Lower = more expressive, higher = more consistent
     similarity_boost=0.75,
     style=0.20,
@@ -39,7 +53,14 @@ ELEVENLABS_VOICE_SETTINGS_VI = VoiceSettings(
 # Lessons are generated as static MP3s, so there is no learner-grading loop.
 # Instead of calendar-date SM-2, reviews are scheduled by *lesson-day index*:
 # a word introduced on absolute day N is reviewed on days N + offset.
-SRS_REVIEW_OFFSETS = [1, 3, 7, 16, 35]
+# The two long offsets (75, 140) keep early survival vocab in rotation into the
+# later levels instead of abandoning it after ~day 65; only words introduced in
+# the first ~10 days reach the 140 review, which is exactly the survival core.
+SRS_REVIEW_OFFSETS = [1, 3, 7, 16, 35, 75, 140]
+
+# The recall segment can only realistically drill a handful of items, so
+# due_on_day caps each day's review list at this many (most-at-risk first).
+SRS_MAX_REVIEWS_PER_LESSON = 6
 
 # Days per level — used to turn (level, day) into a continuous absolute day
 # index so review scheduling carries across level boundaries
@@ -93,7 +114,7 @@ Script formatting rules:
 - [PAUSE 3s]   — silence gap in seconds
 - Use realistic HCMC dialogue scenes (street cafés, markets, xe ôm rides, restaurants)
 - After every new Vietnamese word/phrase, immediately provide the English gloss in [EN: ...]
-- Southern (HCMC) phonology: 6 tones, final -c/-ch → glottal stop, ơ distinct from ă
+- Southern (HCMC) phonology: 5 spoken tones (the hỏi and ngã marks sound the same), ơ distinct from ă
 - Pimsleur style: build from repetition, graduated intervals, never more than 4 new words
  
 Gender and pronoun guidance:
@@ -117,6 +138,19 @@ Narration style:
 - Jump straight into dialogue and vocabulary. Trust the learner to follow context from the Vietnamese itself.
 - Never narrate what is about to happen. Do it.
 - Keep English narration to the minimum needed to gloss a word or cue a response.
+
+Introducing a new word (do this for EVERY new content word — this is the most important rule):
+- The learner is a beginner and cannot catch a Vietnamese word the first time at normal speed.
+  The audio engine automatically plays the FIRST TWO utterances of a new word more slowly, so
+  present the word ALONE (not buried inside a sentence) the first time it appears.
+- Introduction pattern: say it, gloss + tone it, say it again, pause, say it again, then have the
+  learner produce it. For example:
+    [VI_F: một] [EN: means one. It has a falling, broken tone. Listen again.] [VI_F: một] [PAUSE 1s] [VI_F: một]
+    [EN: Now you say it.] [PAUSE 4s] [VI: một]
+- Only AFTER this isolated slow introduction may the word appear inside a full phrase or dialogue.
+- Every new content word must be heard at least 5-6 times across the whole lesson
+  (isolated intro + repeats + drill + synthesis). Repetition is the point; do not be stingy with it.
+- Re-say each new word in isolation once more near the end of the drill, before the synthesis scene.
 
 Vocabulary control (important — do not break this):
 - Teaching segments (recall, dialogue, drill) must use ONLY Vietnamese words taught in
@@ -153,17 +187,21 @@ Pause rules:
   "Now reverse.", "Good.", "Let us begin.", or after scene dialogue the learner just listens to.
 - Always place the pause BEFORE the answer reveal, not after it.
  
-Tone explanations (southern Vietnamese):
+Tone explanations (southern Vietnamese — FIVE distinct sounds, not six):
+- Southern speech MERGES the hỏi and ngã marks: they sound identical (a dipping tone). The
+  writing keeps both marks, but describe them the SAME way and never tell the learner to hear a
+  difference between them — a southern voice pronounces them the same, so any "they differ" cue
+  would contradict the audio.
 - When first introducing a new word, describe its tone in one short sentence using these descriptions:
     ngang (no mark): "flat tone"
     huyền (à):       "falling tone"
     sắc (á):         "high, rising tone"
-    hỏi (ả):         "falling, rising tone"
-    ngã (ã):         "broken, rising tone"
-    nặng (ạ):        "falling, broken tone"
+    hỏi (ả):         "a dipping tone — it falls, then rises"
+    ngã (ã):         "a dipping tone — it falls, then rises (in the south, the same as the hỏi mark)"
+    nặng (ạ):        "a low tone, cut off short"
 - Periodically remind the learner of a word's tone during drill and recall — roughly every 3rd or
   4th time a word appears. Do not explain the tone every single time.
-- Example: [VI_F: Cảm ơn] [EN: means thank you.] [VI_F: Cảm] [EN: has a falling, rising tone.] [VI_F: Ơn] [EN: has a flat tone.]
+- Example: [VI_F: Cảm ơn] [EN: means thank you.] [VI_F: Cảm] [EN: has a dipping tone — it falls, then rises.] [VI_F: Ơn] [EN: has a flat tone.]
 
 Vowel pronunciation cues (use sparingly, like tone reminders):
 - The hardest vowels for English speakers are the NEUTRAL (unrounded) ones: ư, ơ, â. English
@@ -194,7 +232,7 @@ Grammar and structure lessons (favour structure over vocabulary):
 - Negation: không + [verb or adjective], e.g. không ngon (not tasty), không muốn (do not want).
 
 Segment guidelines:
-- recall:    ~90s  — prompt 3-5 items from prior lesson, learner responds, confirm
+- recall:    ~90s  — drill EVERY review item in the list you are given (it is already sorted most-at-risk first and capped to what fits), learner responds, confirm each. Do not silently skip any.
 - dialogue:  ~180s — introduce new vocab OR a structure; gloss + tone-explain each new word on first use; for structures, state the rule then model it
 - drill:     ~180s — graduated interval repetition; for structures, drill by substitution; pauses only for learner responses
 - synthesis: ~150s — full dialogue replay at natural speed + preview 1 word from next lesson"""
