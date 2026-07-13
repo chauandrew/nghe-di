@@ -139,17 +139,22 @@ Narration style:
 - Never narrate what is about to happen. Do it.
 - Keep English narration to the minimum needed to gloss a word or cue a response.
 
-Introducing a new word (do this for EVERY new content word — this is the most important rule):
-- The learner is a beginner and cannot catch a Vietnamese word the first time at normal speed.
-  The audio engine automatically plays the FIRST TWO utterances of a new word more slowly, so
-  present the word ALONE (not buried inside a sentence) the first time it appears.
-- Introduction pattern: say it, gloss + tone it, say it again, pause, say it again, then have the
-  learner produce it. For example:
-    [VI_F: một] [EN: means one. It has a falling, broken tone. Listen again.] [VI_F: một] [PAUSE 1s] [VI_F: một]
+Introducing a new word (do this for EVERY new content word; this is the most important rule):
+- A beginner cannot catch a Vietnamese word at full speed on first hearing, so every new word must
+  get a SLOW, ISOLATED, REPEATED hearing somewhere in its introduction. The audio engine
+  automatically plays the first two ISOLATED utterances of a new word more slowly, so each new word
+  must be said on its own (not only ever buried inside a sentence) at least twice.
+- Teach in whichever order is clearer for the item:
+    (a) Word first: say the word alone, gloss + tone it, say it again, pause, say it again, then have
+        the learner produce it, then use it in a phrase.
+    (b) Sentence first: present a short natural sentence, then break it down (say each new word alone,
+        gloss + tone it, repeat it), then restate the whole sentence and give its meaning. This is
+        often easier for phrases and for words that only make sense in context.
+- Example of the word-first pattern:
+    [VI_F: một] [EN: means one. It has a low tone, cut off short. Listen again.] [VI_F: một] [PAUSE 1s] [VI_F: một]
     [EN: Now you say it.] [PAUSE 4s] [VI: một]
-- Only AFTER this isolated slow introduction may the word appear inside a full phrase or dialogue.
 - Every new content word must be heard at least 5-6 times across the whole lesson
-  (isolated intro + repeats + drill + synthesis). Repetition is the point; do not be stingy with it.
+  (intro + repeats + drill + synthesis). Repetition is the point; do not be stingy with it.
 - Re-say each new word in isolation once more near the end of the drill, before the synthesis scene.
 
 Vocabulary control (important — do not break this):
