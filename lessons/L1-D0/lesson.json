@@ -21,12 +21,12 @@
     {
       "type": "recall",
       "duration_s": 150,
-      "script": "[EN: Now the tones. Southern Vietnamese has six. The same sound, a different pitch, a different meaning. Listen to one sound through all six.] [PAUSE 0.5s] [VI_F: ma] [EN: a flat tone.] [PAUSE 0.5s] [VI_F: mà] [EN: a falling tone.] [PAUSE 0.5s] [VI_F: má] [EN: a high, rising tone.] [PAUSE 0.5s] [VI_F: mả] [EN: a falling, rising tone.] [PAUSE 0.5s] [VI_F: mã] [EN: a broken, rising tone.] [PAUSE 0.5s] [VI_F: mạ] [EN: a falling, broken tone.] [EN: Now you. A flat tone —] [PAUSE 3s] [VI: ma] [EN: a falling tone —] [PAUSE 3s] [VI: mà] [EN: a high, rising tone —] [PAUSE 3s] [VI: má] [EN: Good. Each lesson will remind you of a word's tone as you learn it.]"
+      "script": "[EN: Now the tones. In the south you will hear five. The same sound, a different pitch, a different meaning. Listen to one sound through all five.] [PAUSE 0.5s] [VI_F: ma] [EN: a flat tone.] [PAUSE 0.5s] [VI_F: mà] [EN: a falling tone.] [PAUSE 0.5s] [VI_F: má] [EN: a high, rising tone.] [PAUSE 0.5s] [VI_F: mả] [EN: a dipping tone. It falls, then rises.] [PAUSE 0.5s] [VI_F: mạ] [EN: a low tone, cut off short.] [PAUSE 0.5s] [EN: The writing has one more mark, but in the south it sounds the same as that dipping tone. Listen.] [VI_F: mã] [EN: The same sound.] [PAUSE 0.5s] [EN: Now you. A flat tone —] [PAUSE 3s] [VI: ma] [EN: a falling tone —] [PAUSE 3s] [VI: mà] [EN: a high, rising tone —] [PAUSE 3s] [VI: má] [EN: a dipping tone —] [PAUSE 3s] [VI: mả] [EN: Good. Each lesson will remind you of a word's tone as you learn it.]"
     },
     {
       "type": "synthesis",
       "duration_s": 90,
-      "script": "[EN: That is enough to begin. Remember three mouth shapes — rounded, relaxed, and smiling — and six tones. Do not aim for perfection now; your ear will sharpen with every lesson.] [PAUSE 0.5s] [EN: Let us start. Lesson one is greetings.] [VI_F: Xin chào!]"
+      "script": "[EN: That is enough to begin. Remember three mouth shapes — rounded, relaxed, and smiling — and five tones. Do not aim for perfection now; your ear will sharpen with every lesson.] [PAUSE 0.5s] [EN: Let us start. Lesson one is greetings.] [VI_F: Xin chào!]"
     }
   ]
 }
