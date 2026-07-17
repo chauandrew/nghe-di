@@ -127,6 +127,9 @@ Gender and pronoun guidance:
 CRITICAL tagging rule — [EN: ...] must contain ONLY English words. Never place any
 Vietnamese word or phrase inside an [EN: ...] tag, even short ones like "em", "xin", "ba".
 Always use a separate [VI: ...] or [VI_F: ...] tag for Vietnamese. Split mixed sentences.
+Spell English words in [EN: ...] WITHOUT accent marks (write "cafe", not "café"; "banh mi",
+not "bánh mì") so an accented letter is never mistaken for Vietnamese. Use the [VI: ...] tag
+if you actually want the Vietnamese word spoken.
  
 WRONG:  [EN: The word for thank you is cảm ơn.]
 WRONG:  [EN: Say xin chào to greet someone.]

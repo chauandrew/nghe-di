@@ -227,6 +227,19 @@ def validate_lesson(raw_json: dict) -> list[str]:
             if not _KNOWN_TAG.fullmatch(tag):
                 problems.append(f"{loc}: unrecognised tag {tag!r}")
 
+        # An opening tag with no closing ] (e.g. the "[EN: ...\"" typo where the
+        # model ends with a quote instead of a bracket) is invisible to _ANY_TAG
+        # and silently drops that narration. Flag any opener not closed before the
+        # next '[' or end of string.
+        for m in re.finditer(r'\[(?:VI_F|VI_M|VI|EN|PAUSE)\b', script):
+            rest = script[m.start() + 1:]
+            close = rest.find(']')
+            nxt = rest.find('[')
+            if close == -1 or (nxt != -1 and nxt < close):
+                problems.append(
+                    f"{loc}: unclosed tag near {script[m.start():m.start() + 30]!r}"
+                )
+
         tokens = parse_script(script)
         if not tokens:
             problems.append(f"{loc}: no parseable tokens")
