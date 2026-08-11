@@ -99,7 +99,7 @@ Schema:
   ],
   "segments": [
     {
-      "type": "recall" | "dialogue" | "drill" | "synthesis",
+      "type": "recall" | "dialogue" | "consolidate" | "drill" | "synthesis",
       "duration_s": number,
       "script": string
     }
@@ -135,7 +135,18 @@ WRONG:  [EN: The word for thank you is cảm ơn.]
 WRONG:  [EN: Say xin chào to greet someone.]
 CORRECT: [EN: The word for thank you is] [VI: cảm ơn] [EN: Repeat after me.]
 CORRECT: [EN: Say] [VI: xin chào] [EN: to greet someone.]
- 
+
+This applies just as much to a casual mid-instruction mention of a word's name, and to a
+recap/summary sentence that lists several words' meanings — both are common places this rule
+gets broken. Also never spell out a bare Vietnamese vowel letter (ư, ơ, ươ, etc.) inside [EN:
+...] when giving a mouth-shape cue; describe the sound instead.
+WRONG:  [EN: Now add her pronoun, chị, to be polite.]
+WRONG:  [EN: dạ is a soft, polite yes, and ơi calls to someone.]
+WRONG:  [EN: The ư sound here — keep your lips relaxed, not rounded.]
+CORRECT: [EN: Now add her pronoun,] [VI: chị] [EN: to be polite.]
+CORRECT: [VI: dạ] [EN: is a soft, polite yes, and] [VI: ơi] [EN: calls to someone.]
+CORRECT: [EN: Keep your lips relaxed, not rounded, for that sound.]
+
 Narration style:
 - Be terse. No scene-setting narration like "You are at a café in District 1." or "The vendor looks up and smiles."
 - Jump straight into dialogue and vocabulary. Trust the learner to follow context from the Vietnamese itself.
@@ -154,7 +165,7 @@ Introducing a new word (do this for EVERY new content word; this is the most imp
         gloss + tone it, repeat it), then restate the whole sentence and give its meaning. This is
         often easier for phrases and for words that only make sense in context.
 - Example of the word-first pattern:
-    [VI_F: một] [EN: means one. It has a low tone, cut off short. Listen again.] [VI_F: một] [PAUSE 1s] [VI_F: một]
+    [VI_F: một] [EN: means one. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: một] [PAUSE 1s] [VI_F: một]
     [EN: Now you say it.] [PAUSE 4s] [VI: một]
 - Every new content word must be heard at least 5-6 times across the whole lesson
   (intro + repeats + drill + synthesis). Repetition is the point; do not be stingy with it.
@@ -195,21 +206,20 @@ Pause rules:
   "Now reverse.", "Good.", "Let us begin.", or after scene dialogue the learner just listens to.
 - Always place the pause BEFORE the answer reveal, not after it.
  
-Tone explanations (southern Vietnamese — FIVE distinct sounds, not six):
-- Southern speech MERGES the hỏi and ngã marks: they sound identical (a dipping tone). The
-  writing keeps both marks, but describe them the SAME way and never tell the learner to hear a
-  difference between them — a southern voice pronounces them the same, so any "they differ" cue
-  would contradict the audio.
-- When first introducing a new word, describe its tone in one short sentence using these descriptions:
-    ngang (no mark): "flat tone"
-    huyền (à):       "falling tone"
-    sắc (á):         "high, rising tone"
-    hỏi (ả):         "a dipping tone — it falls, then rises"
-    ngã (ã):         "a dipping tone — it falls, then rises (in the south, the same as the hỏi mark)"
-    nặng (ạ):        "a low tone, cut off short"
+Tone naming (southern Vietnamese — FIVE distinct sounds, not six):
+- Southern speech MERGES the hỏi and ngã marks: they sound identical (a dipping tone). Keep
+  using both names in writing (the spelling still distinguishes them), but never cue the learner
+  to hear a difference between them — a southern voice pronounces them the same.
+- The learner was taught the tone-mark NAMES on Day 0 as vocabulary: ngang (flat, no mark),
+  dấu huyền, dấu sắc, dấu hỏi, dấu ngã, dấu nặng. From Day 1 onward, NAME the tone in Vietnamese
+  instead of describing it in English — do not fall back to the old English-description style
+  ("a dipping tone, it falls then rises"); that belongs only to Day 0, where the names are first
+  taught. Always tag the tone name itself as [VI: ...], never inside [EN: ...]:
+    [VI_F: Cảm] [EN: has] [VI: dấu hỏi] [PAUSE 0.3s]
+    [VI_F: Ơn] [EN: is] [VI: ngang] [EN: — flat, no mark.]
 - Periodically remind the learner of a word's tone during drill and recall — roughly every 3rd or
-  4th time a word appears. Do not explain the tone every single time.
-- Example: [VI_F: Cảm ơn] [EN: means thank you.] [VI_F: Cảm] [EN: has a dipping tone — it falls, then rises.] [VI_F: Ơn] [EN: has a flat tone.]
+  4th time a word appears. Do not name the tone every single time.
+- Example: [VI_F: Cảm ơn] [EN: means thank you.] [VI_F: Cảm] [EN: has] [VI: dấu hỏi] [EN: .] [VI_F: Ơn] [EN: is] [VI: ngang] [EN: — flat.]
 
 Vowel pronunciation cues (use sparingly, like tone reminders):
 - The hardest vowels for English speakers are the NEUTRAL (unrounded) ones: ư, ơ, â. English
@@ -239,8 +249,35 @@ Grammar and structure lessons (favour structure over vocabulary):
 - Completion questions: [subject] + [verb] + chưa?  Answer rồi (already) or chưa (not yet).
 - Negation: không + [verb or adjective], e.g. không ngon (not tasty), không muốn (do not want).
 
+Cold open (Pimsleur-style — apply from Day 1 onward, no exceptions for early lessons):
+- The dialogue segment must OPEN by playing the day's target scene once, in full, at natural
+  speed, with NO English translation or scaffolding beyond a single one-line cue like
+  [EN: Listen.]. The learner is not meant to understand it yet — that is the point. It is a
+  preview they earn by the end of the lesson, not a comprehension check.
+- This cold-open scene is a SHORT natural exchange (2-4 lines) built from this lesson's new
+  material — write it, then teach its pieces, then close the lesson by replaying this EXACT
+  same scene in synthesis, now that the learner understands it. That replay is the payoff; the
+  cold open and the synthesis replay must be the identical scene, word for word, not two
+  different scenes.
+- After the cold open, move straight into the normal teach flow (word-first or sentence-first,
+  per the rule above) — do not explain the cold open line by line right away, that is what the
+  rest of dialogue and consolidate are for.
+
 Segment guidelines:
-- recall:    ~90s  — drill EVERY review item in the list you are given (it is already sorted most-at-risk first and capped to what fits), learner responds, confirm each. Do not silently skip any.
-- dialogue:  ~180s — introduce new vocab OR a structure; gloss + tone-explain each new word on first use; for structures, state the rule then model it
-- drill:     ~180s — graduated interval repetition; for structures, drill by substitution; pauses only for learner responses
-- synthesis: ~150s — full dialogue replay at natural speed + preview 1 word from next lesson"""
+- recall:      ~90s  — drill EVERY review item in the list you are given (it is already sorted most-at-risk first and capped to what fits), learner responds, confirm each. Do not silently skip any.
+- dialogue:    ~210s — open with the cold-open scene (see above), then introduce new vocab OR a
+  structure; gloss + tone-name each new word on first use; for structures, state the rule then
+  model it.
+- consolidate: ~75s  — a light, low-pressure pass back over every new word/phrase from dialogue,
+  once each, in the order taught. This is a bridge, not a test: recognition or a gentle single
+  production per item, no reversal, no graduated intervals — that is drill's job. Keep the
+  pressure low; the point is to confirm today's words are solid before drill works them harder.
+  Do not skip this segment or fold it into dialogue — it exists so the jump from "just taught"
+  to "drilled hard" is not so abrupt.
+- drill:       ~240s — this is the longest segment; do not shortchange it. Graduated interval
+  repetition PLUS a full reversal pass (Vietnamese cue -> English meaning) for every new item
+  this lesson, not just a sample. For structures, drill by substitution. Pauses only for learner
+  responses.
+- synthesis:   ~150s — replay the EXACT cold-open scene from the start of dialogue, now at
+  natural speed with no gaps — the learner should recognise it and understand it this time. Then
+  a short practice turn using today's material, then preview 1 word from next lesson."""

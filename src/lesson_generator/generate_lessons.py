@@ -53,16 +53,16 @@ from lesson_generator.models.VocabItem import VocabItem
 
 from lesson_generator.config import *
 
-def generate_lesson_json(
-    client: anthropic.Anthropic,
+def build_user_message(
     level: int,
     day: int,
     new_vocab_hints: list[str],
     review_ids: list[str],
     scene: str,
     vocab_db: VocabDB,
-) -> dict:
-    """Call Claude to produce a lesson JSON for the given day."""
+) -> str:
+    """Build the exact per-day user message sent to Claude. Pure function (no
+    network call) so it can be reused to preview/replicate a day's prompt."""
     review_words = []
     for vid in review_ids:
         item = vocab_db.get(vid)
@@ -81,7 +81,7 @@ def generate_lesson_json(
         }
     )
 
-    user_msg = (
+    return (
         f"Generate lesson L{level}-D{day}.\n"
         f"New vocabulary hints: {', '.join(new_vocab_hints)}.\n"
         f"Review items due today, most-at-risk first — drill ALL of them in the recall "
@@ -94,6 +94,19 @@ def generate_lesson_json(
         f"Introduce at most 3 new content words (4 only if they form a natural set "
         f"like numbers). Repeat each new word many times, slowly at first. Output JSON only."
     )
+
+
+def generate_lesson_json(
+    client: anthropic.Anthropic,
+    level: int,
+    day: int,
+    new_vocab_hints: list[str],
+    review_ids: list[str],
+    scene: str,
+    vocab_db: VocabDB,
+) -> dict:
+    """Call Claude to produce a lesson JSON for the given day."""
+    user_msg = build_user_message(level, day, new_vocab_hints, review_ids, scene, vocab_db)
 
     response = client.messages.create(
         model=CLAUDE_MODEL,
@@ -404,15 +417,20 @@ def process_day(
         day_cfg = get_day_config(level, day)
         review_ids = vocab_db.due_on_day(level, day)
 
-        raw_json = generate_lesson_json(
-            client=anthropic_client,
-            level=level,
-            day=day,
-            new_vocab_hints=day_cfg["vocab"],
-            review_ids=review_ids,
-            scene=day_cfg["scene"],
-            vocab_db=vocab_db,
-        )
+        try:
+            raw_json = generate_lesson_json(
+                client=anthropic_client,
+                level=level,
+                day=day,
+                new_vocab_hints=day_cfg["vocab"],
+                review_ids=review_ids,
+                scene=day_cfg["scene"],
+                vocab_db=vocab_db,
+            )
+        except json.JSONDecodeError as e:
+            print(f"  [{lesson_id}] ✗ Claude returned malformed JSON — not saving: {e}")
+            print(f"  [{lesson_id}] Re-run to regenerate.")
+            return
         freshly_generated = True
 
     # Validate before spending ElevenLabs credits (and before polluting the
