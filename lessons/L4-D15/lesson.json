@@ -1,0 +1,34 @@
+{
+  "id": "L4-D15",
+  "title": "Máy lạnh: hotel room problems",
+  "vocab": [
+    {"vi": "máy lạnh", "en": "air conditioner", "ipa": "maːj˧˥ laɲ˨˩ʔ"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say goodbye —] [PAUSE 4s] [VI: tạm biệt] [PAUSE 0.5s] [EN: Say see you again —] [PAUSE 4s] [VI: hẹn gặp lại] [PAUSE 0.5s] [EN: Say congratulations —] [PAUSE 4s] [VI: chúc mừng] [PAUSE 0.5s] [EN: Say on, or above —] [PAUSE 4s] [VI: trên] [PAUSE 0.5s] [EN: Say under, or below —] [PAUSE 4s] [VI: dưới] [PAUSE 0.5s] [EN: Say in, or inside —] [PAUSE 4s] [VI: trong] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 195,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Máy lạnh trong phòng bị hư rồi.] [PAUSE 0.5s] [VI_F: Dạ, chị chờ một chút.] [PAUSE 0.5s] [VI: Phòng cũng không có nước nóng.] [PAUSE 0.5s] [VI_F: Dạ được, tôi giúp chị.] [PAUSE 1s] [EN: One new word today: hotel room problems.] [PAUSE 0.5s] [VI: máy lạnh] [EN: means air conditioner.] [VI: máy] [EN: has] [VI: dấu sắc] [EN: , and] [VI: lạnh] [EN: you already know — cold. It has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: máy lạnh] [PAUSE 1s] [VI_F: máy lạnh] [EN: Now you say it.] [PAUSE 4s] [VI: máy lạnh] [EN: Good. The air conditioner is broken —] [PAUSE 4s] [VI: Máy lạnh bị hư.] [PAUSE 0.5s] [EN: Combine it with what you know — no hot water —] [PAUSE 4s] [VI: Không có nước nóng.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 55,
+      "script": "[EN: Quick pass over today's word.] [PAUSE 0.5s] [EN: Air conditioner —] [PAUSE 4s] [VI: máy lạnh] [PAUSE 0.5s] [EN: The air conditioner is broken —] [PAUSE 4s] [VI: Máy lạnh bị hư.] [PAUSE 0.5s] [EN: No hot water —] [PAUSE 4s] [VI: Không có nước nóng.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 230,
+      "script": "[EN: Let's drill the pattern. Air conditioner —] [PAUSE 4s] [VI: máy lạnh] [PAUSE 0.5s] [EN: Now say it. The air conditioner is broken —] [PAUSE 4s] [VI: Máy lạnh bị hư.] [PAUSE 0.5s] [EN: No hot water —] [PAUSE 4s] [VI: Không có nước nóng.] [PAUSE 0.5s] [EN: Could you help me —] [PAUSE 4s] [VI: Chị giúp tôi được không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: máy lạnh] [PAUSE 3s] [EN: air conditioner] [PAUSE 0.5s] [VI_F: Máy lạnh bị hư.] [PAUSE 3s] [EN: the air conditioner is broken] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: máy lạnh] [PAUSE 1s] [EN: Remember,] [VI: máy] [EN: has] [VI: dấu sắc] [EN: , and] [VI: lạnh] [EN: has] [VI: dấu nặng] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Máy lạnh trong phòng bị hư rồi.] [PAUSE 0.5s] [VI_F: Dạ, chị chờ một chút.] [PAUSE 0.5s] [VI: Phòng cũng không có nước nóng.] [PAUSE 0.5s] [VI_F: Dạ được, tôi giúp chị.] [PAUSE 1s] [EN: Your turn. Say the air conditioner is broken.] [PAUSE 4s] [VI: Máy lạnh bị hư.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, getting it fixed. One word to start —] [VI: sửa] [EN: it means to fix, or repair. See you then.]"
+    }
+  ]
+}

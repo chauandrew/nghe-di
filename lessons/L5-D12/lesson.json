@@ -1,0 +1,36 @@
+{
+  "id": "L5-D12",
+  "title": "Món ăn, đặc sản, miền: regional food culture",
+  "vocab": [
+    {"vi": "món ăn", "en": "dish, or food (a food item, not the verb to eat)", "ipa": "mɔn˧˥ ăn˧"},
+    {"vi": "đặc sản", "en": "specialty (regional food specialty)", "ipa": "dak˨˩ʔ saːn˨˩˦"},
+    {"vi": "miền", "en": "region", "ipa": "miən˨˩"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say busy —] [PAUSE 4s] [VI: bận] [PAUSE 0.5s] [EN: Say to move, or to reschedule —] [PAUSE 4s] [VI: dời] [PAUSE 0.5s] [EN: Say late —] [PAUSE 4s] [VI: trễ] [PAUSE 0.5s] [EN: Say early —] [PAUSE 4s] [VI: sớm] [PAUSE 0.5s] [EN: Say to trouble, or bother someone —] [PAUSE 4s] [VI: phiền] [PAUSE 0.5s] [EN: Say to help —] [PAUSE 4s] [VI: giúp] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Món ăn đặc sản ở đây là gì?] [PAUSE 0.5s] [VI: Đây là đặc sản của miền này.] [PAUSE 0.5s] [VI_F: Ngon không?] [PAUSE 0.5s] [VI: Ngon lắm!] [PAUSE 1s] [EN: Today, regional food culture.] [PAUSE 0.5s] [EN: First,] [VI: món ăn] [EN: means dish, or food — a food item, not the verb to eat. Listen to its two parts.] [VI_F: món] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: ăn] [EN: you know — to eat. Listen to the whole word again.] [VI_F: món ăn] [PAUSE 1s] [VI_F: món ăn] [EN: Now you say it.] [PAUSE 4s] [VI: món ăn] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: đặc sản] [EN: means specialty — a food a region is known for. Listen to its two parts.] [VI_F: đặc] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: sản] [EN: has] [VI: dấu hỏi] [EN: . Listen to the whole word again.] [VI_F: đặc sản] [PAUSE 1s] [VI_F: đặc sản] [EN: Now you say it.] [PAUSE 4s] [VI: đặc sản] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: miền] [EN: means region. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: miền] [PAUSE 1s] [VI_F: miền] [EN: Now you say it.] [PAUSE 4s] [VI: miền] [EN: Good. This is a specialty of this region —] [PAUSE 4s] [VI: Đây là đặc sản của miền này.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Dish, or food —] [PAUSE 4s] [VI: món ăn] [PAUSE 0.5s] [EN: Specialty —] [PAUSE 4s] [VI: đặc sản] [PAUSE 0.5s] [EN: Region —] [PAUSE 4s] [VI: miền] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Dish, or food —] [PAUSE 4s] [VI: món ăn] [PAUSE 0.5s] [EN: Specialty —] [PAUSE 4s] [VI: đặc sản] [PAUSE 0.5s] [EN: Region —] [PAUSE 4s] [VI: miền] [PAUSE 0.5s] [EN: Now build it. What's the specialty dish here? —] [PAUSE 4s] [VI: Món ăn đặc sản ở đây là gì?] [PAUSE 0.5s] [EN: This is a specialty of this region —] [PAUSE 4s] [VI: Đây là đặc sản của miền này.] [PAUSE 0.5s] [EN: This region has tasty food —] [PAUSE 4s] [VI: Miền này có món ăn ngon.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: món ăn] [PAUSE 3s] [EN: dish, or food] [PAUSE 0.5s] [VI_F: đặc sản] [PAUSE 3s] [EN: specialty] [PAUSE 0.5s] [VI_F: miền] [PAUSE 3s] [EN: region] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: món ăn] [PAUSE 1s] [VI_F: đặc sản] [PAUSE 1s] [VI_F: miền] [PAUSE 0.5s] [EN: Remember,] [VI: đặc] [EN: has] [VI: dấu nặng] [EN: , and] [VI: sản] [EN: has] [VI: dấu hỏi] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Món ăn đặc sản ở đây là gì?] [PAUSE 0.5s] [VI: Đây là đặc sản của miền này.] [PAUSE 0.5s] [VI_F: Ngon không?] [PAUSE 0.5s] [VI: Ngon lắm!] [PAUSE 1s] [EN: Your turn. Say this region has tasty food.] [PAUSE 4s] [VI: Miền này có món ăn ngon.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, recommending a dish. One word to start —] [VI: nổi tiếng] [EN: it means famous. See you then.]"
+    }
+  ]
+}

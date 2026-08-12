@@ -1,0 +1,35 @@
+{
+  "id": "L4-D8",
+  "title": "Nếu, thì: if...then",
+  "vocab": [
+    {"vi": "nếu", "en": "if", "ipa": "new˧˥"},
+    {"vi": "thì", "en": "then", "ipa": "tʰi˨˩"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say supermarket —] [PAUSE 4s] [VI: siêu thị] [PAUSE 0.5s] [EN: Say plastic bag —] [PAUSE 4s] [VI: túi ni lông] [PAUSE 0.5s] [EN: Say change, or money back —] [PAUSE 4s] [VI: tiền thối] [PAUSE 0.5s] [EN: Say very —] [PAUSE 4s] [VI: rất] [PAUSE 0.5s] [EN: Say a little, somewhat —] [PAUSE 4s] [VI: hơi] [PAUSE 0.5s] [EN: Say fairly, rather —] [PAUSE 4s] [VI: khá] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 205,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Nếu chị rảnh thì mình đi chơi nha.] [PAUSE 0.5s] [VI: Dạ, tôi rảnh.] [PAUSE 0.5s] [VI_F: Vậy nếu chị đói thì mình ăn trước nha.] [PAUSE 0.5s] [VI: Dạ được.] [PAUSE 1s] [EN: Today's structure: if...then.] [PAUSE 0.5s] [EN: First,] [VI: nếu] [EN: means if. It starts the condition. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: nếu] [PAUSE 1s] [VI_F: nếu] [EN: Now you say it.] [PAUSE 4s] [VI: nếu] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: thì] [EN: means then. It starts the result. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: thì] [PAUSE 1s] [VI_F: thì] [EN: Now you say it.] [PAUSE 4s] [VI: thì] [EN: Good. Put them together — if you're free, then let's hang out —] [PAUSE 4s] [VI: Nếu chị rảnh thì mình đi chơi.] [PAUSE 0.5s] [EN: If you have a fever, then you should rest —] [PAUSE 4s] [VI: Nếu anh bị sốt thì anh nên nghỉ.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: If —] [PAUSE 4s] [VI: nếu] [PAUSE 0.5s] [EN: Then —] [PAUSE 4s] [VI: thì] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. If —] [PAUSE 4s] [VI: nếu] [PAUSE 0.5s] [EN: Then —] [PAUSE 4s] [VI: thì] [PAUSE 0.5s] [EN: Now build it. If you're free, then let's hang out —] [PAUSE 4s] [VI: Nếu chị rảnh thì mình đi chơi.] [PAUSE 0.5s] [EN: If you have a fever, then you should rest —] [PAUSE 4s] [VI: Nếu anh bị sốt thì anh nên nghỉ.] [PAUSE 0.5s] [EN: If you're hungry, then let's eat —] [PAUSE 4s] [VI: Nếu chị đói thì mình ăn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: nếu] [PAUSE 3s] [EN: if] [PAUSE 0.5s] [VI_F: thì] [PAUSE 3s] [EN: then] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: nếu] [PAUSE 1s] [VI_F: thì] [PAUSE 0.5s] [EN: Remember,] [VI: nếu] [EN: has] [VI: dấu sắc] [EN: , and] [VI: thì] [EN: has] [VI: dấu huyền] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Nếu chị rảnh thì mình đi chơi nha.] [PAUSE 0.5s] [VI: Dạ, tôi rảnh.] [PAUSE 0.5s] [VI_F: Vậy nếu chị đói thì mình ăn trước nha.] [PAUSE 0.5s] [VI: Dạ được.] [PAUSE 1s] [EN: Your turn. Say if you have a fever, then you should rest.] [PAUSE 4s] [VI: Nếu anh bị sốt thì anh nên nghỉ.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, planning around the weather. One word to start —] [VI: trời] [EN: it means sky, or weather. See you then.]"
+    }
+  ]
+}

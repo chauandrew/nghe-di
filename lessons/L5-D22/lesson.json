@@ -1,0 +1,35 @@
+{
+  "id": "L5-D22",
+  "title": "Chứ, đó: emphatic particles",
+  "vocab": [
+    {"vi": "chứ", "en": "of course (emphatic particle at the end of a statement — a different job from chứ = right?, isn't it?)", "ipa": "tɕɨ˧˥"},
+    {"vi": "đó", "en": "you know, see (sentence-final emphasis particle — a different job from đó = that)", "ipa": "dɔ˧˥"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say you, or he, for an older man —] [PAUSE 4s] [VI: anh] [PAUSE 0.5s] [EN: Say you, or she, for an older woman —] [PAUSE 4s] [VI: chị] [PAUSE 0.5s] [EN: Say you, for someone younger —] [PAUSE 4s] [VI: em] [PAUSE 0.5s] [EN: Say to feel, or find —] [PAUSE 4s] [VI: thấy] [PAUSE 0.5s] [EN: Say happy —] [PAUSE 4s] [VI: vui] [PAUSE 0.5s] [EN: Say sad —] [PAUSE 4s] [VI: buồn] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Đám cưới vui không?] [PAUSE 0.5s] [VI: Vui chứ! Cô dâu đẹp lắm đó!] [PAUSE 0.5s] [VI_F: Vậy à? Em cũng muốn đi đó!] [PAUSE 1s] [EN: Today, two words you know get extra jobs — both add emphasis at the end of a sentence.] [PAUSE 0.5s] [EN: You know] [VI: chứ] [EN: from asking right?, seeking agreement. Today it also works inside a plain statement — not a question — to assert something confidently, like saying of course. Same word, same] [VI: dấu sắc] [EN: . Listen again.] [VI_F: chứ] [PAUSE 1s] [VI_F: chứ] [EN: Now you say it.] [PAUSE 4s] [VI: chứ] [EN: Good. Of course it's fun! —] [PAUSE 4s] [VI: Vui chứ!] [PAUSE 0.5s] [EN: You also know] [VI: đó] [EN: as that, for pointing at something. Today it moves to the end of the sentence and just adds emphasis — closer to English you know, or see. It still has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: đó] [PAUSE 1s] [VI_F: đó] [EN: Now you say it.] [PAUSE 4s] [VI: đó] [EN: Good. The bride is really pretty, you know! —] [PAUSE 4s] [VI: Cô dâu đẹp lắm đó!] [PAUSE 0.5s] [EN: A quick note — northern speakers often use] [VI: đấy] [EN: or] [VI: cơ] [EN: for this same job. You'll hear them, but here we stick with] [VI: đó] [EN: .]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's particles.] [PAUSE 0.5s] [EN: The confident, of-course particle —] [PAUSE 4s] [VI: chứ] [PAUSE 0.5s] [EN: The emphasis particle, you know —] [PAUSE 4s] [VI: đó] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. The confident, of-course particle —] [PAUSE 4s] [VI: chứ] [PAUSE 0.5s] [EN: The emphasis particle, you know —] [PAUSE 4s] [VI: đó] [PAUSE 0.5s] [EN: Now build it. Of course it's fun! —] [PAUSE 4s] [VI: Vui chứ!] [PAUSE 0.5s] [EN: Of course it's tasty! —] [PAUSE 4s] [VI: Ngon chứ!] [PAUSE 0.5s] [EN: The bride is really pretty, you know! —] [PAUSE 4s] [VI: Cô dâu đẹp lắm đó!] [PAUSE 0.5s] [EN: My colleague got promoted, you know! —] [PAUSE 4s] [VI: Đồng nghiệp của tôi thăng chức rồi đó!] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: Vui chứ!] [PAUSE 3s] [EN: of course it's fun] [PAUSE 0.5s] [VI_F: Cô dâu đẹp lắm đó!] [PAUSE 3s] [EN: the bride is really pretty, you know] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: chứ] [PAUSE 1s] [VI_F: đó] [PAUSE 0.5s] [EN: Remember,] [VI: chứ] [EN: and] [VI: đó] [EN: both have] [VI: dấu sắc] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Đám cưới vui không?] [PAUSE 0.5s] [VI: Vui chứ! Cô dâu đẹp lắm đó!] [PAUSE 0.5s] [VI_F: Vậy à? Em cũng muốn đi đó!] [PAUSE 1s] [EN: Your turn. Say of course it's fun.] [PAUSE 4s] [VI: Vui chứ!] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, no new words — a lively casual conversation, just you and your particles.]"
+    }
+  ]
+}

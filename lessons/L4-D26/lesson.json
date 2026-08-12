@@ -1,0 +1,35 @@
+{
+  "id": "L4-D26",
+  "title": "Nhắn, tin nhắn: relaying a message",
+  "vocab": [
+    {"vi": "nhắn", "en": "to pass along a message", "ipa": "ɲăn˧˥"},
+    {"vi": "tin nhắn", "en": "a text message", "ipa": "tin˧ ɲăn˧˥"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say when, joining two events —] [PAUSE 4s] [VI: khi] [PAUSE 0.5s] [EN: Say at, for a specific point in time —] [PAUSE 4s] [VI: lúc] [PAUSE 0.5s] [EN: Say when, the question word —] [PAUSE 4s] [VI: khi nào] [PAUSE 0.5s] [EN: Say bad-tasting, poorly made —] [PAUSE 4s] [VI: dở] [PAUSE 0.5s] [EN: Say excellent, amazing —] [PAUSE 4s] [VI: tuyệt] [PAUSE 0.5s] [EN: Say to withdraw money —] [PAUSE 4s] [VI: rút tiền] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 205,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Chị nhắn giúp tôi được không?] [PAUSE 0.5s] [VI_F: Dạ được, anh nhắn gì?] [PAUSE 0.5s] [VI: Nhắn bác sĩ giúp tôi, tôi bị trễ.] [PAUSE 0.5s] [VI_F: Dạ, tôi gửi tin nhắn ngay.] [PAUSE 1s] [EN: Two new words today: relaying a message.] [PAUSE 0.5s] [EN: First,] [VI: nhắn] [EN: means to pass along a message. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: nhắn] [PAUSE 1s] [VI_F: nhắn] [EN: Now you say it.] [PAUSE 4s] [VI: nhắn] [EN: Good. Can you pass along a message for me —] [PAUSE 4s] [VI: Chị nhắn giúp tôi được không?] [PAUSE 0.5s] [EN: Next,] [VI: tin nhắn] [EN: means a text message. You know] [VI: nhắn] [EN: from just now, and] [VI: tin] [EN: means news, or a message.] [VI: tin] [EN: has] [VI: ngang] [EN: — flat] [PAUSE 0.3s] [VI: nhắn] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole word again.] [VI_F: tin nhắn] [PAUSE 1s] [VI_F: tin nhắn] [EN: Now you say it.] [PAUSE 4s] [VI: tin nhắn] [EN: Good. I'll send the message right away —] [PAUSE 4s] [VI: Tôi gửi tin nhắn ngay.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To pass along a message —] [PAUSE 4s] [VI: nhắn] [PAUSE 0.5s] [EN: A text message —] [PAUSE 4s] [VI: tin nhắn] [PAUSE 0.5s] [EN: I'll send the message right away —] [PAUSE 4s] [VI: Tôi gửi tin nhắn ngay.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. To pass along a message —] [PAUSE 4s] [VI: nhắn] [PAUSE 0.5s] [EN: A text message —] [PAUSE 4s] [VI: tin nhắn] [PAUSE 0.5s] [EN: Now build it. Can you pass along a message for me —] [PAUSE 4s] [VI: Chị nhắn giúp tôi được không?] [PAUSE 0.5s] [EN: I'll send the message right away —] [PAUSE 4s] [VI: Tôi gửi tin nhắn ngay.] [PAUSE 0.5s] [EN: Pass along a message to the doctor for me, I'm running late —] [PAUSE 4s] [VI: Nhắn bác sĩ giúp tôi, tôi bị trễ.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: nhắn] [PAUSE 3s] [EN: to pass along a message] [PAUSE 0.5s] [VI_F: tin nhắn] [PAUSE 3s] [EN: a text message] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: nhắn] [PAUSE 1s] [VI_F: tin nhắn] [PAUSE 0.5s] [EN: Remember,] [VI: nhắn] [EN: has] [VI: dấu sắc] [EN: , the same rising sound as] [VI: nói] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Chị nhắn giúp tôi được không?] [PAUSE 0.5s] [VI_F: Dạ được, anh nhắn gì?] [PAUSE 0.5s] [VI: Nhắn bác sĩ giúp tôi, tôi bị trễ.] [PAUSE 0.5s] [VI_F: Dạ, tôi gửi tin nhắn ngay.] [PAUSE 1s] [EN: Your turn. Say you'll send the message right away.] [PAUSE 4s] [VI: Tôi gửi tin nhắn ngay.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, services and repairs. One word to start —] [VI: thợ] [EN: it means worker, or repairman. See you then.]"
+    }
+  ]
+}

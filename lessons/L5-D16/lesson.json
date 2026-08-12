@@ -1,0 +1,36 @@
+{
+  "id": "L5-D16",
+  "title": "Đám cưới: weddings",
+  "vocab": [
+    {"vi": "đám cưới", "en": "wedding", "ipa": "daːm˧˥ kɨəj˧˥"},
+    {"vi": "cô dâu", "en": "bride", "ipa": "ko˧ zəw˧"},
+    {"vi": "chú rể", "en": "groom", "ipa": "tɕu˧˥ re˨˩˦"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say dad —] [PAUSE 4s] [VI: ba] [PAUSE 0.5s] [EN: Say mom —] [PAUSE 4s] [VI: má] [PAUSE 0.5s] [EN: Say wife —] [PAUSE 4s] [VI: vợ] [PAUSE 0.5s] [EN: Say husband —] [PAUSE 4s] [VI: chồng] [PAUSE 0.5s] [EN: Say card —] [PAUSE 4s] [VI: thẻ] [PAUSE 0.5s] [EN: Say broken, or malfunctioning —] [PAUSE 4s] [VI: hư] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Đám cưới của ai vậy?] [PAUSE 0.5s] [VI: Đám cưới của chị tôi. Cô dâu đẹp lắm.] [PAUSE 0.5s] [VI_F: Chú rể là ai?] [PAUSE 0.5s] [VI: Chú rể là bạn bè của tôi.] [PAUSE 1s] [EN: Today, weddings.] [PAUSE 0.5s] [EN: First,] [VI: đám cưới] [EN: means wedding. Listen to its two parts.] [VI_F: đám] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: cưới] [EN: also has] [VI: dấu sắc] [EN: . Listen to the whole word again.] [VI_F: đám cưới] [PAUSE 1s] [VI_F: đám cưới] [EN: Now you say it.] [PAUSE 4s] [VI: đám cưới] [EN: Good. My sister's wedding —] [PAUSE 4s] [VI: Đám cưới của chị tôi.] [PAUSE 0.5s] [EN: Next,] [VI: cô dâu] [EN: means bride. Listen to its two parts.] [VI_F: cô] [EN: has] [VI: ngang] [EN: — flat,] [PAUSE 0.3s] [VI_F: dâu] [EN: is also] [VI: ngang] [EN: — flat. Listen to the whole word again.] [VI_F: cô dâu] [PAUSE 1s] [VI_F: cô dâu] [EN: Now you say it.] [PAUSE 4s] [VI: cô dâu] [EN: Good. The bride is very pretty —] [PAUSE 4s] [VI: Cô dâu đẹp lắm.] [PAUSE 0.5s] [EN: Next,] [VI: chú rể] [EN: means groom. Listen to its two parts.] [VI_F: chú] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: rể] [EN: has] [VI: dấu hỏi] [EN: . Listen to the whole word again.] [VI_F: chú rể] [PAUSE 1s] [VI_F: chú rể] [EN: Now you say it.] [PAUSE 4s] [VI: chú rể] [EN: Good. Who is the groom —] [PAUSE 4s] [VI: Chú rể là ai?] [PAUSE 0.5s] [EN: The groom is my friend —] [PAUSE 4s] [VI: Chú rể là bạn bè của tôi.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Wedding —] [PAUSE 4s] [VI: đám cưới] [PAUSE 0.5s] [EN: Bride —] [PAUSE 4s] [VI: cô dâu] [PAUSE 0.5s] [EN: Groom —] [PAUSE 4s] [VI: chú rể] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Wedding —] [PAUSE 4s] [VI: đám cưới] [PAUSE 0.5s] [EN: Bride —] [PAUSE 4s] [VI: cô dâu] [PAUSE 0.5s] [EN: Groom —] [PAUSE 4s] [VI: chú rể] [PAUSE 0.5s] [EN: Now build it. My sister's wedding is next month —] [PAUSE 4s] [VI: Đám cưới của chị tôi là tháng sau.] [PAUSE 0.5s] [EN: The bride is very pretty —] [PAUSE 4s] [VI: Cô dâu đẹp lắm.] [PAUSE 0.5s] [EN: The groom is my friend —] [PAUSE 4s] [VI: Chú rể là bạn bè của tôi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đám cưới] [PAUSE 3s] [EN: wedding] [PAUSE 0.5s] [VI_F: cô dâu] [PAUSE 3s] [EN: bride] [PAUSE 0.5s] [VI_F: chú rể] [PAUSE 3s] [EN: groom] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đám cưới] [PAUSE 1s] [VI_F: cô dâu] [PAUSE 1s] [VI_F: chú rể] [PAUSE 0.5s] [EN: Remember,] [VI: đám] [EN: and] [VI: cưới] [EN: both have] [VI: dấu sắc] [EN: , and] [VI: rể] [EN: has] [VI: dấu hỏi] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Đám cưới của ai vậy?] [PAUSE 0.5s] [VI: Đám cưới của chị tôi. Cô dâu đẹp lắm.] [PAUSE 0.5s] [VI_F: Chú rể là ai?] [PAUSE 0.5s] [VI: Chú rể là bạn bè của tôi.] [PAUSE 1s] [EN: Your turn. Say the bride is very pretty.] [PAUSE 4s] [VI: Cô dâu đẹp lắm.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, celebrations. One word to start —] [VI: mừng] [EN: it means to be glad, or congratulate. See you then.]"
+    }
+  ]
+}

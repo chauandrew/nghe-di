@@ -1,0 +1,36 @@
+{
+  "id": "L5-D6",
+  "title": "Mong, hi vọng, ước: wishes and hopes",
+  "vocab": [
+    {"vi": "mong", "en": "to hope, or wish (everyday, used with future sẽ)", "ipa": "mɔŋ˧"},
+    {"vi": "hi vọng", "en": "to hope (more formal, can stand alone)", "ipa": "hi˧ vɔŋ˨˩ʔ"},
+    {"vi": "ước", "en": "to wish (for something not yet true)", "ipa": "ɯək˧˥"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say more than —] [PAUSE 4s] [VI: hơn] [PAUSE 0.5s] [EN: Say as ... as, equal —] [PAUSE 4s] [VI: bằng] [PAUSE 0.5s] [EN: Say the most —] [PAUSE 4s] [VI: nhất] [PAUSE 0.5s] [EN: Say head —] [PAUSE 4s] [VI: đầu] [PAUSE 0.5s] [EN: Say stomach —] [PAUSE 4s] [VI: bụng] [PAUSE 0.5s] [EN: Say hand, or arm —] [PAUSE 4s] [VI: tay] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chị mong gì?] [PAUSE 0.5s] [VI: Tôi mong sẽ khỏe, và hi vọng gia đình vui vẻ.] [PAUSE 0.5s] [VI_F: Ước gì mình cũng vậy.] [PAUSE 1s] [EN: Today's structure: wishes and hopes, three ways.] [PAUSE 0.5s] [EN: First,] [VI: mong] [EN: means to hope, for everyday wishes, often with] [VI: sẽ] [EN: for the future. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: mong] [PAUSE 1s] [VI_F: mong] [EN: Now you say it.] [PAUSE 4s] [VI: mong] [EN: Good. I hope you're well —] [PAUSE 4s] [VI: Tôi mong anh khỏe.] [PAUSE 0.5s] [EN: Next,] [VI: hi vọng] [EN: also means to hope — a bit more formal, and it can start a sentence on its own. Listen to its two parts.] [VI_F: hi] [EN: has] [VI: ngang] [PAUSE 0.3s] [VI_F: vọng] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: hi vọng] [PAUSE 1s] [VI_F: hi vọng] [EN: Now you say it.] [PAUSE 4s] [VI: hi vọng] [EN: Good. I hope it doesn't rain —] [PAUSE 4s] [VI: Tôi hi vọng trời không mưa.] [PAUSE 0.5s] [EN: Last,] [VI: ước] [EN: means to wish — for something not true yet, often as] [VI: ước gì] [EN: , meaning if only. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: ước] [PAUSE 1s] [VI_F: ước] [EN: Now you say it.] [PAUSE 4s] [VI: ước] [EN: Good. I wish I were more free —] [PAUSE 4s] [VI: Ước gì tôi rảnh hơn.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's wish words.] [PAUSE 0.5s] [EN: To hope —] [PAUSE 4s] [VI: mong] [PAUSE 0.5s] [EN: To hope, more formal —] [PAUSE 4s] [VI: hi vọng] [PAUSE 0.5s] [EN: To wish —] [PAUSE 4s] [VI: ước] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. To hope —] [PAUSE 4s] [VI: mong] [PAUSE 0.5s] [EN: To hope, more formal —] [PAUSE 4s] [VI: hi vọng] [PAUSE 0.5s] [EN: To wish —] [PAUSE 4s] [VI: ước] [PAUSE 0.5s] [EN: Now build it. I hope you're well —] [PAUSE 4s] [VI: Tôi mong anh khỏe.] [PAUSE 0.5s] [EN: I hope it doesn't rain —] [PAUSE 4s] [VI: Tôi hi vọng trời không mưa.] [PAUSE 0.5s] [EN: I wish I were more free —] [PAUSE 4s] [VI: Ước gì tôi rảnh hơn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: mong] [PAUSE 3s] [EN: to hope] [PAUSE 0.5s] [VI_F: hi vọng] [PAUSE 3s] [EN: to hope, more formal] [PAUSE 0.5s] [VI_F: ước] [PAUSE 3s] [EN: to wish] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: mong] [PAUSE 1s] [VI_F: hi vọng] [PAUSE 1s] [VI_F: ước] [PAUSE 0.5s] [EN: Remember,] [VI: vọng] [EN: has] [VI: dấu nặng] [EN: , and] [VI: ước] [EN: has] [VI: dấu sắc] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Chị mong gì?] [PAUSE 0.5s] [VI: Tôi mong sẽ khỏe, và hi vọng gia đình vui vẻ.] [PAUSE 0.5s] [VI_F: Ước gì mình cũng vậy.] [PAUSE 1s] [EN: Your turn. Say I hope you're well.] [PAUSE 4s] [VI: Tôi mong anh khỏe.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, goals and the future. One word to start —] [VI: mục tiêu] [EN: it means goal. See you then.]"
+    }
+  ]
+}

@@ -1,32 +1,38 @@
 {
   "id": "L3-D10",
-  "title": "Ở đâu — Where things are",
+  "title": "Trên, dưới, trong, ngoài, bên cạnh: location prepositions",
   "vocab": [
-    {"vi": "trên", "en": "on, above", "ipa": "/ʈen˧/"},
-    {"vi": "dưới", "en": "under, below", "ipa": "/zɨəj˧˩˧/"},
-    {"vi": "trong", "en": "in, inside", "ipa": "/ʈɔŋ˧/"},
-    {"vi": "bên cạnh", "en": "next to, beside", "ipa": "/ɓen˧ kaɲ˨˩ʔ/"}
+    {"vi": "trên", "en": "on, or above", "ipa": "tɕen˧"},
+    {"vi": "dưới", "en": "under, or below", "ipa": "zɨəj˨˩˦"},
+    {"vi": "trong", "en": "in, or inside", "ipa": "tɕɔŋ˧"},
+    {"vi": "ngoài", "en": "outside", "ipa": "ŋwaːj˨˩"},
+    {"vi": "bên cạnh", "en": "next to, beside", "ipa": "ben˧ kaːɲ˨˩ʔ"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To wake up.] [PAUSE 4s] [VI: Dậy.] [EN: How long, up to now?] [PAUSE 4s] [VI: Bao lâu rồi?] [EN: I feel tired.] [PAUSE 4s] [VI: Tôi thấy mệt.] [EN: What does this mean?] [VI_F: Bếp.] [PAUSE 3s] [EN: Kitchen.] [EN: Good.]"
+      "script": "[EN: Quick review. Say to wake up —] [PAUSE 4s] [VI: dậy] [PAUSE 0.5s] [EN: Say to sleep —] [PAUSE 4s] [VI: ngủ] [PAUSE 0.5s] [EN: Say breakfast —] [PAUSE 4s] [VI: ăn sáng] [PAUSE 0.5s] [EN: Say to invite —] [PAUSE 4s] [VI: rủ] [PAUSE 0.5s] [EN: Say free, or available —] [PAUSE 4s] [VI: rảnh] [PAUSE 0.5s] [EN: Say very —] [PAUSE 4s] [VI: rất] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: Location words go before the place. On, or above, is] [VI_F: Trên.] [EN: a flat tone. On the table.] [PAUSE 4s] [VI: Trên bàn.] [EN: Under is] [VI_F: Dưới.] [EN: a falling, rising tone; relax your lips for this vowel. Inside is] [VI_F: Trong.] [EN: a flat tone. In the kitchen.] [PAUSE 4s] [VI: Trong bếp.] [EN: Next to, or beside, is] [VI_F: Bên cạnh.] [EN: Next to the house.] [PAUSE 4s] [VI: Bên cạnh nhà.] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Bếp ở đâu?] [PAUSE 0.5s] [VI: Dạ, bếp ở trong.] [PAUSE 0.5s] [VI_F: Còn phòng khách?] [PAUSE 0.5s] [VI: Phòng khách ở ngoài.] [PAUSE 1s] [EN: Today, five words for location — say them after] [VI: ở] [EN: which you already know from] [VI: ở đâu] [EN: .] [PAUSE 0.5s] [EN: First,] [VI: trên] [EN: means on, or above. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: trên] [PAUSE 1s] [VI_F: trên] [EN: Now you say it.] [PAUSE 4s] [VI: trên] [EN: Good. Upstairs —] [PAUSE 4s] [VI: ở trên] [PAUSE 0.5s] [EN: Next,] [VI: dưới] [EN: means under, or below. It has] [VI: dấu hỏi] [EN: . Listen again.] [VI_F: dưới] [PAUSE 1s] [VI_F: dưới] [EN: Now you say it.] [PAUSE 4s] [VI: dưới] [EN: Good. Downstairs —] [PAUSE 4s] [VI: ở dưới] [PAUSE 0.5s] [EN: Now a pair, opposites:] [VI: trong] [EN: means in, or inside, and] [VI: ngoài] [EN: means outside.] [VI: trong] [EN: has] [VI: ngang] [EN: . Listen again.] [VI_F: trong] [PAUSE 1s] [VI_F: trong] [EN: Now you say it.] [PAUSE 4s] [VI: trong] [EN: Good.] [PAUSE 0.5s] [VI: ngoài] [EN: has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: ngoài] [PAUSE 1s] [VI_F: ngoài] [EN: Now you say it.] [PAUSE 4s] [VI: ngoài] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: bên cạnh] [EN: means next to, or beside. Listen to its two parts.] [VI_F: bên] [EN: is] [VI: ngang] [PAUSE 0.3s] [VI_F: cạnh] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: bên cạnh] [PAUSE 1s] [VI_F: bên cạnh] [EN: Now you say it.] [PAUSE 4s] [VI: bên cạnh] [EN: Good. The kitchen is next to the living room —] [PAUSE 4s] [VI: Bếp bên cạnh phòng khách.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 80,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: On, or above —] [PAUSE 4s] [VI: trên] [PAUSE 0.5s] [EN: Under, or below —] [PAUSE 4s] [VI: dưới] [PAUSE 0.5s] [EN: In, or inside —] [PAUSE 4s] [VI: trong] [PAUSE 0.5s] [EN: Outside —] [PAUSE 4s] [VI: ngoài] [PAUSE 0.5s] [EN: Next to, beside —] [PAUSE 4s] [VI: bên cạnh] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. On the table.] [PAUSE 4s] [VI: Trên bàn.] [EN: In the kitchen.] [PAUSE 4s] [VI: Trong bếp.] [EN: Next to the house.] [PAUSE 4s] [VI: Bên cạnh nhà.] [EN: The coffee is on the table.] [PAUSE 4s] [VI: Cà phê ở trên bàn.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Dưới.] [PAUSE 3s] [EN: Under, below.] [EN: What does this mean?] [VI_F: Bên cạnh.] [PAUSE 3s] [EN: Next to, beside.] [EN: Good.]"
+      "duration_s": 250,
+      "script": "[EN: Let's drill. On, or above —] [PAUSE 4s] [VI: trên] [PAUSE 0.5s] [EN: Under, or below —] [PAUSE 4s] [VI: dưới] [PAUSE 0.5s] [EN: In, or inside —] [PAUSE 4s] [VI: trong] [PAUSE 0.5s] [EN: Outside —] [PAUSE 4s] [VI: ngoài] [PAUSE 0.5s] [EN: Next to, beside —] [PAUSE 4s] [VI: bên cạnh] [PAUSE 0.5s] [EN: Now build it. The bedroom is upstairs —] [PAUSE 4s] [VI: Phòng ngủ ở trên.] [PAUSE 0.5s] [EN: The living room is downstairs —] [PAUSE 4s] [VI: Phòng khách ở dưới.] [PAUSE 0.5s] [EN: The kitchen is inside —] [PAUSE 4s] [VI: Bếp ở trong.] [PAUSE 0.5s] [EN: Ask where the kitchen is —] [PAUSE 4s] [VI: Bếp ở đâu?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: trên] [PAUSE 3s] [EN: on, or above] [PAUSE 0.5s] [VI_F: dưới] [PAUSE 3s] [EN: under, or below] [PAUSE 0.5s] [VI_F: trong] [PAUSE 3s] [EN: in, or inside] [PAUSE 0.5s] [VI_F: ngoài] [PAUSE 3s] [EN: outside] [PAUSE 0.5s] [VI_F: bên cạnh] [PAUSE 3s] [EN: next to, beside] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: trên] [PAUSE 1s] [VI_F: dưới] [PAUSE 1s] [VI_F: trong] [PAUSE 1s] [VI_F: ngoài] [PAUSE 1s] [VI_F: bên cạnh] [PAUSE 0.5s] [EN: Remember,] [VI: dưới] [EN: has] [VI: dấu sắc] [EN: , and] [VI: ngoài] [EN: has] [VI: dấu huyền] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, cà phê ở đâu?] [VI_F: Dạ, ở trên bàn, trong bếp.] [VI_M: À, cảm ơn chị.] [PAUSE 0.5s] [EN: Now you try. Say, on the table.] [PAUSE 4s] [VI: Trên bàn.] [EN: Say, in the kitchen.] [PAUSE 4s] [VI: Trong bếp.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you place things more precisely. The preview phrase is] [VI: ở giữa] [EN: which means in the middle.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Bếp ở đâu?] [PAUSE 0.5s] [VI: Dạ, bếp ở trong.] [PAUSE 0.5s] [VI_F: Còn phòng khách?] [PAUSE 0.5s] [VI: Phòng khách ở ngoài.] [PAUSE 1s] [EN: Your turn. Say the kitchen is next to the living room.] [PAUSE 4s] [VI: Bếp bên cạnh phòng khách.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, describing exactly where things are. One word to start —] [VI: ở giữa] [EN: it means in the middle. See you then.]"
     }
   ]
 }

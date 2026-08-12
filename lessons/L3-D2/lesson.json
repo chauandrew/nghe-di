@@ -1,32 +1,37 @@
 {
   "id": "L3-D2",
-  "title": "Đẹp, mới — Describing things",
+  "title": "Đẹp, nhỏ, mới, cũ: describing nouns",
   "vocab": [
-    {"vi": "đẹp", "en": "beautiful, nice", "ipa": "/ɗɛp˧˥/"},
-    {"vi": "lớn", "en": "big", "ipa": "/ləːn˧˥/"},
-    {"vi": "nhỏ", "en": "small", "ipa": "/ɲɔ˧˩˧/"},
-    {"vi": "mới", "en": "new", "ipa": "/məj˧˥/"}
+    {"vi": "đẹp", "en": "beautiful, nice-looking", "ipa": "dɛp˨˩ʔ"},
+    {"vi": "nhỏ", "en": "small", "ipa": "ɲɔ˨˩˦"},
+    {"vi": "mới", "en": "new", "ipa": "mɤj˧˥"},
+    {"vi": "cũ", "en": "old", "ipa": "kuː˨˩˦"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: I am lost.] [PAUSE 4s] [VI: Tôi bị lạc.] [EN: With.] [PAUSE 3s] [VI: Với.] [EN: These days, lately.] [PAUSE 3s] [VI: Dạo này.] [EN: What does this mean?] [VI_F: Chồng.] [PAUSE 3s] [EN: Husband.] [EN: Good.]"
+      "script": "[EN: Quick review. Say I'm lost —] [PAUSE 4s] [VI: Tôi bị lạc.] [PAUSE 0.5s] [EN: Say this street —] [PAUSE 4s] [VI: đường này] [PAUSE 0.5s] [EN: Say turn left —] [PAUSE 4s] [VI: quẹo trái] [PAUSE 0.5s] [EN: Say and —] [PAUSE 4s] [VI: và] [PAUSE 0.5s] [EN: Say with —] [PAUSE 4s] [VI: với] [PAUSE 0.5s] [EN: Say also, or too —] [PAUSE 4s] [VI: cũng] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: Here is a key rule: in Vietnamese, the adjective comes AFTER the noun, not before. Beautiful is] [VI_F: Đẹp.] [EN: a high, rising tone. So a beautiful house is, literally, house beautiful.] [PAUSE 4s] [VI: Nhà đẹp.] [EN: Good.] [PAUSE 0.5s] [EN: Big is] [VI_F: Lớn.] [EN: small is] [VI_F: Nhỏ.] [EN: a falling, rising tone. A big house, a small house.] [PAUSE 4s] [VI: Nhà lớn, nhà nhỏ.] [EN: New is] [VI_F: Mới.] [EN: a high, rising tone. A new car —] [VI: xe mới.] [PAUSE 4s] [VI: Xe mới.] [EN: Good.]"
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Phòng này đẹp quá!] [PAUSE 0.5s] [VI: Dạ, phòng nhỏ. Phòng mới.] [PAUSE 0.5s] [VI_F: Còn phòng đó?] [PAUSE 0.5s] [VI: Phòng đó cũ.] [PAUSE 1s] [EN: Today, a structure: in Vietnamese, the describing word comes AFTER the noun, not before it like in English. Room new, not new room.] [PAUSE 0.5s] [EN: First,] [VI: đẹp] [EN: means beautiful, or nice-looking. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: đẹp] [PAUSE 1s] [VI_F: đẹp] [EN: Now you say it.] [PAUSE 4s] [VI: đẹp] [EN: Good. A beautiful room —] [PAUSE 4s] [VI: phòng đẹp] [PAUSE 0.5s] [EN: Next,] [VI: nhỏ] [EN: means small. It has] [VI: dấu hỏi] [EN: . Listen again.] [VI_F: nhỏ] [PAUSE 1s] [VI_F: nhỏ] [EN: Now you say it.] [PAUSE 4s] [VI: nhỏ] [EN: Good. A small room —] [PAUSE 4s] [VI: phòng nhỏ] [PAUSE 0.5s] [EN: Now a pair, opposites:] [VI: mới] [EN: means new, and] [VI: cũ] [EN: means old.] [VI: mới] [EN: has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: mới] [PAUSE 1s] [VI_F: mới] [EN: Now you say it.] [PAUSE 4s] [VI: mới] [EN: Good.] [PAUSE 0.5s] [VI: cũ] [EN: has] [VI: dấu ngã] [EN: — remember, it sounds the same as] [VI: dấu hỏi] [EN: down here in the south. Listen again.] [VI_F: cũ] [PAUSE 1s] [VI_F: cũ] [EN: Now you say it.] [PAUSE 4s] [VI: cũ] [EN: Good. A new room, an old room —] [PAUSE 4s] [VI: phòng mới, phòng cũ]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Beautiful —] [PAUSE 4s] [VI: đẹp] [PAUSE 0.5s] [EN: Small —] [PAUSE 4s] [VI: nhỏ] [PAUSE 0.5s] [EN: New —] [PAUSE 4s] [VI: mới] [PAUSE 0.5s] [EN: Old —] [PAUSE 4s] [VI: cũ] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill, noun then adjective. A beautiful house.] [PAUSE 4s] [VI: Nhà đẹp.] [EN: A big house.] [PAUSE 4s] [VI: Nhà lớn.] [EN: A small house.] [PAUSE 4s] [VI: Nhà nhỏ.] [EN: A new car.] [PAUSE 4s] [VI: Xe mới.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Nhỏ.] [PAUSE 3s] [EN: Small.] [EN: What does this mean?] [VI_F: Mới.] [PAUSE 3s] [EN: New.] [EN: Good.]"
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Beautiful —] [PAUSE 4s] [VI: đẹp] [PAUSE 0.5s] [EN: Small —] [PAUSE 4s] [VI: nhỏ] [PAUSE 0.5s] [EN: New —] [PAUSE 4s] [VI: mới] [PAUSE 0.5s] [EN: Old —] [PAUSE 4s] [VI: cũ] [PAUSE 0.5s] [EN: Now build it. Remember, the describing word goes after the noun. A beautiful room —] [PAUSE 4s] [VI: Phòng đẹp.] [PAUSE 0.5s] [EN: A small room —] [PAUSE 4s] [VI: Phòng nhỏ.] [PAUSE 0.5s] [EN: A new room —] [PAUSE 4s] [VI: Phòng mới.] [PAUSE 0.5s] [EN: An old room —] [PAUSE 4s] [VI: Phòng cũ.] [PAUSE 0.5s] [EN: Now swap in a word you already know. A big room —] [PAUSE 4s] [VI: Phòng lớn.] [PAUSE 0.5s] [EN: A beautiful person —] [PAUSE 4s] [VI: Người đẹp.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đẹp] [PAUSE 3s] [EN: beautiful] [PAUSE 0.5s] [VI_F: nhỏ] [PAUSE 3s] [EN: small] [PAUSE 0.5s] [VI_F: mới] [PAUSE 3s] [EN: new] [PAUSE 0.5s] [VI_F: cũ] [PAUSE 3s] [EN: old] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đẹp] [PAUSE 1s] [VI_F: nhỏ] [PAUSE 1s] [VI_F: mới] [PAUSE 1s] [VI_F: cũ] [PAUSE 0.5s] [EN: Remember,] [VI: mới] [EN: has] [VI: dấu sắc] [EN: , and] [VI: đẹp] [EN: has] [VI: dấu nặng] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Nhà anh lớn không?] [VI_M: Dạ, nhỏ thôi. Nhưng đẹp.] [VI_F: Vậy hả.] [PAUSE 0.5s] [EN: Now you try. Say, a beautiful house.] [PAUSE 4s] [VI: Nhà đẹp.] [EN: Say, a new car.] [PAUSE 4s] [VI: Xe mới.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn to say how much. The preview word is] [VI: rất] [EN: which means very.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Phòng này đẹp quá!] [PAUSE 0.5s] [VI: Dạ, phòng nhỏ. Phòng mới.] [PAUSE 0.5s] [VI_F: Còn phòng đó?] [PAUSE 0.5s] [VI: Phòng đó cũ.] [PAUSE 1s] [EN: Your turn. Say this room is beautiful.] [PAUSE 4s] [VI: Phòng này đẹp.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, saying how much of something — very, a little, fairly. One word to start —] [VI: rất] [EN: it means very. See you then.]"
     }
   ]
 }

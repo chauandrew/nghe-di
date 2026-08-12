@@ -1,0 +1,34 @@
+{
+  "id": "L5-D2",
+  "title": "Kể: telling the story of your day",
+  "vocab": [
+    {"vi": "kể", "en": "to tell, or narrate", "ipa": "ke˨˩˦"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say fifteen —] [PAUSE 4s] [VI: mười lăm] [PAUSE 0.5s] [EN: Say twenty-one —] [PAUSE 4s] [VI: hai mươi mốt] [PAUSE 0.5s] [EN: Say four, at the end of a number —] [PAUSE 4s] [VI: tư] [PAUSE 0.5s] [EN: Say one hundred —] [PAUSE 4s] [VI: một trăm] [PAUSE 0.5s] [EN: Say to invite —] [PAUSE 4s] [VI: mời] [PAUSE 0.5s] [EN: Say birthday —] [PAUSE 4s] [VI: sinh nhật] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Kể đi!] [PAUSE 0.5s] [VI: Dạ, đầu tiên tôi ăn sáng, sau đó tôi làm việc, cuối cùng tôi về nhà.] [PAUSE 0.5s] [VI_F: Vui quá hả?] [PAUSE 1s] [EN: Today,] [VI: kể] [EN: means to tell, or to narrate. It has] [VI: dấu hỏi] [EN: . Listen again.] [VI_F: kể] [PAUSE 1s] [VI_F: kể] [EN: Now you say it.] [PAUSE 4s] [VI: kể] [EN: Good.] [PAUSE 0.5s] [EN: Use it to ask someone to tell you something —] [PAUSE 4s] [VI: Kể đi!] [PAUSE 0.5s] [EN: And to say you'll tell your own story —] [PAUSE 4s] [VI: Tôi kể nha.] [PAUSE 0.5s] [EN: Now build a whole story with it — first I went to the park, then I met friends, finally I came home —] [PAUSE 4s] [VI: Tôi kể nha. Đầu tiên tôi đi công viên, sau đó tôi gặp bạn bè, cuối cùng tôi về nhà.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 55,
+      "script": "[EN: Quick pass over today's word.] [PAUSE 0.5s] [EN: To tell, or narrate —] [PAUSE 4s] [VI: kể] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. To tell, or narrate —] [PAUSE 4s] [VI: kể] [PAUSE 0.5s] [EN: Now build it. Tell me! —] [PAUSE 4s] [VI: Kể đi!] [PAUSE 0.5s] [EN: I'll tell you — first I went to the park, then I met friends, finally I came home —] [PAUSE 4s] [VI: Tôi kể nha. Đầu tiên tôi đi công viên, sau đó tôi gặp bạn bè, cuối cùng tôi về nhà.] [PAUSE 0.5s] [EN: Tell the birthday story —] [PAUSE 4s] [VI: Kể sinh nhật đi.] [PAUSE 0.5s] [EN: First I invited friends, then we ate, finally we went out —] [PAUSE 4s] [VI: Đầu tiên tôi mời bạn bè, sau đó mình ăn, cuối cùng mình đi chơi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: kể] [PAUSE 3s] [EN: to tell, or narrate] [PAUSE 0.5s] [EN: One more time, before we move on.] [PAUSE 0.5s] [VI_F: kể] [PAUSE 0.5s] [EN: Remember,] [VI: kể] [EN: has] [VI: dấu hỏi] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Kể đi!] [PAUSE 0.5s] [VI: Dạ, đầu tiên tôi ăn sáng, sau đó tôi làm việc, cuối cùng tôi về nhà.] [PAUSE 0.5s] [VI_F: Vui quá hả?] [PAUSE 1s] [EN: Your turn. Tell your birthday story — first I invited friends, then we ate, finally we went out.] [PAUSE 4s] [VI: Đầu tiên tôi mời bạn bè, sau đó mình ăn, cuối cùng mình đi chơi.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, a new structure — how to say] [VI: nhưng] [EN: , but. See you then.]"
+    }
+  ]
+}

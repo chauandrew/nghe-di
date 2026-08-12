@@ -1,30 +1,35 @@
 {
   "id": "L2-D4",
-  "title": "Đã, sẽ — Past and future",
+  "title": "Đã và sẽ: past and future",
   "vocab": [
-    {"vi": "đã", "en": "already / did (past marker)", "ipa": "/ɗaː˧ˀ˥/"},
-    {"vi": "sẽ", "en": "will (future marker)", "ipa": "/sɛ˧ˀ˥/"}
+    {"vi": "đã", "en": "already, marks the past", "ipa": "daː˨˩˦"},
+    {"vi": "sẽ", "en": "will, marks the future", "ipa": "sɛ˨˩˦"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Đang.] [PAUSE 3s] [EN: The in-progress marker, like -ing.] [EN: I am lost.] [PAUSE 4s] [VI: Tôi bị lạc.] [EN: This street.] [PAUSE 4s] [VI: Đường này.] [EN: Turn left.] [PAUSE 4s] [VI: Quẹo trái.] [EN: Good.]"
+      "script": "[EN: Quick review. Say give me —] [PAUSE 4s] [VI: cho tôi] [PAUSE 0.5s] [EN: Say bill —] [PAUSE 4s] [VI: hóa đơn] [PAUSE 0.5s] [EN: Say I'm lost —] [PAUSE 4s] [VI: Tôi bị lạc.] [PAUSE 0.5s] [EN: Say this street —] [PAUSE 4s] [VI: đường này] [PAUSE 0.5s] [EN: Say turn left —] [PAUSE 4s] [VI: quẹo trái] [PAUSE 0.5s] [EN: Say hour, or o'clock —] [PAUSE 4s] [VI: giờ] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: Just like] [VI: đang] [EN: for the present, two more little words mark past and future. For the future, use] [VI_F: Sẽ.] [EN: It has a broken, rising tone. I will go is] [VI_M: Tôi sẽ đi.] [EN: Say I will go.] [PAUSE 4s] [VI: Tôi sẽ đi.] [EN: Tomorrow I will go to the market.] [PAUSE 4s] [VI: Ngày mai tôi sẽ đi.] [EN: Good.] [PAUSE 0.5s] [EN: For the past, use] [VI_F: Đã.] [EN: also a broken, rising tone. I already ate is] [VI_M: Tôi đã ăn.] [EN: Say I already ate.] [PAUSE 4s] [VI: Tôi đã ăn.] [EN: Good. In speech, you already know a quicker way to say done:] [VI: rồi,] [EN: at the end. I ate already.] [PAUSE 4s] [VI: Tôi ăn rồi.] [EN: And not yet was] [VI: chưa.] [EN: So the four markers are past, future, done, not yet:] [VI: đã, sẽ, rồi, chưa.] [EN: Good.]"
+      "duration_s": 200,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chị đã ăn chưa?] [PAUSE 0.5s] [VI: Dạ, chưa. Em sẽ ăn.] [PAUSE 1s] [EN: Today's structure: marking time on a verb. Put] [VI: đã] [EN: right before a verb for the past — something already done. It has] [VI: dấu ngã] [EN: — the same dipping sound as] [VI: dấu hỏi] [EN: down here in the south. Listen again.] [VI_F: đã] [PAUSE 1s] [VI_F: đã] [EN: Now you say it.] [PAUSE 4s] [VI: đã] [EN: Good.] [PAUSE 0.5s] [EN: Put it in front of a verb:] [VI_F: đã ăn] [EN: already ate.] [PAUSE 0.5s] [EN: You already know] [VI: rồi] [EN: it also means already — it goes right after the verb instead. The two often appear together, for extra emphasis:] [VI_F: đã ăn rồi] [EN: have already eaten.] [PAUSE 0.5s] [EN: And you already know] [VI: chưa] [EN: not yet — it still asks and answers the same way as before.] [PAUSE 0.5s] [EN: Now the future. Put] [VI: sẽ] [EN: right before a verb for something not done yet. It has] [VI: dấu ngã] [EN: too. Listen again.] [VI_F: sẽ] [PAUSE 1s] [VI_F: sẽ] [EN: Now you say it.] [PAUSE 4s] [VI: sẽ] [EN: Good.] [PAUSE 0.5s] [EN: Put it in front of a verb:] [VI_F: sẽ ăn] [EN: will eat.] [PAUSE 0.5s] [VI_F: sẽ đi] [EN: will go.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 75,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Already, marks the past —] [PAUSE 4s] [VI: đã] [PAUSE 0.5s] [EN: Will, marks the future —] [PAUSE 4s] [VI: sẽ] [PAUSE 0.5s] [EN: Have already eaten —] [PAUSE 4s] [VI: đã ăn rồi] [PAUSE 0.5s] [EN: Will eat —] [PAUSE 4s] [VI: sẽ ăn] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. I will go.] [PAUSE 4s] [VI: Tôi sẽ đi.] [EN: I already ate.] [PAUSE 4s] [VI: Tôi đã ăn.] [EN: Tomorrow I will go.] [PAUSE 4s] [VI: Ngày mai tôi sẽ đi.] [EN: I ate already.] [PAUSE 4s] [VI: Tôi ăn rồi.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Sẽ.] [PAUSE 3s] [EN: Will.] [EN: What does this mean?] [VI_F: Đã.] [PAUSE 3s] [EN: Already, in the past.] [EN: And, have you eaten yet?] [PAUSE 4s] [VI: Anh ăn chưa?] [EN: Good.]"
+      "duration_s": 230,
+      "script": "[EN: Let's drill the pattern. Already, marks the past —] [PAUSE 4s] [VI: đã] [PAUSE 0.5s] [EN: Will, marks the future —] [PAUSE 4s] [VI: sẽ] [PAUSE 0.5s] [EN: Now say it. Already went —] [PAUSE 4s] [VI: Đã đi.] [PAUSE 0.5s] [EN: Will go —] [PAUSE 4s] [VI: Sẽ đi.] [PAUSE 0.5s] [EN: Have already eaten —] [PAUSE 4s] [VI: Đã ăn rồi.] [PAUSE 0.5s] [EN: Ask have you eaten yet —] [PAUSE 4s] [VI: Đã ăn chưa?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đã] [PAUSE 3s] [EN: already, marks the past] [PAUSE 0.5s] [VI_F: sẽ] [PAUSE 3s] [EN: will, marks the future] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đã] [PAUSE 1s] [VI_F: sẽ] [PAUSE 0.5s] [EN: Remember,] [VI: đã] [EN: and] [VI: sẽ] [EN: both have] [VI: dấu ngã] [EN: — the same dipping sound as] [VI: dấu hỏi] [EN: here in the south.]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh ăn chưa?] [VI_M: Dạ, ăn rồi. Tối nay anh sẽ đi Bến Thành.] [VI_F: Vậy hả.] [PAUSE 0.5s] [EN: Now you try. Say I will go tomorrow.] [PAUSE 4s] [VI: Ngày mai tôi sẽ đi.] [EN: Say I already ate.] [PAUSE 4s] [VI: Tôi ăn rồi.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn morning-routine verbs. The preview word is] [VI: dậy] [EN: which means to wake up.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Chị đã ăn chưa?] [PAUSE 0.5s] [VI: Dạ, chưa. Em sẽ ăn.] [PAUSE 1s] [EN: Your turn. Say you will eat.] [PAUSE 4s] [VI: Em sẽ ăn.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, your daily routine — waking up, sleeping, breakfast. One word to start —] [VI: dậy] [EN: it means to wake up. See you then.]"
     }
   ]
 }

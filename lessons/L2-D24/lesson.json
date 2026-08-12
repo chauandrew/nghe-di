@@ -1,30 +1,35 @@
 {
   "id": "L2-D24",
-  "title": "Rủ đi chơi — Inviting someone out",
+  "title": "Rủ, rảnh: inviting someone out",
   "vocab": [
-    {"vi": "rủ", "en": "to invite along, ask to join", "ipa": "/zu˧˩˧/"},
-    {"vi": "rảnh", "en": "free, not busy", "ipa": "/zaɲ˧˩˧/"}
+    {"vi": "rủ", "en": "to invite", "ipa": "ru˨˩˦"},
+    {"vi": "rảnh", "en": "free, or available", "ipa": "raːɲ˨˩˦"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To play.] [PAUSE 3s] [VI: Chơi.] [EN: To watch.] [PAUSE 3s] [VI: Xem.] [EN: To listen to music.] [PAUSE 4s] [VI: Nghe nhạc.] [EN: To order.] [PAUSE 4s] [VI: Gọi món.] [EN: Good.]"
+      "script": "[EN: Quick review. Say to order food —] [PAUSE 4s] [VI: gọi món] [PAUSE 0.5s] [EN: Say large —] [PAUSE 4s] [VI: lớn] [PAUSE 0.5s] [EN: Say portion —] [PAUSE 4s] [VI: phần] [PAUSE 0.5s] [EN: Say before —] [PAUSE 4s] [VI: trước] [PAUSE 0.5s] [EN: Say after —] [PAUSE 4s] [VI: sau] [PAUSE 0.5s] [EN: Say then, or after that —] [PAUSE 4s] [VI: sau đó] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: To ask someone along, the verb is] [VI_F: Rủ.] [EN: a falling, rising tone. But first, check they are free. Free, not busy, is] [VI_F: Rảnh.] [EN: also falling, rising. Are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Good.] [PAUSE 0.5s] [EN: Then invite, using the question frame you know,] [VI: đi ... không.] [EN: Want to go out?] [PAUSE 4s] [VI: Đi chơi không?] [EN: Soften it with nha. Let's go out, okay?] [PAUSE 4s] [VI: Đi chơi nha.] [EN: Good.]"
+      "duration_s": 200,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Chị rảnh không? Em rủ chị đi chơi.] [PAUSE 0.5s] [VI_F: Dạ rảnh. Đi đâu vậy?] [PAUSE 0.5s] [VI: Dạ, đi Bến Thành nha!] [PAUSE 1s] [EN: Two words for making plans today.] [PAUSE 0.5s] [EN: First,] [VI: rủ] [EN: means to invite. It has] [VI: dấu ngã] [EN: . Listen again.] [VI_F: rủ] [PAUSE 1s] [VI_F: rủ] [EN: Now you say it.] [PAUSE 4s] [VI: rủ] [EN: Good.] [PAUSE 0.5s] [EN: Use it like this. I invite you to go out —] [PAUSE 4s] [VI: Em rủ chị đi chơi.] [PAUSE 0.5s] [EN: Next,] [VI: rảnh] [EN: means free, or available. It has] [VI: dấu hỏi] [EN: . Listen again.] [VI_F: rảnh] [PAUSE 1s] [VI_F: rảnh] [EN: Now you say it.] [PAUSE 4s] [VI: rảnh] [EN: Good.] [PAUSE 0.5s] [EN: Ask if someone is free —] [PAUSE 4s] [VI: Rảnh không?]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 55,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To invite —] [PAUSE 4s] [VI: rủ] [PAUSE 0.5s] [EN: Free, or available —] [PAUSE 4s] [VI: rảnh] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. To invite along.] [PAUSE 3s] [VI: Rủ.] [EN: Free, not busy.] [PAUSE 3s] [VI: Rảnh.] [EN: Are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Want to go out?] [PAUSE 4s] [VI: Đi chơi không?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Rảnh?] [PAUSE 3s] [EN: Free, not busy.] [EN: What does this mean?] [VI_F: Rủ.] [PAUSE 3s] [EN: To invite along.] [EN: Good.]"
+      "duration_s": 230,
+      "script": "[EN: Let's drill. To invite —] [PAUSE 4s] [VI: rủ] [PAUSE 0.5s] [EN: Free, or available —] [PAUSE 4s] [VI: rảnh] [PAUSE 0.5s] [EN: Now say it. Are you free? —] [PAUSE 4s] [VI: Rảnh không?] [PAUSE 0.5s] [EN: I invite you to go out —] [PAUSE 4s] [VI: Em rủ chị đi chơi.] [PAUSE 0.5s] [EN: Yes, I'm free —] [PAUSE 4s] [VI: Dạ rảnh.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: rủ] [PAUSE 3s] [EN: to invite] [PAUSE 0.5s] [VI_F: rảnh] [PAUSE 3s] [EN: free, or available] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: rủ] [PAUSE 1s] [VI_F: rảnh] [PAUSE 0.5s] [EN: Remember, both] [VI: rủ] [EN: and] [VI: rảnh] [EN: sound dipping — southern] [VI: dấu ngã] [EN: and] [VI: dấu hỏi] [EN: are the same sound.]"
     },
     {
       "type": "synthesis",
-      "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần anh rảnh không? Đi chơi nha?] [VI_M: Dạ rảnh. Đi đâu vậy?] [VI_F: Đi xem phim nghen.] [VI_M: Ừ, được!] [PAUSE 0.5s] [EN: Now you try. Ask, are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Invite them out, warmly.] [PAUSE 4s] [VI: Đi chơi nha.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you say how long you have been doing something. The preview phrase is] [VI: bao lâu rồi] [EN: which means how long so far.]"
+      "duration_s": 145,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Chị rảnh không? Em rủ chị đi chơi.] [PAUSE 0.5s] [VI_F: Dạ rảnh. Đi đâu vậy?] [PAUSE 0.5s] [VI: Dạ, đi Bến Thành nha!] [PAUSE 1s] [EN: Your turn. Ask if someone is free.] [PAUSE 4s] [VI: Rảnh không?] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, how long you have been doing something. One word to start —] [VI: bao lâu rồi] [EN: it means how long has it been. See you then.]"
     }
   ]
 }

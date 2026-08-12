@@ -1,30 +1,35 @@
 {
   "id": "L2-D30",
-  "title": "Ôn tập — Level 2 review",
+  "title": "Ôn tập: Level Two wrap-up",
   "vocab": [
-    {"vi": "ôn tập", "en": "to review", "ipa": "/on˧ təp˨˩ʔ/"},
-    {"vi": "tiếp theo", "en": "next", "ipa": "/tiəp˧˥ tʰɛw˧/"}
+    {"vi": "ôn tập", "en": "to review", "ipa": "on˧ tap˨˩ʔ"},
+    {"vi": "tiếp theo", "en": "next", "ipa": "tiəp˧˥ tʰɛw˧"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: A day.] [PAUSE 4s] [VI: Một ngày.] [EN: Usual, normal.] [PAUSE 4s] [VI: Bình thường.] [EN: Another kind.] [PAUSE 4s] [VI: Loại khác.] [EN: Busy.] [PAUSE 3s] [VI: Bận.] [EN: Good.]"
+      "script": "[EN: Quick review. Say all gone, sold out —] [PAUSE 4s] [VI: hết rồi] [PAUSE 0.5s] [EN: Say is there any left —] [PAUSE 4s] [VI: còn không] [PAUSE 0.5s] [EN: Say a different kind —] [PAUSE 4s] [VI: loại khác] [PAUSE 0.5s] [EN: Say weekend —] [PAUSE 4s] [VI: cuối tuần] [PAUSE 0.5s] [EN: Say to rest, or take time off —] [PAUSE 4s] [VI: nghỉ] [PAUSE 0.5s] [EN: Say to play —] [PAUSE 4s] [VI: chơi] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 175,
-      "script": "[EN: To review is] [VI_F: Ôn tập.] [EN: Say to review.] [PAUSE 4s] [VI: Ôn tập.] [EN: And next is] [VI_F: Tiếp theo.] [EN: Say next.] [PAUSE 4s] [VI: Tiếp theo.] [EN: Now let us tour Level 2. Say what time it is — half past three.] [PAUSE 4s] [VI: Ba giờ rưỡi.] [EN: Say, I am eating.] [PAUSE 4s] [VI: Tôi đang ăn.] [EN: Say, I will go home at five.] [PAUSE 4s] [VI: Tôi sẽ về nhà lúc năm giờ.] [EN: Say, I usually cook.] [PAUSE 4s] [VI: Tôi thường nấu ăn.] [EN: Good.]"
+      "duration_s": 190,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạo này em ôn tập không?] [PAUSE 0.5s] [VI: Dạ có, em ôn tập rồi.] [PAUSE 0.5s] [VI_F: Tiếp theo?] [PAUSE 0.5s] [VI: Dạ, tiếp theo em nghỉ.] [PAUSE 1s] [EN: Two words to close out Level Two.] [PAUSE 0.5s] [EN: First,] [VI: ôn tập] [EN: means to review. Listen to its two parts.] [VI_F: ôn] [EN: has] [VI: ngang] [PAUSE 0.3s] [VI_F: tập] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: ôn tập] [PAUSE 1s] [VI_F: ôn tập] [EN: Now you say it.] [PAUSE 4s] [VI: ôn tập] [EN: Good.] [PAUSE 0.5s] [EN: Say you already reviewed —] [PAUSE 4s] [VI: Em ôn tập rồi.] [PAUSE 0.5s] [EN: Next,] [VI: tiếp theo] [EN: means next. Listen to its two parts.] [VI_F: tiếp] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: theo] [EN: has] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: tiếp theo] [PAUSE 1s] [VI_F: tiếp theo] [EN: Now you say it.] [PAUSE 4s] [VI: tiếp theo] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 55,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To review —] [PAUSE 4s] [VI: ôn tập] [PAUSE 0.5s] [EN: Next —] [PAUSE 4s] [VI: tiếp theo] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Keep going. Ask, what's up? casually.] [PAUSE 4s] [VI: Sao vậy?] [EN: Say, see you tomorrow, okay?] [PAUSE 4s] [VI: Mai gặp nha.] [EN: Say, this one is cheaper.] [PAUSE 4s] [VI: Cái này rẻ hơn.] [EN: Ask, are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Say, how long have you been here?] [PAUSE 4s] [VI: Anh ở đây bao lâu rồi?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Tiếp theo.] [PAUSE 3s] [EN: Next.] [EN: Excellent.]"
+      "duration_s": 210,
+      "script": "[EN: Let's drill. To review —] [PAUSE 4s] [VI: ôn tập] [PAUSE 0.5s] [EN: Next —] [PAUSE 4s] [VI: tiếp theo] [PAUSE 0.5s] [EN: Now say it. I already reviewed —] [PAUSE 4s] [VI: Em ôn tập rồi.] [PAUSE 0.5s] [EN: What's next —] [PAUSE 4s] [VI: Tiếp theo?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ôn tập] [PAUSE 3s] [EN: to review] [PAUSE 0.5s] [VI_F: tiếp theo] [PAUSE 3s] [EN: next] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ôn tập] [PAUSE 1s] [VI_F: tiếp theo] [PAUSE 0.5s] [EN: Remember,] [VI: tập] [EN: has] [VI: dấu nặng] [EN: , and] [VI: tiếp] [EN: has] [VI: dấu sắc] [EN: .]"
     },
     {
       "type": "synthesis",
-      "duration_s": 155,
-      "script": "[EN: One last exchange at natural speed.] [PAUSE 0.5s] [VI_F: Lâu rồi không gặp! Dạo này anh sao?] [VI_M: Dạ khỏe. Cuối tuần này anh rảnh, đi chơi nha?] [VI_F: Dạ được! Mấy giờ?] [VI_M: Mười giờ sáng nghen.] [VI_F: Ừ, hẹn gặp lại!] [PAUSE 0.5s] [EN: Now you try. Say, long time no see.] [PAUSE 4s] [VI: Lâu rồi không gặp.] [EN: Invite them out this weekend, warmly.] [PAUSE 4s] [VI: Cuối tuần đi chơi nha.] [EN: Congratulations — you have finished Level 2.] [PAUSE 0.5s] [VI: Chúc mừng!] [EN: Level 3 is next: describing people, places, and your opinions.]"
+      "duration_s": 165,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Dạo này em ôn tập không?] [PAUSE 0.5s] [VI: Dạ có, em ôn tập rồi.] [PAUSE 0.5s] [VI_F: Tiếp theo?] [PAUSE 0.5s] [VI: Dạ, tiếp theo em nghỉ.] [PAUSE 1s] [EN: Your turn. Say what's next.] [PAUSE 4s] [VI: Tiếp theo?] [EN: Good.] [PAUSE 0.5s] [EN: You have finished Level Two. You can tell time, describe your day, make plans, compare things, and catch up with someone you have not seen in a while.] [PAUSE 0.5s] [EN: Level Three begins with family. One word to start —] [VI: ba] [EN: you know this one already, as three. Tomorrow it means dad. See you then.]"
     }
   ]
 }

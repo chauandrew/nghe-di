@@ -1,0 +1,35 @@
+{
+  "id": "L5-D10",
+  "title": "Tết, lì xì: Tết customs",
+  "vocab": [
+    {"vi": "Tết", "en": "Vietnamese New Year", "ipa": "tet˧˥"},
+    {"vi": "lì xì", "en": "lucky money (red envelopes given at Tết)", "ipa": "li˨˩ si˨˩"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say to manage, or have the capability —] [PAUSE 4s] [VI: được] [PAUSE 0.5s] [EN: Say how long has it been —] [PAUSE 4s] [VI: bao lâu rồi] [PAUSE 0.5s] [EN: Say to drink, or to take medicine —] [PAUSE 4s] [VI: uống] [PAUSE 0.5s] [EN: Say the classifier for pills —] [PAUSE 4s] [VI: viên] [PAUSE 0.5s] [EN: Say times, as in how many times —] [PAUSE 4s] [VI: lần] [PAUSE 0.5s] [EN: Say urgent —] [PAUSE 4s] [VI: gấp] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chúc mừng năm mới!] [PAUSE 0.5s] [VI: Cảm ơn chị! Chúc chị năm mới vui vẻ.] [PAUSE 0.5s] [VI_F: Đây, lì xì cho em.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị!] [PAUSE 1s] [EN: Today,] [VI: Tết] [EN: customs.] [PAUSE 0.5s] [EN: First,] [VI: Tết] [EN: means Vietnamese New Year — the biggest holiday of the year. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: Tết] [PAUSE 1s] [VI_F: Tết] [EN: Now you say it.] [PAUSE 4s] [VI: Tết] [EN: Good. Happy new year —] [PAUSE 4s] [VI: Chúc mừng năm mới!] [PAUSE 0.5s] [EN: Next,] [VI: lì xì] [EN: means lucky money — the red envelopes given at] [VI: Tết] [EN: . Listen to its two parts.] [VI_F: lì] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI_F: xì] [EN: also has] [VI: dấu huyền] [EN: . Listen to the whole word again.] [VI_F: lì xì] [PAUSE 1s] [VI_F: lì xì] [EN: Now you say it.] [PAUSE 4s] [VI: lì xì] [EN: Good. Lucky money for you —] [PAUSE 4s] [VI: Lì xì cho em.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Vietnamese New Year —] [PAUSE 4s] [VI: Tết] [PAUSE 0.5s] [EN: Lucky money —] [PAUSE 4s] [VI: lì xì] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. Vietnamese New Year —] [PAUSE 4s] [VI: Tết] [PAUSE 0.5s] [EN: Lucky money —] [PAUSE 4s] [VI: lì xì] [PAUSE 0.5s] [EN: Now build it. Happy new year —] [PAUSE 4s] [VI: Chúc mừng năm mới!] [PAUSE 0.5s] [EN: I wish you a happy new year —] [PAUSE 4s] [VI: Chúc chị năm mới vui vẻ.] [PAUSE 0.5s] [EN: Lucky money for you —] [PAUSE 4s] [VI: Lì xì cho em.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: Tết] [PAUSE 3s] [EN: Vietnamese New Year] [PAUSE 0.5s] [VI_F: lì xì] [PAUSE 3s] [EN: lucky money] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: Tết] [PAUSE 1s] [VI_F: lì xì] [PAUSE 0.5s] [EN: Remember,] [VI: Tết] [EN: has] [VI: dấu sắc] [EN: , and both parts of] [VI: lì xì] [EN: have] [VI: dấu huyền] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Chúc mừng năm mới!] [PAUSE 0.5s] [VI: Cảm ơn chị! Chúc chị năm mới vui vẻ.] [PAUSE 0.5s] [VI_F: Đây, lì xì cho em.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị!] [PAUSE 1s] [EN: Your turn. Say happy new year.] [PAUSE 4s] [VI: Chúc mừng năm mới!] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson,] [VI: Tết] [EN: greetings. One word to start —] [VI: sức khỏe] [EN: it means health. See you then.]"
+    }
+  ]
+}

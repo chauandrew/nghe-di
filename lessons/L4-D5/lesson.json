@@ -1,0 +1,36 @@
+{
+  "id": "L4-D5",
+  "title": "Uống, viên, lần: dosage",
+  "vocab": [
+    {"vi": "uống", "en": "to drink, or to take (medicine)", "ipa": "uəŋ˧˥"},
+    {"vi": "viên", "en": "classifier for pills", "ipa": "viən˧"},
+    {"vi": "lần", "en": "times, as in how many times", "ipa": "lən˨˩"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say today —] [PAUSE 4s] [VI: hôm nay] [PAUSE 0.5s] [EN: Say tomorrow —] [PAUSE 4s] [VI: ngày mai] [PAUSE 0.5s] [EN: Say yesterday —] [PAUSE 4s] [VI: hôm qua] [PAUSE 0.5s] [EN: Say to review —] [PAUSE 4s] [VI: ôn tập] [PAUSE 0.5s] [EN: Say next —] [PAUSE 4s] [VI: tiếp theo] [PAUSE 0.5s] [EN: Say I think —] [PAUSE 4s] [VI: tôi nghĩ] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh uống thuốc mấy viên?] [PAUSE 0.5s] [VI: Dạ, hai viên.] [PAUSE 0.5s] [VI_F: Mấy lần một ngày?] [PAUSE 0.5s] [VI: Dạ, ba lần một ngày.] [PAUSE 1s] [EN: At the pharmacy today: dosage.] [PAUSE 0.5s] [EN: First,] [VI: uống] [EN: means to drink, or to take medicine. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: uống] [PAUSE 1s] [VI_F: uống] [EN: Now you say it.] [PAUSE 4s] [VI: uống] [EN: Good. Take medicine —] [PAUSE 4s] [VI: Uống thuốc.] [PAUSE 0.5s] [EN: Next,] [VI: viên] [EN: counts pills — one pill, two pills. It has] [VI: ngang] [EN: — flat, no mark. Listen again.] [VI_F: viên] [PAUSE 1s] [VI_F: viên] [EN: Now you say it.] [PAUSE 4s] [VI: viên] [EN: Good. Two pills —] [PAUSE 4s] [VI: Hai viên.] [PAUSE 0.5s] [EN: Last,] [VI: lần] [EN: means times, as in how many times. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: lần] [PAUSE 1s] [VI_F: lần] [EN: Now you say it.] [PAUSE 4s] [VI: lần] [EN: Good. Three times a day —] [PAUSE 4s] [VI: Ba lần một ngày.] [PAUSE 0.5s] [EN: Ask how many pills —] [PAUSE 4s] [VI: Uống mấy viên?]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To drink, or to take medicine —] [PAUSE 4s] [VI: uống] [PAUSE 0.5s] [EN: Classifier for pills —] [PAUSE 4s] [VI: viên] [PAUSE 0.5s] [EN: Times —] [PAUSE 4s] [VI: lần] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. To drink, or to take medicine —] [PAUSE 4s] [VI: uống] [PAUSE 0.5s] [EN: Classifier for pills —] [PAUSE 4s] [VI: viên] [PAUSE 0.5s] [EN: Times —] [PAUSE 4s] [VI: lần] [PAUSE 0.5s] [EN: Now build it. How many pills do you take —] [PAUSE 4s] [VI: Uống mấy viên?] [PAUSE 0.5s] [EN: Two pills, three times a day —] [PAUSE 4s] [VI: Hai viên, ba lần một ngày.] [PAUSE 0.5s] [EN: I take medicine —] [PAUSE 4s] [VI: Tôi uống thuốc.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: uống] [PAUSE 3s] [EN: to drink, or to take medicine] [PAUSE 0.5s] [VI_F: viên] [PAUSE 3s] [EN: classifier for pills] [PAUSE 0.5s] [VI_F: lần] [PAUSE 3s] [EN: times] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: uống] [PAUSE 1s] [VI_F: viên] [PAUSE 1s] [VI_F: lần] [PAUSE 0.5s] [EN: Remember,] [VI: uống] [EN: has] [VI: dấu sắc] [EN: , and] [VI: lần] [EN: has] [VI: dấu huyền] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh uống thuốc mấy viên?] [PAUSE 0.5s] [VI: Dạ, hai viên.] [PAUSE 0.5s] [VI_F: Mấy lần một ngày?] [PAUSE 0.5s] [VI: Dạ, ba lần một ngày.] [PAUSE 1s] [EN: Your turn. Say two pills, three times a day.] [PAUSE 4s] [VI: Hai viên, ba lần một ngày.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, asking permission. One word to start —] [VI: có thể] [EN: it means can, or to be able to. See you then.]"
+    }
+  ]
+}

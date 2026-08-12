@@ -1,30 +1,36 @@
 {
   "id": "L3-D19",
-  "title": "Tôi nghĩ — Giving an opinion",
+  "title": "Tôi nghĩ, theo tôi, thế nào: giving opinions",
   "vocab": [
-    {"vi": "tôi nghĩ", "en": "I think", "ipa": "/toj˧ ŋi˧ˀ˥/"},
-    {"vi": "theo tôi", "en": "in my opinion", "ipa": "/tʰɛw˧ toj˧/"}
+    {"vi": "tôi nghĩ", "en": "I think", "ipa": "toj˧ ŋi˨˩˦"},
+    {"vi": "theo tôi", "en": "in my opinion, according to me", "ipa": "tʰɛw˧ toj˧"},
+    {"vi": "thế nào", "en": "how?, what is it like?", "ipa": "tʰe˧˥ naːw˨˩"}
   ],
   "segments": [
     {
       "type": "recall",
-      "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: This weekend I will rest.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ nghỉ.] [EN: Quite, fairly.] [PAUSE 3s] [VI: Khá.] [EN: The bank is next to the market.] [PAUSE 4s] [VI: Ngân hàng bên cạnh chợ.] [EN: What does this mean?] [VI_F: Tính tình.] [PAUSE 3s] [EN: Personality.] [EN: Good.]"
+      "duration_s": 95,
+      "script": "[EN: Quick review. Say six —] [PAUSE 4s] [VI: sáu] [PAUSE 0.5s] [EN: Say seven —] [PAUSE 4s] [VI: bảy] [PAUSE 0.5s] [EN: Say eight —] [PAUSE 4s] [VI: tám] [PAUSE 0.5s] [EN: Say nine —] [PAUSE 4s] [VI: chín] [PAUSE 0.5s] [EN: Say ten —] [PAUSE 4s] [VI: mười] [PAUSE 0.5s] [EN: Say weekend —] [PAUSE 4s] [VI: cuối tuần] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: To give an opinion, start with I think.] [VI_F: Tôi nghĩ.] [EN: relax your lips for this vowel. I think this dish is delicious.] [PAUSE 4s] [VI: Tôi nghĩ món này ngon.] [EN: Good.] [PAUSE 0.5s] [EN: In my opinion is] [VI_F: Theo tôi.] [EN: In my opinion, it is too expensive.] [PAUSE 4s] [VI: Theo tôi, đắt quá.] [EN: To ask someone's opinion, use] [VI: thấy thế nào,] [EN: find it how. What do you think of this dish?] [PAUSE 4s] [VI: Anh thấy món này thế nào?] [EN: Good.]"
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh thấy cà phê này thế nào?] [PAUSE 0.5s] [VI: Tôi nghĩ cà phê này ngon.] [PAUSE 0.5s] [VI_F: Theo tôi, cũng ngon.] [PAUSE 1s] [EN: Today, three phrases for giving your opinion.] [PAUSE 0.5s] [EN: First, a question tag.] [VI: thế nào] [EN: means how, or what is it like. You already know] [VI: thấy] [EN: for to feel, or to find something — add] [VI: thế nào] [EN: at the end to ask about it. Listen to its two parts.] [VI_F: thế] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: nào] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole word again.] [VI_F: thế nào] [PAUSE 1s] [VI_F: thế nào] [EN: Now you say it.] [PAUSE 4s] [VI: thế nào] [EN: Good. What do you think of this coffee —] [PAUSE 4s] [VI: Anh thấy cà phê này thế nào?] [PAUSE 0.5s] [EN: Next,] [VI: tôi nghĩ] [EN: means I think. Listen to its two parts.] [VI: tôi] [EN: you know already.] [VI_F: nghĩ] [EN: has] [VI: dấu ngã] [EN: . Listen to the whole word again.] [VI_F: tôi nghĩ] [PAUSE 1s] [VI_F: tôi nghĩ] [EN: Now you say it.] [PAUSE 4s] [VI: tôi nghĩ] [EN: Good. I think this coffee is tasty —] [PAUSE 4s] [VI: Tôi nghĩ cà phê này ngon.] [PAUSE 0.5s] [EN: Last,] [VI: theo tôi] [EN: means in my opinion, or according to me. Listen to its two parts.] [VI_F: theo] [EN: has] [VI: ngang] [EN: — flat.] [VI: tôi] [EN: you know already. Listen to the whole word again.] [VI_F: theo tôi] [PAUSE 1s] [VI_F: theo tôi] [EN: Now you say it.] [PAUSE 4s] [VI: theo tôi] [EN: Good. In my opinion, it's tasty —] [PAUSE 4s] [VI: Theo tôi, ngon.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: How, what is it like —] [PAUSE 4s] [VI: thế nào] [PAUSE 0.5s] [EN: I think —] [PAUSE 4s] [VI: tôi nghĩ] [PAUSE 0.5s] [EN: In my opinion —] [PAUSE 4s] [VI: theo tôi] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. I think.] [PAUSE 3s] [VI: Tôi nghĩ.] [EN: In my opinion.] [PAUSE 3s] [VI: Theo tôi.] [EN: I think this dish is delicious.] [PAUSE 4s] [VI: Tôi nghĩ món này ngon.] [EN: In my opinion, it is too expensive.] [PAUSE 4s] [VI: Theo tôi, đắt quá.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Theo tôi.] [PAUSE 3s] [EN: In my opinion.] [EN: What does this mean?] [VI_F: Tôi nghĩ.] [PAUSE 3s] [EN: I think.] [EN: Good.]"
+      "duration_s": 245,
+      "script": "[EN: Let's drill. How, what is it like —] [PAUSE 4s] [VI: thế nào] [PAUSE 0.5s] [EN: I think —] [PAUSE 4s] [VI: tôi nghĩ] [PAUSE 0.5s] [EN: In my opinion —] [PAUSE 4s] [VI: theo tôi] [PAUSE 0.5s] [EN: Now build it. What do you think of this room —] [PAUSE 4s] [VI: Anh thấy phòng này thế nào?] [PAUSE 0.5s] [EN: I think this room is beautiful —] [PAUSE 4s] [VI: Tôi nghĩ phòng này đẹp.] [PAUSE 0.5s] [EN: In my opinion, this room is small —] [PAUSE 4s] [VI: Theo tôi, phòng này nhỏ.] [PAUSE 0.5s] [EN: What do you think of this coffee —] [PAUSE 4s] [VI: Anh thấy cà phê này thế nào?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: thế nào] [PAUSE 3s] [EN: how, what is it like] [PAUSE 0.5s] [VI_F: tôi nghĩ] [PAUSE 3s] [EN: I think] [PAUSE 0.5s] [VI_F: theo tôi] [PAUSE 3s] [EN: in my opinion] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: thế nào] [PAUSE 1s] [VI_F: tôi nghĩ] [PAUSE 1s] [VI_F: theo tôi] [PAUSE 0.5s] [EN: Remember,] [VI: thế] [EN: has] [VI: dấu sắc] [EN: , and] [VI: nghĩ] [EN: has] [VI: dấu ngã] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh thấy quán này thế nào?] [VI_M: Tôi nghĩ cà phê ngon. Nhưng theo tôi, hơi đắt.] [VI_F: Ừ, đúng.] [PAUSE 0.5s] [EN: Now you try. Say, I think this dish is delicious.] [PAUSE 4s] [VI: Tôi nghĩ món này ngon.] [EN: Say, in my opinion, it's too expensive.] [PAUSE 4s] [VI: Theo tôi, đắt quá.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn to disagree with attitude. The preview word is] [VI: đâu] [EN: which can mean no way.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh thấy cà phê này thế nào?] [PAUSE 0.5s] [VI: Tôi nghĩ cà phê này ngon.] [PAUSE 0.5s] [VI_F: Theo tôi, cũng ngon.] [PAUSE 1s] [EN: Your turn. Ask what do you think of this room.] [PAUSE 4s] [VI: Anh thấy phòng này thế nào?] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, emphasis and soft negation. One word to start —] [VI: đâu] [EN: paired with] [VI: không] [EN: it softens a no into not really. See you then.]"
     }
   ]
 }

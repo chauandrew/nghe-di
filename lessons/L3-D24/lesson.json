@@ -1,30 +1,35 @@
 {
   "id": "L3-D24",
-  "title": "Giống hay khác — Comparing",
+  "title": "Giống, khác: comparing people and things",
   "vocab": [
-    {"vi": "giống", "en": "the same, alike", "ipa": "/zoŋ˧˥/"},
-    {"vi": "khác", "en": "different", "ipa": "/xaːk˧˥/"}
+    {"vi": "giống", "en": "similar, alike", "ipa": "zoŋ˧˥"},
+    {"vi": "khác", "en": "different", "ipa": "xaːk˧˥"}
   ],
   "segments": [
     {
       "type": "recall",
-      "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: See you tomorrow, okay?] [PAUSE 4s] [VI: Mai gặp nha.] [EN: How's it going?] [PAUSE 4s] [VI: Sao rồi?] [EN: He is tall.] [PAUSE 4s] [VI: Anh ấy cao.] [EN: What does this mean?] [VI_F: Vừa.] [PAUSE 3s] [EN: It fits.] [EN: Good.]"
+      "duration_s": 95,
+      "script": "[EN: Quick review. Say yes, or there is —] [PAUSE 4s] [VI: có] [PAUSE 0.5s] [EN: Say hungry —] [PAUSE 4s] [VI: đói] [PAUSE 0.5s] [EN: Say right?, isn't that so? —] [PAUSE 4s] [VI: phải không] [PAUSE 0.5s] [EN: Say to make an appointment, or arrange to meet —] [PAUSE 4s] [VI: hẹn] [PAUSE 0.5s] [EN: Say to meet —] [PAUSE 4s] [VI: gặp] [PAUSE 0.5s] [EN: Say schedule, or calendar —] [PAUSE 4s] [VI: lịch] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: The same, or alike, is] [VI_F: Giống.] [EN: a high, rising tone. This one is the same as that one.] [PAUSE 4s] [VI: Cái này giống cái đó.] [EN: Good.] [PAUSE 0.5s] [EN: Different is] [VI_F: Khác.] [EN: a high, rising tone. This one is different.] [PAUSE 4s] [VI: Cái này khác.] [EN: To ask, are they the same or different?] [PAUSE 4s] [VI: Giống hay khác?] [EN: You can also compare with] [VI: hơn.] [EN: This one is nicer than that one.] [PAUSE 4s] [VI: Cái này đẹp hơn cái đó.] [EN: Good.]"
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chị đó giống em không?] [PAUSE 0.5s] [VI: Dạ không, chị đó khác em.] [PAUSE 0.5s] [VI_F: Khác thế nào?] [PAUSE 0.5s] [VI: Chị đó cao hơn.] [PAUSE 1s] [EN: Today, two words for comparing.] [PAUSE 0.5s] [EN: First,] [VI: giống] [EN: means similar, or alike. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: giống] [PAUSE 1s] [VI_F: giống] [EN: Now you say it.] [PAUSE 4s] [VI: giống] [EN: Good. She looks like me —] [PAUSE 4s] [VI: Chị đó giống em.] [PAUSE 0.5s] [EN: Next,] [VI: khác] [EN: means different. You already heard it inside] [VI: loại khác] [EN: — a different kind. Today it stands on its own, still meaning different. It has] [VI: dấu sắc] [EN: too. Listen again.] [VI_F: khác] [PAUSE 1s] [VI_F: khác] [EN: Now you say it.] [PAUSE 4s] [VI: khác] [EN: Good. She's different from me —] [PAUSE 4s] [VI: Chị đó khác em.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Similar, alike —] [PAUSE 4s] [VI: giống] [PAUSE 0.5s] [EN: Different —] [PAUSE 4s] [VI: khác] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. The same.] [PAUSE 3s] [VI: Giống.] [EN: Different.] [PAUSE 3s] [VI: Khác.] [EN: This one is the same as that one.] [PAUSE 4s] [VI: Cái này giống cái đó.] [EN: This one is nicer than that one.] [PAUSE 4s] [VI: Cái này đẹp hơn cái đó.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Khác.] [PAUSE 3s] [EN: Different.] [EN: What does this mean?] [VI_F: Giống.] [PAUSE 3s] [EN: The same, alike.] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Let's drill. Similar, alike —] [PAUSE 4s] [VI: giống] [PAUSE 0.5s] [EN: Different —] [PAUSE 4s] [VI: khác] [PAUSE 0.5s] [EN: Now build it. He looks like me —] [PAUSE 4s] [VI: Anh đó giống em.] [PAUSE 0.5s] [EN: This shirt is different —] [PAUSE 4s] [VI: Áo này khác.] [PAUSE 0.5s] [EN: She's different from me, she's taller —] [PAUSE 4s] [VI: Chị đó khác em, chị đó cao hơn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: giống] [PAUSE 3s] [EN: similar, alike] [PAUSE 0.5s] [VI_F: khác] [PAUSE 3s] [EN: different] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: giống] [PAUSE 1s] [VI_F: khác] [PAUSE 0.5s] [EN: Remember,] [VI: giống] [EN: and] [VI: khác] [EN: both have] [VI: dấu sắc] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Hai cái này giống nhau hả?] [VI_M: Đâu có, khác mà. Cái này đẹp hơn.] [VI_F: À, đúng.] [PAUSE 0.5s] [EN: Now you try. Say, this one is the same as that one.] [PAUSE 4s] [VI: Cái này giống cái đó.] [EN: Say, this one is different.] [PAUSE 4s] [VI: Cái này khác.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you introduce people. The preview phrase is] [VI: đây là] [EN: which means this is.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Chị đó giống em không?] [PAUSE 0.5s] [VI: Dạ không, chị đó khác em.] [PAUSE 0.5s] [VI_F: Khác thế nào?] [PAUSE 0.5s] [VI: Chị đó cao hơn.] [PAUSE 1s] [EN: Your turn. Say she's different from me.] [PAUSE 4s] [VI: Chị đó khác em.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, introductions. One word to start —] [VI: giới thiệu] [EN: it means to introduce. See you then.]"
     }
   ]
 }

@@ -1,30 +1,35 @@
 {
   "id": "L2-D25",
-  "title": "Bao lâu rồi — How long so far",
+  "title": "Được, bao lâu rồi: duration",
   "vocab": [
-    {"vi": "bao lâu rồi", "en": "how long (up to now)", "ipa": "/ɓaːw˧ ləw˧ zoj˨˩/"},
-    {"vi": "được", "en": "for (a duration); to be able", "ipa": "/ɗɨək˨˩ʔ/"}
+    {"vi": "được", "en": "to manage, or have the capability (a stretch of time you've reached)", "ipa": "dɨək˧˥"},
+    {"vi": "bao lâu rồi", "en": "how long has it been", "ipa": "baːw˧ ləw˧ ʐoj˨˩"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Rủ.] [PAUSE 3s] [EN: To invite someone along.] [EN: Free, not busy.] [PAUSE 3s] [VI: Rảnh.] [EN: Today.] [PAUSE 4s] [VI: Hôm nay.] [EN: Tomorrow.] [PAUSE 4s] [VI: Ngày mai.] [EN: Good.]"
+      "script": "[EN: Quick review. Say today —] [PAUSE 4s] [VI: hôm nay] [PAUSE 0.5s] [EN: Say tomorrow —] [PAUSE 4s] [VI: ngày mai] [PAUSE 0.5s] [EN: Say yesterday —] [PAUSE 4s] [VI: hôm qua] [PAUSE 0.5s] [EN: Say grandfather, or an older man —] [PAUSE 4s] [VI: ông] [PAUSE 0.5s] [EN: Say grandmother, or an older woman —] [PAUSE 4s] [VI: bà] [PAUSE 0.5s] [EN: Say aunt, or a young woman —] [PAUSE 4s] [VI: cô] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: You know] [VI: bao lâu,] [EN: how long, and] [VI: rồi,] [EN: already. Together they ask how long up to now.] [VI_F: Bao lâu rồi?] [EN: How long have you been in Vietnam?] [PAUSE 4s] [VI: Anh ở Việt Nam bao lâu rồi?] [EN: Good.] [PAUSE 0.5s] [EN: To answer a span of time, use] [VI: được] [EN: before the amount. You know it as okay; here it marks a duration. I have been here for two years.] [PAUSE 4s] [VI: Tôi ở đây được hai năm.] [EN: Say, for two years.] [PAUSE 4s] [VI: Được hai năm.] [EN: I have worked here for one month.] [PAUSE 4s] [VI: Tôi làm việc ở đây được một tháng.] [EN: Good.]"
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Chị làm việc được bao lâu rồi?] [PAUSE 0.5s] [VI_F: Dạ, được ba năm rồi.] [PAUSE 1s] [EN: Today, asking how long you've been doing something.] [PAUSE 0.5s] [EN: First,] [VI: được] [EN: You already know it inside] [VI: được không] [EN: — can you? or is that okay? Today, alone, it means to manage, or to have the capability — here, used for a stretch of time you've managed to reach. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: được] [PAUSE 1s] [VI_F: được] [EN: Now you say it.] [PAUSE 4s] [VI: được] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: bao lâu rồi] [EN: means how long has it been. You know] [VI: bao lâu] [EN: — how long — plus] [VI: rồi] [EN: — already. Listen again.] [VI_F: bao lâu rồi] [PAUSE 1s] [VI_F: bao lâu rồi] [EN: Now you say it.] [PAUSE 4s] [VI: bao lâu rồi] [EN: Good.] [PAUSE 0.5s] [EN: Put the pattern together — a verb, plus] [VI: được] [EN: plus] [VI: bao lâu rồi] [EN: . Ask how long someone has worked —] [PAUSE 4s] [VI: Làm việc được bao lâu rồi?]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To manage, or capability —] [PAUSE 4s] [VI: được] [PAUSE 0.5s] [EN: How long has it been —] [PAUSE 4s] [VI: bao lâu rồi] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. How long, up to now?] [PAUSE 3s] [VI: Bao lâu rồi?] [EN: How long have you been in Vietnam?] [PAUSE 4s] [VI: Anh ở Việt Nam bao lâu rồi?] [EN: For two years.] [PAUSE 4s] [VI: Được hai năm.] [EN: For one month.] [PAUSE 4s] [VI: Được một tháng.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Bao lâu rồi?] [PAUSE 3s] [EN: How long, up to now.] [EN: Good.]"
+      "duration_s": 240,
+      "script": "[EN: Let's drill. To manage, or capability —] [PAUSE 4s] [VI: được] [PAUSE 0.5s] [EN: How long has it been —] [PAUSE 4s] [VI: bao lâu rồi] [PAUSE 0.5s] [EN: Now say it. How long have you been working? —] [PAUSE 4s] [VI: Làm việc được bao lâu rồi?] [PAUSE 0.5s] [EN: Three years already —] [PAUSE 4s] [VI: Được ba năm rồi.] [PAUSE 0.5s] [EN: Six months already —] [PAUSE 4s] [VI: Được sáu tháng rồi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: được] [PAUSE 3s] [EN: to manage, or capability] [PAUSE 0.5s] [VI_F: bao lâu rồi] [PAUSE 3s] [EN: how long has it been] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: được] [PAUSE 1s] [VI_F: bao lâu rồi] [PAUSE 0.5s] [EN: Remember,] [VI: được] [EN: has] [VI: dấu nặng] [EN: — same tone as before, brand-new job.]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh ở đây bao lâu rồi?] [VI_M: Dạ, được hai năm. Còn chị?] [VI_F: Em ở đây được một tháng.] [PAUSE 0.5s] [EN: Now you try. Ask, how long have you been in Vietnam?] [PAUSE 4s] [VI: Anh ở Việt Nam bao lâu rồi?] [EN: Say, for two years.] [PAUSE 4s] [VI: Được hai năm.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you catch up with an old friend. The preview phrase is] [VI: dạo này] [EN: which means these days, lately.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Chị làm việc được bao lâu rồi?] [PAUSE 0.5s] [VI_F: Dạ, được ba năm rồi.] [PAUSE 1s] [EN: Your turn. Say three years already.] [PAUSE 4s] [VI: Được ba năm rồi.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, catching up with someone you haven't seen in a while. One word to start —] [VI: lâu rồi] [EN: it means it's been a long time. See you then.]"
     }
   ]
 }

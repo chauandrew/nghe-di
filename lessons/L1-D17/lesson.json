@@ -1,31 +1,37 @@
 {
   "id": "L1-D17",
-  "title": "Nói chậm hơn — Asking someone to repeat",
+  "title": "Nói chậm hơn: asking the taxi driver to slow down",
   "vocab": [
-    {"vi": "tôi không hiểu", "en": "I do not understand", "ipa": "/toj˧ xəwŋ˧ hiəw˧˩˧/"},
-    {"vi": "nói chậm hơn", "en": "speak slower", "ipa": "/nɔj˧˥ t͡ɕəm˨˩ʔ həːn˧/"},
-    {"vi": "lại", "en": "again", "ipa": "/laːj˨˩ʔ/"}
+    {"vi": "tôi không hiểu", "en": "I don't understand", "ipa": "toj˧ xoŋ˧ hiəw˨˩˦"},
+    {"vi": "biết", "en": "to know", "ipa": "biət˧˥"},
+    {"vi": "nói chậm hơn", "en": "speak more slowly", "ipa": "nɔj˧˥ tɕăm˨˩ʔ hɤn˧"},
+    {"vi": "lại", "en": "again", "ipa": "laːj˨˩ʔ"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Say hello.] [PAUSE 4s] [VI: Xin chào.] [EN: Have you eaten yet?] [PAUSE 4s] [VI: Anh ăn chưa?] [EN: Go to the market.] [PAUSE 4s] [VI: Đi Bến Thành.] [EN: Too expensive!] [PAUSE 4s] [VI: Đắt quá!] [EN: What does this mean?] [VI_F: Được không?] [PAUSE 3s] [EN: Is that okay.] [EN: Good.]"
+      "script": "[EN: Quick review. Say hello —] [PAUSE 4s] [VI: xin chào] [PAUSE 0.5s] [EN: Say thank you —] [PAUSE 4s] [VI: cảm ơn] [PAUSE 0.5s] [EN: Say the polite, soft yes —] [PAUSE 4s] [VI: dạ] [PAUSE 0.5s] [EN: Say to eat —] [PAUSE 4s] [VI: ăn] [PAUSE 0.5s] [EN: Say already —] [PAUSE 4s] [VI: rồi] [PAUSE 0.5s] [EN: Say not yet —] [PAUSE 4s] [VI: chưa] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: A driver says the fare too fast. Listen.] [PAUSE 0.5s] [VI_M: Bảy chục ngàn nha.] [EN: You did not catch it. Say I do not understand.] [VI_M: Tôi không hiểu.] [VI_M: Hiểu] [EN: has a falling, rising tone; relax your lips.] [EN: Say I do not understand.] [PAUSE 4s] [VI: Tôi không hiểu.] [EN: Good.] [PAUSE 0.5s] [EN: Ask him to speak slower.] [VI_M: Nói chậm hơn.] [VI_M: Chậm] [EN: has a falling, broken tone.] [EN: Say speak slower.] [PAUSE 4s] [VI: Nói chậm hơn.] [EN: Good.] [PAUSE 0.5s] [EN: To ask for it again, say] [VI_M: Lại.] [EN: falling, broken tone.] [EN: Say it slower, again.] [PAUSE 4s] [VI: Nói chậm hơn, lại.] [EN: Good.]"
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Hai chục ngàn.] [PAUSE 0.5s] [VI: Dạ, tôi không hiểu. Nói chậm hơn được không?] [PAUSE 0.5s] [VI_M: Dạ, hai chục ngàn.] [PAUSE 0.5s] [VI: Dạ, biết rồi. Cảm ơn anh.] [PAUSE 1s] [EN: You said] [VI: tôi không hiểu] [EN: it means I don't understand. Listen to its parts.] [VI_F: tôi] [EN: is] [VI: ngang] [PAUSE 0.3s] [VI_F: không] [EN: also] [VI: ngang] [PAUSE 0.3s] [VI_F: hiểu] [EN: has] [VI: dấu hỏi] [EN: . Listen to the whole phrase again.] [VI_F: tôi không hiểu] [PAUSE 1s] [VI_F: tôi không hiểu] [EN: Now you say it.] [PAUSE 4s] [VI: tôi không hiểu] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: biết] [EN: means to know. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: biết] [PAUSE 1s] [VI_F: biết] [EN: Now you say it.] [PAUSE 4s] [VI: biết] [EN: Good. I don't know —] [PAUSE 4s] [VI: Tôi không biết.] [EN: pairs with] [VI: tôi không hiểu] [EN: — not knowing is different from not understanding.] [PAUSE 0.5s] [EN: Next,] [VI: nói chậm hơn] [EN: means speak more slowly. Listen to its three parts.] [VI_F: nói] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: chậm] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: hơn] [EN: is] [VI: ngang] [EN: . Listen to the whole phrase again.] [VI_F: nói chậm hơn] [PAUSE 1s] [VI_F: nói chậm hơn] [EN: Now you say it.] [PAUSE 4s] [VI: nói chậm hơn] [EN: Good.] [PAUSE 0.3s] [VI_F: Nói chậm hơn được không?] [EN: can you speak more slowly?] [PAUSE 0.5s] [EN: Last,] [VI: lại] [EN: means again. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: lại] [PAUSE 1s] [VI_F: lại] [EN: Now you say it.] [PAUSE 4s] [VI: lại] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 75,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: I don't understand —] [PAUSE 4s] [VI: tôi không hiểu] [PAUSE 0.5s] [EN: To know —] [PAUSE 4s] [VI: biết] [PAUSE 0.5s] [EN: Speak more slowly —] [PAUSE 4s] [VI: nói chậm hơn] [PAUSE 0.5s] [EN: Again —] [PAUSE 4s] [VI: lại] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. I do not understand.] [PAUSE 4s] [VI: Tôi không hiểu.] [EN: Speak slower.] [PAUSE 4s] [VI: Nói chậm hơn.] [EN: Again.] [PAUSE 4s] [VI: Lại.] [EN: I do not understand, speak slower.] [PAUSE 4s] [VI: Tôi không hiểu, nói chậm hơn.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Lại.] [PAUSE 3s] [EN: Again.] [EN: What does this mean?] [VI_F: Tôi không hiểu.] [PAUSE 3s] [EN: I do not understand.] [EN: And ask the price politely.] [PAUSE 4s] [VI: Bao nhiêu anh?] [EN: Good.]"
+      "duration_s": 235,
+      "script": "[EN: Let's drill. I don't understand —] [PAUSE 4s] [VI: tôi không hiểu] [PAUSE 0.5s] [EN: To know —] [PAUSE 4s] [VI: biết] [PAUSE 0.5s] [EN: Speak more slowly —] [PAUSE 4s] [VI: nói chậm hơn] [PAUSE 0.5s] [EN: Again —] [PAUSE 4s] [VI: lại] [PAUSE 0.5s] [EN: Now say it. I don't understand —] [PAUSE 4s] [VI: Tôi không hiểu.] [PAUSE 0.5s] [EN: Ask him to speak more slowly —] [PAUSE 4s] [VI: Nói chậm hơn được không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: tôi không hiểu] [PAUSE 3s] [EN: I don't understand] [PAUSE 0.5s] [VI_F: biết] [PAUSE 3s] [EN: to know] [PAUSE 0.5s] [VI_F: nói chậm hơn] [PAUSE 3s] [EN: speak more slowly] [PAUSE 0.5s] [VI_F: lại] [PAUSE 3s] [EN: again] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: tôi không hiểu] [PAUSE 1s] [VI_F: biết] [PAUSE 1s] [VI_F: nói chậm hơn] [PAUSE 1s] [VI_F: lại] [PAUSE 0.5s] [EN: Remember,] [VI: biết] [EN: has] [VI: dấu sắc] [EN: , and] [VI: lại] [EN: has] [VI: dấu nặng] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Bảy chục ngàn nha.] [VI_F: Dạ, tôi không hiểu. Nói chậm hơn.] [VI_M: Bảy. Chục. Ngàn.] [VI_F: Dạ, cảm ơn anh.] [PAUSE 0.5s] [EN: Now you try. Say I do not understand.] [PAUSE 4s] [VI: Tôi không hiểu.] [EN: Ask him to speak slower.] [PAUSE 4s] [VI: Nói chậm hơn.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you ask for the bill. The preview phrase is] [VI: cho tôi] [EN: which means give me.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_M: Hai chục ngàn.] [PAUSE 0.5s] [VI: Dạ, tôi không hiểu. Nói chậm hơn được không?] [PAUSE 0.5s] [VI_M: Dạ, hai chục ngàn.] [PAUSE 0.5s] [VI: Dạ, biết rồi. Cảm ơn anh.] [PAUSE 1s] [EN: Your turn. Say you don't understand.] [PAUSE 4s] [VI: Tôi không hiểu.] [EN: Good.] [PAUSE 0.5s] [EN: Now ask him to speak more slowly —] [PAUSE 4s] [VI: Nói chậm hơn được không?] [EN: Well done.] [PAUSE 0.5s] [EN: Next lesson, asking for the bill. One phrase to start —] [VI: cho tôi] [EN: it means give me. See you then.]"
     }
   ]
 }

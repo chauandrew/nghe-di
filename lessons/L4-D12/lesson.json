@@ -1,0 +1,36 @@
+{
+  "id": "L4-D12",
+  "title": "Gửi, bưu điện, kiện hàng: the post office",
+  "vocab": [
+    {"vi": "gửi", "en": "to send", "ipa": "gɨj˨˩˦"},
+    {"vi": "bưu điện", "en": "post office", "ipa": "bɨw˧ diən˨˩ʔ"},
+    {"vi": "kiện hàng", "en": "package", "ipa": "kiən˨˩ʔ haːŋ˨˩"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say I'm lost —] [PAUSE 4s] [VI: tôi bị lạc] [PAUSE 0.5s] [EN: Say this street —] [PAUSE 4s] [VI: đường này] [PAUSE 0.5s] [EN: Say turn left —] [PAUSE 4s] [VI: quẹo trái] [PAUSE 0.5s] [EN: Say to feel, or find —] [PAUSE 4s] [VI: thấy] [PAUSE 0.5s] [EN: Say happy —] [PAUSE 4s] [VI: vui] [PAUSE 0.5s] [EN: Say sad —] [PAUSE 4s] [VI: buồn] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Bưu điện ở đâu?] [PAUSE 0.5s] [VI_F: Bưu điện ở bên phải.] [PAUSE 0.5s] [VI: Tôi cần gửi kiện hàng này.] [PAUSE 0.5s] [VI_F: Dạ được.] [PAUSE 1s] [EN: Three words for the post office today.] [PAUSE 0.5s] [EN: First,] [VI: gửi] [EN: means to send. It has] [VI: dấu hỏi] [EN: . Listen again.] [VI_F: gửi] [PAUSE 1s] [VI_F: gửi] [EN: Now you say it.] [PAUSE 4s] [VI: gửi] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: bưu điện] [EN: means post office.] [VI: bưu] [EN: has] [VI: ngang] [EN: — flat, and] [VI: điện] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: bưu điện] [PAUSE 1s] [VI_F: bưu điện] [EN: Now you say it.] [PAUSE 4s] [VI: bưu điện] [EN: Good. Where's the post office —] [PAUSE 4s] [VI: Bưu điện ở đâu?] [PAUSE 0.5s] [EN: Last,] [VI: kiện hàng] [EN: means package.] [VI: kiện] [EN: has] [VI: dấu nặng] [EN: , and] [VI: hàng] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole word again.] [VI_F: kiện hàng] [PAUSE 1s] [VI_F: kiện hàng] [EN: Now you say it.] [PAUSE 4s] [VI: kiện hàng] [EN: Good. I need to send this package —] [PAUSE 4s] [VI: Tôi cần gửi kiện hàng này.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To send —] [PAUSE 4s] [VI: gửi] [PAUSE 0.5s] [EN: Post office —] [PAUSE 4s] [VI: bưu điện] [PAUSE 0.5s] [EN: Package —] [PAUSE 4s] [VI: kiện hàng] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. To send —] [PAUSE 4s] [VI: gửi] [PAUSE 0.5s] [EN: Post office —] [PAUSE 4s] [VI: bưu điện] [PAUSE 0.5s] [EN: Package —] [PAUSE 4s] [VI: kiện hàng] [PAUSE 0.5s] [EN: Now build it. Where's the post office —] [PAUSE 4s] [VI: Bưu điện ở đâu?] [PAUSE 0.5s] [EN: I need to send this package —] [PAUSE 4s] [VI: Tôi cần gửi kiện hàng này.] [PAUSE 0.5s] [EN: Can you help me send this package —] [PAUSE 4s] [VI: Chị giúp tôi gửi kiện hàng này được không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: gửi] [PAUSE 3s] [EN: to send] [PAUSE 0.5s] [VI_F: bưu điện] [PAUSE 3s] [EN: post office] [PAUSE 0.5s] [VI_F: kiện hàng] [PAUSE 3s] [EN: package] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: gửi] [PAUSE 1s] [VI_F: bưu điện] [PAUSE 1s] [VI_F: kiện hàng] [PAUSE 0.5s] [EN: Remember,] [VI: gửi] [EN: has] [VI: dấu hỏi] [EN: , and] [VI: kiện] [EN: has] [VI: dấu nặng] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Bưu điện ở đâu?] [PAUSE 0.5s] [VI_F: Bưu điện ở bên phải.] [PAUSE 0.5s] [VI: Tôi cần gửi kiện hàng này.] [PAUSE 0.5s] [VI_F: Dạ được.] [PAUSE 1s] [EN: Your turn. Say you need to send this package.] [PAUSE 4s] [VI: Tôi cần gửi kiện hàng này.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, good and bad outcomes.] [VI: được] [EN: gets a new job: marking a good outcome. See you then.]"
+    }
+  ]
+}

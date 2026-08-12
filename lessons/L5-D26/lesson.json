@@ -1,0 +1,36 @@
+{
+  "id": "L5-D26",
+  "title": "Miền Bắc, miền Nam, giọng: regions and accents",
+  "vocab": [
+    {"vi": "miền Bắc", "en": "the North", "ipa": "miən˨˩ băk˧˥"},
+    {"vi": "miền Nam", "en": "the South", "ipa": "miən˨˩ naːm˧"},
+    {"vi": "giọng", "en": "accent, or voice", "ipa": "zɔŋ˨˩ʔ"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say a group of ten —] [PAUSE 4s] [VI: chục] [PAUSE 0.5s] [EN: Say hundred —] [PAUSE 4s] [VI: trăm] [PAUSE 0.5s] [EN: Say thousand —] [PAUSE 4s] [VI: ngàn] [PAUSE 0.5s] [EN: Say in the middle —] [PAUSE 4s] [VI: ở giữa] [PAUSE 0.5s] [EN: Say across from, or opposite —] [PAUSE 4s] [VI: đối diện] [PAUSE 0.5s] [EN: Say across, or past —] [PAUSE 4s] [VI: qua] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh là người miền Bắc hả?] [PAUSE 0.5s] [VI: Dạ không, tôi là người miền Nam. Giọng tôi khác chị đó.] [PAUSE 0.5s] [VI_F: Vậy à? Ấn tượng lắm!] [PAUSE 1s] [EN: Today, regions and accents.] [PAUSE 0.5s] [EN: You know] [VI: miền] [EN: for region. Now add the two ends of the country.] [PAUSE 0.5s] [VI: miền Bắc] [EN: means the North. Listen to its two parts.] [VI_F: miền] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI_F: Bắc] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole word again.] [VI_F: miền Bắc] [PAUSE 1s] [VI_F: miền Bắc] [EN: Now you say it.] [PAUSE 4s] [VI: miền Bắc] [EN: Good.] [PAUSE 0.5s] [EN: And] [VI: miền Nam] [EN: means the South — where we are now. Listen to its two parts.] [VI_F: miền] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI_F: Nam] [EN: is] [VI: ngang] [EN: — flat. Listen to the whole word again.] [VI_F: miền Nam] [PAUSE 1s] [VI_F: miền Nam] [EN: Now you say it.] [PAUSE 4s] [VI: miền Nam] [EN: Good. I'm a southerner —] [PAUSE 4s] [VI: Tôi là người miền Nam.] [PAUSE 0.5s] [EN: Last,] [VI: giọng] [EN: means accent, or voice. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: giọng] [PAUSE 1s] [VI_F: giọng] [EN: Now you say it.] [PAUSE 4s] [VI: giọng] [EN: Good. My accent is different from yours —] [PAUSE 4s] [VI: Giọng tôi khác chị.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: The North —] [PAUSE 4s] [VI: miền Bắc] [PAUSE 0.5s] [EN: The South —] [PAUSE 4s] [VI: miền Nam] [PAUSE 0.5s] [EN: Accent, or voice —] [PAUSE 4s] [VI: giọng] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. The North —] [PAUSE 4s] [VI: miền Bắc] [PAUSE 0.5s] [EN: The South —] [PAUSE 4s] [VI: miền Nam] [PAUSE 0.5s] [EN: Accent, or voice —] [PAUSE 4s] [VI: giọng] [PAUSE 0.5s] [EN: Now build it. Are you a northerner? —] [PAUSE 4s] [VI: Anh là người miền Bắc hả?] [PAUSE 0.5s] [EN: I am a southerner —] [PAUSE 4s] [VI: Tôi là người miền Nam.] [PAUSE 0.5s] [EN: My accent is different, you know —] [PAUSE 4s] [VI: Giọng tôi khác đó.] [PAUSE 0.5s] [EN: Northerners speak with a different accent than southerners —] [PAUSE 4s] [VI: Người miền Bắc nói giọng khác người miền Nam.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: miền Bắc] [PAUSE 3s] [EN: the North] [PAUSE 0.5s] [VI_F: miền Nam] [PAUSE 3s] [EN: the South] [PAUSE 0.5s] [VI_F: giọng] [PAUSE 3s] [EN: accent, or voice] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: miền Bắc] [PAUSE 1s] [VI_F: miền Nam] [PAUSE 1s] [VI_F: giọng] [PAUSE 0.5s] [EN: Remember,] [VI: Bắc] [EN: has] [VI: dấu sắc] [EN: , and] [VI: giọng] [EN: has] [VI: dấu nặng] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh là người miền Bắc hả?] [PAUSE 0.5s] [VI: Dạ không, tôi là người miền Nam. Giọng tôi khác chị đó.] [PAUSE 0.5s] [VI_F: Vậy à? Ấn tượng lắm!] [PAUSE 1s] [EN: Your turn. Say my accent is different from yours.] [PAUSE 4s] [VI: Giọng tôi khác chị.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, switching register by audience. One word to start —] [VI: lịch sự] [EN: it means formal, or polite. See you then.]"
+    }
+  ]
+}

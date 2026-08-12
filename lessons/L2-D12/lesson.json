@@ -1,31 +1,36 @@
 {
   "id": "L2-D12",
-  "title": "Sao vậy — Casual questions",
+  "title": "Vậy, hả, à: casual questions",
   "vocab": [
-    {"vi": "vậy", "en": "so/then (softens a question)", "ipa": "/vəj˨˩ʔ/"},
-    {"vi": "hả", "en": "huh? right? (casual tag)", "ipa": "/haː˧˩˧/"},
-    {"vi": "à", "en": "oh / really? (realization)", "ipa": "/aː˨˩/"}
+    {"vi": "vậy", "en": "so, or then", "ipa": "vəj˨˩ʔ"},
+    {"vi": "hả", "en": "friendly tag question, huh?", "ipa": "haː˨˩˦"},
+    {"vi": "à", "en": "light tag showing mild surprise, oh? or really?", "ipa": "aː˨˩"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: When.] [PAUSE 3s] [VI: Khi.] [EN: What does this mean?] [VI_F: Lúc.] [PAUSE 3s] [EN: At a certain time.] [EN: Room.] [PAUSE 3s] [VI: Phòng.] [EN: Any rooms available.] [PAUSE 4s] [VI: Còn phòng không.] [EN: Good.]"
+      "script": "[EN: Quick review. Say I want —] [PAUSE 4s] [VI: tôi muốn] [PAUSE 0.5s] [EN: Say coffee —] [PAUSE 4s] [VI: cà phê] [PAUSE 0.5s] [EN: Say water —] [PAUSE 4s] [VI: nước] [PAUSE 0.5s] [EN: Say room —] [PAUSE 4s] [VI: phòng] [PAUSE 0.5s] [EN: Say do you have a room available —] [PAUSE 4s] [VI: Còn phòng không?] [PAUSE 0.5s] [EN: Say one night —] [PAUSE 4s] [VI: một đêm] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: Spoken questions sound friendlier with a little particle at the end. The most common, in the south, is] [VI_F: Vậy.] [EN: a falling, broken tone. It is like adding so or then. What are you doing?] [VI_F: Anh làm gì vậy?] [EN: Ask, what are you doing, casually.] [PAUSE 4s] [VI: Anh làm gì vậy?] [EN: What is wrong, or what's up, is] [VI_F: Sao vậy?] [EN: Ask it.] [PAUSE 4s] [VI: Sao vậy?] [EN: Good.] [PAUSE 0.5s] [EN: For a quick, right? tag, use] [VI_F: Hả?] [EN: You already heard it. You are eating, right?] [PAUSE 4s] [VI: Anh ăn, hả?] [EN: And to react with oh, or really, use] [VI_F: À!] [EN: Say it.] [PAUSE 4s] [VI: À!] [EN: Good.]"
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh đói hả?] [PAUSE 0.5s] [VI: Dạ, đói quá!] [PAUSE 0.5s] [VI_F: Vậy à?] [PAUSE 1s] [EN: Today's structure: three small words that shape a casual question or reaction.] [PAUSE 0.5s] [EN: First,] [VI: hả] [EN: a friendly tag question at the end of a sentence — softer than] [VI: phải không] [EN: . It has] [VI: dấu hỏi] [EN: — dipping. Listen again.] [VI_F: hả] [PAUSE 1s] [VI_F: hả] [EN: Now you say it.] [PAUSE 4s] [VI: hả] [EN: Good.] [PAUSE 0.3s] [VI_F: Đói hả?] [EN: hungry, huh?] [PAUSE 0.5s] [EN: Next,] [VI: vậy] [EN: means so, or then — it can also pair with] [VI: gì] [EN: to ask what's up.] [VI_F: gì vậy] [EN: what's up. It has] [VI: dấu nặng] [EN: — low, cut off. Listen again.] [VI_F: vậy] [PAUSE 1s] [VI_F: vậy] [EN: Now you say it.] [PAUSE 4s] [VI: vậy] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: à] [EN: a light tag at the end, showing mild surprise — like saying oh, or really. It has] [VI: dấu huyền] [EN: — falling. Listen again.] [VI_F: à] [PAUSE 1s] [VI_F: à] [EN: Now you say it.] [PAUSE 4s] [VI: à] [EN: Good.] [PAUSE 0.3s] [VI_F: Vậy à?] [EN: is that so?]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 75,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: So, or then —] [PAUSE 4s] [VI: vậy] [PAUSE 0.5s] [EN: The friendly tag question, huh —] [PAUSE 4s] [VI: hả] [PAUSE 0.5s] [EN: The light tag for mild surprise, oh or really —] [PAUSE 4s] [VI: à] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. What are you doing? casually.] [PAUSE 4s] [VI: Anh làm gì vậy?] [EN: What's up?] [PAUSE 4s] [VI: Sao vậy?] [EN: Where are you going? casually.] [PAUSE 4s] [VI: Anh đi đâu vậy?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Vậy?] [PAUSE 3s] [EN: A softener, like so or then.] [EN: What does this mean?] [VI_F: À!] [PAUSE 3s] [EN: Oh, or really.] [EN: Good.]"
+      "duration_s": 235,
+      "script": "[EN: Let's drill. So, or then —] [PAUSE 4s] [VI: vậy] [PAUSE 0.5s] [EN: The friendly tag, huh —] [PAUSE 4s] [VI: hả] [PAUSE 0.5s] [EN: The light tag, oh or really —] [PAUSE 4s] [VI: à] [PAUSE 0.5s] [EN: Now say it. You're hungry, huh —] [PAUSE 4s] [VI: Đói hả?] [PAUSE 0.5s] [EN: What's up —] [PAUSE 4s] [VI: Gì vậy?] [PAUSE 0.5s] [EN: Is that so —] [PAUSE 4s] [VI: Vậy à?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: vậy] [PAUSE 3s] [EN: so, or then] [PAUSE 0.5s] [VI_F: hả] [PAUSE 3s] [EN: friendly tag question, huh] [PAUSE 0.5s] [VI_F: à] [PAUSE 3s] [EN: light tag, oh or really] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: vậy] [PAUSE 1s] [VI_F: hả] [PAUSE 1s] [VI_F: à] [PAUSE 0.5s] [EN: Remember,] [VI: hả] [EN: has] [VI: dấu hỏi] [EN: , and] [VI: vậy] [EN: has] [VI: dấu nặng] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh đi đâu vậy?] [VI_M: Dạ, đi làm. Sao vậy?] [VI_F: À, không có gì.] [PAUSE 0.5s] [EN: Now you try. Ask, where are you going, casually.] [PAUSE 4s] [VI: Anh đi đâu vậy?] [EN: Ask, what's up?] [PAUSE 4s] [VI: Sao vậy?] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you talk about transport. The preview phrase is] [VI: xe buýt] [EN: which means bus.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh đói hả?] [PAUSE 0.5s] [VI: Dạ, đói quá!] [PAUSE 0.5s] [VI_F: Vậy à?] [PAUSE 1s] [EN: Your turn. React to surprising news.] [PAUSE 4s] [VI: Vậy à?] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, getting around town. One word to start —] [VI: xe buýt] [EN: it means bus. See you then.]"
     }
   ]
 }

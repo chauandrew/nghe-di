@@ -1,31 +1,37 @@
 {
   "id": "L2-D27",
-  "title": "Dời lịch — Rescheduling by phone",
+  "title": "Bận, dời, trễ, sớm: rescheduling",
   "vocab": [
-    {"vi": "bận", "en": "busy", "ipa": "/ɓən˨˩ʔ/"},
-    {"vi": "dời", "en": "to postpone, move (a time)", "ipa": "/jəːj˨˩/"},
-    {"vi": "trễ", "en": "late", "ipa": "/ʈe˧ˀ˥/"}
+    {"vi": "bận", "en": "busy", "ipa": "bân˨˩ʔ"},
+    {"vi": "dời", "en": "to move, or to reschedule", "ipa": "zɤj˨˩"},
+    {"vi": "trễ", "en": "late", "ipa": "tɕe˨˩˦"},
+    {"vi": "sớm", "en": "early", "ipa": "sɤm˧˥"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: A long time.] [PAUSE 4s] [VI: Lâu rồi.] [EN: These days, lately.] [PAUSE 4s] [VI: Dạo này.] [EN: Far.] [PAUSE 3s] [VI: Xa.] [EN: To walk.] [PAUSE 4s] [VI: Đi bộ.] [EN: Good.]"
+      "script": "[EN: Quick review. Say near —] [PAUSE 4s] [VI: gần] [PAUSE 0.5s] [EN: Say far —] [PAUSE 4s] [VI: xa] [PAUSE 0.5s] [EN: Say to walk —] [PAUSE 4s] [VI: đi bộ] [PAUSE 0.5s] [EN: Say when, joining two events —] [PAUSE 4s] [VI: khi] [PAUSE 0.5s] [EN: Say at, for a specific time —] [PAUSE 4s] [VI: lúc] [PAUSE 0.5s] [EN: Say when, the question word —] [PAUSE 4s] [VI: khi nào] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: Sometimes you must change a plan. Busy is] [VI_F: Bận.] [EN: a falling, broken tone. Today I am busy.] [PAUSE 4s] [VI: Hôm nay tôi bận.] [EN: Good.] [PAUSE 0.5s] [EN: To postpone, to move the time, is] [VI_F: Dời.] [EN: a falling tone; in the south the d sounds like a y. Can we postpone?] [PAUSE 4s] [VI: Mình dời được không?] [EN: Good.] [PAUSE 0.5s] [EN: Late is] [VI_F: Trễ.] [EN: a broken, rising tone. Sorry, I am a little late.] [PAUSE 4s] [VI: Xin lỗi, tôi trễ một chút.] [EN: She said] [VI: xin lỗi,] [EN: which means sorry.] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Alô, chị bận không?] [PAUSE 0.5s] [VI_F: Dạ bận. Dời giờ khác được không?] [PAUSE 0.5s] [VI: Dạ được. Sớm hơn hay trễ hơn?] [PAUSE 0.5s] [VI_F: Trễ hơn nha.] [PAUSE 1s] [EN: Four words for rescheduling today.] [PAUSE 0.5s] [EN: First,] [VI: bận] [EN: means busy. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: bận] [PAUSE 1s] [VI_F: bận] [EN: Now you say it.] [PAUSE 4s] [VI: bận] [EN: Good.] [PAUSE 0.5s] [EN: Are you busy —] [PAUSE 4s] [VI: Bận không?] [PAUSE 0.5s] [EN: Next,] [VI: dời] [EN: means to move, or to reschedule. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: dời] [PAUSE 1s] [VI_F: dời] [EN: Now you say it.] [PAUSE 4s] [VI: dời] [EN: Good.] [PAUSE 0.5s] [EN: Can we reschedule —] [PAUSE 4s] [VI: Dời được không?] [PAUSE 0.5s] [EN: Last, a pair.] [VI: sớm] [EN: means early. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: sớm] [PAUSE 1s] [VI_F: sớm] [EN: Now you say it.] [PAUSE 4s] [VI: sớm] [EN: Good.] [PAUSE 0.5s] [VI: trễ] [EN: means late. It has] [VI: dấu ngã] [EN: . Listen again.] [VI_F: trễ] [PAUSE 1s] [VI_F: trễ] [EN: Now you say it.] [PAUSE 4s] [VI: trễ] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Busy —] [PAUSE 4s] [VI: bận] [PAUSE 0.5s] [EN: To move, or reschedule —] [PAUSE 4s] [VI: dời] [PAUSE 0.5s] [EN: Early —] [PAUSE 4s] [VI: sớm] [PAUSE 0.5s] [EN: Late —] [PAUSE 4s] [VI: trễ] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Busy.] [PAUSE 3s] [VI: Bận.] [EN: To postpone.] [PAUSE 3s] [VI: Dời.] [EN: Late.] [PAUSE 3s] [VI: Trễ.] [EN: Today I am busy.] [PAUSE 4s] [VI: Hôm nay tôi bận.] [EN: Can we postpone?] [PAUSE 4s] [VI: Mình dời được không?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Trễ.] [PAUSE 3s] [EN: Late.] [EN: What does this mean?] [VI_F: Dời.] [PAUSE 3s] [EN: To postpone.] [EN: Good.]"
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Busy —] [PAUSE 4s] [VI: bận] [PAUSE 0.5s] [EN: To reschedule —] [PAUSE 4s] [VI: dời] [PAUSE 0.5s] [EN: Early —] [PAUSE 4s] [VI: sớm] [PAUSE 0.5s] [EN: Late —] [PAUSE 4s] [VI: trễ] [PAUSE 0.5s] [EN: Now say it. Are you busy? —] [PAUSE 4s] [VI: Bận không?] [PAUSE 0.5s] [EN: Can we reschedule? —] [PAUSE 4s] [VI: Dời được không?] [PAUSE 0.5s] [EN: A little earlier —] [PAUSE 4s] [VI: Sớm hơn.] [PAUSE 0.5s] [EN: A little later —] [PAUSE 4s] [VI: Trễ hơn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: bận] [PAUSE 3s] [EN: busy] [PAUSE 0.5s] [VI_F: dời] [PAUSE 3s] [EN: to move, or reschedule] [PAUSE 0.5s] [VI_F: sớm] [PAUSE 3s] [EN: early] [PAUSE 0.5s] [VI_F: trễ] [PAUSE 3s] [EN: late] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: bận] [PAUSE 1s] [VI_F: dời] [PAUSE 1s] [VI_F: sớm] [PAUSE 1s] [VI_F: trễ] [PAUSE 0.5s] [EN: Remember,] [VI: sớm] [EN: has] [VI: dấu sắc] [EN: , and] [VI: trễ] [EN: has] [VI: dấu ngã] [EN: — opposite words, careful not to mix them up.]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Alô, hôm nay anh bận quá. Mình dời được không?] [VI_F: Dạ được. Mai nha?] [VI_M: Dạ, cảm ơn em.] [PAUSE 0.5s] [EN: Now you try. Say today I am busy.] [PAUSE 4s] [VI: Hôm nay tôi bận.] [EN: Ask, can we postpone?] [PAUSE 4s] [VI: Mình dời được không?] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you buy a ticket at the station. The preview word is] [VI: vé] [EN: which means ticket.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Alô, chị bận không?] [PAUSE 0.5s] [VI_F: Dạ bận. Dời giờ khác được không?] [PAUSE 0.5s] [VI: Dạ được. Sớm hơn hay trễ hơn?] [PAUSE 0.5s] [VI_F: Trễ hơn nha.] [PAUSE 1s] [EN: Your turn. Say can we reschedule.] [PAUSE 4s] [VI: Dời được không?] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, at the bus or train station, buying tickets. One word to start —] [VI: vé] [EN: it means ticket. See you then.]"
     }
   ]
 }

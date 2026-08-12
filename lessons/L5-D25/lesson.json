@@ -1,0 +1,35 @@
+{
+  "id": "L5-D25",
+  "title": "Nhớ, quên: recounting a memorable trip",
+  "vocab": [
+    {"vi": "nhớ", "en": "to remember, or to miss", "ipa": "ɲɤ˧˥"},
+    {"vi": "quên", "en": "to forget", "ipa": "kwen˧"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say the general counting word —] [PAUSE 4s] [VI: cái] [PAUSE 0.5s] [EN: Say glass —] [PAUSE 4s] [VI: ly] [PAUSE 0.5s] [EN: Say bottle —] [PAUSE 4s] [VI: chai] [PAUSE 0.5s] [EN: Say bowl —] [PAUSE 4s] [VI: tô] [PAUSE 0.5s] [EN: Say loaf —] [PAUSE 4s] [VI: ổ] [PAUSE 0.5s] [EN: Say person, as a measure word —] [PAUSE 4s] [VI: người] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh nhớ chuyến đi Đà Lạt không?] [PAUSE 0.5s] [VI: Nhớ chứ! Phong cảnh đẹp lắm, tôi không bao giờ quên.] [PAUSE 0.5s] [VI_F: Kỷ niệm đẹp đó!] [PAUSE 1s] [EN: Today, recounting a memorable trip.] [PAUSE 0.5s] [EN: First,] [VI: nhớ] [EN: means to remember, or to miss. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: nhớ] [PAUSE 1s] [VI_F: nhớ] [EN: Now you say it.] [PAUSE 4s] [VI: nhớ] [EN: Good. Of course I remember! —] [PAUSE 4s] [VI: Nhớ chứ!] [PAUSE 0.5s] [EN: Next,] [VI: quên] [EN: means to forget. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: quên] [PAUSE 1s] [VI_F: quên] [EN: Now you say it.] [PAUSE 4s] [VI: quên] [EN: Good. I never forget —] [PAUSE 4s] [VI: Tôi không bao giờ quên.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To remember, or to miss —] [PAUSE 4s] [VI: nhớ] [PAUSE 0.5s] [EN: To forget —] [PAUSE 4s] [VI: quên] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. To remember, or to miss —] [PAUSE 4s] [VI: nhớ] [PAUSE 0.5s] [EN: To forget —] [PAUSE 4s] [VI: quên] [PAUSE 0.5s] [EN: Now build it. Do you remember my wedding? —] [PAUSE 4s] [VI: Anh nhớ đám cưới của tôi không?] [PAUSE 0.5s] [EN: I really miss the beautiful scenery —] [PAUSE 4s] [VI: Tôi nhớ phong cảnh đẹp lắm.] [PAUSE 0.5s] [EN: I already forgot —] [PAUSE 4s] [VI: Tôi quên rồi.] [PAUSE 0.5s] [EN: Don't forget this trip —] [PAUSE 4s] [VI: Đừng quên chuyến đi này.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: nhớ] [PAUSE 3s] [EN: to remember, or to miss] [PAUSE 0.5s] [VI_F: quên] [PAUSE 3s] [EN: to forget] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: nhớ] [PAUSE 1s] [VI_F: quên] [PAUSE 0.5s] [EN: Remember,] [VI: nhớ] [EN: has] [VI: dấu sắc] [EN: , and] [VI: quên] [EN: is] [VI: ngang] [EN: — flat.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh nhớ chuyến đi Đà Lạt không?] [PAUSE 0.5s] [VI: Nhớ chứ! Phong cảnh đẹp lắm, tôi không bao giờ quên.] [PAUSE 0.5s] [VI_F: Kỷ niệm đẹp đó!] [PAUSE 1s] [EN: Your turn. Say I never forget.] [PAUSE 4s] [VI: Tôi không bao giờ quên.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, regional accents. One word to start —] [VI: giọng] [EN: it means accent, or voice. See you then.]"
+    }
+  ]
+}

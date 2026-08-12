@@ -1,0 +1,35 @@
+{
+  "id": "L4-D25",
+  "title": "Nói là, bảo: reported speech",
+  "vocab": [
+    {"vi": "nói là", "en": "to say that (reports a statement)", "ipa": "nɔj˧˥ laː˨˩"},
+    {"vi": "bảo", "en": "to tell someone (usually to do something)", "ipa": "baːw˨˩˦"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say the soft negation, not at all —] [PAUSE 4s] [VI: đâu] [PAUSE 0.5s] [EN: Say the intensifier, totally —] [PAUSE 4s] [VI: luôn] [PAUSE 0.5s] [EN: Say the tag, right? —] [PAUSE 4s] [VI: chứ] [PAUSE 0.5s] [EN: Say the soft contradiction, but really —] [PAUSE 4s] [VI: mà] [PAUSE 0.5s] [EN: Say sky, or weather —] [PAUSE 4s] [VI: trời] [PAUSE 0.5s] [EN: Say rain —] [PAUSE 4s] [VI: mưa] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 205,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Bác sĩ nói là anh bị cảm.] [PAUSE 0.5s] [VI: Bác sĩ bảo tôi uống thuốc.] [PAUSE 0.5s] [VI_F: Dạ, uống thuốc rồi nghỉ nha.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: Today's structure: reporting what someone said.] [PAUSE 0.5s] [EN: First,] [VI: nói là] [EN: means to say that — use it to report a statement.] [VI: nói] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI: là] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole phrase again.] [VI_F: nói là] [PAUSE 1s] [VI_F: nói là] [EN: Now you say it.] [PAUSE 4s] [VI: nói là] [EN: Good. The doctor said that you have a cold —] [PAUSE 4s] [VI: Bác sĩ nói là anh bị cảm.] [PAUSE 0.5s] [EN: Next,] [VI: bảo] [EN: means to tell someone — usually to do something. It has] [VI: dấu hỏi] [EN: . Listen again.] [VI_F: bảo] [PAUSE 1s] [VI_F: bảo] [EN: Now you say it.] [PAUSE 4s] [VI: bảo] [EN: Good. The doctor told me to take medicine —] [PAUSE 4s] [VI: Bác sĩ bảo tôi uống thuốc.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To say that —] [PAUSE 4s] [VI: nói là] [PAUSE 0.5s] [EN: To tell someone —] [PAUSE 4s] [VI: bảo] [PAUSE 0.5s] [EN: The doctor said that you have a cold —] [PAUSE 4s] [VI: Bác sĩ nói là anh bị cảm.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill the pattern. To say that —] [PAUSE 4s] [VI: nói là] [PAUSE 0.5s] [EN: To tell someone —] [PAUSE 4s] [VI: bảo] [PAUSE 0.5s] [EN: Now build it. The doctor said that you have a cold —] [PAUSE 4s] [VI: Bác sĩ nói là anh bị cảm.] [PAUSE 0.5s] [EN: The doctor told me to take medicine —] [PAUSE 4s] [VI: Bác sĩ bảo tôi uống thuốc.] [PAUSE 0.5s] [EN: Now swap in a new speaker. She said that she's busy —] [PAUSE 4s] [VI: Chị nói là chị bận.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: nói là] [PAUSE 3s] [EN: to say that] [PAUSE 0.5s] [VI_F: bảo] [PAUSE 3s] [EN: to tell someone] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: nói là] [PAUSE 1s] [VI_F: bảo] [PAUSE 0.5s] [EN: Remember,] [VI: nói] [EN: has] [VI: dấu sắc] [EN: , and] [VI: bảo] [EN: has] [VI: dấu hỏi] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Bác sĩ nói là anh bị cảm.] [PAUSE 0.5s] [VI: Bác sĩ bảo tôi uống thuốc.] [PAUSE 0.5s] [VI_F: Dạ, uống thuốc rồi nghỉ nha.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: Your turn. Say the doctor told me to take medicine.] [PAUSE 4s] [VI: Bác sĩ bảo tôi uống thuốc.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, relaying a message. One word to start —] [VI: nhắn] [EN: it means to pass along a message. See you then.]"
+    }
+  ]
+}

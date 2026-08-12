@@ -1,32 +1,37 @@
 {
   "id": "L3-D1",
-  "title": "Gia đình — Family members",
+  "title": "Ba, má, vợ, chồng: family members",
   "vocab": [
-    {"vi": "ba", "en": "dad (southern)", "ipa": "/ɓaː˧/"},
-    {"vi": "má", "en": "mom (southern)", "ipa": "/maː˧˥/"},
-    {"vi": "vợ", "en": "wife", "ipa": "/vəː˨˩ʔ/"},
-    {"vi": "chồng", "en": "husband", "ipa": "/t͡ɕoŋ˨˩/"}
+    {"vi": "ba", "en": "dad", "ipa": "baː˧"},
+    {"vi": "má", "en": "mom", "ipa": "maː˧˥"},
+    {"vi": "vợ", "en": "wife", "ipa": "vɤ˨˩ʔ"},
+    {"vi": "chồng", "en": "husband", "ipa": "tɕoŋ˨˩"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Welcome to Level 3. Warm up from Level 2.] [PAUSE 0.5s] [EN: I am eating.] [PAUSE 4s] [VI: Tôi đang ăn.] [EN: A ticket.] [PAUSE 3s] [VI: Vé.] [EN: How long, up to now?] [PAUSE 4s] [VI: Bao lâu rồi?] [EN: What does this mean?] [VI_F: Tiếp theo.] [PAUSE 3s] [EN: Next.] [EN: Good.]"
+      "script": "[EN: Quick review. Say room —] [PAUSE 4s] [VI: phòng] [PAUSE 0.5s] [EN: Say do you have a room available —] [PAUSE 4s] [VI: còn phòng không] [PAUSE 0.5s] [EN: Say one night —] [PAUSE 4s] [VI: một đêm] [PAUSE 0.5s] [EN: Say to go out, or hang out —] [PAUSE 4s] [VI: đi chơi] [PAUSE 0.5s] [EN: Say to invite —] [PAUSE 4s] [VI: rủ] [PAUSE 0.5s] [EN: Say free, or available —] [PAUSE 4s] [VI: rảnh] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: Let's talk about family. In the south, dad is] [VI_F: Ba.] [EN: a flat tone. Mom is] [VI_F: Má.] [EN: a high, rising tone. Say dad and mom.] [PAUSE 4s] [VI: Ba, má.] [EN: Good.] [PAUSE 0.5s] [EN: Wife is] [VI_F: Vợ.] [EN: a falling, broken tone; relax your lips for this vowel. Husband is] [VI_F: Chồng.] [EN: a falling tone. Say wife and husband.] [PAUSE 4s] [VI: Vợ, chồng.] [EN: Good.] [PAUSE 0.5s] [EN: To say my, you use] [VI: của,] [EN: which you know. This is my dad.] [PAUSE 4s] [VI: Đây là ba của tôi.] [EN: Good.]"
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Ba, má của em đó.] [PAUSE 0.5s] [VI: Dạ, chào ba, chào má.] [PAUSE 0.5s] [VI_F: Còn chồng của em đó.] [PAUSE 0.5s] [VI: Dạ, chào anh. Vợ của tôi đó.] [PAUSE 1s] [EN: Four new words for family today.] [PAUSE 0.5s] [EN: First,] [VI: ba] [EN: you already know this word — you learned it for the number three, back on your third lesson. Today it has a different job entirely: here] [VI: ba] [EN: means dad. It still has] [VI: ngang] [EN: — flat, no mark, same as before. Listen again.] [VI_F: ba] [PAUSE 1s] [VI_F: ba] [EN: Now you say it.] [PAUSE 4s] [VI: ba] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: má] [EN: means mom. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: má] [PAUSE 1s] [VI_F: má] [EN: Now you say it.] [PAUSE 4s] [VI: má] [EN: Good.] [PAUSE 0.5s] [EN: Greet them both —] [PAUSE 4s] [VI: Chào ba, chào má.] [PAUSE 0.5s] [EN: Next,] [VI: vợ] [EN: means wife. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: vợ] [PAUSE 1s] [VI_F: vợ] [EN: Now you say it.] [PAUSE 4s] [VI: vợ] [EN: Good. My wife —] [PAUSE 4s] [VI: vợ của tôi] [PAUSE 0.5s] [EN: Last,] [VI: chồng] [EN: means husband. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: chồng] [PAUSE 1s] [VI_F: chồng] [EN: Now you say it.] [PAUSE 4s] [VI: chồng] [EN: Good. My husband —] [PAUSE 4s] [VI: chồng của tôi]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Dad —] [PAUSE 4s] [VI: ba] [PAUSE 0.5s] [EN: Mom —] [PAUSE 4s] [VI: má] [PAUSE 0.5s] [EN: Wife —] [PAUSE 4s] [VI: vợ] [PAUSE 0.5s] [EN: Husband —] [PAUSE 4s] [VI: chồng] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Dad.] [PAUSE 3s] [VI: Ba.] [EN: Mom.] [PAUSE 3s] [VI: Má.] [EN: Wife.] [PAUSE 3s] [VI: Vợ.] [EN: Husband.] [PAUSE 3s] [VI: Chồng.] [EN: This is my mom.] [PAUSE 4s] [VI: Đây là má của tôi.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Vợ.] [PAUSE 3s] [EN: Wife.] [EN: What does this mean?] [VI_F: Chồng.] [PAUSE 3s] [EN: Husband.] [EN: Good.]"
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Dad —] [PAUSE 4s] [VI: ba] [PAUSE 0.5s] [EN: Mom —] [PAUSE 4s] [VI: má] [PAUSE 0.5s] [EN: Wife —] [PAUSE 4s] [VI: vợ] [PAUSE 0.5s] [EN: Husband —] [PAUSE 4s] [VI: chồng] [PAUSE 0.5s] [EN: Now say it. My wife —] [PAUSE 4s] [VI: Vợ của tôi.] [PAUSE 0.5s] [EN: My husband —] [PAUSE 4s] [VI: Chồng của tôi.] [PAUSE 0.5s] [EN: Greet dad and mom —] [PAUSE 4s] [VI: Chào ba, chào má.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ba] [PAUSE 3s] [EN: dad] [PAUSE 0.5s] [VI_F: má] [PAUSE 3s] [EN: mom] [PAUSE 0.5s] [VI_F: vợ] [PAUSE 3s] [EN: wife] [PAUSE 0.5s] [VI_F: chồng] [PAUSE 3s] [EN: husband] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ba] [PAUSE 1s] [VI_F: má] [PAUSE 1s] [VI_F: vợ] [PAUSE 1s] [VI_F: chồng] [PAUSE 0.5s] [EN: Remember,] [VI: má] [EN: has] [VI: dấu sắc] [EN: , and] [VI: vợ] [EN: has] [VI: dấu nặng] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Đây là ba má của anh hả?] [VI_M: Dạ. Còn đây là vợ tôi.] [VI_F: Dạ, chào chị.] [PAUSE 0.5s] [EN: Now you try. Say, this is my dad.] [PAUSE 4s] [VI: Đây là ba của tôi.] [EN: Say, this is my wife.] [PAUSE 4s] [VI: Đây là vợ của tôi.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you describe things. The preview word is] [VI: đẹp] [EN: which means beautiful.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Ba, má của em đó.] [PAUSE 0.5s] [VI: Dạ, chào ba, chào má.] [PAUSE 0.5s] [VI_F: Còn chồng của em đó.] [PAUSE 0.5s] [VI: Dạ, chào anh. Vợ của tôi đó.] [PAUSE 1s] [EN: Your turn. Introduce your wife.] [PAUSE 4s] [VI: Vợ của tôi đó.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, describing people and things. One word to start —] [VI: đẹp] [EN: it means beautiful, or nice-looking. See you then.]"
     }
   ]
 }

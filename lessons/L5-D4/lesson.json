@@ -1,0 +1,36 @@
+{
+  "id": "L5-D4",
+  "title": "Sinh ra, lớn lên, kết hôn: life events",
+  "vocab": [
+    {"vi": "sinh ra", "en": "to be born", "ipa": "ʂiŋ˧ raː˧"},
+    {"vi": "lớn lên", "en": "to grow up", "ipa": "lɤn˧˥ len˧"},
+    {"vi": "kết hôn", "en": "to get married", "ipa": "ket˧˥ hon˧"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say to make an appointment, or arrange to meet —] [PAUSE 4s] [VI: hẹn] [PAUSE 0.5s] [EN: Say to meet —] [PAUSE 4s] [VI: gặp] [PAUSE 0.5s] [EN: Say schedule, or calendar —] [PAUSE 4s] [VI: lịch] [PAUSE 0.5s] [EN: Say gathering —] [PAUSE 4s] [VI: họp mặt] [PAUSE 0.5s] [EN: Say cheerful, happy —] [PAUSE 4s] [VI: vui vẻ] [PAUSE 0.5s] [EN: Say to make it in time —] [PAUSE 4s] [VI: kịp] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh sinh ra ở đâu?] [PAUSE 0.5s] [VI: Tôi sinh ra ở đây. Đầu tiên tôi lớn lên, sau đó tôi kết hôn.] [PAUSE 0.5s] [VI_F: Vậy à? Vui quá!] [PAUSE 1s] [EN: Today, a life timeline in three words.] [PAUSE 0.5s] [EN: First,] [VI: sinh ra] [EN: means to be born. Listen to its two parts.] [VI_F: sinh] [EN: has] [VI: ngang] [PAUSE 0.3s] [VI_F: ra] [EN: also has] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: sinh ra] [PAUSE 1s] [VI_F: sinh ra] [EN: Now you say it.] [PAUSE 4s] [VI: sinh ra] [EN: Good. I was born here —] [PAUSE 4s] [VI: Tôi sinh ra ở đây.] [PAUSE 0.5s] [EN: Next,] [VI: lớn lên] [EN: means to grow up. Listen to its two parts.] [VI_F: lớn] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: lên] [EN: has] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: lớn lên] [PAUSE 1s] [VI_F: lớn lên] [EN: Now you say it.] [PAUSE 4s] [VI: lớn lên] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: kết hôn] [EN: means to get married. Listen to its two parts.] [VI_F: kết] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: hôn] [EN: has] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: kết hôn] [PAUSE 1s] [VI_F: kết hôn] [EN: Now you say it.] [PAUSE 4s] [VI: kết hôn] [EN: Good. Put the whole timeline together — first I was born, then I grew up, finally I got married —] [PAUSE 4s] [VI: Đầu tiên tôi sinh ra, sau đó tôi lớn lên, cuối cùng tôi kết hôn.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's life words.] [PAUSE 0.5s] [EN: To be born —] [PAUSE 4s] [VI: sinh ra] [PAUSE 0.5s] [EN: To grow up —] [PAUSE 4s] [VI: lớn lên] [PAUSE 0.5s] [EN: To get married —] [PAUSE 4s] [VI: kết hôn] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. To be born —] [PAUSE 4s] [VI: sinh ra] [PAUSE 0.5s] [EN: To grow up —] [PAUSE 4s] [VI: lớn lên] [PAUSE 0.5s] [EN: To get married —] [PAUSE 4s] [VI: kết hôn] [PAUSE 0.5s] [EN: Now build it. First I was born, then I grew up, finally I got married —] [PAUSE 4s] [VI: Đầu tiên tôi sinh ra, sau đó tôi lớn lên, cuối cùng tôi kết hôn.] [PAUSE 0.5s] [EN: I was born here, but I grew up there —] [PAUSE 4s] [VI: Tôi sinh ra ở đây, nhưng tôi lớn lên ở đó.] [PAUSE 0.5s] [EN: After getting married, we gathered happily —] [PAUSE 4s] [VI: Kết hôn xong, mình họp mặt vui vẻ.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: sinh ra] [PAUSE 3s] [EN: to be born] [PAUSE 0.5s] [VI_F: lớn lên] [PAUSE 3s] [EN: to grow up] [PAUSE 0.5s] [VI_F: kết hôn] [PAUSE 3s] [EN: to get married] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: sinh ra] [PAUSE 1s] [VI_F: lớn lên] [PAUSE 1s] [VI_F: kết hôn] [PAUSE 0.5s] [EN: Remember,] [VI: lớn] [EN: has] [VI: dấu sắc] [EN: , and] [VI: kết] [EN: also has] [VI: dấu sắc] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh sinh ra ở đâu?] [PAUSE 0.5s] [VI: Tôi sinh ra ở đây. Đầu tiên tôi lớn lên, sau đó tôi kết hôn.] [PAUSE 0.5s] [VI_F: Vậy à? Vui quá!] [PAUSE 1s] [EN: Your turn. Say I was born here, but I grew up there.] [PAUSE 4s] [VI: Tôi sinh ra ở đây, nhưng tôi lớn lên ở đó.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, telling your life story. One word to start —] [VI: quê] [EN: it means hometown. See you then.]"
+    }
+  ]
+}

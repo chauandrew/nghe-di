@@ -1,0 +1,39 @@
+{
+  "id": "L1-D3",
+  "title": "Đếm từ một đến năm: counting one to five and asking the price",
+  "vocab": [
+    {"vi": "bao nhiêu", "en": "how much / how many", "ipa": "baːw˧ ɲiəw˧"},
+    {"vi": "một", "en": "one", "ipa": "mot˨˩ʔ"},
+    {"vi": "hai", "en": "two", "ipa": "haːj˧"},
+    {"vi": "ba", "en": "three", "ipa": "baː˧"},
+    {"vi": "bốn", "en": "four", "ipa": "bon˧˥"},
+    {"vi": "năm", "en": "five", "ipa": "năm˧"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review of the tone names.] [PAUSE 0.5s] [EN: Flat tone, no mark —] [PAUSE 4s] [VI: ngang] [PAUSE 0.5s] [EN: Falling tone —] [PAUSE 4s] [VI: dấu huyền] [PAUSE 0.5s] [EN: High, rising tone —] [PAUSE 4s] [VI: dấu sắc] [PAUSE 0.5s] [EN: Dipping tone —] [PAUSE 4s] [VI: dấu hỏi] [PAUSE 0.5s] [EN: The same dipping sound, written differently —] [PAUSE 4s] [VI: dấu ngã] [PAUSE 0.5s] [EN: Low, cut-off tone —] [PAUSE 4s] [VI: dấu nặng] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 260,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, bao nhiêu vậy chị?] [PAUSE 0.5s] [VI_F: Dạ, năm.] [PAUSE 1s] [EN: You just heard] [VI: bao nhiêu] [EN: it means how much, or how many. Listen to its two parts.] [VI_F: bao] [EN: has] [VI: ngang] [PAUSE 0.3s] [VI_F: nhiêu] [EN: also has] [VI: ngang] [EN: — both flat. Listen to the whole word again.] [VI_F: bao nhiêu] [PAUSE 1s] [VI_F: bao nhiêu] [EN: Now you say it.] [PAUSE 4s] [VI: bao nhiêu] [EN: Good.] [PAUSE 0.5s] [EN: You also heard] [VI: vậy] [EN: a small word meaning so, or then — it softens a question.] [PAUSE 0.5s] [EN: Now let's count. First,] [VI: một] [EN: means one. It has] [VI: dấu nặng] [EN: — low, cut off. Listen again.] [VI_F: một] [PAUSE 1s] [VI_F: một] [EN: Now you say it.] [PAUSE 4s] [VI: một] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: hai] [EN: means two. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: hai] [PAUSE 1s] [VI_F: hai] [EN: Now you say it.] [PAUSE 4s] [VI: hai] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: ba] [EN: means three. It also has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: ba] [PAUSE 1s] [VI_F: ba] [EN: Now you say it.] [PAUSE 4s] [VI: ba] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: bốn] [EN: means four. It has] [VI: dấu sắc] [EN: — high, rising. Listen again.] [VI_F: bốn] [PAUSE 1s] [VI_F: bốn] [EN: Now you say it.] [PAUSE 4s] [VI: bốn] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: năm] [EN: means five. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: năm] [PAUSE 1s] [VI_F: năm] [EN: Now you say it.] [PAUSE 4s] [VI: năm] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 90,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: How much —] [PAUSE 4s] [VI: bao nhiêu] [PAUSE 0.5s] [EN: One —] [PAUSE 4s] [VI: một] [PAUSE 0.5s] [EN: Two —] [PAUSE 4s] [VI: hai] [PAUSE 0.5s] [EN: Three —] [PAUSE 4s] [VI: ba] [PAUSE 0.5s] [EN: Four —] [PAUSE 4s] [VI: bốn] [PAUSE 0.5s] [EN: Five —] [PAUSE 4s] [VI: năm] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 280,
+      "script": "[EN: Let's drill. One —] [PAUSE 4s] [VI: một] [PAUSE 0.5s] [EN: Two —] [PAUSE 4s] [VI: hai] [PAUSE 0.5s] [EN: Three —] [PAUSE 4s] [VI: ba] [PAUSE 0.5s] [EN: Four —] [PAUSE 4s] [VI: bốn] [PAUSE 0.5s] [EN: Five —] [PAUSE 4s] [VI: năm] [PAUSE 0.5s] [EN: How much —] [PAUSE 4s] [VI: bao nhiêu] [PAUSE 0.5s] [EN: Now count from one to five.] [PAUSE 0.5s] [VI_F: một, hai, ba, bốn, năm.] [EN: Your turn.] [PAUSE 5s] [VI: một, hai, ba, bốn, năm.] [EN: Good.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: một] [PAUSE 3s] [EN: one] [PAUSE 0.5s] [VI_F: hai] [PAUSE 3s] [EN: two] [PAUSE 0.5s] [VI_F: ba] [PAUSE 3s] [EN: three] [PAUSE 0.5s] [VI_F: bốn] [PAUSE 3s] [EN: four] [PAUSE 0.5s] [VI_F: năm] [PAUSE 3s] [EN: five] [PAUSE 0.5s] [VI_F: bao nhiêu] [PAUSE 3s] [EN: how much] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: một] [PAUSE 1s] [VI_F: hai] [PAUSE 1s] [VI_F: ba] [PAUSE 1s] [VI_F: bốn] [PAUSE 1s] [VI_F: năm] [PAUSE 1s] [VI_F: bao nhiêu] [PAUSE 0.5s] [EN: Remember,] [VI: một] [EN: has] [VI: dấu nặng] [EN: , and] [VI: bốn] [EN: has] [VI: dấu sắc] [EN: . The rest are] [VI: ngang] [EN: — flat.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Dạ, bao nhiêu vậy chị?] [PAUSE 0.5s] [VI_F: Dạ, năm.] [PAUSE 1s] [EN: Your turn. Ask how much, politely.] [PAUSE 4s] [VI: Dạ, bao nhiêu vậy?] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, you will count from six to ten. One word to start —] [VI: sáu] [EN: it means six. See you then.]"
+    }
+  ]
+}

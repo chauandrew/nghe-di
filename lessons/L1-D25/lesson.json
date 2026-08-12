@@ -1,31 +1,36 @@
 {
   "id": "L1-D25",
-  "title": "Hết rồi — When a dish is sold out",
+  "title": "Hết rồi: when the dish is sold out",
   "vocab": [
-    {"vi": "hết rồi", "en": "sold out", "ipa": "/het˧˥ zoj˨˩/"},
-    {"vi": "còn không", "en": "is there any left", "ipa": "/kɔn˨˩ xəwŋ˧/"},
-    {"vi": "loại khác", "en": "another kind", "ipa": "/lwaːj˨˩ʔ xaːk˧˥/"}
+    {"vi": "hết rồi", "en": "all gone / sold out", "ipa": "het˧˥ ʐoj˨˩"},
+    {"vi": "còn không", "en": "is there any left?", "ipa": "kɔn˨˩ xoŋ˧"},
+    {"vi": "loại khác", "en": "a different kind", "ipa": "lwaj˨˩ʔ xaːk˧˥"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Is there coffee?] [PAUSE 4s] [VI: Có cà phê không?] [EN: Give me the bill.] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [EN: Near.] [PAUSE 4s] [VI: Gần.] [EN: Excuse me, to a woman.] [PAUSE 4s] [VI: Chị ơi!] [EN: What does this mean?] [VI_F: Chờ một chút.] [PAUSE 3s] [EN: Wait a moment.] [EN: Good.]"
+      "script": "[EN: Quick review. Say yes, or there is —] [PAUSE 4s] [VI: có] [PAUSE 0.5s] [EN: Say hungry —] [PAUSE 4s] [VI: đói] [PAUSE 0.5s] [EN: Say the tag question, right? —] [PAUSE 4s] [VI: phải không] [PAUSE 0.5s] [EN: Say give me —] [PAUSE 4s] [VI: cho tôi] [PAUSE 0.5s] [EN: Say bill —] [PAUSE 4s] [VI: hóa đơn] [PAUSE 0.5s] [EN: Say near —] [PAUSE 4s] [VI: gần] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: The dish you wanted is gone. Listen.] [PAUSE 0.5s] [VI_F: Dạ, món đó hết rồi.] [EN: Sold out is] [VI_F: Hết rồi.] [VI_F: Hết] [EN: has a high, rising tone.] [EN: You know] [VI: rồi] [EN: already. Say sold out.] [PAUSE 4s] [VI: Hết rồi.] [EN: Good.] [PAUSE 0.5s] [EN: To ask if any is left, use the yes-no frame around] [VI: còn] [EN: meaning remain. Is there any left?] [VI_M: Còn không?] [EN: Ask is there any left.] [PAUSE 4s] [VI: Còn không?] [EN: Another kind is] [VI_F: Loại khác.] [VI_F: Loại] [EN: has a falling, broken tone.] [EN: Say another kind.] [PAUSE 4s] [VI: Loại khác.] [EN: Good.]"
+      "duration_s": 200,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Tôi muốn gọi món.] [PAUSE 0.5s] [VI_M: Dạ, hết rồi.] [PAUSE 0.5s] [VI: Còn không?] [PAUSE 0.5s] [VI_M: Dạ, có loại khác.] [PAUSE 1s] [EN: You heard] [VI: hết rồi] [EN: it means all gone, or sold out. Listen to its two parts.] [VI_F: hết] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: rồi] [EN: you know — it means already, and here it has] [VI: dấu huyền] [EN: . Listen to the whole phrase again.] [VI_F: hết rồi] [PAUSE 1s] [VI_F: hết rồi] [EN: Now you say it.] [PAUSE 4s] [VI: hết rồi] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: còn không] [EN: means is there any left. Listen to its two parts.] [VI_F: còn] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI_F: không] [EN: is] [VI: ngang] [EN: — review from day one. Listen to the whole phrase again.] [VI_F: còn không] [PAUSE 1s] [VI_F: còn không] [EN: Now you say it.] [PAUSE 4s] [VI: còn không] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: loại khác] [EN: means a different kind. Listen to its two parts.] [VI_F: loại] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: khác] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole phrase again.] [VI_F: loại khác] [PAUSE 1s] [VI_F: loại khác] [EN: Now you say it.] [PAUSE 4s] [VI: loại khác] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: All gone, sold out —] [PAUSE 4s] [VI: hết rồi] [PAUSE 0.5s] [EN: Is there any left —] [PAUSE 4s] [VI: còn không] [PAUSE 0.5s] [EN: A different kind —] [PAUSE 4s] [VI: loại khác] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Sold out.] [PAUSE 4s] [VI: Hết rồi.] [EN: Is there any left?] [PAUSE 4s] [VI: Còn không?] [EN: Another kind.] [PAUSE 4s] [VI: Loại khác.] [EN: It is sold out. Give me another kind.] [PAUSE 4s] [VI: Hết rồi. Cho tôi loại khác.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Còn không?] [PAUSE 3s] [EN: Is there any left.] [EN: What does this mean?] [VI_F: Loại khác.] [PAUSE 3s] [EN: Another kind.] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Let's drill. All gone —] [PAUSE 4s] [VI: hết rồi] [PAUSE 0.5s] [EN: Is there any left —] [PAUSE 4s] [VI: còn không] [PAUSE 0.5s] [EN: A different kind —] [PAUSE 4s] [VI: loại khác] [PAUSE 0.5s] [EN: Now say it. Ask if there's any left —] [PAUSE 4s] [VI: Còn không?] [PAUSE 0.5s] [EN: Say there's a different kind —] [PAUSE 4s] [VI: Có loại khác.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: hết rồi] [PAUSE 3s] [EN: all gone] [PAUSE 0.5s] [VI_F: còn không] [PAUSE 3s] [EN: is there any left] [PAUSE 0.5s] [VI_F: loại khác] [PAUSE 3s] [EN: a different kind] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: hết rồi] [PAUSE 1s] [VI_F: còn không] [PAUSE 1s] [VI_F: loại khác] [PAUSE 0.5s] [EN: Remember,] [VI: hết] [EN: has] [VI: dấu sắc] [EN: , and] [VI: còn] [EN: has] [VI: dấu huyền] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, cho tôi món này.] [VI_F: Dạ, hết rồi.] [VI_M: Còn loại khác không?] [VI_F: Dạ còn, có cái này.] [PAUSE 0.5s] [EN: Now you try. Ask is there any left.] [PAUSE 4s] [VI: Còn không?] [EN: Ask for another kind.] [PAUSE 4s] [VI: Cho tôi loại khác.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you check into a hotel. The preview word is] [VI: phòng] [EN: which means room.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Tôi muốn gọi món.] [PAUSE 0.5s] [VI_M: Dạ, hết rồi.] [PAUSE 0.5s] [VI: Còn không?] [PAUSE 0.5s] [VI_M: Dạ, có loại khác.] [PAUSE 1s] [EN: Your turn. Ask if there's any left.] [PAUSE 4s] [VI: Còn không?] [EN: Good.] [PAUSE 0.5s] [EN: Now say all gone —] [PAUSE 4s] [VI: Hết rồi.] [EN: Well done.] [PAUSE 0.5s] [EN: Next lesson, checking into a hotel. One word to start —] [VI: phòng] [EN: it means room. See you then.]"
     }
   ]
 }

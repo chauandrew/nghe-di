@@ -1,31 +1,36 @@
 {
   "id": "L1-D10",
-  "title": "... chưa? — Asking if something is done yet",
+  "title": "Đã xong chưa: completion questions with chưa",
   "vocab": [
-    {"vi": "ăn", "en": "to eat", "ipa": "/an˧/"},
-    {"vi": "rồi", "en": "already, done", "ipa": "/zoj˨˩/"},
-    {"vi": "chưa", "en": "not yet; yet?", "ipa": "/t͡ɕɨə˧/"}
+    {"vi": "ăn", "en": "to eat", "ipa": "ăn˧"},
+    {"vi": "rồi", "en": "already", "ipa": "ʐoj˨˩"},
+    {"vi": "chưa", "en": "not yet / yet", "ipa": "tɕɨə˧"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: How much?] [PAUSE 4s] [VI: Bao nhiêu?] [EN: I want coffee.] [PAUSE 4s] [VI: Tôi muốn cà phê.] [EN: Is there water?] [PAUSE 4s] [VI: Có nước không?] [EN: Are you hungry, to a man?] [PAUSE 4s] [VI: Anh có đói không?] [EN: What does this mean?] [VI_F: Phải không?] [PAUSE 3s] [EN: Right?] [EN: Good.]"
+      "script": "[EN: Quick review. Say how much —] [PAUSE 4s] [VI: bao nhiêu] [PAUSE 0.5s] [EN: Say one —] [PAUSE 4s] [VI: một] [PAUSE 0.5s] [EN: Say two —] [PAUSE 4s] [VI: hai] [PAUSE 0.5s] [EN: Say three —] [PAUSE 4s] [VI: ba] [PAUSE 0.5s] [EN: Say four —] [PAUSE 4s] [VI: bốn] [PAUSE 0.5s] [EN: Say five —] [PAUSE 4s] [VI: năm] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: To ask if something is done yet, end with] [VI: chưa] [EN: The verb to eat is] [VI_F: Ăn.] [EN: flat tone.] [EN: Say eat.] [PAUSE 4s] [VI: Ăn.] [EN: Now ask, have you eaten yet?] [VI_F: Anh ăn chưa?] [EN: Note this vowel — relax your lips, do not round them. Ask it.] [PAUSE 4s] [VI: Anh ăn chưa?] [EN: Good.] [PAUSE 0.5s] [EN: Two answers. If done, say already.] [VI_F: Rồi.] [EN: Say already.] [PAUSE 4s] [VI: Rồi.] [EN: If not, repeat the word] [VI: chưa] [EN: which alone means not yet.] [VI_F: Chưa.] [EN: Say not yet.] [PAUSE 4s] [VI: Chưa.] [EN: Good. So the question and its two answers are: have you eaten? — already, or not yet.] [PAUSE 4s] [VI: Ăn chưa? Rồi. Chưa.] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh ăn chưa?] [PAUSE 0.5s] [VI: Dạ, ăn rồi.] [PAUSE 0.5s] [VI_F: Đói không?] [PAUSE 0.5s] [VI: Dạ, không đói.] [PAUSE 1s] [EN: Today's structure: asking if something is done. Add] [VI: chưa] [EN: to the end of a sentence — it means yet, or not yet. Answer] [VI: rồi] [EN: already, or] [VI: chưa] [EN: not yet.] [PAUSE 0.5s] [EN: First,] [VI: ăn] [EN: means to eat. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: ăn] [PAUSE 1s] [VI_F: ăn] [EN: Now you say it.] [PAUSE 4s] [VI: ăn] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: rồi] [EN: means already. It has] [VI: dấu huyền] [EN: — falling. Listen again.] [VI_F: rồi] [PAUSE 1s] [VI_F: rồi] [EN: Now you say it.] [PAUSE 4s] [VI: rồi] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: chưa] [EN: means not yet, or, at the end of a question, yet. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: chưa] [PAUSE 1s] [VI_F: chưa] [EN: Now you say it.] [PAUSE 4s] [VI: chưa] [EN: Good. Ask it.] [PAUSE 0.3s] [VI_F: ăn chưa] [EN: have you eaten yet?] [PAUSE 0.3s] [VI_F: ăn rồi] [EN: already ate.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 75,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To eat —] [PAUSE 4s] [VI: ăn] [PAUSE 0.5s] [EN: Already —] [PAUSE 4s] [VI: rồi] [PAUSE 0.5s] [EN: Not yet, or yet —] [PAUSE 4s] [VI: chưa] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 185,
-      "script": "[EN: Drill. Have you eaten yet?] [PAUSE 4s] [VI: Anh ăn chưa?] [EN: Answer, already.] [PAUSE 4s] [VI: Rồi.] [EN: Answer, not yet.] [PAUSE 4s] [VI: Chưa.] [EN: Try the frame with another verb. Have you gone yet?] [PAUSE 4s] [VI: Anh đi chưa?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Rồi.] [PAUSE 3s] [EN: Already.] [EN: What does this mean?] [VI_F: Chưa.] [PAUSE 3s] [EN: Not yet.] [EN: Good.]"
+      "duration_s": 240,
+      "script": "[EN: Let's drill. To eat —] [PAUSE 4s] [VI: ăn] [PAUSE 0.5s] [EN: Already —] [PAUSE 4s] [VI: rồi] [PAUSE 0.5s] [EN: Not yet —] [PAUSE 4s] [VI: chưa] [PAUSE 0.5s] [EN: Now ask. Have you eaten yet —] [PAUSE 4s] [VI: Ăn chưa?] [PAUSE 0.5s] [EN: Answer already —] [PAUSE 4s] [VI: Ăn rồi.] [PAUSE 0.5s] [EN: Answer not yet —] [PAUSE 4s] [VI: Chưa.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ăn] [PAUSE 3s] [EN: to eat] [PAUSE 0.5s] [VI_F: rồi] [PAUSE 3s] [EN: already] [PAUSE 0.5s] [VI_F: chưa] [PAUSE 3s] [EN: not yet, or yet] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ăn] [PAUSE 1s] [VI_F: rồi] [PAUSE 1s] [VI_F: chưa] [PAUSE 0.5s] [EN: Remember,] [VI: rồi] [EN: has] [VI: dấu huyền] [EN: . The others are] [VI: ngang] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen. A friend greets you the Vietnamese way.] [PAUSE 0.5s] [VI_F: Anh ăn chưa?] [VI_M: Dạ, rồi. Còn chị?] [VI_F: Em chưa.] [PAUSE 0.5s] [EN: Now you try. Ask, have you eaten yet?] [PAUSE 4s] [VI: Anh ăn chưa?] [EN: Answer, already.] [PAUSE 4s] [VI: Rồi.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you customize an order. The preview word is] [VI: thêm] [EN: which means more.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh ăn chưa?] [PAUSE 0.5s] [VI: Dạ, ăn rồi.] [PAUSE 0.5s] [VI_F: Đói không?] [PAUSE 0.5s] [VI: Dạ, không đói.] [PAUSE 1s] [EN: Your turn. Say you haven't eaten yet.] [PAUSE 4s] [VI: Dạ, chưa.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, you will learn to ask for a little more of something, and add ice. One word to start —] [VI: thêm] [EN: it means more, or add. See you then.]"
     }
   ]
 }

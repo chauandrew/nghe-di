@@ -1,0 +1,35 @@
+{
+  "id": "L4-D13",
+  "title": "Bị, được: passive outcomes",
+  "vocab": [
+    {"vi": "bị", "en": "bad-outcome marker (to be affected by something bad) — generalizes beyond illness", "ipa": "bi˨˩ʔ"},
+    {"vi": "được", "en": "good-outcome marker (to get to, or benefit from) — a third job for this word", "ipa": "dɨək˧˥"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say I need —] [PAUSE 4s] [VI: tôi cần] [PAUSE 0.5s] [EN: Say medicine —] [PAUSE 4s] [VI: thuốc] [PAUSE 0.5s] [EN: Say pharmacy —] [PAUSE 4s] [VI: nhà thuốc] [PAUSE 0.5s] [EN: Say healthy, or well —] [PAUSE 4s] [VI: khỏe] [PAUSE 0.5s] [EN: Say how's it going —] [PAUSE 4s] [VI: sao rồi] [PAUSE 0.5s] [EN: Say to invite —] [PAUSE 4s] [VI: mời] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh bị sốt à?] [PAUSE 0.5s] [VI: Dạ, tôi bị sốt.] [PAUSE 0.5s] [VI_F: Vậy anh được nghỉ hôm nay.] [PAUSE 0.5s] [VI: Dạ, được nghỉ vui quá!] [PAUSE 1s] [EN: Today's structure: two small words for what happens to you — one bad, one good.] [PAUSE 0.5s] [EN: First,] [VI: bị] [EN: — you know it from being sick,] [VI: bị sốt] [PAUSE 0.3s] [VI: bị cảm] [EN: . Today it generalizes: put it before any verb to mark a bad thing that happens to you. It still has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: bị] [PAUSE 1s] [VI_F: bị] [EN: Now you say it.] [PAUSE 4s] [VI: bị] [EN: Good. The card got broken —] [PAUSE 4s] [VI: Thẻ bị hư.] [PAUSE 0.5s] [EN: Next,] [VI: được] [EN: — you know it from asking permission,] [VI: được không] [EN: and from managing time,] [VI: bao lâu rồi] [EN: . Today it has a third job: put it before a verb to mark a GOOD thing that happens to you. It still has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: được] [PAUSE 1s] [VI_F: được] [EN: Now you say it.] [PAUSE 4s] [VI: được] [EN: Good. You get to rest —] [PAUSE 4s] [VI: Anh được nghỉ.] [PAUSE 0.5s] [EN: You got a discount —] [PAUSE 4s] [VI: Chị được giảm giá.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Bad-outcome marker —] [PAUSE 4s] [VI: bị] [PAUSE 0.5s] [EN: Good-outcome marker —] [PAUSE 4s] [VI: được] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Bad-outcome marker —] [PAUSE 4s] [VI: bị] [PAUSE 0.5s] [EN: Good-outcome marker —] [PAUSE 4s] [VI: được] [PAUSE 0.5s] [EN: Now build it. The card got broken —] [PAUSE 4s] [VI: Thẻ bị hư.] [PAUSE 0.5s] [EN: You get to rest —] [PAUSE 4s] [VI: Anh được nghỉ.] [PAUSE 0.5s] [EN: You got a discount —] [PAUSE 4s] [VI: Chị được giảm giá.] [PAUSE 0.5s] [EN: I have a fever —] [PAUSE 4s] [VI: Tôi bị sốt.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: bị] [PAUSE 3s] [EN: bad-outcome marker] [PAUSE 0.5s] [VI_F: được] [PAUSE 3s] [EN: good-outcome marker] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: bị] [PAUSE 1s] [VI_F: được] [PAUSE 0.5s] [EN: Remember,] [VI: bị] [EN: has] [VI: dấu nặng] [EN: , and] [VI: được] [EN: has] [VI: dấu nặng] [EN: — same sounds you already know, brand-new job for] [VI: được] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh bị sốt à?] [PAUSE 0.5s] [VI: Dạ, tôi bị sốt.] [PAUSE 0.5s] [VI_F: Vậy anh được nghỉ hôm nay.] [PAUSE 0.5s] [VI: Dạ, được nghỉ vui quá!] [PAUSE 1s] [EN: Your turn. Say you get to rest.] [PAUSE 4s] [VI: Tôi được nghỉ.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, reporting something lost, stolen, or broken. One word to start —] [VI: mất] [EN: it means lost, or to lose. See you then.]"
+    }
+  ]
+}

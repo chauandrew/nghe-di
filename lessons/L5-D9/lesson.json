@@ -1,0 +1,34 @@
+{
+  "id": "L5-D9",
+  "title": "Biết trước: regret about the past",
+  "vocab": [
+    {"vi": "biết trước", "en": "to know in advance, or beforehand", "ipa": "biət˧˥ tɕɨək˧˥"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say to invite —] [PAUSE 4s] [VI: rủ] [PAUSE 0.5s] [EN: Say free, or available —] [PAUSE 4s] [VI: rảnh] [PAUSE 0.5s] [EN: Say should —] [PAUSE 4s] [VI: nên] [PAUSE 0.5s] [EN: Say must —] [PAUSE 4s] [VI: phải] [PAUSE 0.5s] [EN: Say need —] [PAUSE 4s] [VI: cần] [PAUSE 0.5s] [EN: Say emergency, or the ER —] [PAUSE 4s] [VI: cấp cứu] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 200,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Sao anh không đi tiệc?] [PAUSE 0.5s] [VI: Giá mà tôi biết trước, thì tôi đã đi rồi.] [PAUSE 0.5s] [VI_F: Vậy à? Buồn quá.] [PAUSE 1s] [EN: Today, one word for regret.] [PAUSE 0.5s] [EN: You know] [VI: biết] [EN: — to know. And you know] [VI: trước] [EN: — before. Together,] [VI: biết trước] [EN: means to know in advance. Listen to the whole word again.] [VI_F: biết trước] [PAUSE 1s] [VI_F: biết trước] [EN: Now you say it.] [PAUSE 4s] [VI: biết trước] [EN: Good. If only I had known in advance, I would have gone already —] [PAUSE 4s] [VI: Giá mà tôi biết trước, thì tôi đã đi rồi.] [PAUSE 0.5s] [EN: If only I had known in advance, I would have invited friends already —] [PAUSE 4s] [VI: Phải chi tôi biết trước, thì tôi đã mời bạn bè rồi.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 50,
+      "script": "[EN: Quick pass over today's word.] [PAUSE 0.5s] [EN: To know in advance —] [PAUSE 4s] [VI: biết trước] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. To know in advance —] [PAUSE 4s] [VI: biết trước] [PAUSE 0.5s] [EN: Now build it. If only I had known in advance, I would have gone already —] [PAUSE 4s] [VI: Giá mà tôi biết trước, thì tôi đã đi rồi.] [PAUSE 0.5s] [EN: If only I had known in advance, I would have invited friends already —] [PAUSE 4s] [VI: Phải chi tôi biết trước, thì tôi đã mời bạn bè rồi.] [PAUSE 0.5s] [EN: If only I had known in advance, I would have invited you already —] [PAUSE 4s] [VI: Giá mà tôi biết trước, thì tôi đã rủ chị rồi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: biết trước] [PAUSE 3s] [EN: to know in advance] [PAUSE 0.5s] [EN: One more time, before we move on.] [PAUSE 0.5s] [VI_F: biết trước] [PAUSE 0.5s] [EN: Remember,] [VI: biết] [EN: has] [VI: dấu sắc] [EN: , and] [VI: trước] [EN: also has] [VI: dấu sắc] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Sao anh không đi tiệc?] [PAUSE 0.5s] [VI: Giá mà tôi biết trước, thì tôi đã đi rồi.] [PAUSE 0.5s] [VI_F: Vậy à? Buồn quá.] [PAUSE 1s] [EN: Your turn. Say if only I had known in advance, I would have invited friends already.] [PAUSE 4s] [VI: Phải chi tôi biết trước, thì tôi đã mời bạn bè rồi.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson,] [VI: Tết] [EN: customs. One word to start —] [VI: Tết] [EN: it means Vietnamese New Year. See you then.]"
+    }
+  ]
+}

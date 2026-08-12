@@ -1,0 +1,36 @@
+{
+  "id": "L4-D11",
+  "title": "Thẻ, hư, thử lại: an ATM problem",
+  "vocab": [
+    {"vi": "thẻ", "en": "card", "ipa": "tʰe˨˩˦"},
+    {"vi": "hư", "en": "broken, or malfunctioning", "ipa": "hɨ˧"},
+    {"vi": "thử lại", "en": "to try again", "ipa": "tʰɨ˨˩˦ laːj˨˩ʔ"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say room —] [PAUSE 4s] [VI: phòng] [PAUSE 0.5s] [EN: Say do you have a room available —] [PAUSE 4s] [VI: còn phòng không] [PAUSE 0.5s] [EN: Say one night —] [PAUSE 4s] [VI: một đêm] [PAUSE 0.5s] [EN: Say doctor —] [PAUSE 4s] [VI: bác sĩ] [PAUSE 0.5s] [EN: Say teacher —] [PAUSE 4s] [VI: giáo viên] [PAUSE 0.5s] [EN: Say engineer —] [PAUSE 4s] [VI: kỹ sư] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Thẻ của tôi bị hư rồi.] [PAUSE 0.5s] [VI_F: Vậy anh thử lại đi.] [PAUSE 0.5s] [VI: Dạ, tôi thử lại.] [PAUSE 0.5s] [VI_F: Được chưa?] [PAUSE 1s] [EN: Three words for a problem at the ATM today.] [PAUSE 0.5s] [EN: First,] [VI: thẻ] [EN: means card. It has] [VI: dấu hỏi] [EN: . Listen again.] [VI_F: thẻ] [PAUSE 1s] [VI_F: thẻ] [EN: Now you say it.] [PAUSE 4s] [VI: thẻ] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: hư] [EN: means broken, or malfunctioning. It has] [VI: ngang] [EN: — flat, no mark. Listen again.] [VI_F: hư] [PAUSE 1s] [VI_F: hư] [EN: Now you say it.] [PAUSE 4s] [VI: hư] [EN: Good. Put it with] [VI: bị] [EN: which you know — the card is broken —] [PAUSE 4s] [VI: Thẻ bị hư.] [PAUSE 0.5s] [EN: Last,] [VI: thử lại] [EN: means to try again. You already know] [VI: lại] [EN: — again — and] [VI: thử] [EN: from trying on clothes. Here it means to try. Listen to the whole phrase again.] [VI_F: thử lại] [PAUSE 1s] [VI_F: thử lại] [EN: Now you say it.] [PAUSE 4s] [VI: thử lại] [EN: Good. Try again —] [PAUSE 4s] [VI: Anh thử lại đi.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Card —] [PAUSE 4s] [VI: thẻ] [PAUSE 0.5s] [EN: Broken, or malfunctioning —] [PAUSE 4s] [VI: hư] [PAUSE 0.5s] [EN: To try again —] [PAUSE 4s] [VI: thử lại] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. Card —] [PAUSE 4s] [VI: thẻ] [PAUSE 0.5s] [EN: Broken, or malfunctioning —] [PAUSE 4s] [VI: hư] [PAUSE 0.5s] [EN: To try again —] [PAUSE 4s] [VI: thử lại] [PAUSE 0.5s] [EN: Now build it. The card is broken —] [PAUSE 4s] [VI: Thẻ bị hư.] [PAUSE 0.5s] [EN: Try again —] [PAUSE 4s] [VI: Thử lại đi.] [PAUSE 0.5s] [EN: My card is broken already —] [PAUSE 4s] [VI: Thẻ của tôi bị hư rồi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: thẻ] [PAUSE 3s] [EN: card] [PAUSE 0.5s] [VI_F: hư] [PAUSE 3s] [EN: broken, or malfunctioning] [PAUSE 0.5s] [VI_F: thử lại] [PAUSE 3s] [EN: to try again] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: thẻ] [PAUSE 1s] [VI_F: hư] [PAUSE 1s] [VI_F: thử lại] [PAUSE 0.5s] [EN: Remember,] [VI: thẻ] [EN: and] [VI: thử] [EN: both have] [VI: dấu hỏi] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Thẻ của tôi bị hư rồi.] [PAUSE 0.5s] [VI_F: Vậy anh thử lại đi.] [PAUSE 0.5s] [VI: Dạ, tôi thử lại.] [PAUSE 0.5s] [VI_F: Được chưa?] [PAUSE 1s] [EN: Your turn. Say your card is broken.] [PAUSE 4s] [VI: Thẻ của tôi bị hư.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, the post office. One word to start —] [VI: gửi] [EN: it means to send. See you then.]"
+    }
+  ]
+}

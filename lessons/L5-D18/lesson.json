@@ -1,0 +1,34 @@
+{
+  "id": "L5-D18",
+  "title": "Mà: relative clauses",
+  "vocab": [
+    {"vi": "mà", "en": "that, which (relativizer: [noun] mà [clause] — a different job from mà meaning \"but really\")", "ipa": "maː˨˩"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say very —] [PAUSE 4s] [VI: rất] [PAUSE 0.5s] [EN: Say a little, or somewhat —] [PAUSE 4s] [VI: hơi] [PAUSE 0.5s] [EN: Say fairly, or rather —] [PAUSE 4s] [VI: khá] [PAUSE 0.5s] [EN: Say the good-outcome marker —] [PAUSE 4s] [VI: được] [PAUSE 0.5s] [EN: Say to tell, or narrate —] [PAUSE 4s] [VI: kể] [PAUSE 0.5s] [EN: Say health —] [PAUSE 4s] [VI: sức khỏe] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Quà mà em thích là gì?] [PAUSE 0.5s] [VI: Quà mà em thích là cái áo màu đỏ.] [PAUSE 0.5s] [VI_F: Vậy à? Đẹp quá!] [PAUSE 1s] [EN: Today, a word you already know gets a new job.] [PAUSE 0.5s] [EN: You know] [VI: mà] [EN: as but really, or though — a soft pushback. Today it works completely differently: it connects a noun to a clause that describes it, like the English word that, or which.] [PAUSE 0.5s] [EN: Same word, same tone —] [VI: dấu huyền] [EN: — new job. Listen again.] [VI_F: mà] [PAUSE 1s] [VI_F: mà] [EN: Now you say it.] [PAUSE 4s] [VI: mà] [EN: Good.] [PAUSE 0.5s] [EN: The pattern is noun, then] [VI: mà] [EN: , then the clause. The gift that I like —] [PAUSE 4s] [VI: Quà mà em thích.] [PAUSE 0.5s] [EN: Add is the red shirt —] [PAUSE 4s] [VI: Quà mà em thích là cái áo màu đỏ.] [PAUSE 0.5s] [EN: One more. The person that I know —] [PAUSE 4s] [VI: Người mà tôi quen.] [PAUSE 0.5s] [EN: Add is a doctor —] [PAUSE 4s] [VI: Người mà tôi quen là bác sĩ.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's pattern.] [PAUSE 0.5s] [EN: The gift that I like —] [PAUSE 4s] [VI: Quà mà em thích.] [PAUSE 0.5s] [EN: The person that I know —] [PAUSE 4s] [VI: Người mà tôi quen.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Build it. The gift that I like —] [PAUSE 4s] [VI: Quà mà em thích.] [PAUSE 0.5s] [EN: is the red shirt —] [PAUSE 4s] [VI: Quà mà em thích là cái áo màu đỏ.] [PAUSE 0.5s] [EN: The person that I know —] [PAUSE 4s] [VI: Người mà tôi quen.] [PAUSE 0.5s] [EN: is a doctor —] [PAUSE 4s] [VI: Người mà tôi quen là bác sĩ.] [PAUSE 0.5s] [EN: The wedding that I went to yesterday was very fun —] [PAUSE 4s] [VI: Đám cưới mà tôi đi hôm qua rất vui.] [PAUSE 0.5s] [EN: The bride that I know is named Mai —] [PAUSE 4s] [VI: Cô dâu mà tôi quen tên là Mai.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: Quà mà em thích.] [PAUSE 3s] [EN: the gift that I like] [PAUSE 0.5s] [VI_F: Người mà tôi quen.] [PAUSE 3s] [EN: the person that I know] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: mà] [PAUSE 0.5s] [EN: Remember, this] [VI: mà] [EN: is a completely different job from] [VI: mà] [EN: meaning but really — same word, new use, and it still has] [VI: dấu huyền] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Quà mà em thích là gì?] [PAUSE 0.5s] [VI: Quà mà em thích là cái áo màu đỏ.] [PAUSE 0.5s] [VI_F: Vậy à? Đẹp quá!] [PAUSE 1s] [EN: Your turn. Say the person that I know is a doctor.] [PAUSE 4s] [VI: Người mà tôi quen là bác sĩ.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, describing a place with real detail. One word to start —] [VI: nơi] [EN: it means place. See you then.]"
+    }
+  ]
+}

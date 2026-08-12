@@ -1,0 +1,34 @@
+{
+  "id": "L4-D6",
+  "title": "Có thể: ability and permission",
+  "vocab": [
+    {"vi": "có thể", "en": "can, or to be able to", "ipa": "kɔ˧˥ tʰe˨˩˦"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say what time —] [PAUSE 4s] [VI: mấy giờ] [PAUSE 0.5s] [EN: Say morning —] [PAUSE 4s] [VI: buổi sáng] [PAUSE 0.5s] [EN: Say to open —] [PAUSE 4s] [VI: mở cửa] [PAUSE 0.5s] [EN: Say to close —] [PAUSE 4s] [VI: đóng cửa] [PAUSE 0.5s] [EN: Say dad —] [PAUSE 4s] [VI: ba] [PAUSE 0.5s] [EN: Say mom —] [PAUSE 4s] [VI: má] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 200,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Tôi nghỉ thêm một ngày được không?] [PAUSE 0.5s] [VI_F: Dạ được, anh nên nghỉ.] [PAUSE 0.5s] [VI: Tôi có thể uống thuốc này không?] [PAUSE 0.5s] [VI_F: Dạ có thể.] [PAUSE 1s] [EN: Today's structure: asking permission, and saying what you're able to do.] [PAUSE 0.5s] [EN: You already know] [VI: được không] [EN: from bargaining — can you, or is that okay? Today it generalizes: attach it to the end of any request, not just a price.] [PAUSE 0.3s] [VI_F: Nghỉ thêm một ngày được không?] [EN: can I rest one more day?] [PAUSE 0.5s] [EN: Now a new phrase.] [VI: có thể] [EN: means can, or to be able to — put it before the verb.] [VI: có] [EN: you already know, and] [VI: thể] [EN: has] [VI: dấu hỏi] [EN: . Listen to the whole phrase again.] [VI_F: có thể] [PAUSE 1s] [VI_F: có thể] [EN: Now you say it.] [PAUSE 4s] [VI: có thể] [EN: Good. I can take this medicine —] [PAUSE 4s] [VI: Tôi có thể uống thuốc này.] [PAUSE 0.5s] [EN: You can combine both — can I take this medicine —] [PAUSE 4s] [VI: Tôi có thể uống thuốc này được không?]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's word.] [PAUSE 0.5s] [EN: Can, or to be able to —] [PAUSE 4s] [VI: có thể] [PAUSE 0.5s] [EN: I can take this medicine —] [PAUSE 4s] [VI: Tôi có thể uống thuốc này.] [PAUSE 0.5s] [EN: Can I rest one more day —] [PAUSE 4s] [VI: Nghỉ thêm một ngày được không?] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 235,
+      "script": "[EN: Let's drill the pattern. Can, or to be able to —] [PAUSE 4s] [VI: có thể] [PAUSE 0.5s] [EN: Now say it. I can take this medicine —] [PAUSE 4s] [VI: Tôi có thể uống thuốc này.] [PAUSE 0.5s] [EN: I can rest —] [PAUSE 4s] [VI: Tôi có thể nghỉ.] [PAUSE 0.5s] [EN: Can I rest one more day —] [PAUSE 4s] [VI: Nghỉ thêm một ngày được không?] [PAUSE 0.5s] [EN: Can I take this medicine —] [PAUSE 4s] [VI: Uống thuốc này được không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: có thể] [PAUSE 3s] [EN: can, or to be able to] [PAUSE 0.5s] [VI_F: Tôi có thể uống thuốc này.] [PAUSE 3s] [EN: I can take this medicine] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: có thể] [PAUSE 1s] [EN: Remember,] [VI: thể] [EN: has] [VI: dấu hỏi] [EN: — the same dipping sound as] [VI: dấu ngã] [EN: down here in the south.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Tôi nghỉ thêm một ngày được không?] [PAUSE 0.5s] [VI_F: Dạ được, anh nên nghỉ.] [PAUSE 0.5s] [VI: Tôi có thể uống thuốc này không?] [PAUSE 0.5s] [VI_F: Dạ có thể.] [PAUSE 1s] [EN: Your turn. Say you can take this medicine.] [PAUSE 4s] [VI: Tôi có thể uống thuốc này.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, making a polite request. One word to start —] [VI: phiền] [EN: it means to trouble, or bother someone. See you then.]"
+    }
+  ]
+}

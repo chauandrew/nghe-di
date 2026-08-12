@@ -1,7 +1,14 @@
 {
   "id": "L1-D0",
   "title": "Phát âm — Pronunciation primer: vowels and tones",
-  "vocab": [],
+  "vocab": [
+    {"vi": "ngang", "en": "flat tone (no mark)", "ipa": "ŋaːŋ˧"},
+    {"vi": "dấu huyền", "en": "falling-tone mark", "ipa": "zəw˥˩ hwiən˨˩"},
+    {"vi": "dấu sắc", "en": "high, rising-tone mark", "ipa": "zəw˥˩ săk˧˥"},
+    {"vi": "dấu hỏi", "en": "dipping-tone mark", "ipa": "zəw˥˩ hoj˨˩˦"},
+    {"vi": "dấu ngã", "en": "dipping-tone mark (same sound as dấu hỏi, in the south)", "ipa": "zəw˥˩ ŋaː˨˩˦"},
+    {"vi": "dấu nặng", "en": "low, cut-off tone mark", "ipa": "zəw˥˩ naŋ˨˩ʔ"}
+  ],
   "segments": [
     {
       "type": "dialogue",
@@ -20,8 +27,8 @@
     },
     {
       "type": "recall",
-      "duration_s": 150,
-      "script": "[EN: Now the tones. In the south you will hear five. The same sound, a different pitch, a different meaning. Listen to one sound through all five.] [PAUSE 0.5s] [VI_F: ma] [EN: a flat tone.] [PAUSE 0.5s] [VI_F: mà] [EN: a falling tone.] [PAUSE 0.5s] [VI_F: má] [EN: a high, rising tone.] [PAUSE 0.5s] [VI_F: mả] [EN: a dipping tone. It falls, then rises.] [PAUSE 0.5s] [VI_F: mạ] [EN: a low tone, cut off short.] [PAUSE 0.5s] [EN: The writing has one more mark, but in the south it sounds the same as that dipping tone. Listen.] [VI_F: mã] [EN: The same sound.] [PAUSE 0.5s] [EN: Now you. A flat tone —] [PAUSE 3s] [VI: ma] [EN: a falling tone —] [PAUSE 3s] [VI: mà] [EN: a high, rising tone —] [PAUSE 3s] [VI: má] [EN: a dipping tone —] [PAUSE 3s] [VI: mả] [EN: Good. Each lesson will remind you of a word's tone as you learn it.]"
+      "duration_s": 200,
+      "script": "[EN: Now the tones. In the south you will hear five. The same sound, a different pitch, a different meaning. Each tone also has a name — you will hear that name in every lesson from now on, instead of an English description, so learn it well. Listen to one sound through all five.] [PAUSE 0.5s] [VI_F: ma] [EN: a flat tone. Its name is] [VI_F: ngang] [PAUSE 0.5s] [VI_F: mà] [EN: a falling tone. Its name is] [VI_F: dấu huyền] [PAUSE 0.5s] [VI_F: má] [EN: a high, rising tone. Its name is] [VI_F: dấu sắc] [PAUSE 0.5s] [VI_F: mả] [EN: a dipping tone. It falls, then rises. Its name is] [VI_F: dấu hỏi] [PAUSE 0.5s] [VI_F: mạ] [EN: a low tone, cut off short. Its name is] [VI_F: dấu nặng] [PAUSE 0.5s] [EN: The writing has one more mark, called] [VI_F: dấu ngã] [EN: but in the south it sounds the same as] [VI_F: dấu hỏi] [EN: . Listen.] [VI_F: mã] [EN: The same sound, a different name in writing.] [PAUSE 0.5s] [EN: Now say the names with me.] [PAUSE 0.5s] [VI_F: ngang] [PAUSE 3s] [VI: ngang] [PAUSE 0.5s] [VI_F: dấu huyền] [PAUSE 3s] [VI: dấu huyền] [PAUSE 0.5s] [VI_F: dấu sắc] [PAUSE 3s] [VI: dấu sắc] [PAUSE 0.5s] [VI_F: dấu hỏi] [PAUSE 3s] [VI: dấu hỏi] [PAUSE 0.5s] [VI_F: dấu nặng] [PAUSE 3s] [VI: dấu nặng] [EN: Good. From the next lesson on, when a word's tone is named, that is one of these six words.]"
     },
     {
       "type": "synthesis",

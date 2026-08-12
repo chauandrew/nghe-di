@@ -1,0 +1,32 @@
+{
+  "id": "L4-D29",
+  "title": "Ngân hàng, bưu điện, sửa: a multi-step errand",
+  "vocab": [],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say weekend —] [PAUSE 4s] [VI: cuối tuần] [PAUSE 0.5s] [EN: Say to rest, or take time off —] [PAUSE 4s] [VI: nghỉ] [PAUSE 0.5s] [EN: Say similar, alike —] [PAUSE 4s] [VI: giống] [PAUSE 0.5s] [EN: Say different —] [PAUSE 4s] [VI: khác] [PAUSE 0.5s] [EN: Say the good-outcome marker —] [PAUSE 4s] [VI: được] [PAUSE 0.5s] [EN: Say red light, traffic light —] [PAUSE 4s] [VI: đèn đỏ] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Tôi cần rút tiền, rồi chuyển khoản.] [PAUSE 0.5s] [VI_F: Dạ được, xong rồi.] [PAUSE 0.5s] [VI: Sau đó, tôi gửi kiện hàng ở bưu điện, rồi cần thợ sửa máy lạnh.] [PAUSE 0.5s] [VI_F: Dạ được, thợ sửa giúp anh ngay.] [PAUSE 1s] [EN: No new words today — a full errand, three stops in one lesson. Listen to how it all connects.] [PAUSE 0.5s] [EN: First stop, the bank —] [VI: Tôi cần rút tiền, rồi chuyển khoản.] [PAUSE 1s] [EN: Now you say it.] [PAUSE 4s] [VI: Tôi cần rút tiền, rồi chuyển khoản.] [EN: Good.] [PAUSE 0.5s] [EN: Second stop, the post office, and third, a repair —] [VI: Sau đó, tôi gửi kiện hàng ở bưu điện, rồi cần thợ sửa máy lạnh.] [PAUSE 1s] [EN: Now you say it.] [PAUSE 4s] [VI: Sau đó, tôi gửi kiện hàng ở bưu điện, rồi cần thợ sửa máy lạnh.] [EN: Good.] [PAUSE 0.5s] [EN: And the confirmation ties it off with] [VI: xong] [EN: and] [VI: ngay] [EN: .] [VI_F: Dạ được, thợ sửa giúp anh ngay.] [PAUSE 1s] [EN: Now you say it.] [PAUSE 4s] [VI: Dạ được, thợ sửa giúp anh ngay.] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over the words that connect an errand.] [PAUSE 0.5s] [EN: Already, linking one step to the next —] [PAUSE 4s] [VI: rồi] [PAUSE 0.5s] [EN: Then, or after that —] [PAUSE 4s] [VI: sau đó] [PAUSE 0.5s] [EN: Finished, or done —] [PAUSE 4s] [VI: xong] [PAUSE 0.5s] [EN: Right away, immediately —] [PAUSE 4s] [VI: ngay] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill the whole errand, stop by stop.] [PAUSE 0.5s] [EN: Say you need to withdraw money —] [PAUSE 4s] [VI: Tôi cần rút tiền.] [PAUSE 0.5s] [EN: Say then you transfer money —] [PAUSE 4s] [VI: Rồi tôi chuyển khoản.] [PAUSE 0.5s] [EN: Say after that, you send a package at the post office —] [PAUSE 4s] [VI: Sau đó, tôi gửi kiện hàng ở bưu điện.] [PAUSE 0.5s] [EN: Say then you need a repairman to fix the air conditioner —] [PAUSE 4s] [VI: Rồi tôi cần thợ sửa máy lạnh.] [PAUSE 0.5s] [EN: Now put the whole errand in one breath.] [PAUSE 4s] [VI: Tôi cần rút tiền, rồi chuyển khoản. Sau đó, tôi gửi kiện hàng ở bưu điện, rồi cần thợ sửa máy lạnh.] [EN: Great.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: rồi] [PAUSE 3s] [EN: already, linking one step to the next] [PAUSE 0.5s] [VI_F: sau đó] [PAUSE 3s] [EN: then, or after that] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: rồi] [PAUSE 1s] [VI_F: sau đó] [PAUSE 1s] [VI_F: xong] [PAUSE 0.5s] [EN: Remember,] [VI: rồi] [EN: has] [VI: dấu huyền] [EN: , and] [VI: xong] [EN: is] [VI: ngang] [EN: — flat.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 155,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Tôi cần rút tiền, rồi chuyển khoản.] [PAUSE 0.5s] [VI_F: Dạ được, xong rồi.] [PAUSE 0.5s] [VI: Sau đó, tôi gửi kiện hàng ở bưu điện, rồi cần thợ sửa máy lạnh.] [PAUSE 0.5s] [VI_F: Dạ được, thợ sửa giúp anh ngay.] [PAUSE 1s] [EN: Your turn. Say the whole errand, start to finish.] [PAUSE 4s] [VI: Tôi cần rút tiền, rồi chuyển khoản. Sau đó, tôi gửi kiện hàng ở bưu điện, rồi cần thợ sửa máy lạnh.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, review — and a bridge to Level Five. Remember —] [VI: ôn tập] [EN: it means review. See you then.]"
+    }
+  ]
+}

@@ -1,31 +1,36 @@
 {
   "id": "L2-D13",
-  "title": "Đi xe gì — Transport",
+  "title": "Xe buýt, Grab, máy bay: getting around",
   "vocab": [
-    {"vi": "xe buýt", "en": "bus", "ipa": "/sɛ˧ ɓwit˧˥/"},
-    {"vi": "Grab", "en": "Grab (ride app)", "ipa": "/ɣɛp/"},
-    {"vi": "máy bay", "en": "airplane", "ipa": "/maj˧˥ ɓaj˧/"}
+    {"vi": "xe buýt", "en": "bus", "ipa": "se˧ bwit˧˥"},
+    {"vi": "Grab", "en": "Grab (ride-hailing app)", "ipa": "græb"},
+    {"vi": "máy bay", "en": "airplane", "ipa": "maːj˧˥ baːj˧"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Vậy.] [PAUSE 3s] [EN: A casual question softener.] [EN: What does this mean?] [VI_F: Hả.] [PAUSE 3s] [EN: A casual huh, or right.] [EN: What does this mean?] [VI_F: À.] [PAUSE 3s] [EN: Oh, or really.] [EN: Delicious.] [PAUSE 3s] [VI: Ngon.] [EN: Good.]"
+      "script": "[EN: Quick review. Say tasty —] [PAUSE 4s] [VI: ngon] [PAUSE 0.5s] [EN: Say spicy —] [PAUSE 4s] [VI: cay] [PAUSE 0.5s] [EN: Say too, or very —] [PAUSE 4s] [VI: quá] [PAUSE 0.5s] [EN: Say not, before an adjective —] [PAUSE 4s] [VI: không] [PAUSE 0.5s] [EN: Say that's not right —] [PAUSE 4s] [VI: không phải] [PAUSE 0.5s] [EN: Say I'm lost —] [PAUSE 4s] [VI: Tôi bị lạc.] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: To go somewhere, you say] [VI: đi] [EN: plus the vehicle. A bus is] [VI_F: Xe buýt.] [EN: Say I go by bus.] [PAUSE 4s] [VI: Tôi đi xe buýt.] [EN: A Grab ride is just] [VI_F: Grab.] [EN: To book a Grab, you can say] [VI: đặt Grab.] [EN: I will book a Grab.] [PAUSE 4s] [VI: Tôi sẽ đặt Grab.] [EN: Good.] [PAUSE 0.5s] [EN: An airplane is] [VI_F: Máy bay.] [VI_F: Máy] [EN: has a high, rising tone. Say airplane.] [PAUSE 4s] [VI: Máy bay.] [EN: Tomorrow I will go by plane.] [PAUSE 4s] [VI: Ngày mai tôi sẽ đi máy bay.] [EN: Good.]"
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh đi xe buýt hay đi Grab?] [PAUSE 0.5s] [VI: Dạ, em đi Grab.] [PAUSE 0.5s] [VI_F: Ngày mai anh đi máy bay hả?] [PAUSE 0.5s] [VI: Dạ, đi máy bay.] [PAUSE 1s] [EN: Three ways to get around today.] [PAUSE 0.5s] [EN: First,] [VI: xe buýt] [EN: means bus. Listen to its two parts.] [VI_F: xe] [EN: has] [VI: ngang] [PAUSE 0.3s] [VI_F: buýt] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole word again.] [VI_F: xe buýt] [PAUSE 1s] [VI_F: xe buýt] [EN: Now you say it.] [PAUSE 4s] [VI: xe buýt] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: Grab] [EN: the ride-hailing app — you call it on your phone. Vietnamese speakers say the name the same way you would in English. Listen again.] [VI_F: Grab] [PAUSE 1s] [VI_F: Grab] [EN: Now you say it.] [PAUSE 4s] [VI: Grab] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: máy bay] [EN: means airplane. Listen to its two parts.] [VI_F: máy] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: bay] [EN: has] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: máy bay] [PAUSE 1s] [VI_F: máy bay] [EN: Now you say it.] [PAUSE 4s] [VI: máy bay] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 75,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Bus —] [PAUSE 4s] [VI: xe buýt] [PAUSE 0.5s] [EN: The ride-hailing app —] [PAUSE 4s] [VI: Grab] [PAUSE 0.5s] [EN: Airplane —] [PAUSE 4s] [VI: máy bay] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Bus.] [PAUSE 3s] [VI: Xe buýt.] [EN: Airplane.] [PAUSE 3s] [VI: Máy bay.] [EN: I go by bus.] [PAUSE 4s] [VI: Tôi đi xe buýt.] [EN: I will book a Grab.] [PAUSE 4s] [VI: Tôi sẽ đặt Grab.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Máy bay.] [PAUSE 3s] [EN: Airplane.] [EN: What does this mean?] [VI_F: Xe buýt.] [PAUSE 3s] [EN: Bus.] [EN: And, how long? from before.] [PAUSE 4s] [VI: Bao lâu?] [EN: Good.]"
+      "duration_s": 235,
+      "script": "[EN: Let's drill. Bus —] [PAUSE 4s] [VI: xe buýt] [PAUSE 0.5s] [EN: The ride-hailing app —] [PAUSE 4s] [VI: Grab] [PAUSE 0.5s] [EN: Airplane —] [PAUSE 4s] [VI: máy bay] [PAUSE 0.5s] [EN: Now say it. I go by bus —] [PAUSE 4s] [VI: Em đi xe buýt.] [PAUSE 0.5s] [EN: I go by Grab —] [PAUSE 4s] [VI: Em đi Grab.] [PAUSE 0.5s] [EN: I'm flying tomorrow —] [PAUSE 4s] [VI: Ngày mai em đi máy bay.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: xe buýt] [PAUSE 3s] [EN: bus] [PAUSE 0.5s] [VI_F: Grab] [PAUSE 3s] [EN: the ride-hailing app] [PAUSE 0.5s] [VI_F: máy bay] [PAUSE 3s] [EN: airplane] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: xe buýt] [PAUSE 1s] [VI_F: Grab] [PAUSE 1s] [VI_F: máy bay] [PAUSE 0.5s] [EN: Remember,] [VI: buýt] [EN: in] [VI: xe buýt] [EN: has] [VI: dấu sắc] [EN: , and so does] [VI: máy] [EN: in] [VI: máy bay] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh đi bằng gì?] [VI_M: Dạ, tôi đặt Grab. Đi xe buýt lâu quá.] [VI_F: Ừ.] [EN: She said] [VI: ừ] [EN: a casual yes.] [PAUSE 0.5s] [EN: Now you try. Say I go by bus.] [PAUSE 4s] [VI: Tôi đi xe buýt.] [EN: Say I will book a Grab.] [PAUSE 4s] [VI: Tôi sẽ đặt Grab.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you make weekend plans. The preview phrase is] [VI: cuối tuần] [EN: which means the weekend.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh đi xe buýt hay đi Grab?] [PAUSE 0.5s] [VI: Dạ, em đi Grab.] [PAUSE 0.5s] [VI_F: Ngày mai anh đi máy bay hả?] [PAUSE 0.5s] [VI: Dạ, đi máy bay.] [PAUSE 1s] [EN: Your turn. Say you go by Grab.] [PAUSE 4s] [VI: Em đi Grab.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, making weekend plans. One word to start —] [VI: cuối tuần] [EN: it means weekend. See you then.]"
     }
   ]
 }

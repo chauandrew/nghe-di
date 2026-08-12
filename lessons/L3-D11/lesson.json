@@ -1,30 +1,35 @@
 {
   "id": "L3-D11",
-  "title": "Ở giữa — Placing things",
+  "title": "Ở giữa, đối diện: describing where things are",
   "vocab": [
-    {"vi": "ở giữa", "en": "in the middle, between", "ipa": "/əː˧˩˧ zɨə˧˩˧/"},
-    {"vi": "đối diện", "en": "across from, opposite", "ipa": "/ɗoj˧˥ ziən˨˩ʔ/"}
+    {"vi": "ở giữa", "en": "in the middle", "ipa": "ə˨˩˦ zɨə˨˩˦"},
+    {"vi": "đối diện", "en": "across from, opposite", "ipa": "doj˧˥ ziən˨˩ʔ"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To work.] [PAUSE 4s] [VI: Làm việc.] [EN: These days.] [PAUSE 3s] [VI: Dạo này.] [EN: On the table.] [PAUSE 4s] [VI: Trên bàn.] [EN: What does this mean?] [VI_F: Bên cạnh.] [PAUSE 3s] [EN: Next to.] [EN: Good.]"
+      "script": "[EN: Quick review. Say to work —] [PAUSE 4s] [VI: làm việc] [PAUSE 0.5s] [EN: Say to go home —] [PAUSE 4s] [VI: về nhà] [PAUSE 0.5s] [EN: Say to cook —] [PAUSE 4s] [VI: nấu ăn] [PAUSE 0.5s] [EN: Say to manage, or have the capability —] [PAUSE 4s] [VI: được] [PAUSE 0.5s] [EN: Say how long has it been —] [PAUSE 4s] [VI: bao lâu rồi] [PAUSE 0.5s] [EN: Say color —] [PAUSE 4s] [VI: màu] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: In the middle, or between, is] [VI_F: Ở giữa.] [EN: relax your lips for this vowel. The bank is in the middle.] [PAUSE 4s] [VI: Ngân hàng ở giữa.] [EN: Good.] [PAUSE 0.5s] [EN: Across from, or opposite, is] [VI_F: Đối diện.] [EN: The market is across from the bank.] [PAUSE 4s] [VI: Chợ đối diện ngân hàng.] [EN: She said] [VI: ngân hàng,] [EN: bank, and] [VI: chợ,] [EN: market — you will learn these tomorrow. Say across from.] [PAUSE 4s] [VI: Đối diện.] [EN: Good.]"
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Bếp ở đâu?] [PAUSE 0.5s] [VI: Dạ, bếp ở giữa phòng khách và phòng ngủ.] [PAUSE 0.5s] [VI_F: Còn phòng ngủ?] [PAUSE 0.5s] [VI: Phòng ngủ đối diện phòng khách.] [PAUSE 1s] [EN: Two more ways to place things.] [PAUSE 0.5s] [EN: First,] [VI: ở giữa] [EN: means in the middle. You know] [VI: ở] [EN: already; the new part is] [VI: giữa] [EN: — middle. It has] [VI: dấu ngã] [EN: — the same dipping sound as] [VI: dấu hỏi] [EN: down here in the south. Listen again.] [VI_F: ở giữa] [PAUSE 1s] [VI_F: ở giữa] [EN: Now you say it.] [PAUSE 4s] [VI: ở giữa] [EN: Good. In the middle of the living room —] [PAUSE 4s] [VI: ở giữa phòng khách] [PAUSE 0.5s] [EN: Next,] [VI: đối diện] [EN: means across from, or opposite. Listen to its two parts.] [VI_F: đối] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: diện] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: đối diện] [PAUSE 1s] [VI_F: đối diện] [EN: Now you say it.] [PAUSE 4s] [VI: đối diện] [EN: Good. The bedroom is across from the kitchen —] [PAUSE 4s] [VI: Phòng ngủ đối diện bếp.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: In the middle —] [PAUSE 4s] [VI: ở giữa] [PAUSE 0.5s] [EN: Across from, opposite —] [PAUSE 4s] [VI: đối diện] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. In the middle.] [PAUSE 3s] [VI: Ở giữa.] [EN: Across from.] [PAUSE 3s] [VI: Đối diện.] [EN: The restroom is in the middle.] [PAUSE 4s] [VI: Nhà vệ sinh ở giữa.] [EN: It is across from the kitchen.] [PAUSE 4s] [VI: Đối diện bếp.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Ở giữa.] [PAUSE 3s] [EN: In the middle.] [EN: What does this mean?] [VI_F: Đối diện.] [PAUSE 3s] [EN: Across from.] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Let's drill. In the middle —] [PAUSE 4s] [VI: ở giữa] [PAUSE 0.5s] [EN: Across from, opposite —] [PAUSE 4s] [VI: đối diện] [PAUSE 0.5s] [EN: Now say it. The kitchen is in the middle —] [PAUSE 4s] [VI: Bếp ở giữa.] [PAUSE 0.5s] [EN: The living room is across from the bedroom —] [PAUSE 4s] [VI: Phòng khách đối diện phòng ngủ.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ở giữa] [PAUSE 3s] [EN: in the middle] [PAUSE 0.5s] [VI_F: đối diện] [PAUSE 3s] [EN: across from, opposite] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ở giữa] [PAUSE 1s] [VI_F: đối diện] [PAUSE 0.5s] [EN: Remember,] [VI: giữa] [EN: has] [VI: dấu ngã] [EN: , and] [VI: đối] [EN: has] [VI: dấu sắc] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Nhà vệ sinh ở đâu chị?] [VI_F: Dạ, ở giữa, đối diện bếp.] [VI_M: Dạ, cảm ơn.] [PAUSE 0.5s] [EN: Now you try. Say, in the middle.] [PAUSE 4s] [VI: Ở giữa.] [EN: Say, across from the kitchen.] [PAUSE 4s] [VI: Đối diện bếp.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn places around the city. The preview word is] [VI: chợ] [EN: which means market.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Bếp ở đâu?] [PAUSE 0.5s] [VI: Dạ, bếp ở giữa phòng khách và phòng ngủ.] [PAUSE 0.5s] [VI_F: Còn phòng ngủ?] [PAUSE 0.5s] [VI: Phòng ngủ đối diện phòng khách.] [PAUSE 1s] [EN: Your turn. Say the bedroom is across from the kitchen.] [PAUSE 4s] [VI: Phòng ngủ đối diện bếp.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, places around the city. One word to start —] [VI: chợ] [EN: it means market. See you then.]"
     }
   ]
 }

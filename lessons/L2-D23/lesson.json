@@ -1,31 +1,36 @@
 {
   "id": "L2-D23",
-  "title": "Sở thích — Hobbies and free time",
+  "title": "Chơi, xem, nghe nhạc: hobbies and free time",
   "vocab": [
-    {"vi": "chơi", "en": "to play", "ipa": "/t͡ɕəːj˧/"},
-    {"vi": "xem", "en": "to watch", "ipa": "/sɛm˧/"},
-    {"vi": "nghe nhạc", "en": "to listen to music", "ipa": "/ŋɛ˧ ɲaːk˨˩ʔ/"}
+    {"vi": "chơi", "en": "to play", "ipa": "tɕɤj˧"},
+    {"vi": "xem", "en": "to watch, or to look at", "ipa": "sɛm˧"},
+    {"vi": "nghe nhạc", "en": "to listen to music", "ipa": "ŋɛ˧ ɲaːk˨˩ʔ"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Bigger.] [PAUSE 4s] [VI: Lớn hơn.] [EN: Cheaper.] [PAUSE 4s] [VI: Rẻ hơn.] [EN: Give me.] [PAUSE 4s] [VI: Cho tôi.] [EN: The bill.] [PAUSE 4s] [VI: Hóa đơn.] [EN: Good.]"
+      "script": "[EN: Quick review. Say give me —] [PAUSE 4s] [VI: cho tôi] [PAUSE 0.5s] [EN: Say bill —] [PAUSE 4s] [VI: hóa đơn] [PAUSE 0.5s] [EN: Say usually —] [PAUSE 4s] [VI: thường] [PAUSE 0.5s] [EN: Say often —] [PAUSE 4s] [VI: hay] [PAUSE 0.5s] [EN: Say sometimes —] [PAUSE 4s] [VI: thỉnh thoảng] [PAUSE 0.5s] [EN: Say never —] [PAUSE 4s] [VI: không bao giờ] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: To play is] [VI_F: Chơi.] [EN: a flat tone; relax your lips for this vowel. I like to play soccer —] [VI: đá banh.] [PAUSE 4s] [VI: Tôi thích chơi đá banh.] [EN: Good.] [PAUSE 0.5s] [EN: To watch is] [VI_F: Xem.] [EN: a flat tone. I like to watch movies, phim.] [PAUSE 4s] [VI: Tôi thích xem phim.] [EN: To listen to music is] [VI_F: Nghe nhạc.] [EN: Say to listen to music.] [PAUSE 4s] [VI: Nghe nhạc.] [EN: On the weekend I listen to music.] [PAUSE 4s] [VI: Cuối tuần tôi nghe nhạc.] [EN: Good.]"
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần em thích chơi gì?] [PAUSE 0.5s] [VI: Dạ, em thích xem, và nghe nhạc.] [PAUSE 0.5s] [VI_F: Chị cũng thích nghe nhạc.] [PAUSE 1s] [EN: Three words for free time today.] [PAUSE 0.5s] [EN: First,] [VI: chơi] [EN: means to play. You have heard it before, inside] [VI: đi chơi] [EN: — to go out, or hang out. Today it stands alone. It has] [VI: ngang] [EN: . Listen again.] [VI_F: chơi] [PAUSE 1s] [VI_F: chơi] [EN: Now you say it.] [PAUSE 4s] [VI: chơi] [EN: Good.] [PAUSE 0.5s] [EN: Ask what someone likes to do for fun —] [PAUSE 4s] [VI: Thích chơi gì?] [PAUSE 0.5s] [EN: Next,] [VI: xem] [EN: means to watch, or to look at. It has] [VI: ngang] [EN: . Listen again.] [VI_F: xem] [PAUSE 1s] [VI_F: xem] [EN: Now you say it.] [PAUSE 4s] [VI: xem] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: nghe nhạc] [EN: means to listen to music. Listen to its two parts.] [VI_F: nghe] [EN: has] [VI: ngang] [PAUSE 0.3s] [VI_F: nhạc] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole phrase again.] [VI_F: nghe nhạc] [PAUSE 1s] [VI_F: nghe nhạc] [EN: Now you say it.] [PAUSE 4s] [VI: nghe nhạc] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To play —] [PAUSE 4s] [VI: chơi] [PAUSE 0.5s] [EN: To watch, or to look at —] [PAUSE 4s] [VI: xem] [PAUSE 0.5s] [EN: To listen to music —] [PAUSE 4s] [VI: nghe nhạc] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. To play.] [PAUSE 3s] [VI: Chơi.] [EN: To watch.] [PAUSE 3s] [VI: Xem.] [EN: To listen to music.] [PAUSE 3s] [VI: Nghe nhạc.] [EN: I like to watch movies.] [PAUSE 4s] [VI: Tôi thích xem phim.] [EN: On the weekend I listen to music.] [PAUSE 4s] [VI: Cuối tuần tôi nghe nhạc.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Xem.] [PAUSE 3s] [EN: To watch.] [EN: What does this mean?] [VI_F: Nghe nhạc.] [PAUSE 3s] [EN: To listen to music.] [EN: Good.]"
+      "duration_s": 240,
+      "script": "[EN: Let's drill. To play —] [PAUSE 4s] [VI: chơi] [PAUSE 0.5s] [EN: To watch —] [PAUSE 4s] [VI: xem] [PAUSE 0.5s] [EN: To listen to music —] [PAUSE 4s] [VI: nghe nhạc] [PAUSE 0.5s] [EN: Now say it. I like watching —] [PAUSE 4s] [VI: Em thích xem.] [PAUSE 0.5s] [EN: I like listening to music —] [PAUSE 4s] [VI: Em thích nghe nhạc.] [PAUSE 0.5s] [EN: What do you like to play? —] [PAUSE 4s] [VI: Thích chơi gì?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: chơi] [PAUSE 3s] [EN: to play] [PAUSE 0.5s] [VI_F: xem] [PAUSE 3s] [EN: to watch, or to look at] [PAUSE 0.5s] [VI_F: nghe nhạc] [PAUSE 3s] [EN: to listen to music] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: chơi] [PAUSE 1s] [VI_F: xem] [PAUSE 1s] [VI_F: nghe nhạc] [PAUSE 0.5s] [EN: Remember,] [VI: nhạc] [EN: has] [VI: dấu nặng] [EN: , and] [VI: chơi] [EN: and] [VI: xem] [EN: both have] [VI: ngang] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần anh thích làm gì?] [VI_M: Tôi thích xem phim và nghe nhạc. Còn em?] [VI_F: Em hay đi chơi với bạn.] [PAUSE 0.5s] [EN: Now you try. Say I like to watch movies.] [PAUSE 4s] [VI: Tôi thích xem phim.] [EN: Say on the weekend I listen to music.] [PAUSE 4s] [VI: Cuối tuần tôi nghe nhạc.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you invite someone out. The preview word is] [VI: rủ] [EN: which means to invite along.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Cuối tuần em thích chơi gì?] [PAUSE 0.5s] [VI: Dạ, em thích xem, và nghe nhạc.] [PAUSE 0.5s] [VI_F: Chị cũng thích nghe nhạc.] [PAUSE 1s] [EN: Your turn. Say you like listening to music.] [PAUSE 4s] [VI: Em thích nghe nhạc.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, inviting someone out. One word to start —] [VI: rảnh] [EN: it means free, or available. See you then.]"
     }
   ]
 }

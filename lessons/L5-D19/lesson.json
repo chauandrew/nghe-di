@@ -1,0 +1,35 @@
+{
+  "id": "L5-D19",
+  "title": "Nơi, kỷ niệm: describing a place in detail",
+  "vocab": [
+    {"vi": "nơi", "en": "place", "ipa": "nɤj˧"},
+    {"vi": "kỷ niệm", "en": "memory", "ipa": "ki˨˩˦ niəm˨˩ʔ"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say color —] [PAUSE 4s] [VI: màu] [PAUSE 0.5s] [EN: Say red —] [PAUSE 4s] [VI: đỏ] [PAUSE 0.5s] [EN: Say blue, or green —] [PAUSE 4s] [VI: xanh] [PAUSE 0.5s] [EN: Say yellow —] [PAUSE 4s] [VI: vàng] [PAUSE 0.5s] [EN: Say black —] [PAUSE 4s] [VI: đen] [PAUSE 0.5s] [EN: Say white —] [PAUSE 4s] [VI: trắng] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Đây là nơi mà anh lớn lên hả?] [PAUSE 0.5s] [VI: Dạ. Nơi này có kỷ niệm đẹp lắm.] [PAUSE 0.5s] [VI_F: Vậy à? Kể đi!] [PAUSE 1s] [EN: Today, describing a place in real detail.] [PAUSE 0.5s] [EN: First,] [VI: nơi] [EN: means place. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: nơi] [PAUSE 1s] [VI_F: nơi] [EN: Now you say it.] [PAUSE 4s] [VI: nơi] [EN: Good. Combine it with] [VI: mà] [EN: from last lesson — the place that I grew up —] [PAUSE 4s] [VI: Nơi mà anh lớn lên.] [PAUSE 0.5s] [EN: Next,] [VI: kỷ niệm] [EN: means memory. Listen to its two parts.] [VI_F: kỷ] [EN: has] [VI: dấu hỏi] [PAUSE 0.3s] [VI_F: niệm] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: kỷ niệm] [PAUSE 1s] [VI_F: kỷ niệm] [EN: Now you say it.] [PAUSE 4s] [VI: kỷ niệm] [EN: Good. This place has beautiful memories —] [PAUSE 4s] [VI: Nơi này có kỷ niệm đẹp lắm.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Place —] [PAUSE 4s] [VI: nơi] [PAUSE 0.5s] [EN: Memory —] [PAUSE 4s] [VI: kỷ niệm] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Place —] [PAUSE 4s] [VI: nơi] [PAUSE 0.5s] [EN: Memory —] [PAUSE 4s] [VI: kỷ niệm] [PAUSE 0.5s] [EN: Now build it. The place that I grew up —] [PAUSE 4s] [VI: Nơi mà anh lớn lên.] [PAUSE 0.5s] [EN: The place that I grew up has beautiful memories —] [PAUSE 4s] [VI: Nơi mà anh lớn lên có kỷ niệm đẹp.] [PAUSE 0.5s] [EN: The person that I know has happy memories —] [PAUSE 4s] [VI: Người mà tôi quen có kỷ niệm vui.] [PAUSE 0.5s] [EN: The wedding that I went to is a beautiful memory —] [PAUSE 4s] [VI: Đám cưới mà tôi đi là kỷ niệm đẹp.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: nơi] [PAUSE 3s] [EN: place] [PAUSE 0.5s] [VI_F: kỷ niệm] [PAUSE 3s] [EN: memory] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: nơi] [PAUSE 1s] [VI_F: kỷ niệm] [PAUSE 0.5s] [EN: Remember,] [VI: kỷ] [EN: has] [VI: dấu hỏi] [EN: , and] [VI: niệm] [EN: has] [VI: dấu nặng] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Đây là nơi mà anh lớn lên hả?] [PAUSE 0.5s] [VI: Dạ. Nơi này có kỷ niệm đẹp lắm.] [PAUSE 0.5s] [VI_F: Vậy à? Kể đi!] [PAUSE 1s] [EN: Your turn. Say this place has beautiful memories.] [PAUSE 4s] [VI: Nơi này có kỷ niệm đẹp lắm.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, work and career. One word to start —] [VI: công ty] [EN: it means company. See you then.]"
+    }
+  ]
+}

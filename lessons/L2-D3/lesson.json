@@ -1,29 +1,34 @@
 {
   "id": "L2-D3",
-  "title": "Đang — Saying what is happening now",
+  "title": "Đang: the progressive",
   "vocab": [
-    {"vi": "đang", "en": "am/is/are ...ing (in progress)", "ipa": "/ɗaːŋ˧/"}
+    {"vi": "đang", "en": "right now, in progress (marks an ongoing action)", "ipa": "daːŋ˧"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Monday.] [PAUSE 4s] [VI: Thứ hai.] [EN: Saturday.] [PAUSE 4s] [VI: Thứ bảy.] [EN: Sunday.] [PAUSE 4s] [VI: Chủ nhật.] [EN: Goodbye.] [PAUSE 4s] [VI: Tạm biệt.] [EN: Good.]"
+      "script": "[EN: Quick review. Say I don't understand —] [PAUSE 4s] [VI: Tôi không hiểu.] [PAUSE 0.5s] [EN: Say to know —] [PAUSE 4s] [VI: biết] [PAUSE 0.5s] [EN: Say speak more slowly —] [PAUSE 4s] [VI: nói chậm hơn] [PAUSE 0.5s] [EN: Say again —] [PAUSE 4s] [VI: lại] [PAUSE 0.5s] [EN: Say room —] [PAUSE 4s] [VI: phòng] [PAUSE 0.5s] [EN: Say do you have a room available —] [PAUSE 4s] [VI: Còn phòng không?] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: Vietnamese verbs do not change form. To say an action is happening right now, just put one word in front of the verb.] [VI_F: Đang.] [EN: It has a flat tone. So, to eat is] [VI: ăn.] [EN: I am eating is] [VI_M: Tôi đang ăn.] [EN: Say I am eating.] [PAUSE 4s] [VI: Tôi đang ăn.] [EN: To go is] [VI: đi.] [EN: I am going is] [VI_M: Tôi đang đi.] [EN: Say I am going.] [PAUSE 4s] [VI: Tôi đang đi.] [EN: Good.] [PAUSE 0.5s] [EN: It works with any verb you know. I am going to the market.] [PAUSE 4s] [VI: Tôi đang đi Bến Thành.] [EN: To ask what someone is doing, use it with] [VI: làm gì,] [EN: doing what. What are you doing?] [VI_F: Anh đang làm gì?] [EN: Ask an older man what he is doing.] [PAUSE 4s] [VI: Anh đang làm gì?] [EN: Good.]"
+      "duration_s": 190,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Alô, chị đang ở đâu?] [PAUSE 0.5s] [VI_F: Dạ, em đang đi Bến Thành.] [PAUSE 0.5s] [VI: Dạ, hẹn gặp lại nha!] [PAUSE 1s] [EN: You heard] [VI: nha] [EN: a friendly softener at the end of a sentence.] [PAUSE 0.5s] [EN: Today's structure: the progressive. Put] [VI: đang] [EN: right before a verb to say you are doing it right now. It has] [VI: ngang] [EN: — flat, no mark. Listen again.] [VI_F: đang] [PAUSE 1s] [VI_F: đang] [EN: Now you say it.] [PAUSE 4s] [VI: đang] [EN: Good.] [PAUSE 0.5s] [EN: Put it in front of a verb you already know.] [VI_F: đang ăn] [EN: eating right now.] [PAUSE 0.5s] [VI_F: đang đi] [EN: going right now, or on the way.] [PAUSE 0.5s] [EN: And with a question word:] [VI_F: đang ở đâu] [EN: where are you right now.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's word.] [PAUSE 0.5s] [EN: Right now, in progress —] [PAUSE 4s] [VI: đang] [PAUSE 0.5s] [EN: Eating right now —] [PAUSE 4s] [VI: đang ăn] [PAUSE 0.5s] [EN: Going right now —] [PAUSE 4s] [VI: đang đi] [PAUSE 0.5s] [EN: Where are you right now —] [PAUSE 4s] [VI: đang ở đâu] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Hold the frame, change the verb. I am eating.] [PAUSE 4s] [VI: Tôi đang ăn.] [EN: I am going.] [PAUSE 4s] [VI: Tôi đang đi.] [EN: I am going to the market.] [PAUSE 4s] [VI: Tôi đang đi Bến Thành.] [EN: What are you doing?] [PAUSE 4s] [VI: Anh đang làm gì?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Tôi đang ăn.] [PAUSE 3s] [EN: I am eating.] [EN: And from before, say two o'clock.] [PAUSE 4s] [VI: Hai giờ.] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Let's drill the pattern. Right now, in progress —] [PAUSE 4s] [VI: đang] [PAUSE 0.5s] [EN: Now say it. Eating right now —] [PAUSE 4s] [VI: Đang ăn.] [PAUSE 0.5s] [EN: Going right now —] [PAUSE 4s] [VI: Đang đi.] [PAUSE 0.5s] [EN: Say I am eating right now —] [PAUSE 4s] [VI: Em đang ăn.] [PAUSE 0.5s] [EN: Ask where someone is right now —] [PAUSE 4s] [VI: Đang ở đâu?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đang] [PAUSE 3s] [EN: right now, in progress] [PAUSE 0.5s] [VI_F: đang ăn] [PAUSE 3s] [EN: eating right now] [PAUSE 0.5s] [VI_F: đang đi] [PAUSE 3s] [EN: going right now] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đang] [PAUSE 1s] [VI_F: đang ăn] [PAUSE 1s] [VI_F: đang đi] [PAUSE 0.5s] [EN: Remember,] [VI: đang] [EN: has] [VI: ngang] [EN: — flat, no mark.]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen to a phone call.] [PAUSE 0.5s] [VI_F: Anh đang làm gì vậy?] [VI_M: Dạ, anh đang ăn. Còn em?] [VI_F: Em đang đi Bến Thành.] [PAUSE 0.5s] [EN: Now you try. Ask an older woman what she is doing.] [PAUSE 4s] [VI: Chị đang làm gì?] [EN: Say, I am eating.] [PAUSE 4s] [VI: Tôi đang ăn.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you handle past and future. The preview word is] [VI: đã] [EN: which marks something that already happened.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Alô, chị đang ở đâu?] [PAUSE 0.5s] [VI_F: Dạ, em đang đi Bến Thành.] [PAUSE 0.5s] [VI: Dạ, hẹn gặp lại nha!] [PAUSE 1s] [EN: Your turn. Say you are eating right now.] [PAUSE 4s] [VI: Em đang ăn.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, talking about the past and the future. One word to start —] [VI: đã] [EN: it marks something already done. See you then.]"
     }
   ]
 }

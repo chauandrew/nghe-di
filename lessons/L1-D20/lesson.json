@@ -1,31 +1,36 @@
 {
   "id": "L1-D20",
-  "title": "Hôm nay, ngày mai — Talking about days",
+  "title": "Hôm nay, ngày mai, hôm qua: talking about days",
   "vocab": [
-    {"vi": "hôm nay", "en": "today", "ipa": "/hom˧ naj˧/"},
-    {"vi": "ngày mai", "en": "tomorrow", "ipa": "/ŋaj˨˩ maj˧/"},
-    {"vi": "hôm qua", "en": "yesterday", "ipa": "/hom˧ kwaː˧/"}
+    {"vi": "hôm nay", "en": "today", "ipa": "hôm˧ naːj˧"},
+    {"vi": "ngày mai", "en": "tomorrow", "ipa": "ŋaːj˨˩ maːj˧"},
+    {"vi": "hôm qua", "en": "yesterday", "ipa": "hôm˧ kwaː˧"}
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Four.] [PAUSE 4s] [VI: Bốn.] [EN: Where is the restroom?] [PAUSE 4s] [VI: Nhà vệ sinh ở đâu?] [EN: To order.] [PAUSE 4s] [VI: Gọi món.] [EN: A big bowl.] [PAUSE 4s] [VI: Tô lớn.] [EN: What does this mean?] [VI_F: Một phần.] [PAUSE 3s] [EN: One portion.] [EN: Good.]"
+      "script": "[EN: Quick review. Say six —] [PAUSE 4s] [VI: sáu] [PAUSE 0.5s] [EN: Say seven —] [PAUSE 4s] [VI: bảy] [PAUSE 0.5s] [EN: Say eight —] [PAUSE 4s] [VI: tám] [PAUSE 0.5s] [EN: Say nine —] [PAUSE 4s] [VI: chín] [PAUSE 0.5s] [EN: Say ten —] [PAUSE 4s] [VI: mười] [PAUSE 0.5s] [EN: Say where —] [PAUSE 4s] [VI: ở đâu] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: A neighbour chats with you. Listen.] [PAUSE 0.5s] [VI_F: Hôm nay đi làm hả anh?] [EN: She said] [VI: đi làm] [EN: which means to go to work.] [VI: hả] [EN: at the end is a soft, friendly, right?] [EN: Today is] [VI_F: Hôm nay.] [EN: both syllables flat.] [EN: Say today.] [PAUSE 4s] [VI: Hôm nay.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow is] [VI_F: Ngày mai.] [VI_F: Ngày] [EN: has a falling tone.] [EN: Say tomorrow.] [PAUSE 4s] [VI: Ngày mai.] [EN: Yesterday is] [VI_F: Hôm qua.] [EN: Say yesterday.] [PAUSE 4s] [VI: Hôm qua.] [EN: Good.]"
+      "duration_s": 200,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh ơi, hôm nay anh đi Bến Thành không?] [PAUSE 0.5s] [VI: Dạ không, hôm qua tôi đi rồi.] [PAUSE 0.5s] [VI_F: Vậy ngày mai đi không?] [PAUSE 0.5s] [VI: Dạ, ngày mai tôi đi.] [PAUSE 1s] [EN: You heard] [VI: hôm nay] [EN: it means today. Listen to its two parts.] [VI_F: hôm] [EN: is] [VI: ngang] [PAUSE 0.3s] [VI_F: nay] [EN: also] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: hôm nay] [PAUSE 1s] [VI_F: hôm nay] [EN: Now you say it.] [PAUSE 4s] [VI: hôm nay] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: ngày mai] [EN: means tomorrow. Listen to its two parts.] [VI_F: ngày] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI_F: mai] [EN: is] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: ngày mai] [PAUSE 1s] [VI_F: ngày mai] [EN: Now you say it.] [PAUSE 4s] [VI: ngày mai] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: hôm qua] [EN: means yesterday. Listen to its two parts.] [VI_F: hôm] [EN: is] [VI: ngang] [PAUSE 0.3s] [VI_F: qua] [EN: also] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: hôm qua] [PAUSE 1s] [VI_F: hôm qua] [EN: Now you say it.] [PAUSE 4s] [VI: hôm qua] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Today —] [PAUSE 4s] [VI: hôm nay] [PAUSE 0.5s] [EN: Tomorrow —] [PAUSE 4s] [VI: ngày mai] [PAUSE 0.5s] [EN: Yesterday —] [PAUSE 4s] [VI: hôm qua] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Today.] [PAUSE 4s] [VI: Hôm nay.] [EN: Tomorrow.] [PAUSE 4s] [VI: Ngày mai.] [EN: Yesterday.] [PAUSE 4s] [VI: Hôm qua.] [EN: I want to go tomorrow.] [PAUSE 4s] [VI: Ngày mai tôi muốn đi.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Hôm qua.] [PAUSE 3s] [EN: Yesterday.] [EN: What does this mean?] [VI_F: Ngày mai.] [PAUSE 3s] [EN: Tomorrow.] [EN: And, have you eaten yet?] [PAUSE 4s] [VI: Anh ăn chưa?] [EN: Good.]"
+      "duration_s": 210,
+      "script": "[EN: Let's drill. Today —] [PAUSE 4s] [VI: hôm nay] [PAUSE 0.5s] [EN: Tomorrow —] [PAUSE 4s] [VI: ngày mai] [PAUSE 0.5s] [EN: Yesterday —] [PAUSE 4s] [VI: hôm qua] [PAUSE 0.5s] [EN: Now say it. I went yesterday —] [PAUSE 4s] [VI: Hôm qua tôi đi rồi.] [PAUSE 0.5s] [EN: Say tomorrow I'll go —] [PAUSE 4s] [VI: Ngày mai tôi đi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: hôm nay] [PAUSE 3s] [EN: today] [PAUSE 0.5s] [VI_F: ngày mai] [PAUSE 3s] [EN: tomorrow] [PAUSE 0.5s] [VI_F: hôm qua] [PAUSE 3s] [EN: yesterday] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: hôm nay] [PAUSE 1s] [VI_F: ngày mai] [PAUSE 1s] [VI_F: hôm qua] [PAUSE 0.5s] [EN: Remember,] [VI: ngày] [EN: has] [VI: dấu huyền] [EN: , and] [VI: hôm] [EN: is] [VI: ngang] [EN: — flat.]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Hôm nay đi làm hả anh?] [VI_M: Dạ. Ngày mai nghỉ.] [EN: He said] [VI: nghỉ] [EN: which means to rest, a day off.] [VI_F: Vậy hả.] [EN: She said] [VI: vậy hả] [EN: meaning, oh, is that so?] [PAUSE 0.5s] [EN: Now you try. Say today.] [PAUSE 4s] [VI: Hôm nay.] [EN: Say tomorrow.] [PAUSE 4s] [VI: Ngày mai.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you ask about time. The preview phrase is] [VI: mấy giờ] [EN: which means what time.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh ơi, hôm nay anh đi Bến Thành không?] [PAUSE 0.5s] [VI: Dạ không, hôm qua tôi đi rồi.] [PAUSE 0.5s] [VI_F: Vậy ngày mai đi không?] [PAUSE 0.5s] [VI: Dạ, ngày mai tôi đi.] [PAUSE 1s] [EN: Your turn. Say today.] [PAUSE 4s] [VI: hôm nay] [EN: Good.] [PAUSE 0.5s] [EN: Now say tomorrow —] [PAUSE 4s] [VI: ngày mai] [EN: Well done.] [PAUSE 0.5s] [EN: Next lesson, calling a restaurant. One phrase to start —] [VI: mấy giờ] [EN: it means what time. See you then.]"
     }
   ]
 }

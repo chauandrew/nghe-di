@@ -1,0 +1,32 @@
+{
+  "id": "L5-D29",
+  "title": "Ôn tập: a reasoned opinion",
+  "vocab": [],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say yes, or there is —] [PAUSE 4s] [VI: có] [PAUSE 0.5s] [EN: Say hungry —] [PAUSE 4s] [VI: đói] [PAUSE 0.5s] [EN: Say right?, isn't that so? —] [PAUSE 4s] [VI: phải không] [PAUSE 0.5s] [EN: Say to go for a walk —] [PAUSE 4s] [VI: đi dạo] [PAUSE 0.5s] [EN: Say together, or with —] [PAUSE 4s] [VI: cùng] [PAUSE 0.5s] [EN: Say urgent —] [PAUSE 4s] [VI: gấp] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh nghĩ vấn đề môi trường lớn không?] [PAUSE 0.5s] [VI: Vì công nghệ mới, nên tôi nghĩ có thể giúp môi trường.] [PAUSE 0.5s] [VI_F: Có lẽ vậy, nhưng không hẳn.] [PAUSE 1s] [EN: No new words today — a reasoned opinion, all in your own words. Listen to how the pieces connect.] [PAUSE 0.5s] [EN: The question uses] [VI: vấn đề] [EN: and] [VI: lớn] [EN: .] [VI_F: Anh nghĩ vấn đề môi trường lớn không?] [PAUSE 1s] [EN: Now you say it.] [PAUSE 4s] [VI: Anh nghĩ vấn đề môi trường lớn không?] [EN: Good.] [PAUSE 0.5s] [EN: The reasoning stacks] [VI: vì] [EN: for because, then] [VI: nên] [EN: for so.] [VI: Vì công nghệ mới, nên tôi nghĩ có thể giúp môi trường.] [PAUSE 1s] [EN: Now you say it.] [PAUSE 4s] [VI: Vì công nghệ mới, nên tôi nghĩ có thể giúp môi trường.] [EN: Good.] [PAUSE 0.5s] [EN: And the reply hedges with] [VI: có lẽ] [EN: for maybe, then softens it with] [VI: không hẳn] [EN: for not really.] [VI_F: Có lẽ vậy, nhưng không hẳn.] [PAUSE 1s] [EN: Now you say it.] [PAUSE 4s] [VI: Có lẽ vậy, nhưng không hẳn.] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's reasoning words.] [PAUSE 0.5s] [EN: Because —] [PAUSE 4s] [VI: vì] [PAUSE 0.5s] [EN: So —] [PAUSE 4s] [VI: nên] [PAUSE 0.5s] [EN: Maybe —] [PAUSE 4s] [VI: có lẽ] [PAUSE 0.5s] [EN: Not really —] [PAUSE 4s] [VI: không hẳn] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Build your own reasoned opinions.] [PAUSE 0.5s] [EN: Say because of the pressure, I'm tired —] [PAUSE 4s] [VI: Vì áp lực, nên tôi mệt.] [PAUSE 0.5s] [EN: Say because the company has a new project, I'm busy —] [PAUSE 4s] [VI: Vì công ty có dự án mới, nên tôi bận.] [PAUSE 0.5s] [EN: Say I think this trip is impressive —] [PAUSE 4s] [VI: Tôi nghĩ chuyến đi này ấn tượng.] [PAUSE 0.5s] [EN: Say maybe so, but probably not —] [PAUSE 4s] [VI: Có lẽ vậy, nhưng chắc không.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: vì] [PAUSE 3s] [EN: because] [PAUSE 0.5s] [VI_F: nên] [PAUSE 3s] [EN: so] [PAUSE 0.5s] [VI_F: có lẽ] [PAUSE 3s] [EN: maybe] [PAUSE 0.5s] [VI_F: không hẳn] [PAUSE 3s] [EN: not really] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: vì] [PAUSE 1s] [VI_F: nên] [PAUSE 1s] [VI_F: có lẽ] [PAUSE 1s] [VI_F: không hẳn] [PAUSE 0.5s] [EN: Good.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh nghĩ vấn đề môi trường lớn không?] [PAUSE 0.5s] [VI: Vì công nghệ mới, nên tôi nghĩ có thể giúp môi trường.] [PAUSE 0.5s] [VI_F: Có lẽ vậy, nhưng không hẳn.] [PAUSE 1s] [EN: Your turn. Say maybe so, but not really.] [PAUSE 4s] [VI: Có lẽ vậy, nhưng không hẳn.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, the final lesson of the course — a wrap-up conversation. See you then.]"
+    }
+  ]
+}
