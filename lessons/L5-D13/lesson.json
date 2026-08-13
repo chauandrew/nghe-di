@@ -1,0 +1,34 @@
+{
+  "id": "L5-D13",
+  "title": "Nổi tiếng: recommending a dish",
+  "vocab": [
+    {"vi": "nổi tiếng", "en": "famous", "ipa": "noj˨˩˦ tiəŋ˧˥"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say station —] [PAUSE 4s] [VI: ga] [PAUSE 0.5s] [EN: Say ticket —] [PAUSE 4s] [VI: vé] [PAUSE 0.5s] [EN: Say a trip, or a scheduled departure —] [PAUSE 4s] [VI: chuyến] [PAUSE 0.5s] [EN: Say if —] [PAUSE 4s] [VI: nếu] [PAUSE 0.5s] [EN: Say then —] [PAUSE 4s] [VI: thì] [PAUSE 0.5s] [EN: Say worker, or repairman —] [PAUSE 4s] [VI: thợ] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 205,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Món này nổi tiếng lắm, anh thử đi!] [PAUSE 0.5s] [VI: Dạ, tôi thử nha.] [PAUSE 0.5s] [VI_F: Ngon không?] [PAUSE 0.5s] [VI: Ngon quá! Đặc sản nổi tiếng mà.] [PAUSE 1s] [EN: Today,] [VI: nổi tiếng] [EN: means famous. Listen to its two parts.] [VI_F: nổi] [EN: has] [VI: dấu hỏi] [PAUSE 0.3s] [VI_F: tiếng] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole word again.] [VI_F: nổi tiếng] [PAUSE 1s] [VI_F: nổi tiếng] [EN: Now you say it.] [PAUSE 4s] [VI: nổi tiếng] [EN: Good. This dish is very famous, try it —] [PAUSE 4s] [VI: Món này nổi tiếng lắm, anh thử đi!] [PAUSE 0.5s] [EN: A famous specialty —] [PAUSE 4s] [VI: Đặc sản nổi tiếng.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 45,
+      "script": "[EN: Quick pass over today's word.] [PAUSE 0.5s] [EN: Famous —] [PAUSE 4s] [VI: nổi tiếng] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Famous —] [PAUSE 4s] [VI: nổi tiếng] [PAUSE 0.5s] [EN: Now build it. This dish is very famous, try it —] [PAUSE 4s] [VI: Món này nổi tiếng lắm, anh thử đi!] [PAUSE 0.5s] [EN: This region has a famous specialty —] [PAUSE 4s] [VI: Miền này có đặc sản nổi tiếng.] [PAUSE 0.5s] [EN: This dish is famous, but a bit expensive —] [PAUSE 4s] [VI: Món này nổi tiếng, nhưng hơi đắt.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: nổi tiếng] [PAUSE 3s] [EN: famous] [PAUSE 0.5s] [EN: One more time, before we move on.] [PAUSE 0.5s] [VI_F: nổi tiếng] [PAUSE 0.5s] [EN: Remember,] [VI: nổi] [EN: has] [VI: dấu hỏi] [EN: , and] [VI: tiếng] [EN: has] [VI: dấu sắc] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Món này nổi tiếng lắm, anh thử đi!] [PAUSE 0.5s] [VI: Dạ, tôi thử nha.] [PAUSE 0.5s] [VI_F: Ngon không?] [PAUSE 0.5s] [VI: Ngon quá! Đặc sản nổi tiếng mà.] [PAUSE 1s] [EN: Your turn. Say this region has a famous specialty.] [PAUSE 4s] [VI: Miền này có đặc sản nổi tiếng.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, a new structure — how to say] [VI: có lẽ] [EN: , maybe. See you then.]"
+    }
+  ]
+}

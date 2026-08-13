@@ -1,0 +1,35 @@
+{
+  "id": "L5-D21",
+  "title": "Đồng nghiệp, thăng chức: talking about work",
+  "vocab": [
+    {"vi": "đồng nghiệp", "en": "colleague", "ipa": "doŋ˨˩ ŋiəp˨˩ʔ"},
+    {"vi": "thăng chức", "en": "to get promoted, or a promotion", "ipa": "tʰăŋ˧ tɕɨk˧˥"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say hello —] [PAUSE 4s] [VI: xin chào] [PAUSE 0.5s] [EN: Say thank you —] [PAUSE 4s] [VI: cảm ơn] [PAUSE 0.5s] [EN: Say the polite yes, or soft opener —] [PAUSE 4s] [VI: dạ] [PAUSE 0.5s] [EN: Say doctor —] [PAUSE 4s] [VI: bác sĩ] [PAUSE 0.5s] [EN: Say teacher —] [PAUSE 4s] [VI: giáo viên] [PAUSE 0.5s] [EN: Say engineer —] [PAUSE 4s] [VI: kỹ sư] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chúc mừng anh thăng chức nha!] [PAUSE 0.5s] [VI: Cảm ơn chị. Đồng nghiệp của tôi cũng mừng lắm.] [PAUSE 0.5s] [VI_F: Vậy à? Tuyệt quá!] [PAUSE 1s] [EN: Today, talking about work.] [PAUSE 0.5s] [EN: First,] [VI: đồng nghiệp] [EN: means colleague. Listen to its two parts.] [VI_F: đồng] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI_F: nghiệp] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: đồng nghiệp] [PAUSE 1s] [VI_F: đồng nghiệp] [EN: Now you say it.] [PAUSE 4s] [VI: đồng nghiệp] [EN: Good. My colleague —] [PAUSE 4s] [VI: Đồng nghiệp của tôi.] [PAUSE 0.5s] [EN: Next,] [VI: thăng chức] [EN: means to get promoted, or a promotion. Listen to its two parts.] [VI_F: thăng] [EN: is] [VI: ngang] [EN: — flat,] [PAUSE 0.3s] [VI_F: chức] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole word again.] [VI_F: thăng chức] [PAUSE 1s] [VI_F: thăng chức] [EN: Now you say it.] [PAUSE 4s] [VI: thăng chức] [EN: Good. I got promoted —] [PAUSE 4s] [VI: Tôi thăng chức rồi!]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Colleague —] [PAUSE 4s] [VI: đồng nghiệp] [PAUSE 0.5s] [EN: To get promoted, or a promotion —] [PAUSE 4s] [VI: thăng chức] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Colleague —] [PAUSE 4s] [VI: đồng nghiệp] [PAUSE 0.5s] [EN: To get promoted, or a promotion —] [PAUSE 4s] [VI: thăng chức] [PAUSE 0.5s] [EN: Now build it. My colleague got promoted —] [PAUSE 4s] [VI: Đồng nghiệp của tôi thăng chức.] [PAUSE 0.5s] [EN: Congratulations on your promotion! —] [PAUSE 4s] [VI: Chúc mừng anh thăng chức nha!] [PAUSE 0.5s] [EN: My colleague is an engineer —] [PAUSE 4s] [VI: Đồng nghiệp của tôi là kỹ sư.] [PAUSE 0.5s] [EN: I got promoted, I'm so glad —] [PAUSE 4s] [VI: Tôi thăng chức rồi, tôi mừng lắm!] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đồng nghiệp] [PAUSE 3s] [EN: colleague] [PAUSE 0.5s] [VI_F: thăng chức] [PAUSE 3s] [EN: to get promoted, or a promotion] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đồng nghiệp] [PAUSE 1s] [VI_F: thăng chức] [PAUSE 0.5s] [EN: Remember,] [VI: đồng] [EN: has] [VI: dấu huyền] [EN: , and] [VI: chức] [EN: has] [VI: dấu sắc] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Chúc mừng anh thăng chức nha!] [PAUSE 0.5s] [VI: Cảm ơn chị. Đồng nghiệp của tôi cũng mừng lắm.] [PAUSE 0.5s] [VI_F: Vậy à? Tuyệt quá!] [PAUSE 1s] [EN: Your turn. Say my colleague got promoted.] [PAUSE 4s] [VI: Đồng nghiệp của tôi thăng chức.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, two familiar words get new jobs. See you then.]"
+    }
+  ]
+}

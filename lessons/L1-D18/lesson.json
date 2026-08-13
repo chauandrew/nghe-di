@@ -1,30 +1,43 @@
 {
   "id": "L1-D18",
-  "title": "Tính tiền — Asking for the bill",
+  "title": "Cho tôi hóa đơn: asking for the bill",
   "vocab": [
-    {"vi": "cho tôi", "en": "give me", "ipa": "/t͡ɕɔ˧ toj˧/"},
-    {"vi": "hóa đơn", "en": "the bill", "ipa": "/hwaː˧˥ ɗəːn˧/"}
+    {
+      "vi": "cho tôi",
+      "en": "give me",
+      "ipa": "tɕɔ˧ toj˧"
+    },
+    {
+      "vi": "hóa đơn",
+      "en": "bill",
+      "ipa": "hwaː˧˥ dɤn˧"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Address an older man.] [PAUSE 4s] [VI: Anh.] [EN: More ice.] [PAUSE 4s] [VI: Thêm đá.] [EN: My name is Nam.] [PAUSE 4s] [VI: Tên tôi là Nam.] [EN: Speak slower.] [PAUSE 4s] [VI: Nói chậm hơn.] [EN: What does this mean?] [VI_F: Lại.] [PAUSE 3s] [EN: Again.] [EN: Good.]"
+      "script": "[EN: Quick review. Say you, for an older man —] [PAUSE 4s] [VI: anh] [PAUSE 0.5s] [EN: Say you, for an older woman —] [PAUSE 4s] [VI: chị] [PAUSE 0.5s] [EN: Say you, for someone younger —] [PAUSE 4s] [VI: em] [PAUSE 0.5s] [EN: Say more, or add —] [PAUSE 4s] [VI: thêm] [PAUSE 0.5s] [EN: Say a little, or less —] [PAUSE 4s] [VI: ít] [PAUSE 0.5s] [EN: Say ice —] [PAUSE 4s] [VI: đá] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: You finish your meal and want to pay. Listen.] [PAUSE 0.5s] [VI_F: Dạ, anh muốn gì không?] [EN: To say give me, say] [VI_M: Cho tôi.] [EN: both syllables flat.] [EN: Say give me.] [PAUSE 4s] [VI: Cho tôi.] [EN: Good.] [PAUSE 0.5s] [EN: The bill is] [VI_F: Hóa đơn.] [VI_F: Hóa] [EN: has a high, rising tone.] [VI_F: Đơn] [EN: has a flat tone.] [EN: Now ask, give me the bill.] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [EN: Good. Using more from before, give me more coffee.] [PAUSE 4s] [VI: Cho tôi thêm cà phê.] [EN: Good.]"
+      "duration_s": 160,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Anh ơi, cho tôi hóa đơn.] [PAUSE 0.5s] [VI_M: Dạ.] [PAUSE 0.5s] [VI: Dạ, cảm ơn anh.] [PAUSE 1s] [EN: You said] [VI: cho tôi] [EN: it means give me. Listen to its two parts.] [VI_F: cho] [EN: is] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: tôi] [EN: also] [EN: a flat tone, no mark] [EN: . Listen to the whole phrase again.] [VI_F: cho tôi] [PAUSE 1s] [VI_F: cho tôi] [EN: Now you say it.] [PAUSE 4s] [VI: cho tôi] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: hóa đơn] [EN: means bill. Listen to its two parts.] [VI_F: hóa] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: đơn] [EN: is] [EN: a flat tone, no mark] [EN: . Listen to the whole word again.] [VI_F: hóa đơn] [PAUSE 1s] [VI_F: hóa đơn] [EN: Now you say it.] [PAUSE 4s] [VI: hóa đơn] [EN: Good.] [PAUSE 0.3s] [VI_F: Cho tôi hóa đơn.] [EN: give me the bill.] [PAUSE 0.5s] [EN: You also heard] [VI: ơi] [EN: a small word used to call someone's attention, like hey or excuse me.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 55,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Give me —] [PAUSE 4s] [VI: cho tôi] [PAUSE 0.5s] [EN: Bill —] [PAUSE 4s] [VI: hóa đơn] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Give me.] [PAUSE 4s] [VI: Cho tôi.] [EN: The bill.] [PAUSE 4s] [VI: Hóa đơn.] [EN: Give me the bill.] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [EN: Give me two glasses of water.] [PAUSE 4s] [VI: Cho tôi hai ly nước.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Hóa đơn.] [PAUSE 3s] [EN: The bill.] [EN: What does this mean?] [VI_F: Cho tôi.] [PAUSE 3s] [EN: Give me.] [EN: And too expensive.] [PAUSE 4s] [VI: Đắt quá!] [EN: Good.]"
+      "duration_s": 150,
+      "script": "[EN: Let's drill. Give me —] [PAUSE 4s] [VI: cho tôi] [PAUSE 0.5s] [EN: Bill —] [PAUSE 4s] [VI: hóa đơn] [PAUSE 0.5s] [EN: Now say it. Give me the bill —] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: cho tôi] [PAUSE 3s] [EN: give me] [PAUSE 0.5s] [VI_F: hóa đơn] [PAUSE 3s] [EN: bill] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: cho tôi] [PAUSE 1s] [VI_F: hóa đơn] [PAUSE 0.5s] [EN: Remember,] [VI: hóa] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: đơn] [EN: is] [EN: a flat tone, no mark] [EN: — flat.]"
     },
     {
       "type": "synthesis",
-      "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, cho tôi hóa đơn.] [VI_F: Dạ, của anh hai trăm ngàn.] [VI_M: Cho tôi thêm cà phê nha.] [VI_F: Dạ liền.] [EN: She said] [VI: liền] [EN: which means right away.] [PAUSE 0.5s] [EN: Now you try. Ask for the bill.] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [EN: Give me more coffee.] [PAUSE 4s] [VI: Cho tôi thêm cà phê.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you order food. The preview phrase is] [VI: gọi món] [EN: which means to order.]"
+      "duration_s": 130,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Anh ơi, cho tôi hóa đơn.] [PAUSE 0.5s] [VI_M: Dạ.] [PAUSE 0.5s] [VI: Dạ, cảm ơn anh.] [PAUSE 1s] [EN: Your turn. Ask for the bill.] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, ordering food. One phrase to start —] [VI: gọi món] [EN: it means to order food. See you then.]"
     }
   ]
 }

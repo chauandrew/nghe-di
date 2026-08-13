@@ -1,30 +1,43 @@
 {
   "id": "L3-D27",
-  "title": "Mời — Invitations",
+  "title": "Mời, sinh nhật: invitations and RSVP",
   "vocab": [
-    {"vi": "mời", "en": "to invite", "ipa": "/məːj˨˩/"},
-    {"vi": "sinh nhật", "en": "birthday", "ipa": "/siɲ˧ ɲət˨˩ʔ/"}
+    {
+      "vi": "mời",
+      "en": "to invite",
+      "ipa": "mɤj˨˩"
+    },
+    {
+      "vi": "sinh nhật",
+      "en": "birthday",
+      "ipa": "sin˧ ɲət˨˩ʔ"
+    }
   ],
   "segments": [
     {
       "type": "recall",
-      "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To play.] [PAUSE 3s] [VI: Chơi.] [EN: In the middle.] [PAUSE 3s] [VI: Ở giữa.] [EN: No way, not at all.] [PAUSE 4s] [VI: Đâu có!] [EN: What does this mean?] [VI_F: Quen.] [PAUSE 3s] [EN: To be acquainted.] [EN: Good.]"
+      "duration_s": 95,
+      "script": "[EN: Quick review. Say to like —] [PAUSE 4s] [VI: thích] [PAUSE 0.5s] [EN: Say sugar —] [PAUSE 4s] [VI: đường] [PAUSE 0.5s] [EN: Say bigger —] [PAUSE 4s] [VI: lớn hơn] [PAUSE 0.5s] [EN: Say cheaper —] [PAUSE 4s] [VI: rẻ hơn] [PAUSE 0.5s] [EN: Say in the middle —] [PAUSE 4s] [VI: ở giữa] [PAUSE 0.5s] [EN: Say across from, opposite —] [PAUSE 4s] [VI: đối diện] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: To invite is] [VI_F: Mời.] [EN: a falling tone; relax your lips for this vowel. I invite you. It is also how you offer something politely.] [PAUSE 4s] [VI: Tôi mời anh.] [EN: Good.] [PAUSE 0.5s] [EN: A birthday is] [VI_F: Sinh nhật.] [EN: Say birthday.] [PAUSE 4s] [VI: Sinh nhật.] [EN: I invite you to my birthday.] [PAUSE 4s] [VI: Tôi mời anh đi sinh nhật.] [EN: Are you free? You know] [VI: rảnh.] [EN: Are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Good.]"
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Tối nay sinh nhật tôi. Mời anh đi chơi!] [PAUSE 0.5s] [VI: Dạ, tôi rảnh. Cảm ơn chị mời!] [PAUSE 0.5s] [VI_F: Vậy hẹn tối nay nha!] [PAUSE 1s] [EN: Today, inviting someone.] [PAUSE 0.5s] [EN: First,] [VI: mời] [EN: means to invite. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: mời] [PAUSE 1s] [VI_F: mời] [EN: Now you say it.] [PAUSE 4s] [VI: mời] [EN: Good. I invite you to hang out —] [PAUSE 4s] [VI: Mời anh đi chơi.] [PAUSE 0.5s] [EN: Next,] [VI: sinh nhật] [EN: means birthday. Listen to its two parts.] [VI_F: sinh] [EN: has] [EN: a flat tone, no mark] [EN: — flat] [PAUSE 0.3s] [VI_F: nhật] [EN: has] [EN: a low tone, cut off short] [EN: . Listen to the whole word again.] [VI_F: sinh nhật] [PAUSE 1s] [VI_F: sinh nhật] [EN: Now you say it.] [PAUSE 4s] [VI: sinh nhật] [EN: Good. Tonight is my birthday —] [PAUSE 4s] [VI: Tối nay sinh nhật tôi.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To invite —] [PAUSE 4s] [VI: mời] [PAUSE 0.5s] [EN: Birthday —] [PAUSE 4s] [VI: sinh nhật] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. To invite.] [PAUSE 3s] [VI: Mời.] [EN: Birthday.] [PAUSE 3s] [VI: Sinh nhật.] [EN: I invite you to my birthday.] [PAUSE 4s] [VI: Tôi mời anh đi sinh nhật.] [EN: Are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Mời.] [PAUSE 3s] [EN: To invite.] [EN: What does this mean?] [VI_F: Sinh nhật.] [PAUSE 3s] [EN: Birthday.] [EN: Good.]"
+      "duration_s": 215,
+      "script": "[EN: Let's drill. To invite —] [PAUSE 4s] [VI: mời] [PAUSE 0.5s] [EN: Birthday —] [PAUSE 4s] [VI: sinh nhật] [PAUSE 0.5s] [EN: Now build it. Tonight is my birthday —] [PAUSE 4s] [VI: Tối nay sinh nhật tôi.] [PAUSE 0.5s] [EN: I invite you to hang out —] [PAUSE 4s] [VI: Mời anh đi chơi.] [PAUSE 0.5s] [EN: Are you free tonight —] [PAUSE 4s] [VI: Tối nay anh rảnh không?] [PAUSE 0.5s] [EN: I'm free, thank you for inviting me —] [PAUSE 4s] [VI: Tôi rảnh. Cảm ơn chị mời!] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: mời] [PAUSE 3s] [EN: to invite] [PAUSE 0.5s] [VI_F: sinh nhật] [PAUSE 3s] [EN: birthday] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: mời] [PAUSE 1s] [VI_F: sinh nhật] [PAUSE 0.5s] [EN: Remember,] [VI: mời] [EN: has] [EN: a falling tone] [EN: , and] [VI: nhật] [EN: has] [EN: a low tone, cut off short] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần sinh nhật em. Em mời anh nha!] [VI_M: Dạ, cảm ơn em. Mấy giờ vậy?] [VI_F: Bảy giờ tối nha.] [PAUSE 0.5s] [EN: Now you try. Say, I invite you to my birthday.] [PAUSE 4s] [VI: Tôi mời anh đi sinh nhật.] [EN: Ask, are you free this weekend?] [PAUSE 4s] [VI: Cuối tuần anh rảnh không?] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you respond to an invitation. The preview word is] [VI: tham gia] [EN: which means to join, attend.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Tối nay sinh nhật tôi. Mời anh đi chơi!] [PAUSE 0.5s] [VI: Dạ, tôi rảnh. Cảm ơn chị mời!] [PAUSE 0.5s] [VI_F: Vậy hẹn tối nay nha!] [PAUSE 1s] [EN: Your turn. Say thank you for inviting me.] [PAUSE 4s] [VI: Cảm ơn chị mời!] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, responding to a birthday invitation. One word to start —] [VI: tham gia] [EN: it means to participate, or join in. See you then.]"
     }
   ]
 }

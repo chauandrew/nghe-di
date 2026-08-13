@@ -1,0 +1,35 @@
+{
+  "id": "L5-D27",
+  "title": "Lịch sự, thân mật: switching register by audience",
+  "vocab": [
+    {"vi": "lịch sự", "en": "formal, or polite", "ipa": "litɕ˨˩ʔ sɨ˨˩ʔ"},
+    {"vi": "thân mật", "en": "casual, or close", "ipa": "tʰɤn˧ mət˨˩ʔ"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say I want —] [PAUSE 4s] [VI: tôi muốn] [PAUSE 0.5s] [EN: Say coffee —] [PAUSE 4s] [VI: cà phê] [PAUSE 0.5s] [EN: Say water —] [PAUSE 4s] [VI: nước] [PAUSE 0.5s] [EN: Say market —] [PAUSE 4s] [VI: chợ] [PAUSE 0.5s] [EN: Say park —] [PAUSE 4s] [VI: công viên] [PAUSE 0.5s] [EN: Say bank —] [PAUSE 4s] [VI: ngân hàng] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Với anh chị, mình nói lịch sự.] [PAUSE 0.5s] [VI: Với bạn bè, mình nói thân mật hơn.] [PAUSE 0.5s] [VI_F: Dạ, chứ!] [PAUSE 1s] [EN: Today, switching your speech style by audience.] [PAUSE 0.5s] [EN: First,] [VI: lịch sự] [EN: means formal, or polite. Listen to its two parts.] [VI_F: lịch] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: sự] [EN: also has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: lịch sự] [PAUSE 1s] [VI_F: lịch sự] [EN: Now you say it.] [PAUSE 4s] [VI: lịch sự] [EN: Good. With older people, I speak formally —] [PAUSE 4s] [VI: Với anh chị, mình nói lịch sự.] [PAUSE 0.5s] [EN: Next,] [VI: thân mật] [EN: means casual, or close. Listen to its two parts.] [VI_F: thân] [EN: is] [VI: ngang] [EN: — flat,] [PAUSE 0.3s] [VI_F: mật] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: thân mật] [PAUSE 1s] [VI_F: thân mật] [EN: Now you say it.] [PAUSE 4s] [VI: thân mật] [EN: Good. With friends, I speak more casually —] [PAUSE 4s] [VI: Với bạn bè, mình nói thân mật hơn.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Formal, or polite —] [PAUSE 4s] [VI: lịch sự] [PAUSE 0.5s] [EN: Casual, or close —] [PAUSE 4s] [VI: thân mật] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Formal, or polite —] [PAUSE 4s] [VI: lịch sự] [PAUSE 0.5s] [EN: Casual, or close —] [PAUSE 4s] [VI: thân mật] [PAUSE 0.5s] [EN: Now build it. With older people, I speak formally —] [PAUSE 4s] [VI: Với anh chị, mình nói lịch sự.] [PAUSE 0.5s] [EN: With friends, I speak more casually —] [PAUSE 4s] [VI: Với bạn bè, mình nói thân mật hơn.] [PAUSE 0.5s] [EN: A formal tone is different from a casual tone —] [PAUSE 4s] [VI: Giọng lịch sự khác giọng thân mật.] [PAUSE 0.5s] [EN: I like speaking casually with my colleagues —] [PAUSE 4s] [VI: Tôi thích nói thân mật với đồng nghiệp.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: lịch sự] [PAUSE 3s] [EN: formal, or polite] [PAUSE 0.5s] [VI_F: thân mật] [PAUSE 3s] [EN: casual, or close] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: lịch sự] [PAUSE 1s] [VI_F: thân mật] [PAUSE 0.5s] [EN: Remember,] [VI: lịch] [EN: and] [VI: sự] [EN: both have] [VI: dấu nặng] [EN: , and so does] [VI: mật] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Với anh chị, mình nói lịch sự.] [PAUSE 0.5s] [VI: Với bạn bè, mình nói thân mật hơn.] [PAUSE 0.5s] [VI_F: Dạ, chứ!] [PAUSE 1s] [EN: Your turn. Say with friends, I speak more casually.] [PAUSE 4s] [VI: Với bạn bè, mình nói thân mật hơn.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, current topics. One word to start —] [VI: môi trường] [EN: it means environment. See you then.]"
+    }
+  ]
+}

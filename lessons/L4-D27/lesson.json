@@ -1,0 +1,35 @@
+{
+  "id": "L4-D27",
+  "title": "Thợ, xong: services and repairs",
+  "vocab": [
+    {"vi": "thợ", "en": "worker, or repairman", "ipa": "tʰɤ˨˩ʔ"},
+    {"vi": "xong", "en": "finished, or done", "ipa": "sɔŋ˧"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say so, or then —] [PAUSE 4s] [VI: vậy] [PAUSE 0.5s] [EN: Say the friendly tag, huh? —] [PAUSE 4s] [VI: hả] [PAUSE 0.5s] [EN: Say the mild-surprise tag, oh? —] [PAUSE 4s] [VI: à] [PAUSE 0.5s] [EN: Say shirt, or top —] [PAUSE 4s] [VI: áo] [PAUSE 0.5s] [EN: Say pants —] [PAUSE 4s] [VI: quần] [PAUSE 0.5s] [EN: Say to try on —] [PAUSE 4s] [VI: thử] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 205,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Thợ sửa máy lạnh giúp tôi được không?] [PAUSE 0.5s] [VI_F: Dạ được. Thợ sửa rồi.] [PAUSE 0.5s] [VI: Bao lâu xong?] [PAUSE 0.5s] [VI_F: Dạ, xong rồi!] [PAUSE 1s] [EN: Two new words today: services and repairs.] [PAUSE 0.5s] [EN: First,] [VI: thợ] [EN: means worker, or repairman. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: thợ] [PAUSE 1s] [VI_F: thợ] [EN: Now you say it.] [PAUSE 4s] [VI: thợ] [EN: Good. You already know] [VI: sửa] [EN: — to fix. The repairman fixes the air conditioner —] [PAUSE 4s] [VI: Thợ sửa máy lạnh.] [PAUSE 0.5s] [EN: Next,] [VI: xong] [EN: means finished, or done. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: xong] [PAUSE 1s] [VI_F: xong] [EN: Now you say it.] [PAUSE 4s] [VI: xong] [EN: Good. How long until it's done —] [PAUSE 4s] [VI: Bao lâu xong?] [PAUSE 0.5s] [EN: Combine them — the repairman fixed it, already done —] [PAUSE 4s] [VI: Thợ sửa rồi, xong rồi!]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Worker, or repairman —] [PAUSE 4s] [VI: thợ] [PAUSE 0.5s] [EN: Finished, or done —] [PAUSE 4s] [VI: xong] [PAUSE 0.5s] [EN: How long until it's done —] [PAUSE 4s] [VI: Bao lâu xong?] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. Worker, or repairman —] [PAUSE 4s] [VI: thợ] [PAUSE 0.5s] [EN: Finished, or done —] [PAUSE 4s] [VI: xong] [PAUSE 0.5s] [EN: Now build it. The repairman fixes the air conditioner —] [PAUSE 4s] [VI: Thợ sửa máy lạnh.] [PAUSE 0.5s] [EN: How long until it's done —] [PAUSE 4s] [VI: Bao lâu xong?] [PAUSE 0.5s] [EN: The repairman fixed it, already done —] [PAUSE 4s] [VI: Thợ sửa rồi, xong rồi!] [PAUSE 0.5s] [EN: Can the repairman fix it for me —] [PAUSE 4s] [VI: Thợ sửa máy lạnh giúp tôi được không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: thợ] [PAUSE 3s] [EN: worker, or repairman] [PAUSE 0.5s] [VI_F: xong] [PAUSE 3s] [EN: finished, or done] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: thợ] [PAUSE 1s] [VI_F: xong] [PAUSE 0.5s] [EN: Remember,] [VI: thợ] [EN: has] [VI: dấu nặng] [EN: , and] [VI: xong] [EN: is] [VI: ngang] [EN: — flat, no mark.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Thợ sửa máy lạnh giúp tôi được không?] [PAUSE 0.5s] [VI_F: Dạ được. Thợ sửa rồi.] [PAUSE 0.5s] [VI: Bao lâu xong?] [PAUSE 0.5s] [VI_F: Dạ, xong rồi!] [PAUSE 1s] [EN: Your turn. Ask how long until it's done.] [PAUSE 4s] [VI: Bao lâu xong?] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, no new words — you'll pull together everything you know from Level Four to solve problems.]"
+    }
+  ]
+}

@@ -1,30 +1,43 @@
 {
   "id": "L2-D22",
-  "title": "Cái nào — Comparing two options",
+  "title": "Lớn hơn, rẻ hơn: comparing two options",
   "vocab": [
-    {"vi": "lớn hơn", "en": "bigger", "ipa": "/ləːn˧˥ həːn˧/"},
-    {"vi": "rẻ hơn", "en": "cheaper", "ipa": "/ʐɛ˧˩˧ həːn˧/"}
+    {
+      "vi": "lớn hơn",
+      "en": "bigger",
+      "ipa": "lɤn˧˥ hɤn˧"
+    },
+    {
+      "vi": "rẻ hơn",
+      "en": "cheaper",
+      "ipa": "re˨˩˦ hɤn˧"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: More, -er.] [PAUSE 3s] [VI: Hơn.] [EN: Equal to, as ... as.] [PAUSE 3s] [VI: Bằng.] [EN: Most, -est.] [PAUSE 3s] [VI: Nhất.] [EN: I do not understand.] [PAUSE 4s] [VI: Tôi không hiểu.] [EN: Good.]"
+      "script": "[EN: Quick review. Say I don't understand —] [PAUSE 4s] [VI: Tôi không hiểu.] [PAUSE 0.5s] [EN: Say to know —] [PAUSE 4s] [VI: biết] [PAUSE 0.5s] [EN: Say speak more slowly —] [PAUSE 4s] [VI: nói chậm hơn] [PAUSE 0.5s] [EN: Say again —] [PAUSE 4s] [VI: lại] [PAUSE 0.5s] [EN: Say to work —] [PAUSE 4s] [VI: làm việc] [PAUSE 0.5s] [EN: Say to go home —] [PAUSE 4s] [VI: về nhà] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: Let's combine the adjectives you know with] [VI: hơn.] [EN: Bigger is] [VI_F: Lớn hơn.] [EN: Say bigger.] [PAUSE 4s] [VI: Lớn hơn.] [EN: Cheaper is] [VI_F: Rẻ hơn.] [EN: Say cheaper.] [PAUSE 4s] [VI: Rẻ hơn.] [EN: Good.] [PAUSE 0.5s] [EN: Now choose. To ask which one, say] [VI: cái nào.] [EN: Which one is bigger?] [PAUSE 4s] [VI: Cái nào lớn hơn?] [EN: This one is bigger but that one is cheaper.] [PAUSE 4s] [VI: Cái này lớn hơn, nhưng cái đó rẻ hơn.] [EN: Good.]"
+      "duration_s": 200,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Phòng này lớn hơn phòng đó không?] [PAUSE 0.5s] [VI_F: Dạ, phòng này lớn hơn. Phòng đó rẻ hơn.] [PAUSE 0.5s] [VI: Vậy tôi muốn phòng đó.] [PAUSE 1s] [EN: Today, two comparisons you can build right now from words you know.] [PAUSE 0.5s] [EN: First,] [VI: lớn hơn] [EN: means bigger. You know] [VI: lớn] [EN: — big — and] [VI: hơn] [EN: — more than. Put them together. Listen again.] [VI_F: lớn hơn] [PAUSE 1s] [VI_F: lớn hơn] [EN: Now you say it.] [PAUSE 4s] [VI: lớn hơn] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: rẻ hơn] [EN: means cheaper. You know] [VI: rẻ] [EN: — cheap — plus] [VI: hơn] [EN: . Listen again.] [VI_F: rẻ hơn] [PAUSE 1s] [VI_F: rẻ hơn] [EN: Now you say it.] [PAUSE 4s] [VI: rẻ hơn] [EN: Good.] [PAUSE 0.5s] [EN: The same pattern works for anything you already know. Farther —] [PAUSE 4s] [VI: xa hơn] [PAUSE 0.5s] [EN: Closer —] [PAUSE 4s] [VI: gần hơn] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 55,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Bigger —] [PAUSE 4s] [VI: lớn hơn] [PAUSE 0.5s] [EN: Cheaper —] [PAUSE 4s] [VI: rẻ hơn] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Bigger.] [PAUSE 3s] [VI: Lớn hơn.] [EN: Cheaper.] [PAUSE 3s] [VI: Rẻ hơn.] [EN: Which one is bigger?] [PAUSE 4s] [VI: Cái nào lớn hơn?] [EN: This one is cheaper.] [PAUSE 4s] [VI: Cái này rẻ hơn.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Lớn hơn.] [PAUSE 3s] [EN: Bigger.] [EN: What does this mean?] [VI_F: Cái nào?] [PAUSE 3s] [EN: Which one.] [EN: Good.]"
+      "duration_s": 230,
+      "script": "[EN: Let's drill. Bigger —] [PAUSE 4s] [VI: lớn hơn] [PAUSE 0.5s] [EN: Cheaper —] [PAUSE 4s] [VI: rẻ hơn] [PAUSE 0.5s] [EN: Now say it. This room is bigger —] [PAUSE 4s] [VI: Phòng này lớn hơn.] [PAUSE 0.5s] [EN: That one is cheaper —] [PAUSE 4s] [VI: Cái đó rẻ hơn.] [PAUSE 0.5s] [EN: This street is farther —] [PAUSE 4s] [VI: Đường này xa hơn.] [PAUSE 0.5s] [EN: That one is closer —] [PAUSE 4s] [VI: Đường đó gần hơn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: lớn hơn] [PAUSE 3s] [EN: bigger] [PAUSE 0.5s] [VI_F: rẻ hơn] [PAUSE 3s] [EN: cheaper] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: lớn hơn] [PAUSE 1s] [VI_F: rẻ hơn] [PAUSE 0.5s] [EN: Remember,] [VI: rẻ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: , and] [VI: lớn] [EN: has] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",
-      "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cái nào lớn hơn anh?] [VI_M: Cái này lớn hơn, nhưng cái đó rẻ hơn.] [VI_F: Vậy cho tôi cái đó.] [PAUSE 0.5s] [EN: Now you try. Ask, which one is cheaper?] [PAUSE 4s] [VI: Cái nào rẻ hơn?] [EN: Say, this one is bigger.] [PAUSE 4s] [VI: Cái này lớn hơn.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you talk about hobbies. The preview word is] [VI: chơi] [EN: which means to play.]"
+      "duration_s": 145,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Phòng này lớn hơn phòng đó không?] [PAUSE 0.5s] [VI_F: Dạ, phòng này lớn hơn. Phòng đó rẻ hơn.] [PAUSE 0.5s] [VI: Vậy tôi muốn phòng đó.] [PAUSE 1s] [EN: Your turn. Say that one is cheaper.] [PAUSE 4s] [VI: Cái đó rẻ hơn.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, hobbies and free time. One word to start —] [VI: chơi] [EN: it means to play. See you then.]"
     }
   ]
 }

@@ -1,31 +1,48 @@
 {
   "id": "L3-D23",
-  "title": "Vừa không — Buying clothes",
+  "title": "Chật, rộng, vừa: buying clothes",
   "vocab": [
-    {"vi": "chật", "en": "tight", "ipa": "/t͡ɕət˨˩ʔ/"},
-    {"vi": "rộng", "en": "loose, roomy", "ipa": "/zoŋ˨˩ʔ/"},
-    {"vi": "vừa", "en": "fits, just right", "ipa": "/vɨə˨˩/"}
+    {
+      "vi": "chật",
+      "en": "tight",
+      "ipa": "tɕət˨˩ʔ"
+    },
+    {
+      "vi": "rộng",
+      "en": "loose, roomy",
+      "ipa": "roŋ˨˩ʔ"
+    },
+    {
+      "vi": "vừa",
+      "en": "fitting, just right",
+      "ipa": "vɨə˨˩"
+    }
   ],
   "segments": [
     {
       "type": "recall",
-      "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To meet.] [PAUSE 3s] [VI: Gặp.] [EN: I feel happy.] [PAUSE 4s] [VI: Tôi thấy vui.] [EN: No way, not at all.] [PAUSE 4s] [VI: Đâu có!] [EN: What does this mean?] [VI_F: Thử.] [PAUSE 3s] [EN: To try on.] [EN: Good.]"
+      "duration_s": 95,
+      "script": "[EN: Quick review. Say tasty —] [PAUSE 4s] [VI: ngon] [PAUSE 0.5s] [EN: Say spicy —] [PAUSE 4s] [VI: cay] [PAUSE 0.5s] [EN: Say too, or very, after the adjective —] [PAUSE 4s] [VI: quá] [PAUSE 0.5s] [EN: Say not, before an adjective —] [PAUSE 4s] [VI: không] [PAUSE 0.5s] [EN: Say that's not right —] [PAUSE 4s] [VI: không phải] [PAUSE 0.5s] [EN: Say month —] [PAUSE 4s] [VI: tháng] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: After you try clothes on, you describe the fit. Tight is] [VI_F: Chật.] [EN: a falling, broken tone. This shirt is tight.] [PAUSE 4s] [VI: Áo này chật.] [EN: Loose, or roomy, is] [VI_F: Rộng.] [EN: a falling, broken tone; relax your lips. It fits, or it's just right, is] [VI_F: Vừa.] [EN: a falling tone; relax your lips for this vowel. It fits well.] [PAUSE 4s] [VI: Vừa lắm.] [EN: Good. Do you have a bigger one? It's a bit tight.] [PAUSE 4s] [VI: Có cái lớn hơn không? Hơi chật.] [EN: Good.]"
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Áo này chật quá.] [PAUSE 0.5s] [VI: Vậy thử áo rộng hơn nhé.] [PAUSE 0.5s] [VI_F: Dạ, cái này vừa!] [PAUSE 1s] [EN: Today, three words for how clothes fit.] [PAUSE 0.5s] [EN: First,] [VI: chật] [EN: means tight. It has] [EN: a low tone, cut off short] [EN: . Listen again.] [VI_F: chật] [PAUSE 1s] [VI_F: chật] [EN: Now you say it.] [PAUSE 4s] [VI: chật] [EN: Good. This shirt is too tight —] [PAUSE 4s] [VI: Áo này chật quá.] [PAUSE 0.5s] [EN: Next, its opposite.] [VI: rộng] [EN: means loose, or roomy. It has] [EN: a low tone, cut off short] [EN: , same as] [VI: chật] [EN: . Listen again.] [VI_F: rộng] [PAUSE 1s] [VI_F: rộng] [EN: Now you say it.] [PAUSE 4s] [VI: rộng] [EN: Good. Looser pants —] [PAUSE 4s] [VI: quần rộng hơn] [PAUSE 0.5s] [EN: Last,] [VI: vừa] [EN: means fitting, or just right — not too tight, not too loose. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: vừa] [PAUSE 1s] [VI_F: vừa] [EN: Now you say it.] [PAUSE 4s] [VI: vừa] [EN: Good. This one fits —] [PAUSE 4s] [VI: Cái này vừa.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Tight —] [PAUSE 4s] [VI: chật] [PAUSE 0.5s] [EN: Loose, roomy —] [PAUSE 4s] [VI: rộng] [PAUSE 0.5s] [EN: Fitting, just right —] [PAUSE 4s] [VI: vừa] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Tight.] [PAUSE 3s] [VI: Chật.] [EN: Loose.] [PAUSE 3s] [VI: Rộng.] [EN: It fits.] [PAUSE 3s] [VI: Vừa.] [EN: This shirt is tight.] [PAUSE 4s] [VI: Áo này chật.] [EN: It's a bit loose.] [PAUSE 4s] [VI: Hơi rộng.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Vừa.] [PAUSE 3s] [EN: It fits, just right.] [EN: What does this mean?] [VI_F: Rộng.] [PAUSE 3s] [EN: Loose, roomy.] [EN: Good.]"
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Tight —] [PAUSE 4s] [VI: chật] [PAUSE 0.5s] [EN: Loose, roomy —] [PAUSE 4s] [VI: rộng] [PAUSE 0.5s] [EN: Fitting, just right —] [PAUSE 4s] [VI: vừa] [PAUSE 0.5s] [EN: Now build it. This shirt is too tight —] [PAUSE 4s] [VI: Áo này chật quá.] [PAUSE 0.5s] [EN: These pants are too loose —] [PAUSE 4s] [VI: Quần này rộng quá.] [PAUSE 0.5s] [EN: This one fits, right —] [PAUSE 4s] [VI: Cái này vừa chứ?] [PAUSE 0.5s] [EN: Not tight at all, it fits —] [PAUSE 4s] [VI: Không chật đâu, vừa mà!] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: chật] [PAUSE 3s] [EN: tight] [PAUSE 0.5s] [VI_F: rộng] [PAUSE 3s] [EN: loose, roomy] [PAUSE 0.5s] [VI_F: vừa] [PAUSE 3s] [EN: fitting, just right] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: chật] [PAUSE 1s] [VI_F: rộng] [PAUSE 1s] [VI_F: vừa] [PAUSE 0.5s] [EN: Remember,] [VI: chật] [EN: and] [VI: rộng] [EN: both have] [EN: a low tone, cut off short] [EN: , and] [VI: vừa] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Áo vừa không anh?] [VI_M: Hơi chật. Có cái lớn hơn không?] [VI_F: Dạ có, anh thử cái này.] [VI_M: À, cái này vừa.] [PAUSE 0.5s] [EN: Now you try. Say, this shirt is tight.] [PAUSE 4s] [VI: Áo này chật.] [EN: Say, it fits well.] [PAUSE 4s] [VI: Vừa lắm.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you compare things. The preview word is] [VI: giống] [EN: which means the same, alike.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Áo này chật quá.] [PAUSE 0.5s] [VI: Vậy thử áo rộng hơn nhé.] [PAUSE 0.5s] [VI_F: Dạ, cái này vừa!] [PAUSE 1s] [EN: Your turn. Say this one fits.] [PAUSE 4s] [VI: Cái này vừa.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, comparing people and things. One word to start —] [VI: giống] [EN: it means similar, or alike. See you then.]"
     }
   ]
 }

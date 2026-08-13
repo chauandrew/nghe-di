@@ -1,0 +1,37 @@
+{
+  "id": "L4-D1",
+  "title": "Đầu, bụng, tay, chân: body parts",
+  "vocab": [
+    {"vi": "đầu", "en": "head", "ipa": "dəw˨˩"},
+    {"vi": "bụng", "en": "stomach", "ipa": "buŋ˨˩ʔ"},
+    {"vi": "tay", "en": "hand, or arm", "ipa": "taj˧"},
+    {"vi": "chân", "en": "leg, or foot", "ipa": "tɕən˧"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say too expensive —] [PAUSE 4s] [VI: đắt quá] [PAUSE 0.5s] [EN: Say cheap —] [PAUSE 4s] [VI: rẻ] [PAUSE 0.5s] [EN: Say to discount —] [PAUSE 4s] [VI: giảm giá] [PAUSE 0.5s] [EN: Say can you, or is that okay —] [PAUSE 4s] [VI: được không] [PAUSE 0.5s] [EN: Say it's been a long time —] [PAUSE 4s] [VI: lâu rồi] [PAUSE 0.5s] [EN: Say these days, or lately —] [PAUSE 4s] [VI: dạo này] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Đây là đầu.] [PAUSE 0.5s] [VI: Dạ, đầu.] [PAUSE 0.5s] [VI_F: Đây là bụng.] [PAUSE 0.5s] [VI: Dạ, bụng.] [PAUSE 1s] [EN: Four words for the body today.] [PAUSE 0.5s] [EN: First,] [VI: đầu] [EN: means head. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: đầu] [PAUSE 1s] [VI_F: đầu] [EN: Now you say it.] [PAUSE 4s] [VI: đầu] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: bụng] [EN: means stomach. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: bụng] [PAUSE 1s] [VI_F: bụng] [EN: Now you say it.] [PAUSE 4s] [VI: bụng] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: tay] [EN: means hand, or arm. It has] [VI: ngang] [EN: — flat, no mark. Listen again.] [VI_F: tay] [PAUSE 1s] [VI_F: tay] [EN: Now you say it.] [PAUSE 4s] [VI: tay] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: chân] [EN: means leg, or foot. It also has] [VI: ngang] [EN: . Listen again.] [VI_F: chân] [PAUSE 1s] [VI_F: chân] [EN: Now you say it.] [PAUSE 4s] [VI: chân] [EN: Good.] [PAUSE 0.5s] [EN: This is my head —] [PAUSE 4s] [VI: Đây là đầu của tôi.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Head —] [PAUSE 4s] [VI: đầu] [PAUSE 0.5s] [EN: Stomach —] [PAUSE 4s] [VI: bụng] [PAUSE 0.5s] [EN: Hand, or arm —] [PAUSE 4s] [VI: tay] [PAUSE 0.5s] [EN: Leg, or foot —] [PAUSE 4s] [VI: chân] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. Head —] [PAUSE 4s] [VI: đầu] [PAUSE 0.5s] [EN: Stomach —] [PAUSE 4s] [VI: bụng] [PAUSE 0.5s] [EN: Hand, or arm —] [PAUSE 4s] [VI: tay] [PAUSE 0.5s] [EN: Leg, or foot —] [PAUSE 4s] [VI: chân] [PAUSE 0.5s] [EN: Now say it. This is my head —] [PAUSE 4s] [VI: Đầu của tôi.] [PAUSE 0.5s] [EN: This is my stomach —] [PAUSE 4s] [VI: Bụng của tôi.] [PAUSE 0.5s] [EN: This is my hand —] [PAUSE 4s] [VI: Tay của tôi.] [PAUSE 0.5s] [EN: This is my leg —] [PAUSE 4s] [VI: Chân của tôi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đầu] [PAUSE 3s] [EN: head] [PAUSE 0.5s] [VI_F: bụng] [PAUSE 3s] [EN: stomach] [PAUSE 0.5s] [VI_F: tay] [PAUSE 3s] [EN: hand, or arm] [PAUSE 0.5s] [VI_F: chân] [PAUSE 3s] [EN: leg, or foot] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đầu] [PAUSE 1s] [VI_F: bụng] [PAUSE 1s] [VI_F: tay] [PAUSE 1s] [VI_F: chân] [PAUSE 0.5s] [EN: Remember,] [VI: bụng] [EN: has] [VI: dấu nặng] [EN: , and] [VI: đầu] [EN: has] [VI: dấu huyền] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Đây là đầu.] [PAUSE 0.5s] [VI: Dạ, đầu.] [PAUSE 0.5s] [VI_F: Đây là bụng.] [PAUSE 0.5s] [VI: Dạ, bụng.] [PAUSE 1s] [EN: Your turn. Say this is my leg.] [PAUSE 4s] [VI: Chân của tôi.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, symptoms and feeling unwell. One word to start —] [VI: đau] [EN: it means to hurt, or painful. See you then.]"
+    }
+  ]
+}

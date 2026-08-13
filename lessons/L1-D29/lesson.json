@@ -1,31 +1,48 @@
 {
   "id": "L1-D29",
-  "title": "Đặt bàn — Booking a table for tonight",
+  "title": "Đặt bàn tối nay: booking a table",
   "vocab": [
-    {"vi": "đặt bàn", "en": "book a table", "ipa": "/ɗat˨˩ʔ ɓaːn˨˩/"},
-    {"vi": "mấy người", "en": "how many people", "ipa": "/məj˧˥ ŋɨəj˨˩/"},
-    {"vi": "tối nay", "en": "tonight", "ipa": "/toj˧˥ naj˧/"}
+    {
+      "vi": "đặt bàn",
+      "en": "to book a table",
+      "ipa": "dăt˨˩ʔ baːn˨˩"
+    },
+    {
+      "vi": "mấy người",
+      "en": "how many people",
+      "ipa": "mây˧˥ ŋɨəj˨˩"
+    },
+    {
+      "vi": "tối nay",
+      "en": "tonight",
+      "ipa": "toj˧˥ naːj˧"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Where is the restroom?] [PAUSE 4s] [VI: Nhà vệ sinh ở đâu?] [EN: Near.] [PAUSE 4s] [VI: Gần.] [EN: Room.] [PAUSE 4s] [VI: Phòng.] [EN: I need medicine.] [PAUSE 4s] [VI: Tôi cần thuốc.] [EN: What does this mean?] [VI_F: Nhà thuốc.] [PAUSE 3s] [EN: Pharmacy.] [EN: Good.]"
+      "script": "[EN: Quick review. Say where —] [PAUSE 4s] [VI: ở đâu] [PAUSE 0.5s] [EN: Say restroom —] [PAUSE 4s] [VI: nhà vệ sinh] [PAUSE 0.5s] [EN: Say on the right —] [PAUSE 4s] [VI: bên phải] [PAUSE 0.5s] [EN: Say on the left —] [PAUSE 4s] [VI: bên trái] [PAUSE 0.5s] [EN: Say near —] [PAUSE 4s] [VI: gần] [PAUSE 0.5s] [EN: Say far —] [PAUSE 4s] [VI: xa] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: You call to reserve a table. Listen.] [PAUSE 0.5s] [VI_F: Dạ, nhà hàng nghe.] [EN: To book a table, say] [VI_M: Đặt bàn.] [VI_M: Đặt] [EN: has a falling, broken tone.] [VI_M: Bàn] [EN: has a falling tone.] [EN: Say book a table.] [PAUSE 4s] [VI: Đặt bàn.] [EN: She asks how many people. You know] [VI: mấy] [EN: how many, and] [VI: người] [EN: person.] [VI_F: Mấy người?] [EN: Say how many people.] [PAUSE 4s] [VI: Mấy người?] [EN: For tonight, say] [VI_M: Tối nay.] [VI_M: Tối] [EN: has a high, rising tone.] [EN: Now say, book a table for tonight.] [PAUSE 4s] [VI: Đặt bàn tối nay.] [EN: Good.]"
+      "duration_s": 200,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Alô, tôi muốn đặt bàn tối nay.] [PAUSE 0.5s] [VI_F: Dạ, mấy người?] [PAUSE 0.5s] [VI: Dạ, hai người.] [PAUSE 0.5s] [VI_F: Dạ, hai người.] [PAUSE 1s] [EN: You said] [VI: đặt bàn] [EN: it means to book a table. Listen to its two parts.] [VI_F: đặt] [EN: has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: bàn] [EN: has] [EN: a falling tone] [EN: . Listen to the whole phrase again.] [VI_F: đặt bàn] [PAUSE 1s] [VI_F: đặt bàn] [EN: Now you say it.] [PAUSE 4s] [VI: đặt bàn] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: mấy người] [EN: means how many people. Listen to its two parts.] [VI_F: mấy] [EN: you know — it has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: người] [EN: you know — it has] [EN: a falling tone] [EN: . Listen to the whole phrase again.] [VI_F: mấy người] [PAUSE 1s] [VI_F: mấy người] [EN: Now you say it.] [PAUSE 4s] [VI: mấy người] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: tối nay] [EN: means tonight. Listen to its two parts.] [VI_F: tối] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: nay] [EN: is] [EN: a flat tone, no mark] [EN: . Listen to the whole phrase again.] [VI_F: tối nay] [PAUSE 1s] [VI_F: tối nay] [EN: Now you say it.] [PAUSE 4s] [VI: tối nay] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To book a table —] [PAUSE 4s] [VI: đặt bàn] [PAUSE 0.5s] [EN: How many people —] [PAUSE 4s] [VI: mấy người] [PAUSE 0.5s] [EN: Tonight —] [PAUSE 4s] [VI: tối nay] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Book a table.] [PAUSE 4s] [VI: Đặt bàn.] [EN: How many people?] [PAUSE 4s] [VI: Mấy người?] [EN: Tonight.] [PAUSE 4s] [VI: Tối nay.] [EN: Book a table for tonight, four people.] [PAUSE 4s] [VI: Đặt bàn tối nay, bốn người.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Tối nay.] [PAUSE 3s] [EN: Tonight.] [EN: What does this mean?] [VI_F: Mấy người?] [PAUSE 3s] [EN: How many people.] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Let's drill. To book a table —] [PAUSE 4s] [VI: đặt bàn] [PAUSE 0.5s] [EN: How many people —] [PAUSE 4s] [VI: mấy người] [PAUSE 0.5s] [EN: Tonight —] [PAUSE 4s] [VI: tối nay] [PAUSE 0.5s] [EN: Now say it. I want to book a table tonight —] [PAUSE 4s] [VI: Tôi muốn đặt bàn tối nay.] [PAUSE 0.5s] [EN: Say two people —] [PAUSE 4s] [VI: Hai người.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đặt bàn] [PAUSE 3s] [EN: to book a table] [PAUSE 0.5s] [VI_F: mấy người] [PAUSE 3s] [EN: how many people] [PAUSE 0.5s] [VI_F: tối nay] [PAUSE 3s] [EN: tonight] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đặt bàn] [PAUSE 1s] [VI_F: mấy người] [PAUSE 1s] [VI_F: tối nay] [PAUSE 0.5s] [EN: Remember,] [VI: đặt] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: tối] [EN: has] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Alô, tôi muốn đặt bàn tối nay.] [VI_F: Dạ, mấy người anh?] [VI_M: Bốn người.] [VI_F: Dạ, mấy giờ anh?] [PAUSE 0.5s] [EN: Now you try. Say book a table for tonight.] [PAUSE 4s] [VI: Đặt bàn tối nay.] [EN: Say four people.] [PAUSE 4s] [VI: Bốn người.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow is your review day. The preview word is] [VI: tạm biệt] [EN: which means goodbye.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Alô, tôi muốn đặt bàn tối nay.] [PAUSE 0.5s] [VI_F: Dạ, mấy người?] [PAUSE 0.5s] [VI: Dạ, hai người.] [PAUSE 0.5s] [VI_F: Dạ, hai người.] [PAUSE 1s] [EN: Your turn. Say you want to book a table.] [PAUSE 4s] [VI: Tôi muốn đặt bàn.] [EN: Good.] [PAUSE 0.5s] [EN: Now say tonight —] [PAUSE 4s] [VI: Tối nay.] [EN: Well done.] [PAUSE 0.5s] [EN: Next lesson, our final review. One phrase to start —] [VI: tạm biệt] [EN: it means goodbye. See you then.]"
     }
   ]
 }

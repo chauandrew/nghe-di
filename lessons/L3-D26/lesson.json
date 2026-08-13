@@ -1,30 +1,43 @@
 {
   "id": "L3-D26",
-  "title": "Bạn bè — Friends and acquaintances",
+  "title": "Bạn bè, quen: introducing two people",
   "vocab": [
-    {"vi": "bạn bè", "en": "friends", "ipa": "/ɓaːn˨˩ʔ ɓɛ˨˩/"},
-    {"vi": "quen", "en": "to know, be acquainted", "ipa": "/kwɛn˧/"}
+    {
+      "vi": "bạn bè",
+      "en": "friends",
+      "ipa": "baːn˨˩ʔ bɛ˨˩"
+    },
+    {
+      "vi": "quen",
+      "en": "to know, be acquainted with (a person)",
+      "ipa": "kwɛn˧"
+    }
   ],
   "segments": [
     {
       "type": "recall",
-      "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Bigger.] [PAUSE 3s] [VI: Lớn hơn.] [EN: On the table.] [PAUSE 4s] [VI: Trên bàn.] [EN: This is my wife.] [PAUSE 4s] [VI: Đây là vợ tôi.] [EN: What does this mean?] [VI_F: Giới thiệu.] [PAUSE 3s] [EN: To introduce.] [EN: Good.]"
+      "duration_s": 95,
+      "script": "[EN: Quick review. Say more, or add —] [PAUSE 4s] [VI: thêm] [PAUSE 0.5s] [EN: Say a little, or less —] [PAUSE 4s] [VI: ít] [PAUSE 0.5s] [EN: Say ice —] [PAUSE 4s] [VI: đá] [PAUSE 0.5s] [EN: Say more than —] [PAUSE 4s] [VI: hơn] [PAUSE 0.5s] [EN: Say as ... as, equal —] [PAUSE 4s] [VI: bằng] [PAUSE 0.5s] [EN: Say the most —] [PAUSE 4s] [VI: nhất] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: You know] [VI: bạn,] [EN: friend. The plural, friends, is] [VI_F: Bạn bè.] [EN: a falling tone on the second word. They are my friends.] [PAUSE 4s] [VI: Họ là bạn bè của tôi.] [EN: She said] [VI: họ,] [EN: which means they. Good.] [PAUSE 0.5s] [EN: To know someone, to be acquainted, is] [VI_F: Quen.] [EN: a flat tone. Do you two know each other?] [PAUSE 4s] [VI: Hai người quen nhau không?] [EN: We just met.] [PAUSE 4s] [VI: Mình mới quen.] [EN: Good.]"
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh chị quen chưa?] [PAUSE 0.5s] [VI: Dạ chưa, tôi giới thiệu, đây là chị đó.] [PAUSE 0.5s] [VI_F: Dạ, chào chị! Mình quen rồi nha.] [PAUSE 1s] [EN: Today, two words for introducing people who don't know each other yet.] [PAUSE 0.5s] [EN: First,] [VI: quen] [EN: means to know, or be acquainted with a person. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: quen] [PAUSE 1s] [VI_F: quen] [EN: Now you say it.] [PAUSE 4s] [VI: quen] [EN: Good. Have you two met yet —] [PAUSE 4s] [VI: Anh chị quen chưa?] [PAUSE 0.5s] [EN: Next,] [VI: bạn bè] [EN: means friends. Listen to its two parts.] [VI_F: bạn] [EN: has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: bè] [EN: has] [EN: a falling tone] [EN: . Listen to the whole word again.] [VI_F: bạn bè] [PAUSE 1s] [VI_F: bạn bè] [EN: Now you say it.] [PAUSE 4s] [VI: bạn bè] [EN: Good. My friends are cheerful —] [PAUSE 4s] [VI: Bạn bè tôi vui.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To know, be acquainted with —] [PAUSE 4s] [VI: quen] [PAUSE 0.5s] [EN: Friends —] [PAUSE 4s] [VI: bạn bè] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Friends.] [PAUSE 3s] [VI: Bạn bè.] [EN: To be acquainted.] [PAUSE 3s] [VI: Quen.] [EN: They are my friends.] [PAUSE 4s] [VI: Họ là bạn bè của tôi.] [EN: We just met.] [PAUSE 4s] [VI: Mình mới quen.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Bạn bè.] [PAUSE 3s] [EN: Friends.] [EN: What does this mean?] [VI_F: Quen.] [PAUSE 3s] [EN: To know, be acquainted.] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Let's drill. To know, be acquainted with —] [PAUSE 4s] [VI: quen] [PAUSE 0.5s] [EN: Friends —] [PAUSE 4s] [VI: bạn bè] [PAUSE 0.5s] [EN: Now build it. Have you two met yet —] [PAUSE 4s] [VI: Anh chị quen chưa?] [PAUSE 0.5s] [EN: We already know each other — well, we're acquainted now —] [PAUSE 4s] [VI: Mình quen rồi.] [PAUSE 0.5s] [EN: My friends are cheerful —] [PAUSE 4s] [VI: Bạn bè tôi vui.] [PAUSE 0.5s] [EN: Let me introduce, this is my friends — my friends are gentle —] [PAUSE 4s] [VI: Tôi giới thiệu, bạn bè tôi hiền.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: quen] [PAUSE 3s] [EN: to know, be acquainted with] [PAUSE 0.5s] [VI_F: bạn bè] [PAUSE 3s] [EN: friends] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: quen] [PAUSE 1s] [VI_F: bạn bè] [PAUSE 0.5s] [EN: Remember,] [VI: bạn] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: bè] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Đây là Nam, bạn của tôi.] [VI_F: Dạ, chào anh Nam. Hai người quen lâu chưa?] [VI_M: Dạ, quen lâu rồi.] [PAUSE 0.5s] [EN: Now you try. Say, they are my friends.] [PAUSE 4s] [VI: Họ là bạn bè của tôi.] [EN: Say, we just met.] [PAUSE 4s] [VI: Mình mới quen.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you handle invitations. The preview word is] [VI: mời] [EN: which means to invite.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh chị quen chưa?] [PAUSE 0.5s] [VI: Dạ chưa, tôi giới thiệu, đây là chị đó.] [PAUSE 0.5s] [VI_F: Dạ, chào chị! Mình quen rồi nha.] [PAUSE 1s] [EN: Your turn. Say have you two met yet.] [PAUSE 4s] [VI: Anh chị quen chưa?] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, invitations. One word to start —] [VI: mời] [EN: it means to invite. See you then.]"
     }
   ]
 }

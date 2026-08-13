@@ -1,0 +1,35 @@
+{
+  "id": "L4-D30",
+  "title": "Ôn tập: Level Four wrap-up",
+  "vocab": [
+    {"vi": "ôn tập", "en": "to review", "ipa": "on˧ tap˨˩ʔ"},
+    {"vi": "tiếp theo", "en": "next", "ipa": "tiəp˧˥ tʰɛw˧"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say to go out, or hang out —] [PAUSE 4s] [VI: đi chơi] [PAUSE 0.5s] [EN: Say this is, introducing someone —] [PAUSE 4s] [VI: đây là] [PAUSE 0.5s] [EN: Say to introduce —] [PAUSE 4s] [VI: giới thiệu] [PAUSE 0.5s] [EN: Say lost, or to lose —] [PAUSE 4s] [VI: mất] [PAUSE 0.5s] [EN: Say thief, or to steal —] [PAUSE 4s] [VI: trộm] [PAUSE 0.5s] [EN: Say broken, or shattered —] [PAUSE 4s] [VI: bể] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 205,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạo này anh ôn tập không?] [PAUSE 0.5s] [VI: Dạ có, tôi ôn tập rồi. Tôi sửa máy lạnh, tôi rút tiền ở ngân hàng.] [PAUSE 0.5s] [VI_F: Tiếp theo?] [PAUSE 0.5s] [VI: Dạ, tiếp theo tôi nghỉ.] [PAUSE 1s] [EN: Two familiar words to close out Level Four.] [PAUSE 0.5s] [EN: First,] [VI: ôn tập] [EN: means to review. Listen to its two parts.] [VI_F: ôn] [EN: has] [VI: ngang] [PAUSE 0.3s] [VI_F: tập] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: ôn tập] [PAUSE 1s] [VI_F: ôn tập] [EN: Now you say it.] [PAUSE 4s] [VI: ôn tập] [EN: Good.] [PAUSE 0.5s] [EN: Say you already reviewed —] [PAUSE 4s] [VI: Tôi ôn tập rồi.] [PAUSE 0.5s] [EN: Next,] [VI: tiếp theo] [EN: means next. Listen to its two parts.] [VI_F: tiếp] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: theo] [EN: has] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: tiếp theo] [PAUSE 1s] [VI_F: tiếp theo] [EN: Now you say it.] [PAUSE 4s] [VI: tiếp theo] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 55,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To review —] [PAUSE 4s] [VI: ôn tập] [PAUSE 0.5s] [EN: Next —] [PAUSE 4s] [VI: tiếp theo] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 220,
+      "script": "[EN: Let's drill. To review —] [PAUSE 4s] [VI: ôn tập] [PAUSE 0.5s] [EN: Next —] [PAUSE 4s] [VI: tiếp theo] [PAUSE 0.5s] [EN: Now bring it all together. The air conditioner was broken, the repairman already fixed it —] [PAUSE 4s] [VI: Máy lạnh bị hư, thợ sửa xong rồi.] [PAUSE 0.5s] [EN: If something is lost, call the police right away —] [PAUSE 4s] [VI: Nếu bị mất thì gọi cảnh sát ngay.] [PAUSE 0.5s] [EN: What's next —] [PAUSE 4s] [VI: Tiếp theo?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ôn tập] [PAUSE 3s] [EN: to review] [PAUSE 0.5s] [VI_F: tiếp theo] [PAUSE 3s] [EN: next] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ôn tập] [PAUSE 1s] [VI_F: tiếp theo] [PAUSE 0.5s] [EN: Remember,] [VI: tập] [EN: has] [VI: dấu nặng] [EN: , and] [VI: tiếp] [EN: has] [VI: dấu sắc] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 165,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Dạo này anh ôn tập không?] [PAUSE 0.5s] [VI: Dạ có, tôi ôn tập rồi. Tôi sửa máy lạnh, tôi rút tiền ở ngân hàng.] [PAUSE 0.5s] [VI_F: Tiếp theo?] [PAUSE 0.5s] [VI: Dạ, tiếp theo tôi nghỉ.] [PAUSE 1s] [EN: Your turn. Say what's next.] [PAUSE 4s] [VI: Tiếp theo?] [EN: Good.] [PAUSE 0.5s] [EN: You have finished Level Four. You can describe symptoms, use modality and conditionals, handle bank and post office errands, report problems, give complex directions, and handle emergencies.] [PAUSE 0.5s] [EN: Level Five begins with telling a story in order. One word to start —] [VI: đầu tiên] [EN: it means first. See you then.]"
+    }
+  ]
+}

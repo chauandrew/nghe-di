@@ -1,0 +1,35 @@
+{
+  "id": "L5-D17",
+  "title": "Mừng, quà: at a celebration",
+  "vocab": [
+    {"vi": "mừng", "en": "glad, or happy", "ipa": "mɨŋ˨˩"},
+    {"vi": "quà", "en": "gift", "ipa": "kwaː˨˩"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say beautiful, or nice-looking —] [PAUSE 4s] [VI: đẹp] [PAUSE 0.5s] [EN: Say small —] [PAUSE 4s] [VI: nhỏ] [PAUSE 0.5s] [EN: Say new —] [PAUSE 4s] [VI: mới] [PAUSE 0.5s] [EN: Say old —] [PAUSE 4s] [VI: cũ] [PAUSE 0.5s] [EN: Say to send —] [PAUSE 4s] [VI: gửi] [PAUSE 0.5s] [EN: Say post office —] [PAUSE 4s] [VI: bưu điện] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chúc mừng chị nha!] [PAUSE 0.5s] [VI: Cảm ơn em. Quà đẹp quá!] [PAUSE 0.5s] [VI_F: Dạ, em mừng lắm!] [PAUSE 1s] [EN: Today, celebrations.] [PAUSE 0.5s] [EN: You already know] [VI: chúc mừng] [EN: for congratulations. Today,] [VI: mừng] [EN: alone means glad, or happy. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: mừng] [PAUSE 1s] [VI_F: mừng] [EN: Now you say it.] [PAUSE 4s] [VI: mừng] [EN: Good. I'm so glad —] [PAUSE 4s] [VI: Em mừng lắm.] [EN: Here,] [VI: lắm] [EN: means very — even stronger than] [VI: quá] [EN: .] [PAUSE 0.5s] [EN: Next,] [VI: quà] [EN: means gift. It also has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: quà] [PAUSE 1s] [VI_F: quà] [EN: Now you say it.] [PAUSE 4s] [VI: quà] [EN: Good. The gift is very nice —] [PAUSE 4s] [VI: Quà đẹp quá.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Glad, or happy —] [PAUSE 4s] [VI: mừng] [PAUSE 0.5s] [EN: Gift —] [PAUSE 4s] [VI: quà] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. Glad, or happy —] [PAUSE 4s] [VI: mừng] [PAUSE 0.5s] [EN: Gift —] [PAUSE 4s] [VI: quà] [PAUSE 0.5s] [EN: Now build it. I'm so glad —] [PAUSE 4s] [VI: Em mừng lắm.] [PAUSE 0.5s] [EN: The gift is very nice —] [PAUSE 4s] [VI: Quà đẹp quá.] [PAUSE 0.5s] [EN: Congratulations, are you glad? —] [PAUSE 4s] [VI: Chúc mừng chị, chị mừng không?] [PAUSE 0.5s] [EN: This gift is mine —] [PAUSE 4s] [VI: Quà này của em.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: mừng] [PAUSE 3s] [EN: glad, or happy] [PAUSE 0.5s] [VI_F: quà] [PAUSE 3s] [EN: gift] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: mừng] [PAUSE 1s] [VI_F: quà] [PAUSE 0.5s] [EN: Remember,] [VI: mừng] [EN: and] [VI: quà] [EN: both have] [VI: dấu huyền] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Chúc mừng chị nha!] [PAUSE 0.5s] [VI: Cảm ơn em. Quà đẹp quá!] [PAUSE 0.5s] [VI_F: Dạ, em mừng lắm!] [PAUSE 1s] [EN: Your turn. Say the gift is very nice.] [PAUSE 4s] [VI: Quà đẹp quá.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, a word you already know gets a brand new job. One word to start —] [VI: mà] [EN: See you then.]"
+    }
+  ]
+}

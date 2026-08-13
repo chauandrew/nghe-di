@@ -1,0 +1,35 @@
+{
+  "id": "L5-D1",
+  "title": "Đầu tiên, cuối cùng: sequencing a story",
+  "vocab": [
+    {"vi": "đầu tiên", "en": "first (opens a sequence)", "ipa": "dəw˨˩ tiən˧"},
+    {"vi": "cuối cùng", "en": "finally (closes a sequence)", "ipa": "kuəj˧˥ kuŋ˨˩"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say and —] [PAUSE 4s] [VI: và] [PAUSE 0.5s] [EN: Say with —] [PAUSE 4s] [VI: với] [PAUSE 0.5s] [EN: Say also, or too —] [PAUSE 4s] [VI: cũng] [PAUSE 0.5s] [EN: Say friends —] [PAUSE 4s] [VI: bạn bè] [PAUSE 0.5s] [EN: Say to know, or be acquainted with someone —] [PAUSE 4s] [VI: quen] [PAUSE 0.5s] [EN: Say air conditioner —] [PAUSE 4s] [VI: máy lạnh] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Hôm nay anh làm gì?] [PAUSE 0.5s] [VI: Đầu tiên tôi ăn sáng, sau đó tôi làm việc, cuối cùng tôi đi chơi.] [PAUSE 0.5s] [VI_F: Vui quá!] [PAUSE 1s] [EN: Today's structure: telling a story in order.] [PAUSE 0.5s] [EN: First,] [VI: đầu tiên] [EN: means first — it opens a sequence. Listen to its two parts.] [VI_F: đầu] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI_F: tiên] [EN: has] [VI: ngang] [EN: — flat. Listen to the whole word again.] [VI_F: đầu tiên] [PAUSE 1s] [VI_F: đầu tiên] [EN: Now you say it.] [PAUSE 4s] [VI: đầu tiên] [EN: Good.] [PAUSE 0.5s] [EN: You already know] [VI: sau đó] [EN: — then, or after that. It goes in the middle of the story.] [VI_F: sau đó] [PAUSE 0.5s] [EN: And last,] [VI: cuối cùng] [EN: means finally — it closes a sequence. Listen to its two parts.] [VI_F: cuối] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: cùng] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole word again.] [VI_F: cuối cùng] [PAUSE 1s] [VI_F: cuối cùng] [EN: Now you say it.] [PAUSE 4s] [VI: cuối cùng] [EN: Good.] [PAUSE 0.5s] [EN: Put all three together — first I eat breakfast, then I work, finally I go out —] [PAUSE 4s] [VI: Đầu tiên tôi ăn sáng, sau đó tôi làm việc, cuối cùng tôi đi chơi.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's sequence words.] [PAUSE 0.5s] [EN: First —] [PAUSE 4s] [VI: đầu tiên] [PAUSE 0.5s] [EN: Then, or after that —] [PAUSE 4s] [VI: sau đó] [PAUSE 0.5s] [EN: Finally —] [PAUSE 4s] [VI: cuối cùng] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. First —] [PAUSE 4s] [VI: đầu tiên] [PAUSE 0.5s] [EN: Then, or after that —] [PAUSE 4s] [VI: sau đó] [PAUSE 0.5s] [EN: Finally —] [PAUSE 4s] [VI: cuối cùng] [PAUSE 0.5s] [EN: Now build it. First I go to the market, then I drink coffee, finally I go home —] [PAUSE 4s] [VI: Đầu tiên tôi đi chợ, sau đó tôi uống cà phê, cuối cùng tôi về nhà.] [PAUSE 0.5s] [EN: First I work, then I eat lunch with friends, finally I rest —] [PAUSE 4s] [VI: Đầu tiên tôi làm việc, sau đó tôi ăn trưa với bạn bè, cuối cùng tôi nghỉ.] [PAUSE 0.5s] [EN: First I got to know him, then I also got to know her —] [PAUSE 4s] [VI: Đầu tiên tôi quen anh, sau đó tôi cũng quen chị.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đầu tiên] [PAUSE 3s] [EN: first] [PAUSE 0.5s] [VI_F: sau đó] [PAUSE 3s] [EN: then, or after that] [PAUSE 0.5s] [VI_F: cuối cùng] [PAUSE 3s] [EN: finally] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đầu tiên] [PAUSE 1s] [VI_F: cuối cùng] [PAUSE 0.5s] [EN: Remember,] [VI: đầu] [EN: has] [VI: dấu huyền] [EN: , and] [VI: cuối] [EN: has] [VI: dấu sắc] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Hôm nay anh làm gì?] [PAUSE 0.5s] [VI: Đầu tiên tôi ăn sáng, sau đó tôi làm việc, cuối cùng tôi đi chơi.] [PAUSE 0.5s] [VI_F: Vui quá!] [PAUSE 1s] [EN: Your turn. Say first I go to the market, then I drink coffee, finally I go home.] [PAUSE 4s] [VI: Đầu tiên tôi đi chợ, sau đó tôi uống cà phê, cuối cùng tôi về nhà.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, telling the story of your whole day. One word to start —] [VI: kể] [EN: it means to tell, or narrate. See you then.]"
+    }
+  ]
+}

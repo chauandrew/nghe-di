@@ -1,31 +1,48 @@
 {
   "id": "L3-D12",
-  "title": "Trong thành phố — Places in the city",
+  "title": "Chợ, công viên, ngân hàng: places around the city",
   "vocab": [
-    {"vi": "chợ", "en": "market", "ipa": "/t͡ɕəː˨˩ʔ/"},
-    {"vi": "công viên", "en": "park", "ipa": "/koŋ˧ viən˧/"},
-    {"vi": "ngân hàng", "en": "bank", "ipa": "/ŋən˧ haːŋ˨˩/"}
+    {
+      "vi": "chợ",
+      "en": "market",
+      "ipa": "tɕɤ˨˩ʔ"
+    },
+    {
+      "vi": "công viên",
+      "en": "park",
+      "ipa": "koŋ˧ viən˧"
+    },
+    {
+      "vi": "ngân hàng",
+      "en": "bank",
+      "ipa": "ŋən˧ haːŋ˨˩"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Usually.] [PAUSE 3s] [VI: Thường.] [EN: Today I am busy.] [PAUSE 4s] [VI: Hôm nay tôi bận.] [EN: In the middle.] [PAUSE 4s] [VI: Ở giữa.] [EN: What does this mean?] [VI_F: Đối diện.] [PAUSE 3s] [EN: Across from.] [EN: Good.]"
+      "script": "[EN: Quick review. Say usually —] [PAUSE 4s] [VI: thường] [PAUSE 0.5s] [EN: Say often —] [PAUSE 4s] [VI: hay] [PAUSE 0.5s] [EN: Say sometimes —] [PAUSE 4s] [VI: thỉnh thoảng] [PAUSE 0.5s] [EN: Say never —] [PAUSE 4s] [VI: không bao giờ] [PAUSE 0.5s] [EN: Say it's been a long time —] [PAUSE 4s] [VI: lâu rồi] [PAUSE 0.5s] [EN: Say these days, or lately —] [PAUSE 4s] [VI: dạo này] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: A market is] [VI_F: Chợ.] [EN: a falling, broken tone; relax your lips for this vowel. A park is] [VI_F: Công viên.] [EN: Say park.] [PAUSE 4s] [VI: Công viên.] [EN: A bank is] [VI_F: Ngân hàng.] [EN: Say bank.] [PAUSE 4s] [VI: Ngân hàng.] [EN: Good. Now place them. The bank is next to the market.] [PAUSE 4s] [VI: Ngân hàng bên cạnh chợ.] [EN: The park is across from the bank.] [PAUSE 4s] [VI: Công viên đối diện ngân hàng.] [EN: Good.]"
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chợ ở đâu?] [PAUSE 0.5s] [VI: Dạ, chợ gần công viên.] [PAUSE 0.5s] [VI_F: Còn ngân hàng?] [PAUSE 0.5s] [VI: Ngân hàng đối diện công viên.] [PAUSE 1s] [EN: Today, three places in the city.] [PAUSE 0.5s] [EN: First,] [VI: chợ] [EN: means market. It has] [EN: a low tone, cut off short] [EN: . Listen again.] [VI_F: chợ] [PAUSE 1s] [VI_F: chợ] [EN: Now you say it.] [PAUSE 4s] [VI: chợ] [EN: Good. Next,] [VI: công viên] [EN: means park. Listen to its two parts.] [VI_F: công] [EN: has] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: viên] [EN: also] [EN: a flat tone, no mark] [EN: . Listen to the whole word again.] [VI_F: công viên] [PAUSE 1s] [VI_F: công viên] [EN: Now you say it.] [PAUSE 4s] [VI: công viên] [EN: Good. Last,] [VI: ngân hàng] [EN: means bank. Listen to its two parts.] [VI_F: ngân] [EN: has] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: hàng] [EN: has] [EN: a falling tone] [EN: . Listen to the whole word again.] [VI_F: ngân hàng] [PAUSE 1s] [VI_F: ngân hàng] [EN: Now you say it.] [PAUSE 4s] [VI: ngân hàng] [EN: Good. Ask where the bank is —] [PAUSE 4s] [VI: Ngân hàng ở đâu?]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Market —] [PAUSE 4s] [VI: chợ] [PAUSE 0.5s] [EN: Park —] [PAUSE 4s] [VI: công viên] [PAUSE 0.5s] [EN: Bank —] [PAUSE 4s] [VI: ngân hàng] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Market.] [PAUSE 3s] [VI: Chợ.] [EN: Park.] [PAUSE 3s] [VI: Công viên.] [EN: Bank.] [PAUSE 3s] [VI: Ngân hàng.] [EN: The bank is next to the market.] [PAUSE 4s] [VI: Ngân hàng bên cạnh chợ.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Công viên.] [PAUSE 3s] [EN: Park.] [EN: What does this mean?] [VI_F: Ngân hàng.] [PAUSE 3s] [EN: Bank.] [EN: Good.]"
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Market —] [PAUSE 4s] [VI: chợ] [PAUSE 0.5s] [EN: Park —] [PAUSE 4s] [VI: công viên] [PAUSE 0.5s] [EN: Bank —] [PAUSE 4s] [VI: ngân hàng] [PAUSE 0.5s] [EN: Now say it. The market is near the park —] [PAUSE 4s] [VI: Chợ gần công viên.] [PAUSE 0.5s] [EN: The bank is across from the park —] [PAUSE 4s] [VI: Ngân hàng đối diện công viên.] [PAUSE 0.5s] [EN: Where's the market —] [PAUSE 4s] [VI: Chợ ở đâu?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: chợ] [PAUSE 3s] [EN: market] [PAUSE 0.5s] [VI_F: công viên] [PAUSE 3s] [EN: park] [PAUSE 0.5s] [VI_F: ngân hàng] [PAUSE 3s] [EN: bank] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: chợ] [PAUSE 1s] [VI_F: công viên] [PAUSE 1s] [VI_F: ngân hàng] [PAUSE 0.5s] [EN: Remember,] [VI: chợ] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: hàng] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, ngân hàng ở đâu?] [VI_F: Dạ, bên cạnh chợ, đối diện công viên.] [VI_M: Dạ, gần không?] [VI_F: Gần lắm.] [PAUSE 0.5s] [EN: Now you try. Say, the bank is next to the market.] [PAUSE 4s] [VI: Ngân hàng bên cạnh chợ.] [EN: Say, the park is across from the bank.] [PAUSE 4s] [VI: Công viên đối diện ngân hàng.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you make suggestions. The preview word is] [VI: mình] [EN: which means we, or let's.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Chợ ở đâu?] [PAUSE 0.5s] [VI: Dạ, chợ gần công viên.] [PAUSE 0.5s] [VI_F: Còn ngân hàng?] [PAUSE 0.5s] [VI: Ngân hàng đối diện công viên.] [PAUSE 1s] [EN: Your turn. Say the bank is near the market.] [PAUSE 4s] [VI: Ngân hàng gần chợ.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, making suggestions. One word to start —] [VI: mình] [EN: it means we, in a friendly, informal way. See you then.]"
     }
   ]
 }

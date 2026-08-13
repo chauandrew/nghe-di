@@ -1,0 +1,48 @@
+{
+  "id": "L5-D20",
+  "title": "Công ty, dự án, áp lực: work and career",
+  "vocab": [
+    {
+      "vi": "công ty",
+      "en": "company",
+      "ipa": "kɔŋ˧ ti˧"
+    },
+    {
+      "vi": "dự án",
+      "en": "project",
+      "ipa": "zɨ˨˩ʔ aːn˧˥"
+    },
+    {
+      "vi": "áp lực",
+      "en": "pressure",
+      "ipa": "ap˧˥ lɨk˨˩ʔ"
+    }
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say family —] [PAUSE 4s] [VI: gia đình] [EN: Say air conditioner —] [PAUSE 4s] [VI: máy lạnh] [EN: Say to be born —] [PAUSE 4s] [VI: sinh ra] [EN: Say to grow up —] [PAUSE 4s] [VI: lớn lên] [EN: Say to get married —] [PAUSE 4s] [VI: kết hôn] [EN: Say famous —] [PAUSE 4s] [VI: nổi tiếng] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Công ty anh có dự án mới không?] [PAUSE 0.5s] [VI: Có. Áp lực lắm!] [PAUSE 0.5s] [VI_F: Vậy à? Anh mệt không?] [PAUSE 1s] [EN: Today, work and career.] [PAUSE 0.5s] [EN: First,] [VI: công ty] [EN: means company. Listen to its two parts.] [VI_F: công] [EN: is] [VI: ngang] [EN: — flat,] [PAUSE 0.3s] [VI_F: ty] [EN: is also] [VI: ngang] [EN: — flat. Listen to the whole word again.] [VI_F: công ty] [PAUSE 1s] [VI_F: công ty] [EN: Now you say it.] [PAUSE 4s] [VI: công ty] [EN: Good. My company —] [PAUSE 4s] [VI: Công ty của anh.] [PAUSE 0.5s] [EN: Next,] [VI: dự án] [EN: means project. Listen to its two parts.] [VI_F: dự] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: án] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole word again.] [VI_F: dự án] [PAUSE 1s] [VI_F: dự án] [EN: Now you say it.] [PAUSE 4s] [VI: dự án] [EN: Good. A new project —] [PAUSE 4s] [VI: Dự án mới.] [PAUSE 0.5s] [EN: Last,] [VI: áp lực] [EN: means pressure. Listen to its two parts.] [VI_F: áp] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: lực] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: áp lực] [PAUSE 1s] [VI_F: áp lực] [EN: Now you say it.] [PAUSE 4s] [VI: áp lực] [EN: Good. So much pressure —] [PAUSE 4s] [VI: Áp lực lắm!]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Company —] [PAUSE 4s] [VI: công ty] [PAUSE 0.5s] [EN: Project —] [PAUSE 4s] [VI: dự án] [PAUSE 0.5s] [EN: Pressure —] [PAUSE 4s] [VI: áp lực] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Company —] [PAUSE 4s] [VI: công ty] [PAUSE 0.5s] [EN: Project —] [PAUSE 4s] [VI: dự án] [PAUSE 0.5s] [EN: Pressure —] [PAUSE 4s] [VI: áp lực] [PAUSE 0.5s] [EN: Now build it. Does your company have a new project? —] [PAUSE 4s] [VI: Công ty anh có dự án mới không?] [PAUSE 0.5s] [EN: This project has a lot of pressure —] [PAUSE 4s] [VI: Dự án này áp lực lắm.] [PAUSE 0.5s] [EN: I work at a big company —] [PAUSE 4s] [VI: Tôi làm việc ở công ty lớn.] [PAUSE 0.5s] [EN: I like working here, but there's a lot of pressure —] [PAUSE 4s] [VI: Tôi thích làm việc ở đây, nhưng áp lực lắm.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: công ty] [PAUSE 3s] [EN: company] [PAUSE 0.5s] [VI_F: dự án] [PAUSE 3s] [EN: project] [PAUSE 0.5s] [VI_F: áp lực] [PAUSE 3s] [EN: pressure] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: công ty] [PAUSE 1s] [VI_F: dự án] [PAUSE 1s] [VI_F: áp lực] [PAUSE 0.5s] [EN: Remember,] [VI: dự] [EN: has] [VI: dấu nặng] [EN: , and] [VI: áp] [EN: has] [VI: dấu sắc] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Công ty anh có dự án mới không?] [PAUSE 0.5s] [VI: Có. Áp lực lắm!] [PAUSE 0.5s] [VI_F: Vậy à? Anh mệt không?] [PAUSE 1s] [EN: Your turn. Say so much pressure.] [PAUSE 4s] [VI: Áp lực lắm!] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, talking about work with a colleague. One word to start —] [VI: đồng nghiệp] [EN: it means colleague. See you then.]"
+    }
+  ]
+}

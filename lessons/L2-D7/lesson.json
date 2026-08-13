@@ -1,31 +1,53 @@
 {
   "id": "L2-D7",
-  "title": "Thường — How often you do things",
+  "title": "Thường, hay, thỉnh thoảng: how often",
   "vocab": [
-    {"vi": "thường", "en": "usually, often", "ipa": "/tʰɨəŋ˨˩/"},
-    {"vi": "hay", "en": "often (and: or)", "ipa": "/haj˧/"},
-    {"vi": "thỉnh thoảng", "en": "sometimes", "ipa": "/tʰiɲ˧˩˧ tʰwaːŋ˧˩˧/"}
+    {
+      "vi": "thường",
+      "en": "usually",
+      "ipa": "tʰɨəŋ˨˩"
+    },
+    {
+      "vi": "hay",
+      "en": "often",
+      "ipa": "haːj˧"
+    },
+    {
+      "vi": "thỉnh thoảng",
+      "en": "sometimes",
+      "ipa": "tʰiŋ˨˩˦ tʰwaːŋ˨˩˦"
+    },
+    {
+      "vi": "không bao giờ",
+      "en": "never",
+      "ipa": "xoŋ˧ baːw˧ zɤ˨˩"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: To work.] [PAUSE 4s] [VI: Làm việc.] [EN: To go home.] [PAUSE 4s] [VI: Về nhà.] [EN: To cook.] [PAUSE 4s] [VI: Nấu ăn.] [EN: What does this mean?] [VI_F: Hẹn gặp lại.] [PAUSE 3s] [EN: See you again.] [EN: Good.]"
+      "script": "[EN: Quick review. Older man —] [PAUSE 4s] [VI: anh] [PAUSE 0.5s] [EN: Older woman —] [PAUSE 4s] [VI: chị] [PAUSE 0.5s] [EN: Younger person —] [PAUSE 4s] [VI: em] [PAUSE 0.5s] [EN: What time —] [PAUSE 4s] [VI: mấy giờ] [PAUSE 0.5s] [EN: Morning —] [PAUSE 4s] [VI: buổi sáng] [PAUSE 0.5s] [EN: To open —] [PAUSE 4s] [VI: mở cửa] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: To say how often, put a frequency word before the verb. Usually is] [VI_F: Thường.] [EN: relax your lips for this vowel, do not round it. I usually wake up at six.] [PAUSE 4s] [VI: Tôi thường dậy lúc sáu giờ.] [EN: Good.] [PAUSE 0.5s] [EN: Often is] [VI_F: Hay.] [EN: a flat tone; this word also means or, but here it means often. I often cook.] [PAUSE 4s] [VI: Tôi hay nấu ăn.] [EN: Sometimes is] [VI_F: Thỉnh thoảng.] [EN: Say sometimes.] [PAUSE 4s] [VI: Thỉnh thoảng.] [EN: And never is] [VI: không bao giờ.] [EN: I never sleep early.] [PAUSE 4s] [VI: Tôi không bao giờ ngủ sớm.] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Chị thường dậy mấy giờ?] [PAUSE 0.5s] [VI_F: Dạ, em thường dậy sáu giờ sáng.] [PAUSE 0.5s] [VI: Chị có hay nấu ăn không?] [PAUSE 0.5s] [VI_F: Dạ, thỉnh thoảng.] [PAUSE 1s] [EN: Today's structure: how often. These words go right before the verb — a scale from most often to least.] [PAUSE 0.5s] [EN: First,] [VI: thường] [EN: means usually. It has] [EN: a falling tone] [EN: — falling. Listen again.] [VI_F: thường] [PAUSE 1s] [VI_F: thường] [EN: Now you say it.] [PAUSE 4s] [VI: thường] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: hay] [EN: means often. It has] [EN: a flat tone, no mark] [EN: — flat, no mark. Listen again.] [VI_F: hay] [PAUSE 1s] [VI_F: hay] [EN: Now you say it.] [PAUSE 4s] [VI: hay] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: thỉnh thoảng] [EN: means sometimes. Listen to its two parts.] [VI_F: thỉnh] [EN: has] [EN: a dipping tone — it falls, then rises] [PAUSE 0.3s] [VI_F: thoảng] [EN: also has] [EN: a dipping tone — it falls, then rises] [EN: . Listen to the whole word again.] [VI_F: thỉnh thoảng] [PAUSE 1s] [VI_F: thỉnh thoảng] [EN: Now you say it.] [PAUSE 4s] [VI: thỉnh thoảng] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: không bao giờ] [EN: means never. You know] [VI: không] [EN: and] [VI: giờ] [EN: already — this adds] [VI: bao] [EN: which also has] [EN: a flat tone, no mark] [EN: . Listen to the whole phrase again.] [VI_F: không bao giờ] [PAUSE 1s] [VI_F: không bao giờ] [EN: Now you say it.] [PAUSE 4s] [VI: không bao giờ] [EN: Good.] [PAUSE 0.3s] [VI_F: Em không bao giờ đi bộ.] [EN: I never walk.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 80,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Usually —] [PAUSE 4s] [VI: thường] [PAUSE 0.5s] [EN: Often —] [PAUSE 4s] [VI: hay] [PAUSE 0.5s] [EN: Sometimes —] [PAUSE 4s] [VI: thỉnh thoảng] [PAUSE 0.5s] [EN: Never —] [PAUSE 4s] [VI: không bao giờ] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Hold the verb, change the frequency. I usually go to work at eight.] [PAUSE 4s] [VI: Tôi thường đi làm lúc tám giờ.] [EN: I sometimes cook.] [PAUSE 4s] [VI: Thỉnh thoảng tôi nấu ăn.] [EN: I often eat breakfast.] [PAUSE 4s] [VI: Tôi hay ăn sáng.] [EN: I never sleep early.] [PAUSE 4s] [VI: Tôi không bao giờ ngủ sớm.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Thỉnh thoảng.] [PAUSE 3s] [EN: Sometimes.] [EN: What does this mean?] [VI_F: Thường.] [PAUSE 3s] [EN: Usually.] [EN: Good.]"
+      "duration_s": 250,
+      "script": "[EN: Let's drill. Usually —] [PAUSE 4s] [VI: thường] [PAUSE 0.5s] [EN: Often —] [PAUSE 4s] [VI: hay] [PAUSE 0.5s] [EN: Sometimes —] [PAUSE 4s] [VI: thỉnh thoảng] [PAUSE 0.5s] [EN: Never —] [PAUSE 4s] [VI: không bao giờ] [PAUSE 0.5s] [EN: Now say it. I usually eat breakfast —] [PAUSE 4s] [VI: Em thường ăn sáng.] [PAUSE 0.5s] [EN: I often cook —] [PAUSE 4s] [VI: Em hay nấu ăn.] [PAUSE 0.5s] [EN: I sometimes work —] [PAUSE 4s] [VI: Em thỉnh thoảng làm việc.] [PAUSE 0.5s] [EN: I never walk —] [PAUSE 4s] [VI: Em không bao giờ đi bộ.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: thường] [PAUSE 3s] [EN: usually] [PAUSE 0.5s] [VI_F: hay] [PAUSE 3s] [EN: often] [PAUSE 0.5s] [VI_F: thỉnh thoảng] [PAUSE 3s] [EN: sometimes] [PAUSE 0.5s] [VI_F: không bao giờ] [PAUSE 3s] [EN: never] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: thường] [PAUSE 1s] [VI_F: hay] [PAUSE 1s] [VI_F: thỉnh thoảng] [PAUSE 1s] [VI_F: không bao giờ] [PAUSE 0.5s] [EN: Remember,] [VI: thường] [EN: has] [EN: a falling tone] [EN: , and] [VI: thỉnh] [EN: and] [VI: thoảng] [EN: both have] [EN: a dipping tone — it falls, then rises] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh có hay nấu ăn không?] [VI_M: Dạ, thỉnh thoảng. Tôi thường nấu ăn.] [VI_F: Vậy hả.] [PAUSE 0.5s] [EN: Now you try. Say I usually wake up at six.] [PAUSE 4s] [VI: Tôi thường dậy lúc sáu giờ.] [EN: Say I sometimes cook.] [PAUSE 4s] [VI: Thỉnh thoảng tôi nấu ăn.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you put a routine in order. The preview word is] [VI: trước] [EN: which means before, or first.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Chị thường dậy mấy giờ?] [PAUSE 0.5s] [VI_F: Dạ, em thường dậy sáu giờ sáng.] [PAUSE 0.5s] [VI: Chị có hay nấu ăn không?] [PAUSE 0.5s] [VI_F: Dạ, thỉnh thoảng.] [PAUSE 1s] [EN: Your turn. Say you never walk.] [PAUSE 4s] [VI: Em không bao giờ đi bộ.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, putting your routine in order. One word to start —] [VI: trước] [EN: it means before. See you then.]"
     }
   ]
 }

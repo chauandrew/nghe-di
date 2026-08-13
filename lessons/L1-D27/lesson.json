@@ -1,31 +1,48 @@
 {
   "id": "L1-D27",
-  "title": "Bị lạc — Asking for directions when lost",
+  "title": "Tôi bị lạc: asking for directions when lost",
   "vocab": [
-    {"vi": "tôi bị lạc", "en": "I am lost", "ipa": "/toj˧ ɓi˨˩ʔ laːk˨˩ʔ/"},
-    {"vi": "đường này", "en": "this street", "ipa": "/ɗɨəŋ˨˩ naj˨˩/"},
-    {"vi": "quẹo trái", "en": "turn left", "ipa": "/kwɛw˨˩ʔ ʈaːj˧˥/"}
+    {
+      "vi": "tôi bị lạc",
+      "en": "I'm lost",
+      "ipa": "toj˧ bi˨˩ʔ laːk˨˩ʔ"
+    },
+    {
+      "vi": "đường này",
+      "en": "this street",
+      "ipa": "dɨəŋ˨˩ naːj˨˩"
+    },
+    {
+      "vi": "quẹo trái",
+      "en": "turn left",
+      "ipa": "kwɛw˨˩ʔ tɕaːj˧˥"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: More ice.] [PAUSE 4s] [VI: Thêm đá.] [EN: Today.] [PAUSE 4s] [VI: Hôm nay.] [EN: Excuse me, to a man.] [PAUSE 4s] [VI: Anh ơi!] [EN: Room.] [PAUSE 4s] [VI: Phòng.] [EN: What does this mean?] [VI_F: Còn phòng không?] [PAUSE 3s] [EN: Are there any rooms available.] [EN: Good.]"
+      "script": "[EN: Quick review. Say more, or add —] [PAUSE 4s] [VI: thêm] [PAUSE 0.5s] [EN: Say a little, or less —] [PAUSE 4s] [VI: ít] [PAUSE 0.5s] [EN: Say ice —] [PAUSE 4s] [VI: đá] [PAUSE 0.5s] [EN: Say today —] [PAUSE 4s] [VI: hôm nay] [PAUSE 0.5s] [EN: Say tomorrow —] [PAUSE 4s] [VI: ngày mai] [PAUSE 0.5s] [EN: Say yesterday —] [PAUSE 4s] [VI: hôm qua] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: You stop a passerby for help. Listen.] [PAUSE 0.5s] [VI_F: Dạ, anh ổn không?] [EN: She said] [VI: ổn] [EN: which means okay.] [EN: Tell her you are lost.] [VI_M: Tôi bị lạc.] [VI_M: Bị] [EN: has a falling, broken tone, and marks something happening to you.] [VI_M: Lạc] [EN: also falling, broken.] [EN: Say I am lost.] [PAUSE 4s] [VI: Tôi bị lạc.] [EN: Good.] [PAUSE 0.5s] [EN: This street is] [VI_F: Đường này.] [EN: both falling; relax your lips for this vowel.] [EN: Say this street.] [PAUSE 4s] [VI: Đường này.] [EN: She says turn left.] [VI_F: Quẹo trái.] [VI_F: Quẹo] [EN: has a falling, broken tone.] [VI_F: Trái] [EN: has a high, rising tone.] [EN: Say turn left.] [PAUSE 4s] [VI: Quẹo trái.] [EN: Good.]"
+      "duration_s": 205,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, tôi bị lạc.] [PAUSE 0.5s] [VI_F: Dạ, đường này. Quẹo trái.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: You said] [VI: tôi bị lạc] [EN: it means I'm lost. Listen to its three parts.] [VI_F: tôi] [EN: is] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: bị] [EN: has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: lạc] [EN: also has] [EN: a low tone, cut off short] [EN: . Listen to the whole phrase again.] [VI_F: tôi bị lạc] [PAUSE 1s] [VI_F: tôi bị lạc] [EN: Now you say it.] [PAUSE 4s] [VI: tôi bị lạc] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: đường này] [EN: means this street. Here] [VI: đường] [EN: means street, or road — a different word from] [VI: đường] [EN: sugar, that you already know.] [PAUSE 0.3s] [VI_F: đường] [EN: has] [EN: a falling tone] [PAUSE 0.3s] [VI_F: này] [EN: also has] [EN: a falling tone] [EN: . Listen to the whole phrase again.] [VI_F: đường này] [PAUSE 1s] [VI_F: đường này] [EN: Now you say it.] [PAUSE 4s] [VI: đường này] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: quẹo trái] [EN: means turn left. Listen to its two parts.] [VI_F: quẹo] [EN: has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: trái] [EN: you know — it has] [EN: a high, rising tone] [EN: . Listen to the whole phrase again.] [VI_F: quẹo trái] [PAUSE 1s] [VI_F: quẹo trái] [EN: Now you say it.] [PAUSE 4s] [VI: quẹo trái] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: I'm lost —] [PAUSE 4s] [VI: tôi bị lạc] [PAUSE 0.5s] [EN: This street —] [PAUSE 4s] [VI: đường này] [PAUSE 0.5s] [EN: Turn left —] [PAUSE 4s] [VI: quẹo trái] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. I am lost.] [PAUSE 4s] [VI: Tôi bị lạc.] [EN: This street.] [PAUSE 4s] [VI: Đường này.] [EN: Turn left.] [PAUSE 4s] [VI: Quẹo trái.] [EN: I am lost. Is it this street?] [PAUSE 4s] [VI: Tôi bị lạc. Đường này phải không?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Quẹo trái.] [PAUSE 3s] [EN: Turn left.] [EN: What does this mean?] [VI_F: Tôi bị lạc.] [PAUSE 3s] [EN: I am lost.] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Let's drill. I'm lost —] [PAUSE 4s] [VI: tôi bị lạc] [PAUSE 0.5s] [EN: This street —] [PAUSE 4s] [VI: đường này] [PAUSE 0.5s] [EN: Turn left —] [PAUSE 4s] [VI: quẹo trái] [PAUSE 0.5s] [EN: Now say it. Say you're lost —] [PAUSE 4s] [VI: Tôi bị lạc.] [PAUSE 0.5s] [EN: Say turn left on this street —] [PAUSE 4s] [VI: Đường này, quẹo trái.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: tôi bị lạc] [PAUSE 3s] [EN: I'm lost] [PAUSE 0.5s] [VI_F: đường này] [PAUSE 3s] [EN: this street] [PAUSE 0.5s] [VI_F: quẹo trái] [PAUSE 3s] [EN: turn left] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: tôi bị lạc] [PAUSE 1s] [VI_F: đường này] [PAUSE 1s] [VI_F: quẹo trái] [PAUSE 0.5s] [EN: Remember,] [VI: bị] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: lạc] [EN: also has] [EN: a low tone, cut off short] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, tôi bị lạc.] [VI_F: Dạ, anh đi đâu?] [VI_M: Bến Thành. Đường này phải không?] [VI_F: Quẹo trái, gần lắm.] [PAUSE 0.5s] [EN: Now you try. Say I am lost.] [PAUSE 4s] [VI: Tôi bị lạc.] [EN: Ask, this street, right?] [PAUSE 4s] [VI: Đường này phải không?] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you visit a pharmacy. The preview phrase is] [VI: tôi cần] [EN: which means I need.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Dạ, tôi bị lạc.] [PAUSE 0.5s] [VI_F: Dạ, đường này. Quẹo trái.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: Your turn. Say you're lost.] [PAUSE 4s] [VI: Tôi bị lạc.] [EN: Good.] [PAUSE 0.5s] [EN: Now say turn left —] [PAUSE 4s] [VI: Quẹo trái.] [EN: Well done.] [PAUSE 0.5s] [EN: Next lesson, finding a pharmacy. One word to start —] [VI: thuốc] [EN: it means medicine. See you then.]"
     }
   ]
 }

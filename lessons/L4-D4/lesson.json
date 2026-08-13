@@ -1,0 +1,36 @@
+{
+  "id": "L4-D4",
+  "title": "Nên, phải, cần: should, must, need",
+  "vocab": [
+    {"vi": "nên", "en": "should (a different job from the vì...nên reason connector)", "ipa": "nen˧"},
+    {"vi": "phải", "en": "must", "ipa": "faːj˨˩˦"},
+    {"vi": "cần", "en": "need", "ipa": "kân˨˩"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say to order food —] [PAUSE 4s] [VI: gọi món] [PAUSE 0.5s] [EN: Say large —] [PAUSE 4s] [VI: lớn] [PAUSE 0.5s] [EN: Say portion —] [PAUSE 4s] [VI: phần] [PAUSE 0.5s] [EN: Say one day, or my day —] [PAUSE 4s] [VI: một ngày] [PAUSE 0.5s] [EN: Say normal, ordinary, or as usual —] [PAUSE 4s] [VI: bình thường] [PAUSE 0.5s] [EN: Say personality —] [PAUSE 4s] [VI: tính tình] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh nên đi khám.] [PAUSE 0.5s] [VI: Dạ, tôi phải đi khám không?] [PAUSE 0.5s] [VI_F: Dạ phải. Anh cũng cần nghỉ.] [PAUSE 0.5s] [VI: Dạ, tôi biết rồi.] [PAUSE 1s] [EN: Today's structure: three ways to say what you should, must, or need to do.] [PAUSE 0.5s] [EN: First,] [VI: nên] [EN: — you already know] [VI: nên] [EN: inside] [VI: vì...nên] [EN: the reason connector, because...so. Today, alone, it has a different job: it means should. It still has] [VI: ngang] [EN: — flat, no mark, same as before. Listen again.] [VI_F: nên] [PAUSE 1s] [VI_F: nên] [EN: Now you say it.] [PAUSE 4s] [VI: nên] [EN: Good. You should rest —] [PAUSE 4s] [VI: Anh nên nghỉ.] [PAUSE 0.5s] [EN: Next,] [VI: phải] [EN: means must. It has] [VI: dấu hỏi] [EN: . Listen again.] [VI_F: phải] [PAUSE 1s] [VI_F: phải] [EN: Now you say it.] [PAUSE 4s] [VI: phải] [EN: Good. I must go get examined —] [PAUSE 4s] [VI: Tôi phải đi khám.] [PAUSE 0.5s] [EN: Last,] [VI: cần] [EN: means need. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: cần] [PAUSE 1s] [VI_F: cần] [EN: Now you say it.] [PAUSE 4s] [VI: cần] [EN: Good. You need to rest —] [PAUSE 4s] [VI: Anh cần nghỉ.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Should —] [PAUSE 4s] [VI: nên] [PAUSE 0.5s] [EN: Must —] [PAUSE 4s] [VI: phải] [PAUSE 0.5s] [EN: Need —] [PAUSE 4s] [VI: cần] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. Should —] [PAUSE 4s] [VI: nên] [PAUSE 0.5s] [EN: Must —] [PAUSE 4s] [VI: phải] [PAUSE 0.5s] [EN: Need —] [PAUSE 4s] [VI: cần] [PAUSE 0.5s] [EN: Now build it. You should go to the doctor —] [PAUSE 4s] [VI: Anh nên đi khám.] [PAUSE 0.5s] [EN: I must rest —] [PAUSE 4s] [VI: Tôi phải nghỉ.] [PAUSE 0.5s] [EN: I need medicine —] [PAUSE 4s] [VI: Tôi cần thuốc.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: nên] [PAUSE 3s] [EN: should] [PAUSE 0.5s] [VI_F: phải] [PAUSE 3s] [EN: must] [PAUSE 0.5s] [VI_F: cần] [PAUSE 3s] [EN: need] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: nên] [PAUSE 1s] [VI_F: phải] [PAUSE 1s] [VI_F: cần] [PAUSE 0.5s] [EN: Remember,] [VI: phải] [EN: has] [VI: dấu hỏi] [EN: , and] [VI: cần] [EN: has] [VI: dấu huyền] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh nên đi khám.] [PAUSE 0.5s] [VI: Dạ, tôi phải đi khám không?] [PAUSE 0.5s] [VI_F: Dạ phải. Anh cũng cần nghỉ.] [PAUSE 0.5s] [VI: Dạ, tôi biết rồi.] [PAUSE 1s] [EN: Your turn. Say you need to rest.] [PAUSE 4s] [VI: Tôi cần nghỉ.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, at the pharmacy. One word to start —] [VI: viên] [EN: it means a pill. See you then.]"
+    }
+  ]
+}

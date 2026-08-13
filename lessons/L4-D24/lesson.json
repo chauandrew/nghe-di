@@ -1,0 +1,35 @@
+{
+  "id": "L4-D24",
+  "title": "Gấp, ngay: asking for urgent help",
+  "vocab": [
+    {"vi": "gấp", "en": "urgent", "ipa": "gâp˧˥"},
+    {"vi": "ngay", "en": "right away, immediately", "ipa": "ŋaːj˧"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say grandfather, or an older man —] [PAUSE 4s] [VI: ông] [PAUSE 0.5s] [EN: Say grandmother, or an older woman —] [PAUSE 4s] [VI: bà] [PAUSE 0.5s] [EN: Say aunt, or Miss —] [PAUSE 4s] [VI: cô] [PAUSE 0.5s] [EN: Say uncle, a youngish man —] [PAUSE 4s] [VI: chú] [PAUSE 0.5s] [EN: Say uncle or aunt, older than your parents —] [PAUSE 4s] [VI: bác] [PAUSE 0.5s] [EN: Say child —] [PAUSE 4s] [VI: con] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 205,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Tôi cần gấp, gọi cảnh sát giúp tôi!] [PAUSE 0.5s] [VI_F: Dạ, tôi đi ngay.] [PAUSE 0.5s] [VI: Cảm ơn chị, nguy hiểm quá.] [PAUSE 0.5s] [VI_F: Dạ, chờ một chút nha.] [PAUSE 1s] [EN: Two new words today: asking for urgent help.] [PAUSE 0.5s] [EN: First,] [VI: gấp] [EN: means urgent. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: gấp] [PAUSE 1s] [VI_F: gấp] [EN: Now you say it.] [PAUSE 4s] [VI: gấp] [EN: Good. I need it urgently —] [PAUSE 4s] [VI: Tôi cần gấp.] [PAUSE 0.5s] [EN: Next,] [VI: ngay] [EN: means right away, immediately. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: ngay] [PAUSE 1s] [VI_F: ngay] [EN: Now you say it.] [PAUSE 4s] [VI: ngay] [EN: Good. I'll go right away —] [PAUSE 4s] [VI: Tôi đi ngay.] [PAUSE 0.5s] [EN: Combine them — so urgent, go right away —] [PAUSE 4s] [VI: Gấp quá, đi ngay!]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Urgent —] [PAUSE 4s] [VI: gấp] [PAUSE 0.5s] [EN: Right away, immediately —] [PAUSE 4s] [VI: ngay] [PAUSE 0.5s] [EN: I need it urgently —] [PAUSE 4s] [VI: Tôi cần gấp.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. Urgent —] [PAUSE 4s] [VI: gấp] [PAUSE 0.5s] [EN: Right away, immediately —] [PAUSE 4s] [VI: ngay] [PAUSE 0.5s] [EN: Now build it. I need it urgently —] [PAUSE 4s] [VI: Tôi cần gấp.] [PAUSE 0.5s] [EN: I'll go right away —] [PAUSE 4s] [VI: Tôi đi ngay.] [PAUSE 0.5s] [EN: So urgent, go right away —] [PAUSE 4s] [VI: Gấp quá, đi ngay!] [PAUSE 0.5s] [EN: I need it urgently, call the police to help me —] [PAUSE 4s] [VI: Tôi cần gấp, gọi cảnh sát giúp tôi!] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: gấp] [PAUSE 3s] [EN: urgent] [PAUSE 0.5s] [VI_F: ngay] [PAUSE 3s] [EN: right away, immediately] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: gấp] [PAUSE 1s] [VI_F: ngay] [PAUSE 0.5s] [EN: Remember,] [VI: gấp] [EN: has] [VI: dấu sắc] [EN: , and] [VI: ngay] [EN: is] [VI: ngang] [EN: — flat, no mark.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Tôi cần gấp, gọi cảnh sát giúp tôi!] [PAUSE 0.5s] [VI_F: Dạ, tôi đi ngay.] [PAUSE 0.5s] [VI: Cảm ơn chị, nguy hiểm quá.] [PAUSE 0.5s] [VI_F: Dạ, chờ một chút nha.] [PAUSE 1s] [EN: Your turn. Say so urgent, go right away.] [PAUSE 4s] [VI: Gấp quá, đi ngay!] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, a new structure — telling someone what somebody else said. One phrase to start —] [VI: nói là] [EN: it means to say that. See you then.]"
+    }
+  ]
+}

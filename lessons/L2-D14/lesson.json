@@ -1,30 +1,43 @@
 {
   "id": "L2-D14",
-  "title": "Cuối tuần — Weekend plans",
+  "title": "Cuối tuần, nghỉ: weekend plans",
   "vocab": [
-    {"vi": "cuối tuần", "en": "weekend", "ipa": "/kuəj˧˥ twən˨˩/"},
-    {"vi": "nghỉ", "en": "to rest, have off", "ipa": "/ŋi˧˩˧/"}
+    {
+      "vi": "cuối tuần",
+      "en": "weekend",
+      "ipa": "kuoj˧˥ twən˨˩"
+    },
+    {
+      "vi": "nghỉ",
+      "en": "to rest, or to take time off",
+      "ipa": "ŋi˨˩˦"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Bus.] [PAUSE 4s] [VI: Xe buýt.] [EN: Grab.] [PAUSE 3s] [VI: Grab.] [EN: Airplane.] [PAUSE 4s] [VI: Máy bay.] [EN: Pharmacy.] [PAUSE 4s] [VI: Nhà thuốc.] [EN: Good.]"
+      "script": "[EN: Quick review. Say yes, or there is —] [PAUSE 4s] [VI: có] [PAUSE 0.5s] [EN: Say hungry —] [PAUSE 4s] [VI: đói] [PAUSE 0.5s] [EN: Say right, isn't that so —] [PAUSE 4s] [VI: phải không] [PAUSE 0.5s] [EN: Say I need —] [PAUSE 4s] [VI: tôi cần] [PAUSE 0.5s] [EN: Say medicine —] [PAUSE 4s] [VI: thuốc] [PAUSE 0.5s] [EN: Say pharmacy —] [PAUSE 4s] [VI: nhà thuốc] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: The weekend is] [VI_F: Cuối tuần.] [EN: Say the weekend.] [PAUSE 4s] [VI: Cuối tuần.] [EN: To rest, or have a day off, is] [VI_F: Nghỉ.] [EN: a falling, rising tone. Say to rest.] [PAUSE 4s] [VI: Nghỉ.] [EN: Now make a plan with] [VI: sẽ,] [EN: will. This weekend I will rest.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ nghỉ.] [EN: Good.] [PAUSE 0.5s] [EN: This weekend I will go to the market.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ đi Bến Thành.] [EN: To ask someone's plan, use what will you do. What will you do this weekend?] [PAUSE 4s] [VI: Cuối tuần anh sẽ làm gì?] [EN: Good.]"
+      "duration_s": 190,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần này anh sẽ nghỉ không?] [PAUSE 0.5s] [VI: Dạ, em sẽ nghỉ.] [PAUSE 0.5s] [VI_F: Thứ bảy anh nghỉ không?] [PAUSE 0.5s] [VI: Dạ, thứ bảy em nghỉ. Chủ nhật em nghỉ.] [PAUSE 1s] [EN: Two words for weekend plans today.] [PAUSE 0.5s] [EN: First,] [VI: cuối tuần] [EN: means weekend. Listen to its two parts.] [VI_F: cuối] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: tuần] [EN: has] [EN: a falling tone] [EN: . Listen to the whole word again.] [VI_F: cuối tuần] [PAUSE 1s] [VI_F: cuối tuần] [EN: Now you say it.] [PAUSE 4s] [VI: cuối tuần] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: nghỉ] [EN: means to rest, or to take time off. It has] [EN: a dipping tone — it falls, then rises] [EN: — dipping. Listen again.] [VI_F: nghỉ] [PAUSE 1s] [VI_F: nghỉ] [EN: Now you say it.] [PAUSE 4s] [VI: nghỉ] [EN: Good.] [PAUSE 0.3s] [VI_F: Cuối tuần này em sẽ nghỉ.] [EN: this weekend I'll rest.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Weekend —] [PAUSE 4s] [VI: cuối tuần] [PAUSE 0.5s] [EN: To rest, or take time off —] [PAUSE 4s] [VI: nghỉ] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Weekend.] [PAUSE 3s] [VI: Cuối tuần.] [EN: To rest.] [PAUSE 3s] [VI: Nghỉ.] [EN: This weekend I will rest.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ nghỉ.] [EN: What will you do this weekend?] [PAUSE 4s] [VI: Cuối tuần anh sẽ làm gì?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Nghỉ.] [PAUSE 3s] [EN: To rest, have off.] [EN: What does this mean?] [VI_F: Cuối tuần.] [PAUSE 3s] [EN: Weekend.] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Let's drill. Weekend —] [PAUSE 4s] [VI: cuối tuần] [PAUSE 0.5s] [EN: To rest, or take time off —] [PAUSE 4s] [VI: nghỉ] [PAUSE 0.5s] [EN: Now say it. This weekend I'll rest —] [PAUSE 4s] [VI: Cuối tuần này em sẽ nghỉ.] [PAUSE 0.5s] [EN: Ask will you rest on Saturday —] [PAUSE 4s] [VI: Thứ bảy anh sẽ nghỉ không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: cuối tuần] [PAUSE 3s] [EN: weekend] [PAUSE 0.5s] [VI_F: nghỉ] [PAUSE 3s] [EN: to rest, or take time off] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: cuối tuần] [PAUSE 1s] [VI_F: nghỉ] [PAUSE 0.5s] [EN: Remember,] [VI: cuối] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: nghỉ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần anh làm gì vậy?] [VI_M: Dạ, tôi sẽ nghỉ. Còn chị?] [VI_F: Em sẽ đi chơi.] [PAUSE 0.5s] [EN: Now you try. Ask, what will you do this weekend?] [PAUSE 4s] [VI: Cuối tuần anh sẽ làm gì?] [EN: Say, this weekend I will rest.] [PAUSE 4s] [VI: Cuối tuần tôi sẽ nghỉ.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you talk about yesterday. The preview phrase is] [VI: đi chơi] [EN: which means to go out, hang out.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Cuối tuần này anh sẽ nghỉ không?] [PAUSE 0.5s] [VI: Dạ, em sẽ nghỉ.] [PAUSE 0.5s] [VI_F: Thứ bảy anh nghỉ không?] [PAUSE 0.5s] [VI: Dạ, thứ bảy em nghỉ. Chủ nhật em nghỉ.] [PAUSE 1s] [EN: Your turn. Say this weekend you'll rest.] [PAUSE 4s] [VI: Cuối tuần này em sẽ nghỉ.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, talking about yesterday. One word to start —] [VI: đi chơi] [EN: it means to go out, or hang out. See you then.]"
     }
   ]
 }

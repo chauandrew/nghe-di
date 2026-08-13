@@ -1,30 +1,43 @@
 {
   "id": "L3-D14",
-  "title": "Đi dạo — Suggesting an outing",
+  "title": "Đi dạo, cùng: suggesting an outing",
   "vocab": [
-    {"vi": "đi dạo", "en": "to take a stroll", "ipa": "/ɗi˧ zaːw˨˩ʔ/"},
-    {"vi": "cùng", "en": "together", "ipa": "/kuŋ˨˩/"}
+    {
+      "vi": "đi dạo",
+      "en": "to go for a walk",
+      "ipa": "di˧ zaːw˨˩ʔ"
+    },
+    {
+      "vi": "cùng",
+      "en": "together, with",
+      "ipa": "kuŋ˨˩"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: A man your parent's age.] [PAUSE 3s] [VI: Chú.] [EN: A ticket.] [PAUSE 3s] [VI: Vé.] [EN: I feel happy.] [PAUSE 4s] [VI: Tôi thấy vui.] [EN: What does this mean?] [VI_F: Đừng.] [PAUSE 3s] [EN: Don't.] [EN: Good.]"
+      "script": "[EN: Quick review. Say grandfather, or an older man —] [PAUSE 4s] [VI: ông] [PAUSE 0.5s] [EN: Say grandmother, or an older woman —] [PAUSE 4s] [VI: bà] [PAUSE 0.5s] [EN: Say aunt, or a young woman —] [PAUSE 4s] [VI: cô] [PAUSE 0.5s] [EN: Say uncle, or a youngish man —] [PAUSE 4s] [VI: chú] [PAUSE 0.5s] [EN: Say uncle or aunt, older than your parents —] [PAUSE 4s] [VI: bác] [PAUSE 0.5s] [EN: Say child —] [PAUSE 4s] [VI: con] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: To take a stroll is] [VI_F: Đi dạo.] [EN: Say to take a stroll.] [PAUSE 4s] [VI: Đi dạo.] [EN: Together is] [VI_F: Cùng.] [EN: a falling tone. Let's stroll together.] [PAUSE 4s] [VI: Mình đi dạo cùng nha.] [EN: Good.] [PAUSE 0.5s] [EN: Suggest a place. Let's stroll in the park.] [PAUSE 4s] [VI: Mình đi dạo công viên nha.] [EN: Don't stay home, let's go out.] [PAUSE 4s] [VI: Đừng ở nhà, mình đi chơi.] [EN: Good.]"
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Mình đi dạo đi!] [PAUSE 0.5s] [VI: Dạ, đi cùng nhé.] [PAUSE 0.5s] [VI_F: Đi công viên nhé.] [PAUSE 0.5s] [VI: Dạ được.] [PAUSE 1s] [EN: Two words today.] [PAUSE 0.5s] [EN: First,] [VI: đi dạo] [EN: means to go for a walk. Listen to its two parts.] [VI: đi] [EN: you know — to go.] [VI_F: dạo] [EN: has] [EN: a low tone, cut off short] [EN: — same as] [VI: dạo] [EN: in] [VI: dạo này] [EN: . Listen to the whole word again.] [VI_F: đi dạo] [PAUSE 1s] [VI_F: đi dạo] [EN: Now you say it.] [PAUSE 4s] [VI: đi dạo] [EN: Good. Let's go for a walk —] [PAUSE 4s] [VI: Mình đi dạo đi.] [PAUSE 0.5s] [EN: Next,] [VI: cùng] [EN: means together, or with. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: cùng] [PAUSE 1s] [VI_F: cùng] [EN: Now you say it.] [PAUSE 4s] [VI: cùng] [EN: Good. Go for a walk together —] [PAUSE 4s] [VI: đi dạo cùng]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 55,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To go for a walk —] [PAUSE 4s] [VI: đi dạo] [PAUSE 0.5s] [EN: Together, with —] [PAUSE 4s] [VI: cùng] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. To take a stroll.] [PAUSE 3s] [VI: Đi dạo.] [EN: Together.] [PAUSE 3s] [VI: Cùng.] [EN: Let's stroll in the park.] [PAUSE 4s] [VI: Mình đi dạo công viên nha.] [EN: Let's go together.] [PAUSE 4s] [VI: Mình đi cùng nha.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Cùng.] [PAUSE 3s] [EN: Together.] [EN: What does this mean?] [VI_F: Đi dạo.] [PAUSE 3s] [EN: To take a stroll.] [EN: Good.]"
+      "duration_s": 215,
+      "script": "[EN: Let's drill. To go for a walk —] [PAUSE 4s] [VI: đi dạo] [PAUSE 0.5s] [EN: Together, with —] [PAUSE 4s] [VI: cùng] [PAUSE 0.5s] [EN: Now say it. Let's go for a walk —] [PAUSE 4s] [VI: Mình đi dạo đi.] [PAUSE 0.5s] [EN: Go for a walk together —] [PAUSE 4s] [VI: Đi dạo cùng.] [PAUSE 0.5s] [EN: Let's go to the park together —] [PAUSE 4s] [VI: Mình đi công viên cùng đi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đi dạo] [PAUSE 3s] [EN: to go for a walk] [PAUSE 0.5s] [VI_F: cùng] [PAUSE 3s] [EN: together, with] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đi dạo] [PAUSE 1s] [VI_F: cùng] [PAUSE 0.5s] [EN: Remember,] [VI: dạo] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: cùng] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chiều nay mình đi dạo công viên nha?] [VI_M: Dạ được. Mình đi cùng ba má nha.] [VI_F: Vui đó!] [PAUSE 0.5s] [EN: Now you try. Say, let's take a stroll in the park, okay?] [PAUSE 4s] [VI: Mình đi dạo công viên nha.] [EN: Say, let's go together.] [PAUSE 4s] [VI: Mình đi cùng nha.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you explain reasons. The preview word is] [VI: vì] [EN: which means because.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Mình đi dạo đi!] [PAUSE 0.5s] [VI: Dạ, đi cùng nhé.] [PAUSE 0.5s] [VI_F: Đi công viên nhé.] [PAUSE 0.5s] [VI: Dạ được.] [PAUSE 1s] [EN: Your turn. Say let's go for a walk together.] [PAUSE 4s] [VI: Mình đi dạo cùng đi.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, explaining why. One word to start —] [VI: vì] [EN: it means because. See you then.]"
     }
   ]
 }

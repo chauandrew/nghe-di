@@ -1,31 +1,53 @@
 {
   "id": "L1-D21",
-  "title": "Mấy giờ — Asking what time a place opens",
+  "title": "Mấy giờ mở cửa: calling a restaurant",
   "vocab": [
-    {"vi": "mấy giờ", "en": "what time", "ipa": "/məj˧˥ zəː˨˩/"},
-    {"vi": "buổi sáng", "en": "morning", "ipa": "/ɓuəj˧˩˧ saːŋ˧˥/"},
-    {"vi": "mở cửa", "en": "to open", "ipa": "/məː˧˩˧ kɨə˧˩˧/"}
+    {
+      "vi": "mấy giờ",
+      "en": "what time",
+      "ipa": "mây˧˥ zɤ˨˩"
+    },
+    {
+      "vi": "buổi sáng",
+      "en": "morning",
+      "ipa": "buəj˨˩˦ saːŋ˧˥"
+    },
+    {
+      "vi": "mở cửa",
+      "en": "to open",
+      "ipa": "mɤ˨˩˦ kɨa˨˩˦"
+    },
+    {
+      "vi": "đóng cửa",
+      "en": "to close",
+      "ipa": "dɔŋ˧˥ kɨa˨˩˦"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: This one.] [PAUSE 4s] [VI: Cái này.] [EN: Go to the market.] [PAUSE 4s] [VI: Đi Bến Thành.] [EN: Give me the bill.] [PAUSE 4s] [VI: Cho tôi hóa đơn.] [EN: Today.] [PAUSE 4s] [VI: Hôm nay.] [EN: What does this mean?] [VI_F: Hôm qua.] [PAUSE 3s] [EN: Yesterday.] [EN: Good.]"
+      "script": "[EN: Quick review. Say the classifier for a generic thing —] [PAUSE 4s] [VI: cái] [PAUSE 0.5s] [EN: Say glass —] [PAUSE 4s] [VI: ly] [PAUSE 0.5s] [EN: Say bottle —] [PAUSE 4s] [VI: chai] [PAUSE 0.5s] [EN: Say bowl —] [PAUSE 4s] [VI: tô] [PAUSE 0.5s] [EN: Say loaf —] [PAUSE 4s] [VI: ổ] [PAUSE 0.5s] [EN: Say the classifier for a person —] [PAUSE 4s] [VI: người] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: You call a restaurant about opening time. Listen.] [PAUSE 0.5s] [VI_F: Dạ, nhà hàng nghe.] [EN: She answered] [VI: nhà hàng nghe] [EN: meaning, restaurant speaking.] [EN: To ask what time, say] [VI_F: Mấy giờ?] [VI_F: Mấy] [EN: has a high, rising tone, and means how many. Use it for small counts, not prices.] [VI_F: Giờ] [EN: has a falling tone.] [EN: Ask what time.] [PAUSE 4s] [VI: Mấy giờ?] [EN: Good.] [PAUSE 0.5s] [EN: Morning is] [VI_F: Buổi sáng.] [VI_F: Buổi] [EN: has a falling, rising tone.] [EN: Say morning.] [PAUSE 4s] [VI: Buổi sáng.] [EN: To open is] [VI_F: Mở cửa.] [EN: both syllables falling, rising; relax your lips for both vowels.] [EN: Now ask, what time do you open?] [PAUSE 4s] [VI: Mấy giờ mở cửa?] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Alô, mở cửa chưa?] [PAUSE 0.5s] [VI_F: Dạ, mở cửa rồi.] [PAUSE 0.5s] [VI: Dạ, mấy giờ đóng cửa?] [PAUSE 0.5s] [VI_F: Dạ, buổi sáng.] [PAUSE 1s] [EN: You also heard] [VI: alô] [EN: hello, used only when answering the phone.] [PAUSE 0.5s] [EN: You asked] [VI: mấy giờ] [EN: it means what time. Listen to its two parts.] [VI_F: mấy] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: giờ] [EN: has] [EN: a falling tone] [EN: . Listen to the whole phrase again.] [VI_F: mấy giờ] [PAUSE 1s] [VI_F: mấy giờ] [EN: Now you say it.] [PAUSE 4s] [VI: mấy giờ] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: buổi sáng] [EN: means morning. Listen to its two parts.] [VI_F: buổi] [EN: has] [EN: a dipping tone — it falls, then rises] [PAUSE 0.3s] [VI_F: sáng] [EN: has] [EN: a high, rising tone] [EN: . Listen to the whole word again.] [VI_F: buổi sáng] [PAUSE 1s] [VI_F: buổi sáng] [EN: Now you say it.] [PAUSE 4s] [VI: buổi sáng] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: mở cửa] [EN: means to open. Listen to its two parts.] [VI_F: mở] [EN: has] [EN: a dipping tone — it falls, then rises] [PAUSE 0.3s] [VI_F: cửa] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: . Listen to the whole word again.] [VI_F: mở cửa] [PAUSE 1s] [VI_F: mở cửa] [EN: Now you say it.] [PAUSE 4s] [VI: mở cửa] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: đóng cửa] [EN: means to close. It shares] [VI: cửa] [EN: with] [VI: mở cửa] [EN: — listen to the first part.] [VI_F: đóng] [EN: has] [EN: a high, rising tone] [EN: . Listen to the whole word again.] [VI_F: đóng cửa] [PAUSE 1s] [VI_F: đóng cửa] [EN: Now you say it.] [PAUSE 4s] [VI: đóng cửa] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 80,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: What time —] [PAUSE 4s] [VI: mấy giờ] [PAUSE 0.5s] [EN: Morning —] [PAUSE 4s] [VI: buổi sáng] [PAUSE 0.5s] [EN: To open —] [PAUSE 4s] [VI: mở cửa] [PAUSE 0.5s] [EN: To close —] [PAUSE 4s] [VI: đóng cửa] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. What time?] [PAUSE 4s] [VI: Mấy giờ?] [EN: Morning.] [PAUSE 4s] [VI: Buổi sáng.] [EN: To open.] [PAUSE 4s] [VI: Mở cửa.] [EN: What time do you open in the morning?] [PAUSE 4s] [VI: Buổi sáng mấy giờ mở cửa?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Mở cửa.] [PAUSE 3s] [EN: To open.] [EN: What does this mean?] [VI_F: Buổi sáng.] [PAUSE 3s] [EN: Morning.] [EN: And, how many people?] [PAUSE 4s] [VI: Mấy người?] [EN: Good.]"
+      "duration_s": 245,
+      "script": "[EN: Let's drill. What time —] [PAUSE 4s] [VI: mấy giờ] [PAUSE 0.5s] [EN: Morning —] [PAUSE 4s] [VI: buổi sáng] [PAUSE 0.5s] [EN: To open —] [PAUSE 4s] [VI: mở cửa] [PAUSE 0.5s] [EN: To close —] [PAUSE 4s] [VI: đóng cửa] [PAUSE 0.5s] [EN: Now say it. Ask if it's open yet —] [PAUSE 4s] [VI: Mở cửa chưa?] [PAUSE 0.5s] [EN: Ask what time it closes —] [PAUSE 4s] [VI: Mấy giờ đóng cửa?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: mấy giờ] [PAUSE 3s] [EN: what time] [PAUSE 0.5s] [VI_F: buổi sáng] [PAUSE 3s] [EN: morning] [PAUSE 0.5s] [VI_F: mở cửa] [PAUSE 3s] [EN: to open] [PAUSE 0.5s] [VI_F: đóng cửa] [PAUSE 3s] [EN: to close] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: mấy giờ] [PAUSE 1s] [VI_F: buổi sáng] [PAUSE 1s] [VI_F: mở cửa] [PAUSE 1s] [VI_F: đóng cửa] [PAUSE 0.5s] [EN: Remember,] [VI: mở] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: , and] [VI: đóng] [EN: has] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Alô, mấy giờ mở cửa?] [EN: He started with] [VI: alô] [EN: hello, on the phone.] [VI_F: Dạ, buổi sáng bảy giờ.] [VI_M: Dạ, cảm ơn.] [PAUSE 0.5s] [EN: Now you try. Ask what time.] [PAUSE 4s] [VI: Mấy giờ?] [EN: Ask what time they open.] [PAUSE 4s] [VI: Mấy giờ mở cửa?] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you ask about distance. The preview word is] [VI: gần] [EN: which means near.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Alô, mở cửa chưa?] [PAUSE 0.5s] [VI_F: Dạ, mở cửa rồi.] [PAUSE 0.5s] [VI: Dạ, mấy giờ đóng cửa?] [PAUSE 0.5s] [VI_F: Dạ, buổi sáng.] [PAUSE 1s] [EN: Your turn. Ask what time —] [PAUSE 4s] [VI: Mấy giờ?] [EN: Good.] [PAUSE 0.5s] [EN: Now ask if it's open yet —] [PAUSE 4s] [VI: Mở cửa chưa?] [EN: Well done.] [PAUSE 0.5s] [EN: Next lesson, asking if a place is walkable. One word to start —] [VI: gần] [EN: it means near. See you then.]"
     }
   ]
 }

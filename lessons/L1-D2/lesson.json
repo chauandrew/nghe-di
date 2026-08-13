@@ -1,31 +1,48 @@
 {
   "id": "L1-D2",
-  "title": "Anh, chị, em — Addressing people",
+  "title": "Xưng hô: addressing people by age and gender",
   "vocab": [
-    {"vi": "anh", "en": "you or I, an older man", "ipa": "/aɲ˧/"},
-    {"vi": "chị", "en": "you or I, an older woman", "ipa": "/t͡ɕi˨˩ʔ/"},
-    {"vi": "em", "en": "you or I, a younger person", "ipa": "/ɛm˧/"}
+    {
+      "vi": "anh",
+      "en": "you/he, for an older man",
+      "ipa": "aɲ˧"
+    },
+    {
+      "vi": "chị",
+      "en": "you/she, for an older woman",
+      "ipa": "tɕi˨˩ʔ"
+    },
+    {
+      "vi": "em",
+      "en": "you, for someone younger",
+      "ipa": "ɛm˧"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up from yesterday.] [PAUSE 0.5s] [EN: Say hello.] [PAUSE 4s] [VI: Xin chào.] [EN: Say thank you.] [PAUSE 4s] [VI: Cảm ơn.] [EN: The polite yes.] [PAUSE 4s] [VI: Dạ.] [EN: What does this mean?] [VI_F: Dạ, cảm ơn.] [PAUSE 3s] [EN: Yes, thank you.] [EN: Good.]"
+      "script": "[EN: Quick review. Say hello —] [PAUSE 4s] [VI: xin chào] [PAUSE 0.5s] [EN: Say thank you —] [PAUSE 4s] [VI: cảm ơn] [PAUSE 0.5s] [EN: Say the polite opener —] [PAUSE 4s] [VI: dạ] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: In Vietnamese you address people by age and gender. There is no neutral you. Listen.] [PAUSE 0.5s] [EN: To an older man, use] [VI_F: Anh.] [EN: This means you, or I, for an older man. It has a flat tone.] [EN: Say it.] [PAUSE 4s] [VI: Anh.] [EN: Again.] [PAUSE 4s] [VI: Anh.] [EN: Good.] [PAUSE 0.5s] [EN: To an older woman, use] [VI_F: Chị.] [EN: This means you, or I, for an older woman. It has a falling, broken tone.] [EN: Say it.] [PAUSE 4s] [VI: Chị.] [EN: Again.] [PAUSE 4s] [VI: Chị.] [EN: Good.] [PAUSE 0.5s] [EN: To a younger person, use] [VI_F: Em.] [EN: This means you, or I, for a younger person. It has a flat tone.] [EN: Say it.] [PAUSE 4s] [VI: Em.] [EN: Now greet an older man, attach his pronoun.] [PAUSE 4s] [VI: Xin chào anh.] [EN: Greet an older woman.] [PAUSE 4s] [VI: Xin chào chị.] [EN: Good.]"
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Xin chào anh!] [PAUSE 0.5s] [VI: Dạ, xin chào chị!] [PAUSE 0.5s] [VI_M: Xin chào em!] [PAUSE 0.5s] [VI_F: Dạ, xin chào anh!] [PAUSE 1s] [EN: You just heard three new words for addressing people.] [PAUSE 0.5s] [EN: First,] [VI: anh] [EN: it means you, for an older man. It has] [EN: a flat tone, no mark] [EN: — flat, no mark. Listen again.] [VI_F: anh] [PAUSE 1s] [VI_F: anh] [EN: Now you say it.] [PAUSE 4s] [VI: anh] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: chị] [EN: it means you, for an older woman. It has] [EN: a low tone, cut off short] [EN: — low, cut off. Listen again.] [VI_F: chị] [PAUSE 1s] [VI_F: chị] [EN: Now you say it.] [PAUSE 4s] [VI: chị] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: em] [EN: it means you, for someone younger. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: em] [PAUSE 1s] [VI_F: em] [EN: Now you say it.] [PAUSE 4s] [VI: em] [EN: Good.] [PAUSE 0.5s] [EN: Add any of them to] [VI: xin chào] [EN: to greet someone by their age and gender.] [PAUSE 4s] [VI: Xin chào chị.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 75,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Older man —] [PAUSE 4s] [VI: anh] [PAUSE 0.5s] [EN: Older woman —] [PAUSE 4s] [VI: chị] [PAUSE 0.5s] [EN: Younger person —] [PAUSE 4s] [VI: em] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Address an older man.] [PAUSE 4s] [VI: Anh.] [EN: Address an older woman.] [PAUSE 4s] [VI: Chị.] [EN: Address a younger person.] [PAUSE 4s] [VI: Em.] [EN: Thank an older woman, attach her pronoun.] [PAUSE 4s] [VI: Cảm ơn chị.] [EN: Thank an older man.] [PAUSE 4s] [VI: Cảm ơn anh.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Chị.] [PAUSE 3s] [EN: You or I, an older woman.] [EN: What does this mean?] [VI_F: Em.] [PAUSE 3s] [EN: You or I, a younger person.] [EN: And the polite yes from before.] [PAUSE 4s] [VI: Dạ.] [EN: Good.]"
+      "duration_s": 240,
+      "script": "[EN: Let's drill. Older man —] [PAUSE 4s] [VI: anh] [PAUSE 0.5s] [EN: Older woman —] [PAUSE 4s] [VI: chị] [PAUSE 0.5s] [EN: Younger person —] [PAUSE 4s] [VI: em] [PAUSE 0.5s] [EN: One more round.] [PAUSE 0.5s] [EN: Older man —] [PAUSE 4s] [VI: anh] [PAUSE 0.5s] [EN: Older woman —] [PAUSE 4s] [VI: chị] [PAUSE 0.5s] [EN: Younger person —] [PAUSE 4s] [VI: em] [PAUSE 0.5s] [EN: Now say hello to each of them.] [PAUSE 0.5s] [EN: Hello to an older man —] [PAUSE 4s] [VI: Xin chào anh.] [PAUSE 0.5s] [EN: Hello to an older woman —] [PAUSE 4s] [VI: Xin chào chị.] [PAUSE 0.5s] [EN: Hello to someone younger —] [PAUSE 4s] [VI: Xin chào em.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: anh] [PAUSE 3s] [EN: an older man] [PAUSE 0.5s] [VI_F: chị] [PAUSE 3s] [EN: an older woman] [PAUSE 0.5s] [VI_F: em] [PAUSE 3s] [EN: someone younger] [PAUSE 0.5s] [EN: One last time.] [PAUSE 0.5s] [VI_F: anh] [PAUSE 1s] [VI_F: chị] [PAUSE 1s] [VI_F: em] [PAUSE 0.5s] [EN: Remember,] [VI: chị] [EN: has] [EN: a low tone, cut off short] [EN: — low and cut off.]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen. A younger clerk greets an older customer.] [PAUSE 0.5s] [VI_F: Dạ, xin chào anh.] [VI_M: Chào em.] [VI_F: Dạ, cảm ơn anh nha.] [VI_M: Cảm ơn em.] [PAUSE 0.5s] [EN: Now you try. Greet an older woman politely.] [PAUSE 4s] [VI: Dạ, xin chào chị.] [EN: Thank an older man.] [PAUSE 4s] [VI: Cảm ơn anh.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you ask prices and start counting. The preview phrase is] [VI: bao nhiêu] [EN: which means how much.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Xin chào anh!] [PAUSE 0.5s] [VI: Dạ, xin chào chị!] [PAUSE 0.5s] [VI_M: Xin chào em!] [PAUSE 0.5s] [VI_F: Dạ, xin chào anh!] [PAUSE 1s] [EN: Your turn. Greet an older woman politely.] [PAUSE 4s] [VI: Dạ, xin chào chị.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, you will learn to count and ask a price. One word to start —] [VI: bao nhiêu] [EN: it means how much. See you then.]"
     }
   ]
 }

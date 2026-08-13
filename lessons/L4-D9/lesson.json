@@ -1,0 +1,38 @@
+{
+  "id": "L4-D9",
+  "title": "Trời, mưa, nắng, nóng, lạnh: the weather",
+  "vocab": [
+    {"vi": "trời", "en": "sky, or weather", "ipa": "tɕɤj˨˩"},
+    {"vi": "mưa", "en": "rain", "ipa": "mɨə˧"},
+    {"vi": "nắng", "en": "sunny", "ipa": "naŋ˧˥"},
+    {"vi": "nóng", "en": "hot", "ipa": "nɔŋ˧˥"},
+    {"vi": "lạnh", "en": "cold", "ipa": "laɲ˨˩ʔ"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say hey, to a man —] [PAUSE 4s] [VI: anh ơi] [PAUSE 0.5s] [EN: Say hey, to a woman —] [PAUSE 4s] [VI: chị ơi] [PAUSE 0.5s] [EN: Say wait a moment —] [PAUSE 4s] [VI: chờ một chút] [PAUSE 0.5s] [EN: Say color —] [PAUSE 4s] [VI: màu] [PAUSE 0.5s] [EN: Say red —] [PAUSE 4s] [VI: đỏ] [PAUSE 0.5s] [EN: Say blue, or green —] [PAUSE 4s] [VI: xanh] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 225,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Nếu trời mưa thì mình nghỉ nha.] [PAUSE 0.5s] [VI: Dạ, còn nếu trời nắng?] [PAUSE 0.5s] [VI_F: Nếu trời nắng thì mình đi chơi.] [PAUSE 0.5s] [VI: Dạ được.] [PAUSE 1s] [EN: Today, the weather — five words together.] [PAUSE 0.5s] [EN: First,] [VI: trời] [EN: means sky, or weather. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: trời] [PAUSE 1s] [VI_F: trời] [EN: Now you say it.] [PAUSE 4s] [VI: trời] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: mưa] [EN: means rain. It has] [VI: ngang] [EN: — flat, no mark. Listen again.] [VI_F: mưa] [PAUSE 1s] [VI_F: mưa] [EN: Now you say it.] [PAUSE 4s] [VI: mưa] [EN: Good. It's raining —] [PAUSE 4s] [VI: Trời mưa.] [PAUSE 0.5s] [EN: Next,] [VI: nắng] [EN: means sunny. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: nắng] [PAUSE 1s] [VI_F: nắng] [EN: Now you say it.] [PAUSE 4s] [VI: nắng] [EN: Good. It's sunny —] [PAUSE 4s] [VI: Trời nắng.] [PAUSE 0.5s] [EN: Now a pair.] [VI: nóng] [EN: means hot. It has] [VI: dấu sắc] [EN: , same as] [VI: nắng] [EN: . Listen again.] [VI_F: nóng] [PAUSE 1s] [VI_F: nóng] [EN: Now you say it.] [PAUSE 4s] [VI: nóng] [EN: Good. It's hot —] [PAUSE 4s] [VI: Trời nóng.] [PAUSE 0.5s] [EN: Last,] [VI: lạnh] [EN: means cold. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: lạnh] [PAUSE 1s] [VI_F: lạnh] [EN: Now you say it.] [PAUSE 4s] [VI: lạnh] [EN: Good. It's cold —] [PAUSE 4s] [VI: Trời lạnh.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 80,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Sky, or weather —] [PAUSE 4s] [VI: trời] [PAUSE 0.5s] [EN: Rain —] [PAUSE 4s] [VI: mưa] [PAUSE 0.5s] [EN: Sunny —] [PAUSE 4s] [VI: nắng] [PAUSE 0.5s] [EN: Hot —] [PAUSE 4s] [VI: nóng] [PAUSE 0.5s] [EN: Cold —] [PAUSE 4s] [VI: lạnh] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 250,
+      "script": "[EN: Let's drill. Sky, or weather —] [PAUSE 4s] [VI: trời] [PAUSE 0.5s] [EN: Rain —] [PAUSE 4s] [VI: mưa] [PAUSE 0.5s] [EN: Sunny —] [PAUSE 4s] [VI: nắng] [PAUSE 0.5s] [EN: Hot —] [PAUSE 4s] [VI: nóng] [PAUSE 0.5s] [EN: Cold —] [PAUSE 4s] [VI: lạnh] [PAUSE 0.5s] [EN: Now build it. If it rains, then let's rest —] [PAUSE 4s] [VI: Nếu trời mưa thì mình nghỉ.] [PAUSE 0.5s] [EN: If it's sunny, then let's hang out —] [PAUSE 4s] [VI: Nếu trời nắng thì mình đi chơi.] [PAUSE 0.5s] [EN: It's hot today —] [PAUSE 4s] [VI: Hôm nay trời nóng.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: trời] [PAUSE 3s] [EN: sky, or weather] [PAUSE 0.5s] [VI_F: mưa] [PAUSE 3s] [EN: rain] [PAUSE 0.5s] [VI_F: nắng] [PAUSE 3s] [EN: sunny] [PAUSE 0.5s] [VI_F: nóng] [PAUSE 3s] [EN: hot] [PAUSE 0.5s] [VI_F: lạnh] [PAUSE 3s] [EN: cold] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: trời] [PAUSE 1s] [VI_F: mưa] [PAUSE 1s] [VI_F: nắng] [PAUSE 1s] [VI_F: nóng] [PAUSE 1s] [VI_F: lạnh] [PAUSE 0.5s] [EN: Remember,] [VI: nắng] [EN: and] [VI: nóng] [EN: both have] [VI: dấu sắc] [EN: , and] [VI: lạnh] [EN: has] [VI: dấu nặng] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Nếu trời mưa thì mình nghỉ nha.] [PAUSE 0.5s] [VI: Dạ, còn nếu trời nắng?] [PAUSE 0.5s] [VI_F: Nếu trời nắng thì mình đi chơi.] [PAUSE 0.5s] [VI: Dạ được.] [PAUSE 1s] [EN: Your turn. Say it's hot today.] [PAUSE 4s] [VI: Hôm nay trời nóng.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, at the bank. One word to start —] [VI: rút tiền] [EN: it means to withdraw money. See you then.]"
+    }
+  ]
+}

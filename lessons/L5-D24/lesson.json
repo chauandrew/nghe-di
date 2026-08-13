@@ -1,0 +1,36 @@
+{
+  "id": "L5-D24",
+  "title": "Chuyến đi, ấn tượng, phong cảnh: narrating a trip",
+  "vocab": [
+    {"vi": "chuyến đi", "en": "trip, or journey", "ipa": "tɕwiən˧˥ di˧"},
+    {"vi": "ấn tượng", "en": "impression, or impressive", "ipa": "an˧˥ tɨəŋ˨˩ʔ"},
+    {"vi": "phong cảnh", "en": "scenery", "ipa": "fɔŋ˧ kaːɲ˨˩˦"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say six —] [PAUSE 4s] [VI: sáu] [PAUSE 0.5s] [EN: Say seven —] [PAUSE 4s] [VI: bảy] [PAUSE 0.5s] [EN: Say eight —] [PAUSE 4s] [VI: tám] [PAUSE 0.5s] [EN: Say nine —] [PAUSE 4s] [VI: chín] [PAUSE 0.5s] [EN: Say ten —] [PAUSE 4s] [VI: mười] [PAUSE 0.5s] [EN: Say living room —] [PAUSE 4s] [VI: phòng khách] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chuyến đi Đà Lạt thế nào?] [PAUSE 0.5s] [VI: Ấn tượng lắm! Phong cảnh đẹp lắm.] [PAUSE 0.5s] [VI_F: Vậy à? Kể đi!] [PAUSE 1s] [EN: Today, narrating a trip.] [PAUSE 0.5s] [EN: First,] [VI: chuyến đi] [EN: means trip, or journey. Listen to its two parts.] [VI_F: chuyến] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: đi] [EN: is] [VI: ngang] [EN: — flat. Listen to the whole word again.] [VI_F: chuyến đi] [PAUSE 1s] [VI_F: chuyến đi] [EN: Now you say it.] [PAUSE 4s] [VI: chuyến đi] [EN: Good. The trip to] [VI: Đà Lạt] [EN: —] [PAUSE 4s] [VI: Chuyến đi Đà Lạt.] [PAUSE 0.5s] [EN: Next,] [VI: ấn tượng] [EN: means impression, or impressive. Listen to its two parts.] [VI_F: ấn] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: tượng] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: ấn tượng] [PAUSE 1s] [VI_F: ấn tượng] [EN: Now you say it.] [PAUSE 4s] [VI: ấn tượng] [EN: Good. Very impressive! —] [PAUSE 4s] [VI: Ấn tượng lắm!] [PAUSE 0.5s] [EN: Last,] [VI: phong cảnh] [EN: means scenery. Listen to its two parts.] [VI_F: phong] [EN: is] [VI: ngang] [EN: — flat,] [PAUSE 0.3s] [VI_F: cảnh] [EN: has] [VI: dấu hỏi] [EN: . Listen to the whole word again.] [VI_F: phong cảnh] [PAUSE 1s] [VI_F: phong cảnh] [EN: Now you say it.] [PAUSE 4s] [VI: phong cảnh] [EN: Good. The scenery is very beautiful —] [PAUSE 4s] [VI: Phong cảnh đẹp lắm.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Trip, or journey —] [PAUSE 4s] [VI: chuyến đi] [PAUSE 0.5s] [EN: Impression, or impressive —] [PAUSE 4s] [VI: ấn tượng] [PAUSE 0.5s] [EN: Scenery —] [PAUSE 4s] [VI: phong cảnh] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Trip, or journey —] [PAUSE 4s] [VI: chuyến đi] [PAUSE 0.5s] [EN: Impression, or impressive —] [PAUSE 4s] [VI: ấn tượng] [PAUSE 0.5s] [EN: Scenery —] [PAUSE 4s] [VI: phong cảnh] [PAUSE 0.5s] [EN: Now build it. The trip that I like most is] [VI: Đà Lạt] [EN: —] [PAUSE 4s] [VI: Chuyến đi mà tôi thích nhất là Đà Lạt.] [PAUSE 0.5s] [EN: The scenery here is very impressive —] [PAUSE 4s] [VI: Phong cảnh ở đây ấn tượng lắm.] [PAUSE 0.5s] [EN: This trip has beautiful memories —] [PAUSE 4s] [VI: Chuyến đi này có kỷ niệm đẹp.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: chuyến đi] [PAUSE 3s] [EN: trip, or journey] [PAUSE 0.5s] [VI_F: ấn tượng] [PAUSE 3s] [EN: impression, or impressive] [PAUSE 0.5s] [VI_F: phong cảnh] [PAUSE 3s] [EN: scenery] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: chuyến đi] [PAUSE 1s] [VI_F: ấn tượng] [PAUSE 1s] [VI_F: phong cảnh] [PAUSE 0.5s] [EN: Remember,] [VI: ấn] [EN: has] [VI: dấu sắc] [EN: , and] [VI: tượng] [EN: has] [VI: dấu nặng] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Chuyến đi Đà Lạt thế nào?] [PAUSE 0.5s] [VI: Ấn tượng lắm! Phong cảnh đẹp lắm.] [PAUSE 0.5s] [VI_F: Vậy à? Kể đi!] [PAUSE 1s] [EN: Your turn. Say the scenery is very beautiful.] [PAUSE 4s] [VI: Phong cảnh đẹp lắm.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, recounting a memorable trip. One word to start —] [VI: nhớ] [EN: it means to remember, or miss. See you then.]"
+    }
+  ]
+}

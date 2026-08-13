@@ -1,31 +1,48 @@
 {
   "id": "L3-D3",
-  "title": "Rất, hơi — Degree",
+  "title": "Rất, hơi, khá: degree words",
   "vocab": [
-    {"vi": "rất", "en": "very (before adjective)", "ipa": "/ʐət˧˥/"},
-    {"vi": "hơi", "en": "a bit, slightly", "ipa": "/həːj˧/"},
-    {"vi": "khá", "en": "quite, fairly", "ipa": "/xaː˧˥/"}
+    {
+      "vi": "rất",
+      "en": "very",
+      "ipa": "rət˧˥"
+    },
+    {
+      "vi": "hơi",
+      "en": "a little, somewhat",
+      "ipa": "hɤj˧"
+    },
+    {
+      "vi": "khá",
+      "en": "fairly, rather",
+      "ipa": "xaː˧˥"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: I need medicine.] [PAUSE 4s] [VI: Tôi cần thuốc.] [EN: Month.] [PAUSE 3s] [VI: Tháng.] [EN: A beautiful house.] [PAUSE 4s] [VI: Nhà đẹp.] [EN: What does this mean?] [VI_F: Mới.] [PAUSE 3s] [EN: New.] [EN: Good.]"
+      "script": "[EN: Quick review. Say I need —] [PAUSE 4s] [VI: Tôi cần.] [PAUSE 0.5s] [EN: Say medicine —] [PAUSE 4s] [VI: thuốc] [PAUSE 0.5s] [EN: Say pharmacy —] [PAUSE 4s] [VI: nhà thuốc] [PAUSE 0.5s] [EN: Say fifteen —] [PAUSE 4s] [VI: mười lăm] [PAUSE 0.5s] [EN: Say twenty-one —] [PAUSE 4s] [VI: hai mươi mốt] [PAUSE 0.5s] [EN: Say four, at the end of a number —] [PAUSE 4s] [VI: tư] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: You know] [VI: quá,] [EN: very or too, which goes after. Here are degree words that go BEFORE the adjective. Very is] [VI_F: Rất.] [EN: a high, rising tone. Very beautiful.] [PAUSE 4s] [VI: Rất đẹp.] [EN: Good.] [PAUSE 0.5s] [EN: A bit, or slightly, is] [VI_F: Hơi.] [EN: a flat tone; it often softens something negative. A bit small.] [PAUSE 4s] [VI: Hơi nhỏ.] [EN: Quite, or fairly, is] [VI_F: Khá.] [EN: a high, rising tone. Quite big.] [PAUSE 4s] [VI: Khá lớn.] [EN: Good.]"
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Phòng này rất đẹp!] [PAUSE 0.5s] [VI: Dạ. Phòng hơi nhỏ.] [PAUSE 0.5s] [VI_F: Còn phòng đó khá mới.] [PAUSE 0.5s] [VI: Dạ, khá đẹp.] [PAUSE 1s] [EN: Today, a structure: three small words that come BEFORE an adjective to say how much of it there is — a scale, from a little to a lot.] [PAUSE 0.5s] [EN: First, the low end.] [VI: hơi] [EN: means a little, or somewhat. It has] [EN: a flat tone, no mark] [EN: — flat, no mark. Listen again.] [VI_F: hơi] [PAUSE 1s] [VI_F: hơi] [EN: Now you say it.] [PAUSE 4s] [VI: hơi] [EN: Good. A little small —] [PAUSE 4s] [VI: hơi nhỏ] [PAUSE 0.5s] [EN: Next, the middle.] [VI: khá] [EN: means fairly, or rather. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: khá] [PAUSE 1s] [VI_F: khá] [EN: Now you say it.] [PAUSE 4s] [VI: khá] [EN: Good. Fairly new —] [PAUSE 4s] [VI: khá mới] [PAUSE 0.5s] [EN: Last, the high end.] [VI: rất] [EN: means very. It also has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: rất] [PAUSE 1s] [VI_F: rất] [EN: Now you say it.] [PAUSE 4s] [VI: rất] [EN: Good. Very beautiful —] [PAUSE 4s] [VI: rất đẹp]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: A little —] [PAUSE 4s] [VI: hơi] [PAUSE 0.5s] [EN: Fairly —] [PAUSE 4s] [VI: khá] [PAUSE 0.5s] [EN: Very —] [PAUSE 4s] [VI: rất] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Very beautiful.] [PAUSE 4s] [VI: Rất đẹp.] [EN: A bit small.] [PAUSE 4s] [VI: Hơi nhỏ.] [EN: Quite big.] [PAUSE 4s] [VI: Khá lớn.] [EN: This house is very beautiful.] [PAUSE 4s] [VI: Nhà này rất đẹp.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Hơi.] [PAUSE 3s] [EN: A bit, slightly.] [EN: What does this mean?] [VI_F: Rất.] [PAUSE 3s] [EN: Very.] [EN: Good.]"
+      "duration_s": 245,
+      "script": "[EN: Let's drill. A little —] [PAUSE 4s] [VI: hơi] [PAUSE 0.5s] [EN: Fairly —] [PAUSE 4s] [VI: khá] [PAUSE 0.5s] [EN: Very —] [PAUSE 4s] [VI: rất] [PAUSE 0.5s] [EN: Now build it. Remember, the degree word comes before the adjective. A little old —] [PAUSE 4s] [VI: Hơi cũ.] [PAUSE 0.5s] [EN: Fairly small —] [PAUSE 4s] [VI: Khá nhỏ.] [PAUSE 0.5s] [EN: Very new —] [PAUSE 4s] [VI: Rất mới.] [PAUSE 0.5s] [EN: Swap in a word you already know. Very big —] [PAUSE 4s] [VI: Rất lớn.] [PAUSE 0.5s] [EN: Fairly cheap —] [PAUSE 4s] [VI: Khá rẻ.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: hơi] [PAUSE 3s] [EN: a little] [PAUSE 0.5s] [VI_F: khá] [PAUSE 3s] [EN: fairly] [PAUSE 0.5s] [VI_F: rất] [PAUSE 3s] [EN: very] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: hơi] [PAUSE 1s] [VI_F: khá] [PAUSE 1s] [VI_F: rất] [PAUSE 0.5s] [EN: Remember,] [VI: khá] [EN: and] [VI: rất] [EN: both have] [EN: a high, rising tone] [EN: , and] [VI: hơi] [EN: is] [EN: a flat tone, no mark] [EN: — flat.]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Nhà này đẹp không?] [VI_M: Rất đẹp! Nhưng hơi nhỏ.] [VI_F: Ừ, khá nhỏ.] [PAUSE 0.5s] [EN: Now you try. Say, very beautiful.] [PAUSE 4s] [VI: Rất đẹp.] [EN: Say, a bit small.] [PAUSE 4s] [VI: Hơi nhỏ.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn colors. The preview word is] [VI: màu] [EN: which means color.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Phòng này rất đẹp!] [PAUSE 0.5s] [VI: Dạ. Phòng hơi nhỏ.] [PAUSE 0.5s] [VI_F: Còn phòng đó khá mới.] [PAUSE 0.5s] [VI: Dạ, khá đẹp.] [PAUSE 1s] [EN: Your turn. Say it's very beautiful.] [PAUSE 4s] [VI: Rất đẹp.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, colors. One word to start —] [VI: màu] [EN: it means color. See you then.]"
     }
   ]
 }

@@ -1,31 +1,53 @@
 {
   "id": "L1-D13",
-  "title": "Nhà vệ sinh — Finding the restroom",
+  "title": "Nhà vệ sinh ở đâu: asking for the restroom",
   "vocab": [
-    {"vi": "ở đâu", "en": "where", "ipa": "/əː˧˩˧ ɗəw˧/"},
-    {"vi": "nhà vệ sinh", "en": "restroom", "ipa": "/ɲaː˨˩ ve˨˩ʔ siŋ˧/"},
-    {"vi": "bên phải", "en": "on the right", "ipa": "/ɓen˧ faj˧˩˧/"}
+    {
+      "vi": "ở đâu",
+      "en": "where",
+      "ipa": "ə˨˩˦ dəw˧"
+    },
+    {
+      "vi": "nhà vệ sinh",
+      "en": "restroom",
+      "ipa": "ɲaː˨˩ ve˨˩ʔ siɲ˧"
+    },
+    {
+      "vi": "bên phải",
+      "en": "on the right",
+      "ipa": "ben˧ faːj˨˩˦"
+    },
+    {
+      "vi": "bên trái",
+      "en": "on the left",
+      "ipa": "ben˧ tɕaːj˧˥"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Thousand.] [PAUSE 4s] [VI: Ngàn.] [EN: Have you eaten yet?] [PAUSE 4s] [VI: Anh ăn chưa?] [EN: I like coffee, no sugar.] [PAUSE 4s] [VI: Tôi thích cà phê, không đường.] [EN: Answer, already.] [PAUSE 4s] [VI: Rồi.] [EN: What does this mean?] [VI_F: Chưa.] [PAUSE 3s] [EN: Not yet.] [EN: Good.]"
+      "script": "[EN: Quick review. Say ten, as a group —] [PAUSE 4s] [VI: chục] [PAUSE 0.5s] [EN: Say hundred —] [PAUSE 4s] [VI: trăm] [PAUSE 0.5s] [EN: Say thousand —] [PAUSE 4s] [VI: ngàn] [PAUSE 0.5s] [EN: Say to eat —] [PAUSE 4s] [VI: ăn] [PAUSE 0.5s] [EN: Say already —] [PAUSE 4s] [VI: rồi] [PAUSE 0.5s] [EN: Say not yet —] [PAUSE 4s] [VI: chưa] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: You are in a mall and need the restroom. Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, nhà vệ sinh ở đâu?] [EN: Where is] [VI_F: Ở đâu?] [VI_F: Ở] [EN: has a falling, rising tone; relax your lips for this vowel.] [VI_F: Đâu] [EN: has a flat tone.] [EN: Ask where.] [PAUSE 4s] [VI: Ở đâu?] [EN: Good.] [PAUSE 0.5s] [EN: Restroom is] [VI_F: Nhà vệ sinh.] [VI_F: Vệ] [EN: has a falling, broken tone.] [EN: Now ask, where is the restroom?] [PAUSE 4s] [VI: Nhà vệ sinh ở đâu?] [EN: Good.] [PAUSE 0.5s] [EN: She answers, on the right.] [VI_F: Bên phải.] [VI_F: Phải] [EN: has a falling, rising tone.] [EN: Say on the right.] [PAUSE 4s] [VI: Bên phải.] [EN: Good.]"
+      "duration_s": 240,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, nhà vệ sinh ở đâu?] [PAUSE 0.5s] [VI_M: Dạ, bên phải.] [PAUSE 0.5s] [VI: Dạ, cảm ơn anh!] [PAUSE 1s] [EN: You asked] [VI: ở đâu] [EN: it means where. Listen to its two parts.] [VI_F: ở] [EN: has] [EN: a dipping tone — it falls, then rises] [PAUSE 0.3s] [VI_F: đâu] [EN: has] [EN: a flat tone, no mark] [EN: . Listen to the whole phrase again.] [VI_F: ở đâu] [PAUSE 1s] [VI_F: ở đâu] [EN: Now you say it.] [PAUSE 4s] [VI: ở đâu] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: nhà vệ sinh] [EN: means restroom. Listen to its three parts.] [VI_F: nhà] [EN: has] [EN: a falling tone] [PAUSE 0.3s] [VI_F: vệ] [EN: has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: sinh] [EN: has] [EN: a flat tone, no mark] [EN: . Listen to the whole word again.] [VI_F: nhà vệ sinh] [PAUSE 1s] [VI_F: nhà vệ sinh] [EN: Now you say it.] [PAUSE 4s] [VI: nhà vệ sinh] [EN: Good.] [PAUSE 0.3s] [VI_F: nhà vệ sinh ở đâu] [EN: where's the restroom?] [PAUSE 0.5s] [EN: Now directions. First,] [VI: bên phải] [EN: means on the right. It has two parts.] [VI_F: bên] [EN: has] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: phải] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: . Listen to the whole phrase again.] [VI_F: bên phải] [PAUSE 1s] [VI_F: bên phải] [EN: Now you say it.] [PAUSE 4s] [VI: bên phải] [EN: Good.] [PAUSE 0.5s] [EN: And] [VI: bên trái] [EN: means on the left. It has] [EN: a high, rising tone] [EN: on the second part — high, rising. Listen again.] [VI_F: bên trái] [PAUSE 1s] [VI_F: bên trái] [EN: Now you say it.] [PAUSE 4s] [VI: bên trái] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 85,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Where —] [PAUSE 4s] [VI: ở đâu] [PAUSE 0.5s] [EN: Restroom —] [PAUSE 4s] [VI: nhà vệ sinh] [PAUSE 0.5s] [EN: On the right —] [PAUSE 4s] [VI: bên phải] [PAUSE 0.5s] [EN: On the left —] [PAUSE 4s] [VI: bên trái] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Where?] [PAUSE 4s] [VI: Ở đâu?] [EN: Restroom.] [PAUSE 4s] [VI: Nhà vệ sinh.] [EN: On the right.] [PAUSE 4s] [VI: Bên phải.] [EN: Where is the restroom?] [PAUSE 4s] [VI: Nhà vệ sinh ở đâu?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Bên phải.] [PAUSE 3s] [EN: On the right.] [EN: What does this mean?] [VI_F: Ở đâu?] [PAUSE 3s] [EN: Where.] [EN: And thank an older woman.] [PAUSE 4s] [VI: Cảm ơn chị.] [EN: Good.]"
+      "duration_s": 260,
+      "script": "[EN: Let's drill. Where —] [PAUSE 4s] [VI: ở đâu] [PAUSE 0.5s] [EN: Restroom —] [PAUSE 4s] [VI: nhà vệ sinh] [PAUSE 0.5s] [EN: On the right —] [PAUSE 4s] [VI: bên phải] [PAUSE 0.5s] [EN: On the left —] [PAUSE 4s] [VI: bên trái] [PAUSE 0.5s] [EN: Now ask. Where's the restroom —] [PAUSE 4s] [VI: Nhà vệ sinh ở đâu?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ở đâu] [PAUSE 3s] [EN: where] [PAUSE 0.5s] [VI_F: nhà vệ sinh] [PAUSE 3s] [EN: restroom] [PAUSE 0.5s] [VI_F: bên phải] [PAUSE 3s] [EN: on the right] [PAUSE 0.5s] [VI_F: bên trái] [PAUSE 3s] [EN: on the left] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ở đâu] [PAUSE 1s] [VI_F: nhà vệ sinh] [PAUSE 1s] [VI_F: bên phải] [PAUSE 1s] [VI_F: bên trái] [PAUSE 0.5s] [EN: Remember,] [VI: ở] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: , and] [VI: trái] [EN: has] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, nhà vệ sinh ở đâu?] [VI_F: Dạ, bên phải.] [VI_M: Dạ, cảm ơn chị.] [VI_F: Dạ.] [PAUSE 0.5s] [EN: Now you ask. Where is the restroom?] [PAUSE 4s] [VI: Nhà vệ sinh ở đâu?] [EN: Thank her.] [PAUSE 4s] [VI: Cảm ơn chị.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you take a motorbike taxi. The preview word is] [VI: đi] [EN: which means to go.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Dạ, nhà vệ sinh ở đâu?] [PAUSE 0.5s] [VI_M: Dạ, bên phải.] [PAUSE 0.5s] [VI: Dạ, cảm ơn anh!] [PAUSE 1s] [EN: Your turn. Ask where the restroom is.] [PAUSE 4s] [VI: Nhà vệ sinh ở đâu?] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, you will take a motorbike taxi. One word to start —] [VI: đi] [EN: it means to go. See you then.]"
     }
   ]
 }

@@ -1,31 +1,48 @@
 {
   "id": "L2-D8",
-  "title": "Trước, sau — Putting things in order",
+  "title": "Trước, sau, sau đó: sequencing a routine",
   "vocab": [
-    {"vi": "trước", "en": "before, first", "ipa": "/ʈɨək˧˥/"},
-    {"vi": "sau", "en": "after", "ipa": "/saw˧/"},
-    {"vi": "sau đó", "en": "after that, then", "ipa": "/saw˧ ɗɔ˧˥/"}
+    {
+      "vi": "trước",
+      "en": "before",
+      "ipa": "tɕɨək˧˥"
+    },
+    {
+      "vi": "sau",
+      "en": "after",
+      "ipa": "saw˧"
+    },
+    {
+      "vi": "sau đó",
+      "en": "then, or after that",
+      "ipa": "saw˧ dɔ˧˥"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Usually, often.] [PAUSE 3s] [VI: Thường.] [EN: Often.] [PAUSE 3s] [VI: Hay.] [EN: Sometimes.] [PAUSE 4s] [VI: Thỉnh thoảng.] [EN: Near.] [PAUSE 3s] [VI: Gần.] [EN: Good.]"
+      "script": "[EN: Quick review. Say how much, how many —] [PAUSE 4s] [VI: bao nhiêu] [PAUSE 0.5s] [EN: Say one —] [PAUSE 4s] [VI: một] [PAUSE 0.5s] [EN: Say two —] [PAUSE 4s] [VI: hai] [PAUSE 0.5s] [EN: Say three —] [PAUSE 4s] [VI: ba] [PAUSE 0.5s] [EN: Say four —] [PAUSE 4s] [VI: bốn] [PAUSE 0.5s] [EN: Say five —] [PAUSE 4s] [VI: năm] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: To sequence events, use these words. First, or before, is] [VI_F: Trước.] [EN: a high, rising tone. After is] [VI_F: Sau.] [EN: a flat tone. And after that is] [VI_F: Sau đó.] [EN: Say after that.] [PAUSE 4s] [VI: Sau đó.] [EN: Good.] [PAUSE 0.5s] [EN: You already know] [VI: rồi] [EN: for then, or next. So a routine: first I wake up, then I eat breakfast, after that I go to work.] [PAUSE 0.5s] [VI_M: Tôi dậy trước, rồi ăn sáng, sau đó đi làm.] [EN: Say, I wake up first.] [PAUSE 4s] [VI: Tôi dậy trước.] [EN: Then I eat breakfast.] [PAUSE 4s] [VI: Rồi ăn sáng.] [EN: After that, I go to work.] [PAUSE 4s] [VI: Sau đó đi làm.] [EN: Good.]"
+      "duration_s": 200,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Em dậy trước. Sau đó em ăn sáng.] [PAUSE 0.5s] [VI_F: Chị nấu ăn trước hay sau?] [PAUSE 0.5s] [VI: Dạ, em nấu ăn trước.] [PAUSE 1s] [EN: Today's structure: putting your routine in order.] [PAUSE 0.5s] [EN: First,] [VI: trước] [EN: means before. It has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: trước] [PAUSE 1s] [VI_F: trước] [EN: Now you say it.] [PAUSE 4s] [VI: trước] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: sau] [EN: means after. It has] [EN: a flat tone, no mark] [EN: — flat, no mark. Listen again.] [VI_F: sau] [PAUSE 1s] [VI_F: sau] [EN: Now you say it.] [PAUSE 4s] [VI: sau] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: sau đó] [EN: means then, or after that. You already know] [VI: đó] [EN: — this adds] [VI: sau] [EN: right in front of it. Listen to the whole phrase again.] [VI_F: sau đó] [PAUSE 1s] [VI_F: sau đó] [EN: Now you say it.] [PAUSE 4s] [VI: sau đó] [EN: Good.] [PAUSE 0.5s] [EN: You already know] [VI: rồi] [EN: — between two actions, it can also work like then. Listen.] [VI_F: Em dậy, rồi ăn sáng.] [EN: I wake up, then eat breakfast.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 75,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Before —] [PAUSE 4s] [VI: trước] [PAUSE 0.5s] [EN: After —] [PAUSE 4s] [VI: sau] [PAUSE 0.5s] [EN: Then, or after that —] [PAUSE 4s] [VI: sau đó] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Before, or first.] [PAUSE 3s] [VI: Trước.] [EN: After.] [PAUSE 3s] [VI: Sau.] [EN: After that.] [PAUSE 3s] [VI: Sau đó.] [EN: I eat breakfast first.] [PAUSE 4s] [VI: Tôi ăn sáng trước.] [EN: After that, I go to work.] [PAUSE 4s] [VI: Sau đó đi làm.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Sau đó.] [PAUSE 3s] [EN: After that.] [EN: What does this mean?] [VI_F: Trước.] [PAUSE 3s] [EN: Before, or first.] [EN: Good.]"
+      "duration_s": 235,
+      "script": "[EN: Let's drill. Before —] [PAUSE 4s] [VI: trước] [PAUSE 0.5s] [EN: After —] [PAUSE 4s] [VI: sau] [PAUSE 0.5s] [EN: Then, or after that —] [PAUSE 4s] [VI: sau đó] [PAUSE 0.5s] [EN: Now say it. I wake up before —] [PAUSE 4s] [VI: Em dậy trước.] [PAUSE 0.5s] [EN: I eat breakfast after —] [PAUSE 4s] [VI: Em ăn sáng sau.] [PAUSE 0.5s] [EN: Then I go to work —] [PAUSE 4s] [VI: Sau đó em làm việc.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: trước] [PAUSE 3s] [EN: before] [PAUSE 0.5s] [VI_F: sau] [PAUSE 3s] [EN: after] [PAUSE 0.5s] [VI_F: sau đó] [PAUSE 3s] [EN: then, or after that] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: trước] [PAUSE 1s] [VI_F: sau] [PAUSE 1s] [VI_F: sau đó] [PAUSE 0.5s] [EN: Remember,] [VI: trước] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: sau] [EN: has] [EN: a flat tone, no mark] [EN: — flat.]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Buổi sáng anh làm gì?] [VI_M: Tôi dậy trước, rồi ăn sáng, sau đó đi làm.] [VI_F: Đều đặn ghê.] [PAUSE 0.5s] [EN: Now you try. Say I wake up first, then eat breakfast.] [PAUSE 4s] [VI: Tôi dậy trước, rồi ăn sáng.] [EN: Say, after that, I go to work.] [PAUSE 4s] [VI: Sau đó đi làm.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you learn to address older and younger people. The preview word is] [VI: ông] [EN: which addresses an older man, like a grandfather.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Em dậy trước. Sau đó em ăn sáng.] [PAUSE 0.5s] [VI_F: Chị nấu ăn trước hay sau?] [PAUSE 0.5s] [VI: Dạ, em nấu ăn trước.] [PAUSE 1s] [EN: Your turn. Say then I go to work.] [PAUSE 4s] [VI: Sau đó em làm việc.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, more ways to address people. One word to start —] [VI: ông] [EN: it means grandfather, or an older man. See you then.]"
     }
   ]
 }

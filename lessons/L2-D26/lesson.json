@@ -1,30 +1,43 @@
 {
   "id": "L2-D26",
-  "title": "Dạo này — Catching up",
+  "title": "Lâu rồi, dạo này: catching up",
   "vocab": [
-    {"vi": "lâu rồi", "en": "(it's been) a long time", "ipa": "/ləw˧ zoj˨˩/"},
-    {"vi": "dạo này", "en": "these days, lately", "ipa": "/jaːw˨˩ʔ naj˨˩/"}
+    {
+      "vi": "lâu rồi",
+      "en": "it's been a long time",
+      "ipa": "ləw˧ ʐoj˨˩"
+    },
+    {
+      "vi": "dạo này",
+      "en": "these days, or lately",
+      "ipa": "zaːw˨˩ʔ naːj˨˩"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: How long.] [PAUSE 4s] [VI: Bao lâu rồi.] [EN: What does this mean?] [VI_F: Được.] [PAUSE 3s] [EN: For a length of time, or okay.] [EN: What time.] [PAUSE 4s] [VI: Mấy giờ.] [EN: Morning.] [PAUSE 4s] [VI: Buổi sáng.] [EN: Good.]"
+      "script": "[EN: Quick review. Say what time —] [PAUSE 4s] [VI: mấy giờ] [PAUSE 0.5s] [EN: Say morning —] [PAUSE 4s] [VI: buổi sáng] [PAUSE 0.5s] [EN: Say to open —] [PAUSE 4s] [VI: mở cửa] [PAUSE 0.5s] [EN: Say to close —] [PAUSE 4s] [VI: đóng cửa] [PAUSE 0.5s] [EN: Say to make an appointment —] [PAUSE 4s] [VI: hẹn] [PAUSE 0.5s] [EN: Say to meet —] [PAUSE 4s] [VI: gặp] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: When you greet someone you have not seen in a while, say it has been a long time.] [VI_F: Lâu rồi.] [EN: a long time already. Long time no see.] [PAUSE 4s] [VI: Lâu rồi không gặp.] [EN: Good.] [PAUSE 0.5s] [EN: To ask about lately, these days, use] [VI_F: Dạo này.] [EN: Well, or healthy, is] [VI: khỏe.] [EN: So, how are you these days?] [PAUSE 4s] [VI: Dạo này anh khỏe không?] [EN: What have you been up to lately?] [PAUSE 4s] [VI: Dạo này anh làm gì?] [EN: Good.]"
+      "duration_s": 200,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Lâu rồi không gặp!] [PAUSE 0.5s] [VI: Dạ, lâu rồi!] [PAUSE 0.5s] [VI_F: Dạo này chị làm việc không?] [PAUSE 0.5s] [VI: Dạ có.] [PAUSE 1s] [EN: Two phrases for catching up today.] [PAUSE 0.5s] [EN: First,] [VI: lâu rồi] [EN: means it's been a long time. You know] [VI: bao lâu] [EN: — how long — and] [VI: rồi] [EN: — already. Listen again.] [VI_F: lâu rồi] [PAUSE 1s] [VI_F: lâu rồi] [EN: Now you say it.] [PAUSE 4s] [VI: lâu rồi] [EN: Good.] [PAUSE 0.5s] [EN: Say long time no see —] [PAUSE 4s] [VI: Lâu rồi không gặp!] [PAUSE 0.5s] [EN: Next,] [VI: dạo này] [EN: means these days, or lately. It has] [EN: a low tone, cut off short] [EN: on] [VI: dạo] [EN: — you already know] [VI: này] [EN: from before. Listen again.] [VI_F: dạo này] [PAUSE 1s] [VI_F: dạo này] [EN: Now you say it.] [PAUSE 4s] [VI: dạo này] [EN: Good.] [PAUSE 0.5s] [EN: Use it to open a question. These days, are you working? —] [PAUSE 4s] [VI: Dạo này chị làm việc không?]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 55,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: It's been a long time —] [PAUSE 4s] [VI: lâu rồi] [PAUSE 0.5s] [EN: These days, or lately —] [PAUSE 4s] [VI: dạo này] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. It's been a long time.] [PAUSE 3s] [VI: Lâu rồi.] [EN: These days, lately.] [PAUSE 3s] [VI: Dạo này.] [EN: Long time no see.] [PAUSE 4s] [VI: Lâu rồi không gặp.] [EN: How are you these days?] [PAUSE 4s] [VI: Dạo này anh khỏe không?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Dạo này.] [PAUSE 3s] [EN: These days, lately.] [EN: What does this mean?] [VI_F: Lâu rồi.] [PAUSE 3s] [EN: It's been a long time.] [EN: Good.]"
+      "duration_s": 230,
+      "script": "[EN: Let's drill. It's been a long time —] [PAUSE 4s] [VI: lâu rồi] [PAUSE 0.5s] [EN: These days —] [PAUSE 4s] [VI: dạo này] [PAUSE 0.5s] [EN: Now say it. Long time no see —] [PAUSE 4s] [VI: Lâu rồi không gặp!] [PAUSE 0.5s] [EN: These days, are you free? —] [PAUSE 4s] [VI: Dạo này chị rảnh không?] [PAUSE 0.5s] [EN: These days, are you working? —] [PAUSE 4s] [VI: Dạo này chị làm việc không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: lâu rồi] [PAUSE 3s] [EN: it's been a long time] [PAUSE 0.5s] [VI_F: dạo này] [PAUSE 3s] [EN: these days, or lately] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: lâu rồi] [PAUSE 1s] [VI_F: dạo này] [PAUSE 0.5s] [EN: Remember,] [VI: dạo] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: này] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",
-      "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Ủa, lâu rồi không gặp! Dạo này sao rồi?] [VI_F: Dạ, em khỏe. Anh khỏe không?] [VI_M: Khỏe, cảm ơn em.] [PAUSE 0.5s] [EN: Now you try. Say, long time no see.] [PAUSE 4s] [VI: Lâu rồi không gặp.] [EN: Ask, how are you these days?] [PAUSE 4s] [VI: Dạo này anh khỏe không?] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you reschedule by phone. The preview word is] [VI: bận] [EN: which means busy.]"
+      "duration_s": 145,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Lâu rồi không gặp!] [PAUSE 0.5s] [VI: Dạ, lâu rồi!] [PAUSE 0.5s] [VI_F: Dạo này chị làm việc không?] [PAUSE 0.5s] [VI: Dạ có.] [PAUSE 1s] [EN: Your turn. Say long time no see.] [PAUSE 4s] [VI: Lâu rồi không gặp!] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, rescheduling a phone call. One word to start —] [VI: trễ] [EN: it means late. See you then.]"
     }
   ]
 }

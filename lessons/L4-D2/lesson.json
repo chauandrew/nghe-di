@@ -1,0 +1,37 @@
+{
+  "id": "L4-D2",
+  "title": "Đau, bị, sốt, cảm: symptoms",
+  "vocab": [
+    {"vi": "đau", "en": "to hurt, or painful", "ipa": "daw˧"},
+    {"vi": "bị", "en": "a bad-outcome marker for illness (to be affected by)", "ipa": "bi˨˩ʔ"},
+    {"vi": "sốt", "en": "fever", "ipa": "sot˧˥"},
+    {"vi": "cảm", "en": "a cold, or the flu", "ipa": "kaːm˨˩˦"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say I don't understand —] [PAUSE 4s] [VI: tôi không hiểu] [PAUSE 0.5s] [EN: Say to know —] [PAUSE 4s] [VI: biết] [PAUSE 0.5s] [EN: Say speak more slowly —] [PAUSE 4s] [VI: nói chậm hơn] [PAUSE 0.5s] [EN: Say again —] [PAUSE 4s] [VI: lại] [PAUSE 0.5s] [EN: Say busy —] [PAUSE 4s] [VI: bận] [PAUSE 0.5s] [EN: Say to reschedule —] [PAUSE 4s] [VI: dời] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh đau ở đâu?] [PAUSE 0.5s] [VI: Dạ, tôi đau đầu.] [PAUSE 0.5s] [VI_F: Anh có bị sốt không?] [PAUSE 0.5s] [VI: Dạ, có. Tôi bị cảm.] [PAUSE 1s] [EN: Today's structure: describing symptoms.] [PAUSE 0.5s] [EN: First,] [VI: đau] [EN: means to hurt, or painful. It has] [VI: ngang] [EN: — flat, no mark. Listen again.] [VI_F: đau] [PAUSE 1s] [VI_F: đau] [EN: Now you say it.] [PAUSE 4s] [VI: đau] [EN: Good. Put a body part right after it. My head hurts —] [PAUSE 4s] [VI: Tôi đau đầu.] [PAUSE 0.5s] [EN: My stomach hurts —] [PAUSE 4s] [VI: Tôi đau bụng.] [PAUSE 0.5s] [EN: My leg hurts —] [PAUSE 4s] [VI: Tôi đau chân.] [PAUSE 0.5s] [EN: Now a second pattern, for illness.] [VI: bị] [EN: goes in front of an illness word — it marks something bad happening to you. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: bị] [PAUSE 1s] [VI_F: bị] [EN: Now you say it.] [PAUSE 4s] [VI: bị] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: sốt] [EN: means fever. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: sốt] [PAUSE 1s] [VI_F: sốt] [EN: Now you say it.] [PAUSE 4s] [VI: sốt] [EN: Good. I have a fever —] [PAUSE 4s] [VI: Tôi bị sốt.] [PAUSE 0.5s] [EN: Last,] [VI: cảm] [EN: means a cold, or the flu. It has] [VI: dấu hỏi] [EN: . Listen again.] [VI_F: cảm] [PAUSE 1s] [VI_F: cảm] [EN: Now you say it.] [PAUSE 4s] [VI: cảm] [EN: Good. I have a cold —] [PAUSE 4s] [VI: Tôi bị cảm.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To hurt, or painful —] [PAUSE 4s] [VI: đau] [PAUSE 0.5s] [EN: A bad-outcome marker —] [PAUSE 4s] [VI: bị] [PAUSE 0.5s] [EN: Fever —] [PAUSE 4s] [VI: sốt] [PAUSE 0.5s] [EN: A cold, or the flu —] [PAUSE 4s] [VI: cảm] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. To hurt, or painful —] [PAUSE 4s] [VI: đau] [PAUSE 0.5s] [EN: A bad-outcome marker for illness —] [PAUSE 4s] [VI: bị] [PAUSE 0.5s] [EN: Fever —] [PAUSE 4s] [VI: sốt] [PAUSE 0.5s] [EN: A cold, or the flu —] [PAUSE 4s] [VI: cảm] [PAUSE 0.5s] [EN: Now build it. My head hurts —] [PAUSE 4s] [VI: Tôi đau đầu.] [PAUSE 0.5s] [EN: My hand hurts —] [PAUSE 4s] [VI: Tôi đau tay.] [PAUSE 0.5s] [EN: I have a fever —] [PAUSE 4s] [VI: Tôi bị sốt.] [PAUSE 0.5s] [EN: I have a cold —] [PAUSE 4s] [VI: Tôi bị cảm.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đau] [PAUSE 3s] [EN: to hurt, or painful] [PAUSE 0.5s] [VI_F: bị] [PAUSE 3s] [EN: a bad-outcome marker] [PAUSE 0.5s] [VI_F: sốt] [PAUSE 3s] [EN: fever] [PAUSE 0.5s] [VI_F: cảm] [PAUSE 3s] [EN: a cold, or the flu] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đau] [PAUSE 1s] [VI_F: bị] [PAUSE 1s] [VI_F: sốt] [PAUSE 1s] [VI_F: cảm] [PAUSE 0.5s] [EN: Remember,] [VI: sốt] [EN: has] [VI: dấu sắc] [EN: , and] [VI: cảm] [EN: has] [VI: dấu hỏi] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh đau ở đâu?] [PAUSE 0.5s] [VI: Dạ, tôi đau đầu.] [PAUSE 0.5s] [VI_F: Anh có bị sốt không?] [PAUSE 0.5s] [VI: Dạ, có. Tôi bị cảm.] [PAUSE 1s] [EN: Your turn. Say you have a fever.] [PAUSE 4s] [VI: Tôi bị sốt.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, at the doctor's office. One word to start —] [VI: khám] [EN: it means to examine. See you then.]"
+    }
+  ]
+}

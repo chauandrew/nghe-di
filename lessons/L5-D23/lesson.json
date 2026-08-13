@@ -1,0 +1,32 @@
+{
+  "id": "L5-D23",
+  "title": "Ôn tập: a casual conversation with particles",
+  "vocab": [],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say how much, or how many —] [PAUSE 4s] [VI: bao nhiêu] [PAUSE 0.5s] [EN: Say one —] [PAUSE 4s] [VI: một] [PAUSE 0.5s] [EN: Say two —] [PAUSE 4s] [VI: hai] [PAUSE 0.5s] [EN: Say three —] [PAUSE 4s] [VI: ba] [PAUSE 0.5s] [EN: Say four —] [PAUSE 4s] [VI: bốn] [PAUSE 0.5s] [EN: Say five —] [PAUSE 4s] [VI: năm] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạo này sao rồi?] [PAUSE 0.5s] [VI: Bận lắm, nhưng vui chứ! Công ty có dự án mới đó.] [PAUSE 0.5s] [VI_F: Vậy à? Áp lực không?] [PAUSE 0.5s] [VI: Có chứ, nhưng không mệt đâu!] [PAUSE 1s] [EN: No new words today — just a casual, natural conversation strung together with the particles you've built up. Listen to how they stack.] [PAUSE 0.5s] [EN: The greeting uses] [VI: dạo này] [EN: and] [VI: sao rồi] [EN: from catching up.] [VI_F: Dạo này sao rồi?] [PAUSE 1s] [EN: Now you say it.] [PAUSE 4s] [VI: Dạo này sao rồi?] [EN: Good.] [PAUSE 0.5s] [EN: The answer stacks] [VI: lắm] [EN: for very, then] [VI: chứ] [EN: for of course, then] [VI: đó] [EN: for extra emphasis.] [VI: Bận lắm, nhưng vui chứ! Công ty có dự án mới đó.] [PAUSE 1s] [EN: Now you say it.] [PAUSE 4s] [VI: Bận lắm, nhưng vui chứ! Công ty có dự án mới đó.] [EN: Good.] [PAUSE 0.5s] [EN: The follow-up uses] [VI: vậy à] [EN: to react, then a plain yes-no question.] [VI_F: Vậy à? Áp lực không?] [PAUSE 1s] [EN: Now you say it.] [PAUSE 4s] [VI: Vậy à? Áp lực không?] [EN: Good.] [PAUSE 0.5s] [EN: And the close uses] [VI: chứ] [EN: again for of course, then] [VI: không] [EN: paired with] [VI: đâu] [EN: for a soft no — not tired at all.] [VI: Có chứ, nhưng không mệt đâu!] [PAUSE 1s] [EN: Now you say it.] [PAUSE 4s] [VI: Có chứ, nhưng không mệt đâu!] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over the particles that connect this conversation.] [PAUSE 0.5s] [EN: Very —] [PAUSE 4s] [VI: lắm] [PAUSE 0.5s] [EN: Of course —] [PAUSE 4s] [VI: chứ] [PAUSE 0.5s] [EN: The you-know emphasis particle —] [PAUSE 4s] [VI: đó] [PAUSE 0.5s] [EN: Not at all —] [PAUSE 4s] [VI: đâu] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Build your own casual sentences.] [PAUSE 0.5s] [EN: Say I have five colleagues —] [PAUSE 4s] [VI: Tôi có năm đồng nghiệp.] [PAUSE 0.5s] [EN: Say of course the wedding was fun —] [PAUSE 4s] [VI: Đám cưới vui chứ!] [PAUSE 0.5s] [EN: Say the gift is really nice, you know —] [PAUSE 4s] [VI: Quà đẹp lắm đó!] [PAUSE 0.5s] [EN: Say not busy at all —] [PAUSE 4s] [VI: Không bận đâu!] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: lắm] [PAUSE 3s] [EN: very] [PAUSE 0.5s] [VI_F: chứ] [PAUSE 3s] [EN: of course] [PAUSE 0.5s] [VI_F: đó] [PAUSE 3s] [EN: you know, an emphasis particle] [PAUSE 0.5s] [VI_F: đâu] [PAUSE 3s] [EN: not at all] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: chứ] [PAUSE 1s] [VI_F: đó] [PAUSE 1s] [VI_F: đâu] [PAUSE 0.5s] [EN: Remember,] [VI: chứ] [EN: and] [VI: đó] [EN: both have] [VI: dấu sắc] [EN: , and] [VI: đâu] [EN: is] [VI: ngang] [EN: — flat.]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Dạo này sao rồi?] [PAUSE 0.5s] [VI: Bận lắm, nhưng vui chứ! Công ty có dự án mới đó.] [PAUSE 0.5s] [VI_F: Vậy à? Áp lực không?] [PAUSE 0.5s] [VI: Có chứ, nhưng không mệt đâu!] [PAUSE 1s] [EN: Your turn. Say of course, but not tired at all.] [PAUSE 4s] [VI: Có chứ, nhưng không mệt đâu!] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, narrating a trip. One word to start —] [VI: chuyến đi] [EN: it means a trip, or journey. See you then.]"
+    }
+  ]
+}

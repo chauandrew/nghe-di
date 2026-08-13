@@ -1,0 +1,36 @@
+{
+  "id": "L4-D21",
+  "title": "Qua, dọc theo, ngã tư: complex directions",
+  "vocab": [
+    {"vi": "qua", "en": "across, or past", "ipa": "kwaː˧"},
+    {"vi": "dọc theo", "en": "along", "ipa": "dɔk˨˩ʔ tʰɛw˧"},
+    {"vi": "ngã tư", "en": "intersection, or crossroads", "ipa": "ŋaː˨˩˦ tɨ˧"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say to work —] [PAUSE 4s] [VI: làm việc] [PAUSE 0.5s] [EN: Say to go home —] [PAUSE 4s] [VI: về nhà] [PAUSE 0.5s] [EN: Say to cook —] [PAUSE 4s] [VI: nấu ăn] [PAUSE 0.5s] [EN: Say because, the fuller form —] [PAUSE 4s] [VI: tại vì] [PAUSE 0.5s] [EN: Say so, therefore, the fuller form —] [PAUSE 4s] [VI: cho nên] [PAUSE 0.5s] [EN: Say to drink, or to take medicine —] [PAUSE 4s] [VI: uống] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Ngân hàng ở đâu vậy chị?] [PAUSE 0.5s] [VI_F: Dạ, đi dọc theo đường này, qua ngã tư, quẹo trái.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 0.5s] [VI_F: Dạ, không xa.] [PAUSE 1s] [EN: Three new words today: complex directions.] [PAUSE 0.5s] [EN: First,] [VI: qua] [EN: means across, or past. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: qua] [PAUSE 1s] [VI_F: qua] [EN: Now you say it.] [PAUSE 4s] [VI: qua] [EN: Good. Cross this street —] [PAUSE 4s] [VI: Qua đường này.] [PAUSE 0.5s] [EN: Next,] [VI: dọc theo] [EN: means along. You know] [VI: theo] [EN: from] [VI: tiếp theo] [EN: — next.] [VI: dọc] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI: theo] [EN: has] [VI: ngang] [EN: — flat. Listen to the whole phrase again.] [VI_F: dọc theo] [PAUSE 1s] [VI_F: dọc theo] [EN: Now you say it.] [PAUSE 4s] [VI: dọc theo] [EN: Good. Go along this street —] [PAUSE 4s] [VI: Đi dọc theo đường này.] [PAUSE 0.5s] [EN: Last,] [VI: ngã tư] [EN: means intersection, or crossroads.] [VI: ngã] [EN: has] [VI: dấu ngã] [PAUSE 0.3s] [VI: tư] [EN: has] [VI: ngang] [EN: — flat. Listen to the whole phrase again.] [VI_F: ngã tư] [PAUSE 1s] [VI_F: ngã tư] [EN: Now you say it.] [PAUSE 4s] [VI: ngã tư] [EN: Good. Go past the intersection, turn left —] [PAUSE 4s] [VI: Qua ngã tư, quẹo trái.] [PAUSE 0.5s] [EN: Put it all together — go along this street, past the intersection, turn left —] [PAUSE 4s] [VI: Đi dọc theo đường này, qua ngã tư, quẹo trái.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Across, or past —] [PAUSE 4s] [VI: qua] [PAUSE 0.5s] [EN: Along —] [PAUSE 4s] [VI: dọc theo] [PAUSE 0.5s] [EN: Intersection —] [PAUSE 4s] [VI: ngã tư] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Across, or past —] [PAUSE 4s] [VI: qua] [PAUSE 0.5s] [EN: Along —] [PAUSE 4s] [VI: dọc theo] [PAUSE 0.5s] [EN: Intersection —] [PAUSE 4s] [VI: ngã tư] [PAUSE 0.5s] [EN: Now build it. Cross this street —] [PAUSE 4s] [VI: Qua đường này.] [PAUSE 0.5s] [EN: Go along this street —] [PAUSE 4s] [VI: Đi dọc theo đường này.] [PAUSE 0.5s] [EN: Go past the intersection, turn left —] [PAUSE 4s] [VI: Qua ngã tư, quẹo trái.] [PAUSE 0.5s] [EN: Where's the bank —] [PAUSE 4s] [VI: Ngân hàng ở đâu vậy chị?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: qua] [PAUSE 3s] [EN: across, or past] [PAUSE 0.5s] [VI_F: dọc theo] [PAUSE 3s] [EN: along] [PAUSE 0.5s] [VI_F: ngã tư] [PAUSE 3s] [EN: intersection] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: qua] [PAUSE 1s] [VI_F: dọc theo] [PAUSE 1s] [VI_F: ngã tư] [PAUSE 0.5s] [EN: Remember,] [VI: dọc] [EN: has] [VI: dấu nặng] [EN: , and] [VI: ngã] [EN: has] [VI: dấu ngã] [EN: — same dipping sound as] [VI: dấu hỏi] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 155,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Ngân hàng ở đâu vậy chị?] [PAUSE 0.5s] [VI_F: Dạ, đi dọc theo đường này, qua ngã tư, quẹo trái.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 0.5s] [VI_F: Dạ, không xa.] [PAUSE 1s] [EN: Your turn. Say go along this street, past the intersection, turn left.] [PAUSE 4s] [VI: Đi dọc theo đường này, qua ngã tư, quẹo trái.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, more directions across town. One phrase to start —] [VI: đèn đỏ] [EN: it means red light. See you then.]"
+    }
+  ]
+}

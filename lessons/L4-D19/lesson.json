@@ -1,0 +1,34 @@
+{
+  "id": "L4-D19",
+  "title": "Càng ... càng: the more, the more",
+  "vocab": [
+    {"vi": "càng", "en": "the more (used in pairs: càng ... càng)", "ipa": "kaːŋ˨˩"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say already, marking the past —] [PAUSE 4s] [VI: đã] [PAUSE 0.5s] [EN: Say will, marking the future —] [PAUSE 4s] [VI: sẽ] [PAUSE 0.5s] [EN: Say to go for a walk —] [PAUSE 4s] [VI: đi dạo] [PAUSE 0.5s] [EN: Say together, with —] [PAUSE 4s] [VI: cùng] [PAUSE 0.5s] [EN: Say to examine —] [PAUSE 4s] [VI: khám] [PAUSE 0.5s] [EN: Say throat —] [PAUSE 4s] [VI: họng] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 200,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh muốn phòng gần hay xa chợ?] [PAUSE 0.5s] [VI: Càng gần càng thích.] [PAUSE 0.5s] [VI_F: Dạ, phòng này gần chợ nhất.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: Today's structure: the more... the more.] [PAUSE 0.5s] [EN: Put] [VI: càng] [EN: before an adjective, then] [VI: càng] [EN: again before the result — the more of the first, the more of the second.] [VI: càng] [EN: has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: càng] [PAUSE 1s] [VI_F: càng] [EN: Now you say it.] [PAUSE 4s] [VI: càng] [EN: Good. The cheaper, the more I like it —] [PAUSE 4s] [VI: Càng rẻ càng thích.] [PAUSE 0.5s] [EN: The healthier, the happier —] [PAUSE 4s] [VI: Càng khỏe càng vui.] [PAUSE 0.5s] [EN: One more thing — you already know] [VI: nhất] [EN: for the most, the superlative. This room is nearest to the market —] [PAUSE 4s] [VI: Phòng này gần chợ nhất.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 55,
+      "script": "[EN: Quick pass over today's word.] [PAUSE 0.5s] [EN: The more —] [PAUSE 4s] [VI: càng] [PAUSE 0.5s] [EN: The cheaper, the more I like it —] [PAUSE 4s] [VI: Càng rẻ càng thích.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 235,
+      "script": "[EN: Let's drill the pattern. The more —] [PAUSE 4s] [VI: càng] [PAUSE 0.5s] [EN: Now build it. The cheaper, the more I like it —] [PAUSE 4s] [VI: Càng rẻ càng thích.] [PAUSE 0.5s] [EN: The healthier, the happier —] [PAUSE 4s] [VI: Càng khỏe càng vui.] [PAUSE 0.5s] [EN: Now swap in a new pair. The nearer, the more I like it —] [PAUSE 4s] [VI: Càng gần càng thích.] [PAUSE 0.5s] [EN: This room is nearest to the market —] [PAUSE 4s] [VI: Phòng này gần chợ nhất.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: càng] [PAUSE 3s] [EN: the more] [PAUSE 0.5s] [VI_F: Càng rẻ càng thích.] [PAUSE 3s] [EN: the cheaper, the more I like it] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: càng] [PAUSE 1s] [EN: Remember,] [VI: càng] [EN: has] [VI: dấu huyền] [EN: , the same falling sound as] [VI: chào] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh muốn phòng gần hay xa chợ?] [PAUSE 0.5s] [VI: Càng gần càng thích.] [PAUSE 0.5s] [VI_F: Dạ, phòng này gần chợ nhất.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: Your turn. Say the cheaper, the more I like it.] [PAUSE 4s] [VI: Càng rẻ càng thích.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, choosing the best option. One word to start —] [VI: tốt] [EN: it means good. See you then.]"
+    }
+  ]
+}

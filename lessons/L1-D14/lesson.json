@@ -1,31 +1,48 @@
 {
   "id": "L1-D14",
-  "title": "Đi xe ôm — Taking a motorbike taxi",
+  "title": "Đi Bến Thành: taking a motorbike taxi",
   "vocab": [
-    {"vi": "đi", "en": "to go", "ipa": "/ɗi˧/"},
-    {"vi": "Bến Thành", "en": "Ben Thanh, a market", "ipa": "/ɓen˧˥ tʰaːɲ˨˩/"},
-    {"vi": "bao lâu", "en": "how long", "ipa": "/ɓaːw˧ ləw˧/"}
+    {
+      "vi": "đi",
+      "en": "to go",
+      "ipa": "di˧"
+    },
+    {
+      "vi": "Bến Thành",
+      "en": "Bến Thành market",
+      "ipa": "ben˧˥ tʰaːɲ˨˩"
+    },
+    {
+      "vi": "bao lâu",
+      "en": "how long",
+      "ipa": "baːw˧ ləw˧"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: I want a glass of coffee.] [PAUSE 4s] [VI: Tôi muốn một ly cà phê.] [EN: Less ice.] [PAUSE 4s] [VI: Ít đá.] [EN: Where is the restroom?] [PAUSE 4s] [VI: Nhà vệ sinh ở đâu?] [EN: Water.] [PAUSE 4s] [VI: Nước.] [EN: What does this mean?] [VI_F: Bên phải.] [PAUSE 3s] [EN: On the right.] [EN: Good.]"
+      "script": "[EN: Quick review. Say I want —] [PAUSE 4s] [VI: tôi muốn] [PAUSE 0.5s] [EN: Say coffee —] [PAUSE 4s] [VI: cà phê] [PAUSE 0.5s] [EN: Say water —] [PAUSE 4s] [VI: nước] [PAUSE 0.5s] [EN: Say more, or add —] [PAUSE 4s] [VI: thêm] [PAUSE 0.5s] [EN: Say a little, or less —] [PAUSE 4s] [VI: ít] [PAUSE 0.5s] [EN: Say ice —] [PAUSE 4s] [VI: đá] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: You hire a motorbike taxi. Listen.] [PAUSE 0.5s] [VI_M: Anh ơi, đi Bến Thành.] [EN: To go is] [VI_F: Đi.] [EN: flat tone.] [EN: Say to go.] [PAUSE 4s] [VI: Đi.] [EN: Good.] [PAUSE 0.5s] [EN: Your destination, a famous market.] [VI_F: Bến Thành.] [VI_F: Bến] [EN: has a high, rising tone.] [VI_F: Thành] [EN: has a falling tone.] [EN: Tell the driver, go to the market.] [PAUSE 4s] [VI: Đi Bến Thành.] [EN: Good.] [PAUSE 0.5s] [EN: To ask how long, say] [VI_F: Bao lâu?] [EN: both syllables flat.] [EN: Ask how long.] [PAUSE 4s] [VI: Bao lâu?] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, tôi muốn đi Bến Thành.] [PAUSE 0.5s] [VI_M: Dạ.] [PAUSE 0.5s] [VI: Bao lâu vậy anh?] [PAUSE 0.5s] [VI_M: Dạ, mười.] [PAUSE 1s] [EN: You heard] [VI: đi] [EN: it means to go. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: đi] [PAUSE 1s] [VI_F: đi] [EN: Now you say it.] [PAUSE 4s] [VI: đi] [EN: Good.] [PAUSE 0.5s] [EN: Next, the market] [VI: Bến Thành] [EN: a famous market in the city. Listen to its two parts.] [VI_F: Bến] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: Thành] [EN: has] [EN: a falling tone] [EN: . Listen to the whole name again.] [VI_F: Bến Thành] [PAUSE 1s] [VI_F: Bến Thành] [EN: Now you say it.] [PAUSE 4s] [VI: Bến Thành] [EN: Good.] [PAUSE 0.3s] [VI_F: tôi muốn đi Bến Thành] [EN: I want to go to] [VI: Bến Thành] [EN: .] [PAUSE 0.5s] [EN: Last,] [VI: bao lâu] [EN: means how long. Listen to its two parts.] [VI_F: bao] [EN: has] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: lâu] [EN: also has] [EN: a flat tone, no mark] [EN: . Listen to the whole phrase again.] [VI_F: bao lâu] [PAUSE 1s] [VI_F: bao lâu] [EN: Now you say it.] [PAUSE 4s] [VI: bao lâu] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 75,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To go —] [PAUSE 4s] [VI: đi] [PAUSE 0.5s] [VI: Bến Thành] [EN: market —] [PAUSE 4s] [VI: Bến Thành] [PAUSE 0.5s] [EN: How long —] [PAUSE 4s] [VI: bao lâu] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. To go.] [PAUSE 4s] [VI: Đi.] [EN: How long?] [PAUSE 4s] [VI: Bao lâu?] [EN: Go to the market.] [PAUSE 4s] [VI: Đi Bến Thành.] [EN: How much?] [PAUSE 4s] [VI: Bao nhiêu?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Bao lâu?] [PAUSE 3s] [EN: How long.] [EN: What does this mean?] [VI_F: Đi.] [PAUSE 3s] [EN: To go.] [EN: And more ice.] [PAUSE 4s] [VI: Thêm đá.] [EN: Good.]"
+      "duration_s": 240,
+      "script": "[EN: Let's drill. To go —] [PAUSE 4s] [VI: đi] [PAUSE 0.5s] [VI: Bến Thành] [EN: market —] [PAUSE 4s] [VI: Bến Thành] [PAUSE 0.5s] [EN: How long —] [PAUSE 4s] [VI: bao lâu] [PAUSE 0.5s] [EN: Now say it. I want to go to] [VI: Bến Thành] [EN: —] [PAUSE 4s] [VI: Tôi muốn đi Bến Thành.] [PAUSE 0.5s] [EN: Ask how long —] [PAUSE 4s] [VI: Bao lâu vậy?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đi] [PAUSE 3s] [EN: to go] [PAUSE 0.5s] [VI_F: Bến Thành] [PAUSE 3s] [VI: Bến Thành] [EN: market] [PAUSE 0.5s] [VI_F: bao lâu] [PAUSE 3s] [EN: how long] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đi] [PAUSE 1s] [VI_F: Bến Thành] [PAUSE 1s] [VI_F: bao lâu] [PAUSE 0.5s] [EN: Remember,] [VI: Bến] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: Thành] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Anh ơi, đi Bến Thành. Bao nhiêu?] [VI_F: Dạ, bốn chục ngàn.] [VI_M: Bao lâu?] [VI_F: Dạ, mười lăm phút.] [EN: She said] [VI: phút] [EN: which means minute.] [PAUSE 0.5s] [EN: Now you try. Tell the driver to go to the market, ask how much.] [PAUSE 4s] [VI: Đi Bến Thành. Bao nhiêu?] [EN: Ask how long.] [PAUSE 4s] [VI: Bao lâu?] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you introduce yourself. The preview phrase is] [VI: tên tôi là] [EN: which means my name is.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Dạ, tôi muốn đi Bến Thành.] [PAUSE 0.5s] [VI_M: Dạ.] [PAUSE 0.5s] [VI: Bao lâu vậy anh?] [PAUSE 0.5s] [VI_M: Dạ, mười.] [PAUSE 1s] [EN: Your turn. Say you want to go to] [VI: Bến Thành] [EN: .] [PAUSE 4s] [VI: Tôi muốn đi Bến Thành.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, you will introduce yourself. One phrase to start —] [VI: tên tôi là] [EN: it means my name is. See you then.]"
     }
   ]
 }

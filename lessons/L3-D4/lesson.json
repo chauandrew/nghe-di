@@ -1,32 +1,63 @@
 {
   "id": "L3-D4",
-  "title": "Màu sắc — Colors",
+  "title": "Màu sắc: colors",
   "vocab": [
-    {"vi": "màu", "en": "color", "ipa": "/maw˨˩/"},
-    {"vi": "đỏ", "en": "red", "ipa": "/ɗɔ˧˩˧/"},
-    {"vi": "xanh", "en": "blue/green", "ipa": "/saɲ˧/"},
-    {"vi": "vàng", "en": "yellow", "ipa": "/vaːŋ˨˩/"}
+    {
+      "vi": "màu",
+      "en": "color",
+      "ipa": "maːw˨˩"
+    },
+    {
+      "vi": "đỏ",
+      "en": "red",
+      "ipa": "dɔ˨˩˦"
+    },
+    {
+      "vi": "xanh",
+      "en": "blue, or green",
+      "ipa": "saːɲ˧"
+    },
+    {
+      "vi": "vàng",
+      "en": "yellow",
+      "ipa": "vaːŋ˨˩"
+    },
+    {
+      "vi": "đen",
+      "en": "black",
+      "ipa": "dɛn˧"
+    },
+    {
+      "vi": "trắng",
+      "en": "white",
+      "ipa": "tɕaŋ˧˥"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Book a table.] [PAUSE 4s] [VI: Đặt bàn.] [EN: To meet.] [PAUSE 3s] [VI: Gặp.] [EN: Very beautiful.] [PAUSE 4s] [VI: Rất đẹp.] [EN: What does this mean?] [VI_F: Khá.] [PAUSE 3s] [EN: Quite, fairly.] [EN: Good.]"
+      "script": "[EN: Quick review. Say to book a table —] [PAUSE 4s] [VI: đặt bàn] [PAUSE 0.5s] [EN: Say how many people —] [PAUSE 4s] [VI: mấy người] [PAUSE 0.5s] [EN: Say tonight —] [PAUSE 4s] [VI: tối nay] [PAUSE 0.5s] [EN: Say month —] [PAUSE 4s] [VI: tháng] [PAUSE 0.5s] [EN: Say year —] [PAUSE 4s] [VI: năm] [PAUSE 0.5s] [EN: Say what date —] [PAUSE 4s] [VI: ngày mấy] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: Color is] [VI_F: Màu.] [EN: a falling tone. Like adjectives, the color comes after the noun. Red is] [VI_F: Đỏ.] [EN: a falling, rising tone. A red car, literally car color red.] [PAUSE 4s] [VI: Xe màu đỏ.] [EN: Good.] [PAUSE 0.5s] [EN: Blue or green — Vietnamese uses one word for both — is] [VI_F: Xanh.] [EN: a flat tone. Yellow is] [VI_F: Vàng.] [EN: a falling tone. Say blue, then yellow.] [PAUSE 4s] [VI: Xanh, vàng.] [EN: A yellow house.] [PAUSE 4s] [VI: Nhà màu vàng.] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cái này màu gì?] [PAUSE 0.5s] [VI: Dạ, màu đỏ.] [PAUSE 0.5s] [VI_F: Còn cái đó?] [PAUSE 0.5s] [VI: Cái đó màu xanh.] [PAUSE 1s] [EN: Today, colors — a closed set, six words together.] [PAUSE 0.5s] [EN: First,] [VI: màu] [EN: means color. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: màu] [PAUSE 1s] [VI_F: màu] [EN: Now you say it.] [PAUSE 4s] [VI: màu] [EN: Good. Ask what color —] [PAUSE 4s] [VI: Màu gì?] [PAUSE 0.5s] [EN: Next,] [VI: đỏ] [EN: means red. It has] [EN: a dipping tone — it falls, then rises] [EN: . Listen again.] [VI_F: đỏ] [PAUSE 1s] [VI_F: đỏ] [EN: Now you say it.] [PAUSE 4s] [VI: đỏ] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: xanh] [EN: means blue, or green — the same word covers both. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: xanh] [PAUSE 1s] [VI_F: xanh] [EN: Now you say it.] [PAUSE 4s] [VI: xanh] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: vàng] [EN: means yellow. It has] [EN: a falling tone] [EN: , same as] [VI: màu] [EN: . Listen again.] [VI_F: vàng] [PAUSE 1s] [VI_F: vàng] [EN: Now you say it.] [PAUSE 4s] [VI: vàng] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: đen] [EN: means black. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: đen] [PAUSE 1s] [VI_F: đen] [EN: Now you say it.] [PAUSE 4s] [VI: đen] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: trắng] [EN: means white. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: trắng] [PAUSE 1s] [VI_F: trắng] [EN: Now you say it.] [PAUSE 4s] [VI: trắng] [EN: Good.] [PAUSE 0.5s] [EN: Put] [VI: màu] [EN: in front of any of them:] [VI_F: màu đen] [EN: black,] [VI_F: màu trắng] [EN: white.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 85,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Color —] [PAUSE 4s] [VI: màu] [PAUSE 0.5s] [EN: Red —] [PAUSE 4s] [VI: đỏ] [PAUSE 0.5s] [EN: Blue, or green —] [PAUSE 4s] [VI: xanh] [PAUSE 0.5s] [EN: Yellow —] [PAUSE 4s] [VI: vàng] [PAUSE 0.5s] [EN: Black —] [PAUSE 4s] [VI: đen] [PAUSE 0.5s] [EN: White —] [PAUSE 4s] [VI: trắng] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Color.] [PAUSE 3s] [VI: Màu.] [EN: Red.] [PAUSE 3s] [VI: Đỏ.] [EN: A red car.] [PAUSE 4s] [VI: Xe màu đỏ.] [EN: A yellow house.] [PAUSE 4s] [VI: Nhà màu vàng.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Xanh.] [PAUSE 3s] [EN: Blue or green.] [EN: What does this mean?] [VI_F: Vàng.] [PAUSE 3s] [EN: Yellow.] [EN: Good.]"
+      "duration_s": 250,
+      "script": "[EN: Let's drill. Color —] [PAUSE 4s] [VI: màu] [PAUSE 0.5s] [EN: Red —] [PAUSE 4s] [VI: đỏ] [PAUSE 0.5s] [EN: Blue, or green —] [PAUSE 4s] [VI: xanh] [PAUSE 0.5s] [EN: Yellow —] [PAUSE 4s] [VI: vàng] [PAUSE 0.5s] [EN: Black —] [PAUSE 4s] [VI: đen] [PAUSE 0.5s] [EN: White —] [PAUSE 4s] [VI: trắng] [PAUSE 0.5s] [EN: Now say it. This one is red —] [PAUSE 4s] [VI: Cái này màu đỏ.] [PAUSE 0.5s] [EN: That one is yellow —] [PAUSE 4s] [VI: Cái đó màu vàng.] [PAUSE 0.5s] [EN: What color is this —] [PAUSE 4s] [VI: Cái này màu gì?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: màu] [PAUSE 3s] [EN: color] [PAUSE 0.5s] [VI_F: đỏ] [PAUSE 3s] [EN: red] [PAUSE 0.5s] [VI_F: xanh] [PAUSE 3s] [EN: blue, or green] [PAUSE 0.5s] [VI_F: vàng] [PAUSE 3s] [EN: yellow] [PAUSE 0.5s] [VI_F: đen] [PAUSE 3s] [EN: black] [PAUSE 0.5s] [VI_F: trắng] [PAUSE 3s] [EN: white] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: màu] [PAUSE 1s] [VI_F: đỏ] [PAUSE 1s] [VI_F: xanh] [PAUSE 1s] [VI_F: vàng] [PAUSE 1s] [VI_F: đen] [PAUSE 1s] [VI_F: trắng] [PAUSE 0.5s] [EN: Remember,] [VI: đỏ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: , and] [VI: trắng] [EN: has] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen at a shop.] [PAUSE 0.5s] [VI_F: Anh thích màu nào?] [VI_M: Tôi thích màu xanh. Có cái màu đỏ không?] [VI_F: Dạ có.] [PAUSE 0.5s] [EN: Now you try. Say, a red car.] [PAUSE 4s] [VI: Xe màu đỏ.] [EN: Say, I like blue.] [PAUSE 4s] [VI: Tôi thích màu xanh.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you describe your family. The preview phrase is] [VI: gia đình] [EN: which means family.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Cái này màu gì?] [PAUSE 0.5s] [VI: Dạ, màu đỏ.] [PAUSE 0.5s] [VI_F: Còn cái đó?] [PAUSE 0.5s] [VI: Cái đó màu xanh.] [PAUSE 1s] [EN: Your turn. Say this one is white.] [PAUSE 4s] [VI: Cái này màu trắng.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, talking about your family. One word to start —] [VI: gia đình] [EN: it means family. See you then.]"
     }
   ]
 }

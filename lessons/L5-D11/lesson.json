@@ -1,0 +1,35 @@
+{
+  "id": "L5-D11",
+  "title": "Sức khỏe, may mắn: Tết greetings",
+  "vocab": [
+    {"vi": "sức khỏe", "en": "health", "ipa": "sɯk˧˥ xwɛ˨˩˦"},
+    {"vi": "may mắn", "en": "lucky, or luck", "ipa": "maj˧ măn˧˥"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say it's been a long time —] [PAUSE 4s] [VI: lâu rồi] [PAUSE 0.5s] [EN: Say these days, or lately —] [PAUSE 4s] [VI: dạo này] [PAUSE 0.5s] [EN: Say can, or to be able to —] [PAUSE 4s] [VI: có thể] [PAUSE 0.5s] [EN: Say to say that —] [PAUSE 4s] [VI: nói là] [PAUSE 0.5s] [EN: Say to tell someone —] [PAUSE 4s] [VI: bảo] [PAUSE 0.5s] [EN: Say to be born —] [PAUSE 4s] [VI: sinh ra] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chúc anh sức khỏe, và may mắn trong năm mới!] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị! Chúc chị cũng vậy.] [PAUSE 0.5s] [VI_F: Cảm ơn anh nha!] [PAUSE 1s] [EN: Today,] [VI: Tết] [EN: greetings and small talk.] [PAUSE 0.5s] [EN: First,] [VI: sức khỏe] [EN: means health. Listen to its two parts.] [VI_F: sức] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: khỏe] [EN: has] [VI: dấu hỏi] [EN: . Listen to the whole word again.] [VI_F: sức khỏe] [PAUSE 1s] [VI_F: sức khỏe] [EN: Now you say it.] [PAUSE 4s] [VI: sức khỏe] [EN: Good. I wish you health —] [PAUSE 4s] [VI: Chúc anh sức khỏe.] [PAUSE 0.5s] [EN: Next,] [VI: may mắn] [EN: means lucky, or luck. Listen to its two parts.] [VI_F: may] [EN: has] [VI: ngang] [PAUSE 0.3s] [VI_F: mắn] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole word again.] [VI_F: may mắn] [PAUSE 1s] [VI_F: may mắn] [EN: Now you say it.] [PAUSE 4s] [VI: may mắn] [EN: Good. I wish you luck in the new year —] [PAUSE 4s] [VI: Chúc anh may mắn trong năm mới.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Health —] [PAUSE 4s] [VI: sức khỏe] [PAUSE 0.5s] [EN: Lucky, or luck —] [PAUSE 4s] [VI: may mắn] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Health —] [PAUSE 4s] [VI: sức khỏe] [PAUSE 0.5s] [EN: Lucky, or luck —] [PAUSE 4s] [VI: may mắn] [PAUSE 0.5s] [EN: Now build it. I wish you health —] [PAUSE 4s] [VI: Chúc anh sức khỏe.] [PAUSE 0.5s] [EN: I wish you luck in the new year —] [PAUSE 4s] [VI: Chúc anh may mắn trong năm mới.] [PAUSE 0.5s] [EN: I wish you health and luck —] [PAUSE 4s] [VI: Chúc anh sức khỏe và may mắn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: sức khỏe] [PAUSE 3s] [EN: health] [PAUSE 0.5s] [VI_F: may mắn] [PAUSE 3s] [EN: lucky, or luck] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: sức khỏe] [PAUSE 1s] [VI_F: may mắn] [PAUSE 0.5s] [EN: Remember,] [VI: sức] [EN: has] [VI: dấu sắc] [EN: , and] [VI: khỏe] [EN: has] [VI: dấu hỏi] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Chúc anh sức khỏe, và may mắn trong năm mới!] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị! Chúc chị cũng vậy.] [PAUSE 0.5s] [VI_F: Cảm ơn anh nha!] [PAUSE 1s] [EN: Your turn. Say I wish you health and luck.] [PAUSE 4s] [VI: Chúc anh sức khỏe và may mắn.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, regional food culture. One word to start —] [VI: món ăn] [EN: it means dish, or food. See you then.]"
+    }
+  ]
+}

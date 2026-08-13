@@ -1,0 +1,35 @@
+{
+  "id": "L4-D22",
+  "title": "Đèn đỏ, vòng xoay: directions across town",
+  "vocab": [
+    {"vi": "đèn đỏ", "en": "red light, traffic light", "ipa": "dɛn˨˩ dɔ˨˩˦"},
+    {"vi": "vòng xoay", "en": "roundabout", "ipa": "vɔŋ˨˩ swaːj˧"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say usually —] [PAUSE 4s] [VI: thường] [PAUSE 0.5s] [EN: Say often —] [PAUSE 4s] [VI: hay] [PAUSE 0.5s] [EN: Say sometimes —] [PAUSE 4s] [VI: thỉnh thoảng] [PAUSE 0.5s] [EN: Say never —] [PAUSE 4s] [VI: không bao giờ] [PAUSE 0.5s] [EN: Say tall —] [PAUSE 4s] [VI: cao] [PAUSE 0.5s] [EN: Say short, for height —] [PAUSE 4s] [VI: thấp] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 205,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Đi Bến Thành thế nào?] [PAUSE 0.5s] [VI_F: Dạ, quẹo trái ở đèn đỏ, rồi qua vòng xoay.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 0.5s] [VI_F: Dạ, không xa.] [PAUSE 1s] [EN: Two new words today: more directions across town.] [PAUSE 0.5s] [EN: First,] [VI: đèn đỏ] [EN: means red light, or traffic light.] [VI: đèn] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI: đỏ] [EN: you already know — red. It has] [VI: dấu hỏi] [EN: . Listen to the whole phrase again.] [VI_F: đèn đỏ] [PAUSE 1s] [VI_F: đèn đỏ] [EN: Now you say it.] [PAUSE 4s] [VI: đèn đỏ] [EN: Good. Turn left at the red light —] [PAUSE 4s] [VI: Quẹo trái ở đèn đỏ.] [PAUSE 0.5s] [EN: Next,] [VI: vòng xoay] [EN: means roundabout.] [VI: vòng] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI: xoay] [EN: has] [VI: ngang] [EN: — flat. Listen to the whole phrase again.] [VI_F: vòng xoay] [PAUSE 1s] [VI_F: vòng xoay] [EN: Now you say it.] [PAUSE 4s] [VI: vòng xoay] [EN: Good. Go through the roundabout —] [PAUSE 4s] [VI: Qua vòng xoay.] [PAUSE 0.5s] [EN: Put it together — turn left at the red light, then go through the roundabout —] [PAUSE 4s] [VI: Quẹo trái ở đèn đỏ, rồi qua vòng xoay.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Red light —] [PAUSE 4s] [VI: đèn đỏ] [PAUSE 0.5s] [EN: Roundabout —] [PAUSE 4s] [VI: vòng xoay] [PAUSE 0.5s] [EN: Turn left at the red light —] [PAUSE 4s] [VI: Quẹo trái ở đèn đỏ.] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. Red light —] [PAUSE 4s] [VI: đèn đỏ] [PAUSE 0.5s] [EN: Roundabout —] [PAUSE 4s] [VI: vòng xoay] [PAUSE 0.5s] [EN: Now build it. Turn left at the red light —] [PAUSE 4s] [VI: Quẹo trái ở đèn đỏ.] [PAUSE 0.5s] [EN: Go through the roundabout —] [PAUSE 4s] [VI: Qua vòng xoay.] [PAUSE 0.5s] [EN: Turn left at the red light, then go through the roundabout —] [PAUSE 4s] [VI: Quẹo trái ở đèn đỏ, rồi qua vòng xoay.] [PAUSE 0.5s] [EN: How do I get to] [VI: Bến Thành] [EN: —] [PAUSE 4s] [VI: Đi Bến Thành thế nào?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đèn đỏ] [PAUSE 3s] [EN: red light] [PAUSE 0.5s] [VI_F: vòng xoay] [PAUSE 3s] [EN: roundabout] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đèn đỏ] [PAUSE 1s] [VI_F: vòng xoay] [PAUSE 0.5s] [EN: Remember,] [VI: đèn] [EN: and] [VI: vòng] [EN: both have] [VI: dấu huyền] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Đi Bến Thành thế nào?] [PAUSE 0.5s] [VI_F: Dạ, quẹo trái ở đèn đỏ, rồi qua vòng xoay.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 0.5s] [VI_F: Dạ, không xa.] [PAUSE 1s] [EN: Your turn. Say turn left at the red light.] [PAUSE 4s] [VI: Quẹo trái ở đèn đỏ.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, emergencies. One word to start —] [VI: cấp cứu] [EN: it means emergency, or the ER. See you then.]"
+    }
+  ]
+}

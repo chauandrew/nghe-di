@@ -1,31 +1,48 @@
 {
   "id": "L1-D26",
-  "title": "Đặt phòng — Checking into a hotel",
+  "title": "Còn phòng không: checking into a hotel",
   "vocab": [
-    {"vi": "phòng", "en": "room", "ipa": "/fɔŋ˨˩/"},
-    {"vi": "còn phòng không", "en": "any rooms available", "ipa": "/kɔn˨˩ fɔŋ˨˩ xəwŋ˧/"},
-    {"vi": "một đêm", "en": "one night", "ipa": "/moˀt̚˨˩ʔ ɗem˧/"}
+    {
+      "vi": "phòng",
+      "en": "room",
+      "ipa": "fɔŋ˨˩"
+    },
+    {
+      "vi": "còn phòng không",
+      "en": "do you have a room available?",
+      "ipa": "kɔn˨˩ fɔŋ˨˩ xoŋ˧"
+    },
+    {
+      "vi": "một đêm",
+      "en": "one night",
+      "ipa": "mot˨˩ʔ dem˧"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Have you eaten yet?] [PAUSE 4s] [VI: Anh ăn chưa?] [EN: A big bowl.] [PAUSE 4s] [VI: Tô lớn.] [EN: Supermarket.] [PAUSE 4s] [VI: Siêu thị.] [EN: Sold out.] [PAUSE 4s] [VI: Hết rồi.] [EN: What does this mean?] [VI_F: Loại khác.] [PAUSE 3s] [EN: Another kind.] [EN: Good.]"
+      "script": "[EN: Quick review. Say to eat —] [PAUSE 4s] [VI: ăn] [PAUSE 0.5s] [EN: Say already —] [PAUSE 4s] [VI: rồi] [PAUSE 0.5s] [EN: Say not yet —] [PAUSE 4s] [VI: chưa] [PAUSE 0.5s] [EN: Say to order food —] [PAUSE 4s] [VI: gọi món] [PAUSE 0.5s] [EN: Say large —] [PAUSE 4s] [VI: lớn] [PAUSE 0.5s] [EN: Say portion —] [PAUSE 4s] [VI: phần] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: You arrive at a small hotel. Listen.] [PAUSE 0.5s] [VI_F: Dạ, anh muốn gì?] [EN: Room is] [VI_F: Phòng.] [EN: falling tone, rounded lips.] [EN: Say room.] [PAUSE 4s] [VI: Phòng.] [EN: To ask if rooms are available, you reuse the same frame: any rooms left?] [VI_M: Còn phòng không?] [EN: Ask if there are rooms.] [PAUSE 4s] [VI: Còn phòng không?] [EN: Good.] [PAUSE 0.5s] [EN: For one night, say] [VI_M: Một đêm.] [VI_M: Đêm] [EN: has a flat tone.] [EN: Now say, one room, one night.] [PAUSE 4s] [VI: Một phòng, một đêm.] [EN: Good.]"
+      "duration_s": 200,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, còn phòng không?] [PAUSE 0.5s] [VI_F: Dạ, có.] [PAUSE 0.5s] [VI: Dạ, cho tôi một đêm.] [PAUSE 0.5s] [VI_F: Dạ, một đêm.] [PAUSE 1s] [EN: You asked about a] [VI: phòng] [EN: it means room. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: phòng] [PAUSE 1s] [VI_F: phòng] [EN: Now you say it.] [PAUSE 4s] [VI: phòng] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: còn phòng không] [EN: means do you have a room available. You know] [VI: còn không] [EN: from before — today it gets a noun in the middle.] [VI_F: còn phòng không] [PAUSE 1s] [VI_F: còn phòng không] [EN: Now you say it.] [PAUSE 4s] [VI: còn phòng không] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: một đêm] [EN: means one night. Listen to its two parts.] [VI_F: một] [EN: you know — it has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: đêm] [EN: is] [EN: a flat tone, no mark] [EN: . Listen to the whole phrase again.] [VI_F: một đêm] [PAUSE 1s] [VI_F: một đêm] [EN: Now you say it.] [PAUSE 4s] [VI: một đêm] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Room —] [PAUSE 4s] [VI: phòng] [PAUSE 0.5s] [EN: Do you have a room available —] [PAUSE 4s] [VI: còn phòng không] [PAUSE 0.5s] [EN: One night —] [PAUSE 4s] [VI: một đêm] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Room.] [PAUSE 4s] [VI: Phòng.] [EN: Are there any rooms available?] [PAUSE 4s] [VI: Còn phòng không?] [EN: One night.] [PAUSE 4s] [VI: Một đêm.] [EN: One room for one night, how much?] [PAUSE 4s] [VI: Một phòng một đêm, bao nhiêu?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Một đêm.] [PAUSE 3s] [EN: One night.] [EN: What does this mean?] [VI_F: Còn phòng không?] [PAUSE 3s] [EN: Are there any rooms available.] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Let's drill. Room —] [PAUSE 4s] [VI: phòng] [PAUSE 0.5s] [EN: Do you have a room available —] [PAUSE 4s] [VI: còn phòng không] [PAUSE 0.5s] [EN: One night —] [PAUSE 4s] [VI: một đêm] [PAUSE 0.5s] [EN: Now say it. Ask if there's a room —] [PAUSE 4s] [VI: Còn phòng không?] [PAUSE 0.5s] [EN: Say give me one night —] [PAUSE 4s] [VI: Cho tôi một đêm.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: phòng] [PAUSE 3s] [EN: room] [PAUSE 0.5s] [VI_F: còn phòng không] [PAUSE 3s] [EN: do you have a room available] [PAUSE 0.5s] [VI_F: một đêm] [PAUSE 3s] [EN: one night] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: phòng] [PAUSE 1s] [VI_F: còn phòng không] [PAUSE 1s] [VI_F: một đêm] [PAUSE 0.5s] [EN: Remember,] [VI: phòng] [EN: has] [EN: a falling tone] [EN: , and] [VI: đêm] [EN: is] [EN: a flat tone, no mark] [EN: — flat.]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, còn phòng không?] [VI_F: Dạ còn. Mấy đêm anh?] [VI_M: Một đêm. Bao nhiêu?] [VI_F: Dạ, ba trăm ngàn.] [PAUSE 0.5s] [EN: Now you try. Ask if rooms are available.] [PAUSE 4s] [VI: Còn phòng không?] [EN: Say one room, one night.] [PAUSE 4s] [VI: Một phòng, một đêm.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you ask for directions when lost. The preview phrase is] [VI: tôi bị lạc] [EN: which means I am lost.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Dạ, còn phòng không?] [PAUSE 0.5s] [VI_F: Dạ, có.] [PAUSE 0.5s] [VI: Dạ, cho tôi một đêm.] [PAUSE 0.5s] [VI_F: Dạ, một đêm.] [PAUSE 1s] [EN: Your turn. Ask if there's a room.] [PAUSE 4s] [VI: Còn phòng không?] [EN: Good.] [PAUSE 0.5s] [EN: Now say one night —] [PAUSE 4s] [VI: Một đêm.] [EN: Well done.] [PAUSE 0.5s] [EN: Next lesson, asking for directions when lost. One phrase to start —] [VI: tôi bị lạc] [EN: it means I'm lost. See you then.]"
     }
   ]
 }

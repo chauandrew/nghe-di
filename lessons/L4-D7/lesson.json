@@ -1,0 +1,35 @@
+{
+  "id": "L4-D7",
+  "title": "Phiền, giúp: polite requests",
+  "vocab": [
+    {"vi": "phiền", "en": "to trouble, or bother someone (polite opener)", "ipa": "fiən˨˩"},
+    {"vi": "giúp", "en": "to help", "ipa": "zup˧˥"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say near —] [PAUSE 4s] [VI: gần] [PAUSE 0.5s] [EN: Say far —] [PAUSE 4s] [VI: xa] [PAUSE 0.5s] [EN: Say to walk —] [PAUSE 4s] [VI: đi bộ] [PAUSE 0.5s] [EN: Say beautiful, or nice-looking —] [PAUSE 4s] [VI: đẹp] [PAUSE 0.5s] [EN: Say small —] [PAUSE 4s] [VI: nhỏ] [PAUSE 0.5s] [EN: Say new —] [PAUSE 4s] [VI: mới] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Phiền chị giúp tôi được không?] [PAUSE 0.5s] [VI_F: Dạ được, anh cần gì?] [PAUSE 0.5s] [VI: Chị giúp tôi gọi món được không?] [PAUSE 0.5s] [VI_F: Dạ được.] [PAUSE 1s] [EN: Two words for polite requests today.] [PAUSE 0.5s] [EN: First,] [VI: phiền] [EN: means to trouble, or bother someone. Put it at the start of a request, before the person's pronoun. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: phiền] [PAUSE 1s] [VI_F: phiền] [EN: Now you say it.] [PAUSE 4s] [VI: phiền] [EN: Good. Excuse me, could you help me —] [PAUSE 4s] [VI: Phiền chị giúp tôi.] [PAUSE 0.5s] [EN: Next,] [VI: giúp] [EN: means to help. Put it after the verb to ask someone to do something for you. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: giúp] [PAUSE 1s] [VI_F: giúp] [EN: Now you say it.] [PAUSE 4s] [VI: giúp] [EN: Good. Help me order food —] [PAUSE 4s] [VI: Giúp tôi gọi món.] [PAUSE 0.5s] [EN: Add the permission tag from yesterday to soften it further —] [PAUSE 4s] [VI: Giúp tôi gọi món được không?]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To trouble, or bother someone —] [PAUSE 4s] [VI: phiền] [PAUSE 0.5s] [EN: To help —] [PAUSE 4s] [VI: giúp] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. To trouble, or bother someone —] [PAUSE 4s] [VI: phiền] [PAUSE 0.5s] [EN: To help —] [PAUSE 4s] [VI: giúp] [PAUSE 0.5s] [EN: Now build it. Excuse me, could you help me —] [PAUSE 4s] [VI: Phiền chị giúp tôi.] [PAUSE 0.5s] [EN: Help me order food —] [PAUSE 4s] [VI: Giúp tôi gọi món.] [PAUSE 0.5s] [EN: Could you help me —] [PAUSE 4s] [VI: Chị giúp tôi được không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: phiền] [PAUSE 3s] [EN: to trouble, or bother someone] [PAUSE 0.5s] [VI_F: giúp] [PAUSE 3s] [EN: to help] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: phiền] [PAUSE 1s] [VI_F: giúp] [PAUSE 0.5s] [EN: Remember,] [VI: phiền] [EN: has] [VI: dấu huyền] [EN: , and] [VI: giúp] [EN: has] [VI: dấu sắc] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Phiền chị giúp tôi được không?] [PAUSE 0.5s] [VI_F: Dạ được, anh cần gì?] [PAUSE 0.5s] [VI: Chị giúp tôi gọi món được không?] [PAUSE 0.5s] [VI_F: Dạ được.] [PAUSE 1s] [EN: Your turn. Ask, excuse me, could you help me.] [PAUSE 4s] [VI: Phiền chị giúp tôi.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, if...then. One word to start —] [VI: nếu] [EN: it means if. See you then.]"
+    }
+  ]
+}

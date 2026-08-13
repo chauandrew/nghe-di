@@ -1,31 +1,48 @@
 {
   "id": "L3-D22",
-  "title": "Áo quần — Clothing",
+  "title": "Áo, quần, thử: clothing vocabulary",
   "vocab": [
-    {"vi": "áo", "en": "shirt, top", "ipa": "/aːw˧˥/"},
-    {"vi": "quần", "en": "pants", "ipa": "/kwən˨˩/"},
-    {"vi": "thử", "en": "to try (on)", "ipa": "/tʰɨ˧˩˧/"}
+    {
+      "vi": "áo",
+      "en": "shirt, top",
+      "ipa": "aːw˧˥"
+    },
+    {
+      "vi": "quần",
+      "en": "pants",
+      "ipa": "kwən˨˩"
+    },
+    {
+      "vi": "thử",
+      "en": "to try on",
+      "ipa": "tʰɨ˨˩˦"
+    }
   ],
   "segments": [
     {
       "type": "recall",
-      "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Month.] [PAUSE 3s] [VI: Tháng.] [EN: I am a teacher.] [PAUSE 4s] [VI: Tôi là giáo viên.] [EN: I think this dish is delicious.] [PAUSE 4s] [VI: Tôi nghĩ món này ngon.] [EN: What does this mean?] [VI_F: Tuyệt.] [PAUSE 3s] [EN: Great.] [EN: Good.]"
+      "duration_s": 95,
+      "script": "[EN: Quick review. Say I want —] [PAUSE 4s] [VI: tôi muốn] [PAUSE 0.5s] [EN: Say coffee —] [PAUSE 4s] [VI: cà phê] [PAUSE 0.5s] [EN: Say water —] [PAUSE 4s] [VI: nước] [PAUSE 0.5s] [EN: Say fifteen —] [PAUSE 4s] [VI: mười lăm] [PAUSE 0.5s] [EN: Say twenty-one —] [PAUSE 4s] [VI: hai mươi mốt] [PAUSE 0.5s] [EN: Say four, at the end of a number —] [PAUSE 4s] [VI: tư] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: A shirt, or top, is] [VI_F: Áo.] [EN: a high, rising tone. Pants are] [VI_F: Quần.] [EN: a falling tone. A red shirt — remember, color after the noun.] [PAUSE 4s] [VI: Áo màu đỏ.] [EN: Good.] [PAUSE 0.5s] [EN: To try on is] [VI_F: Thử.] [EN: a falling, rising tone; relax your lips for this vowel. Can I try it?] [PAUSE 4s] [VI: Tôi thử được không?] [EN: I want to try this shirt.] [PAUSE 4s] [VI: Tôi muốn thử áo này.] [EN: Good.]"
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh muốn thử áo này không?] [PAUSE 0.5s] [VI: Dạ, tôi muốn thử.] [PAUSE 0.5s] [VI_F: Quần này đẹp không?] [PAUSE 0.5s] [VI: Dạ đẹp, tôi cũng muốn thử.] [PAUSE 1s] [EN: Today, clothing.] [PAUSE 0.5s] [EN: First,] [VI: áo] [EN: means shirt, or top. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: áo] [PAUSE 1s] [VI_F: áo] [EN: Now you say it.] [PAUSE 4s] [VI: áo] [EN: Good. A new shirt —] [PAUSE 4s] [VI: áo mới] [PAUSE 0.5s] [EN: Next,] [VI: quần] [EN: means pants. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: quần] [PAUSE 1s] [VI_F: quần] [EN: Now you say it.] [PAUSE 4s] [VI: quần] [EN: Good. Black pants —] [PAUSE 4s] [VI: quần đen] [PAUSE 0.5s] [EN: Last,] [VI: thử] [EN: means to try on. It has] [EN: a dipping tone — it falls, then rises] [EN: . Listen again.] [VI_F: thử] [PAUSE 1s] [VI_F: thử] [EN: Now you say it.] [PAUSE 4s] [VI: thử] [EN: Good. I want to try on this shirt —] [PAUSE 4s] [VI: Tôi muốn thử áo này.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Shirt, top —] [PAUSE 4s] [VI: áo] [PAUSE 0.5s] [EN: Pants —] [PAUSE 4s] [VI: quần] [PAUSE 0.5s] [EN: To try on —] [PAUSE 4s] [VI: thử] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Shirt.] [PAUSE 3s] [VI: Áo.] [EN: Pants.] [PAUSE 3s] [VI: Quần.] [EN: To try on.] [PAUSE 3s] [VI: Thử.] [EN: A red shirt.] [PAUSE 4s] [VI: Áo màu đỏ.] [EN: Can I try it?] [PAUSE 4s] [VI: Tôi thử được không?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Quần.] [PAUSE 3s] [EN: Pants.] [EN: What does this mean?] [VI_F: Thử.] [PAUSE 3s] [EN: To try on.] [EN: Good.]"
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Shirt, top —] [PAUSE 4s] [VI: áo] [PAUSE 0.5s] [EN: Pants —] [PAUSE 4s] [VI: quần] [PAUSE 0.5s] [EN: To try on —] [PAUSE 4s] [VI: thử] [PAUSE 0.5s] [EN: Now build it. I want to try on this shirt —] [PAUSE 4s] [VI: Tôi muốn thử áo này.] [PAUSE 0.5s] [EN: I want to try on these pants —] [PAUSE 4s] [VI: Tôi muốn thử quần này.] [PAUSE 0.5s] [EN: This shirt is beautiful, right —] [PAUSE 4s] [VI: Áo này đẹp chứ?] [PAUSE 0.5s] [EN: These pants are new, and so beautiful —] [PAUSE 4s] [VI: Quần này mới, đẹp luôn!] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: áo] [PAUSE 3s] [EN: shirt, top] [PAUSE 0.5s] [VI_F: quần] [PAUSE 3s] [EN: pants] [PAUSE 0.5s] [VI_F: thử] [PAUSE 3s] [EN: to try on] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: áo] [PAUSE 1s] [VI_F: quần] [PAUSE 1s] [VI_F: thử] [PAUSE 0.5s] [EN: Remember,] [VI: áo] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: thử] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, áo này màu xanh có không?] [VI_F: Dạ có. Anh thử nha?] [VI_M: Dạ, tôi thử được không?] [VI_F: Dạ được.] [PAUSE 0.5s] [EN: Now you try. Say, a red shirt.] [PAUSE 4s] [VI: Áo màu đỏ.] [EN: Ask, can I try it?] [PAUSE 4s] [VI: Tôi thử được không?] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you talk about fit. The preview word is] [VI: chật] [EN: which means tight.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh muốn thử áo này không?] [PAUSE 0.5s] [VI: Dạ, tôi muốn thử.] [PAUSE 0.5s] [VI_F: Quần này đẹp không?] [PAUSE 0.5s] [VI: Dạ đẹp, tôi cũng muốn thử.] [PAUSE 1s] [EN: Your turn. Say I want to try on this shirt.] [PAUSE 4s] [VI: Tôi muốn thử áo này.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, buying clothes. One word to start —] [VI: chật] [EN: it means tight. See you then.]"
     }
   ]
 }

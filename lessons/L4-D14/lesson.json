@@ -1,0 +1,36 @@
+{
+  "id": "L4-D14",
+  "title": "Mất, trộm, bể: lost, stolen, or broken",
+  "vocab": [
+    {"vi": "mất", "en": "lost, or to lose", "ipa": "mət˧˥"},
+    {"vi": "trộm", "en": "thief, or to steal", "ipa": "tɕom˨˩ʔ"},
+    {"vi": "bể", "en": "broken, or shattered (for glass, or anything fragile)", "ipa": "be˨˩˦"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say to book a table —] [PAUSE 4s] [VI: đặt bàn] [PAUSE 0.5s] [EN: Say how many people —] [PAUSE 4s] [VI: mấy người] [PAUSE 0.5s] [EN: Say tonight —] [PAUSE 4s] [VI: tối nay] [PAUSE 0.5s] [EN: Say living room —] [PAUSE 4s] [VI: phòng khách] [PAUSE 0.5s] [EN: Say bedroom —] [PAUSE 4s] [VI: phòng ngủ] [PAUSE 0.5s] [EN: Say kitchen —] [PAUSE 4s] [VI: bếp] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Tôi bị mất vé rồi!] [PAUSE 0.5s] [VI_F: Trời ơi! Bị trộm hả?] [PAUSE 0.5s] [VI: Dạ không, không phải bị trộm.] [PAUSE 0.5s] [VI_F: Dạ, tôi biết rồi.] [PAUSE 1s] [EN: Three words for lost, stolen, or broken today — all pair with] [VI: bị] [EN: from yesterday.] [PAUSE 0.5s] [EN: First,] [VI: mất] [EN: means lost, or to lose. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: mất] [PAUSE 1s] [VI_F: mất] [EN: Now you say it.] [PAUSE 4s] [VI: mất] [EN: Good. I lost my ticket —] [PAUSE 4s] [VI: Tôi bị mất vé.] [PAUSE 0.5s] [EN: Next,] [VI: trộm] [EN: means thief, or to steal. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: trộm] [PAUSE 1s] [VI_F: trộm] [EN: Now you say it.] [PAUSE 4s] [VI: trộm] [EN: Good. I got robbed —] [PAUSE 4s] [VI: Tôi bị trộm.] [PAUSE 0.5s] [EN: Last,] [VI: bể] [EN: means broken, or shattered — for glass, or anything fragile. It has] [VI: dấu hỏi] [EN: . Listen again.] [VI_F: bể] [PAUSE 1s] [VI_F: bể] [EN: Now you say it.] [PAUSE 4s] [VI: bể] [EN: Good. The glass broke —] [PAUSE 4s] [VI: Ly bị bể.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Lost, or to lose —] [PAUSE 4s] [VI: mất] [PAUSE 0.5s] [EN: Thief, or to steal —] [PAUSE 4s] [VI: trộm] [PAUSE 0.5s] [EN: Broken, or shattered —] [PAUSE 4s] [VI: bể] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. Lost, or to lose —] [PAUSE 4s] [VI: mất] [PAUSE 0.5s] [EN: Thief, or to steal —] [PAUSE 4s] [VI: trộm] [PAUSE 0.5s] [EN: Broken, or shattered —] [PAUSE 4s] [VI: bể] [PAUSE 0.5s] [EN: Now build it. I lost my ticket —] [PAUSE 4s] [VI: Tôi bị mất vé.] [PAUSE 0.5s] [EN: I got robbed —] [PAUSE 4s] [VI: Tôi bị trộm.] [PAUSE 0.5s] [EN: The glass broke —] [PAUSE 4s] [VI: Ly bị bể.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: mất] [PAUSE 3s] [EN: lost, or to lose] [PAUSE 0.5s] [VI_F: trộm] [PAUSE 3s] [EN: thief, or to steal] [PAUSE 0.5s] [VI_F: bể] [PAUSE 3s] [EN: broken, or shattered] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: mất] [PAUSE 1s] [VI_F: trộm] [PAUSE 1s] [VI_F: bể] [PAUSE 0.5s] [EN: Remember,] [VI: mất] [EN: has] [VI: dấu sắc] [EN: , and] [VI: bể] [EN: has] [VI: dấu hỏi] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Tôi bị mất vé rồi!] [PAUSE 0.5s] [VI_F: Trời ơi! Bị trộm hả?] [PAUSE 0.5s] [VI: Dạ không, không phải bị trộm.] [PAUSE 0.5s] [VI_F: Dạ, tôi biết rồi.] [PAUSE 1s] [EN: Your turn. Say the glass broke.] [PAUSE 4s] [VI: Ly bị bể.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, hotel room problems. One word to start —] [VI: máy lạnh] [EN: it means air conditioner. See you then.]"
+    }
+  ]
+}

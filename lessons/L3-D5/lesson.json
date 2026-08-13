@@ -1,30 +1,43 @@
 {
   "id": "L3-D5",
-  "title": "Gia đình tôi — Describing your family",
+  "title": "Gia đình: describing your family",
   "vocab": [
-    {"vi": "gia đình", "en": "family", "ipa": "/zaː˧ ɗiɲ˨˩/"},
-    {"vi": "người", "en": "person, people (counter)", "ipa": "/ŋɨəj˨˩/"}
+    {
+      "vi": "gia đình",
+      "en": "family",
+      "ipa": "zaː˧ diɲ˨˩"
+    },
+    {
+      "vi": "người",
+      "en": "person, people",
+      "ipa": "ŋɨəj˨˩"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Goodbye.] [PAUSE 4s] [VI: Tạm biệt.] [EN: See you tomorrow, okay?] [PAUSE 4s] [VI: Mai gặp nha.] [EN: A red car.] [PAUSE 4s] [VI: Xe màu đỏ.] [EN: What does this mean?] [VI_F: Vàng.] [PAUSE 3s] [EN: Yellow.] [EN: Good.]"
+      "script": "[EN: Quick review. Say goodbye —] [PAUSE 4s] [VI: tạm biệt] [PAUSE 0.5s] [EN: Say see you again —] [PAUSE 4s] [VI: hẹn gặp lại] [PAUSE 0.5s] [EN: Say congratulations —] [PAUSE 4s] [VI: chúc mừng] [PAUSE 0.5s] [EN: Say to make an appointment —] [PAUSE 4s] [VI: hẹn] [PAUSE 0.5s] [EN: Say to meet —] [PAUSE 4s] [VI: gặp] [PAUSE 0.5s] [EN: Say schedule, or calendar —] [PAUSE 4s] [VI: lịch] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: Family is] [VI_F: Gia đình.] [EN: Say family.] [PAUSE 4s] [VI: Gia đình.] [EN: To count people, you use] [VI: người,] [EN: which you know. My family has four people.] [PAUSE 4s] [VI: Gia đình tôi có bốn người.] [EN: Good.] [PAUSE 0.5s] [EN: Now introduce them with] [VI: đây là,] [EN: this is. This is my dad and my mom.] [PAUSE 4s] [VI: Đây là ba và má của tôi.] [EN: My family is small.] [PAUSE 4s] [VI: Gia đình tôi nhỏ.] [EN: Good.]"
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Gia đình chị có mấy người?] [PAUSE 0.5s] [VI: Dạ, gia đình tôi có bốn người: ba, má, chồng, và tôi.] [PAUSE 0.5s] [VI_F: Gia đình chị đẹp quá!] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: Two words today.] [PAUSE 0.5s] [EN: First,] [VI: gia đình] [EN: means family. Listen to its two parts.] [VI_F: gia] [EN: has] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: đình] [EN: has] [EN: a falling tone] [EN: . Listen to the whole word again.] [VI_F: gia đình] [PAUSE 1s] [VI_F: gia đình] [EN: Now you say it.] [PAUSE 4s] [VI: gia đình] [EN: Good. My family —] [PAUSE 4s] [VI: gia đình tôi] [PAUSE 0.5s] [EN: Next,] [VI: người] [EN: you have heard this one before, counting how many people — now it also stands on its own, meaning a person, or people. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: người] [PAUSE 1s] [VI_F: người] [EN: Now you say it.] [PAUSE 4s] [VI: người] [EN: Good.] [PAUSE 0.5s] [EN: Put a number in front to count them. Four people —] [PAUSE 4s] [VI: bốn người] [PAUSE 0.5s] [EN: Ask how many people are in a family —] [PAUSE 4s] [VI: Gia đình có mấy người?]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Family —] [PAUSE 4s] [VI: gia đình] [PAUSE 0.5s] [EN: Person, people —] [PAUSE 4s] [VI: người] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Family.] [PAUSE 3s] [VI: Gia đình.] [EN: My family has four people.] [PAUSE 4s] [VI: Gia đình tôi có bốn người.] [EN: This is my dad.] [PAUSE 4s] [VI: Đây là ba của tôi.] [EN: My family is small.] [PAUSE 4s] [VI: Gia đình tôi nhỏ.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Gia đình.] [PAUSE 3s] [EN: Family.] [EN: And, how many people?] [PAUSE 4s] [VI: Mấy người?] [EN: Good.]"
+      "duration_s": 220,
+      "script": "[EN: Let's drill. Family —] [PAUSE 4s] [VI: gia đình] [PAUSE 0.5s] [EN: Person, people —] [PAUSE 4s] [VI: người] [PAUSE 0.5s] [EN: Now say it. My family —] [PAUSE 4s] [VI: Gia đình tôi.] [PAUSE 0.5s] [EN: Four people —] [PAUSE 4s] [VI: Bốn người.] [PAUSE 0.5s] [EN: How many people are in your family —] [PAUSE 4s] [VI: Gia đình chị có mấy người?] [PAUSE 0.5s] [EN: My family has four people —] [PAUSE 4s] [VI: Gia đình tôi có bốn người.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: gia đình] [PAUSE 3s] [EN: family] [PAUSE 0.5s] [VI_F: người] [PAUSE 3s] [EN: person, people] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: gia đình] [PAUSE 1s] [VI_F: người] [PAUSE 0.5s] [EN: Remember,] [VI: đình] [EN: has] [EN: a falling tone] [EN: , same as] [VI: người] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Gia đình anh có mấy người?] [VI_M: Dạ, bốn người, ba, má, vợ tôi, và tôi.] [VI_F: Gia đình nhỏ, vui nha.] [PAUSE 0.5s] [EN: Now you try. Ask, how many people in your family?] [PAUSE 4s] [VI: Gia đình anh có mấy người?] [EN: Say, my family has four people.] [PAUSE 4s] [VI: Gia đình tôi có bốn người.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you talk about jobs. The preview word is] [VI: bác sĩ] [EN: which means doctor.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Gia đình chị có mấy người?] [PAUSE 0.5s] [VI: Dạ, gia đình tôi có bốn người: ba, má, chồng, và tôi.] [PAUSE 0.5s] [VI_F: Gia đình chị đẹp quá!] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: Your turn. Say your family has four people.] [PAUSE 4s] [VI: Gia đình tôi có bốn người.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, jobs and occupations. One word to start —] [VI: bác sĩ] [EN: it means doctor. See you then.]"
     }
   ]
 }

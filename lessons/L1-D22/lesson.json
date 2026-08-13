@@ -1,31 +1,48 @@
 {
   "id": "L1-D22",
-  "title": "Gần hay xa — Asking if a place is walkable",
+  "title": "Gần hay xa: is it walkable?",
   "vocab": [
-    {"vi": "gần", "en": "near", "ipa": "/ɣən˨˩/"},
-    {"vi": "xa", "en": "far", "ipa": "/saː˧/"},
-    {"vi": "đi bộ", "en": "to walk", "ipa": "/ɗi˧ ɓo˨˩ʔ/"}
+    {
+      "vi": "gần",
+      "en": "near",
+      "ipa": "gân˨˩"
+    },
+    {
+      "vi": "xa",
+      "en": "far",
+      "ipa": "saː˧"
+    },
+    {
+      "vi": "đi bộ",
+      "en": "to walk",
+      "ipa": "di˧ bo˨˩ʔ"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Thousand.] [PAUSE 4s] [VI: Ngàn.] [EN: My name is Nam.] [PAUSE 4s] [VI: Tên tôi là Nam.] [EN: To order.] [PAUSE 4s] [VI: Gọi món.] [EN: What time?] [PAUSE 4s] [VI: Mấy giờ?] [EN: What does this mean?] [VI_F: Mở cửa.] [PAUSE 3s] [EN: To open.] [EN: Good.]"
+      "script": "[EN: Quick review. Say a group of ten —] [PAUSE 4s] [VI: chục] [PAUSE 0.5s] [EN: Say hundred —] [PAUSE 4s] [VI: trăm] [PAUSE 0.5s] [EN: Say thousand —] [PAUSE 4s] [VI: ngàn] [PAUSE 0.5s] [EN: Say who —] [PAUSE 4s] [VI: ai] [PAUSE 0.5s] [EN: Say what —] [PAUSE 4s] [VI: gì] [PAUSE 0.5s] [EN: Say what is your name —] [PAUSE 4s] [VI: bạn tên gì] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: You ask a local if the cash machine is close. Listen.] [PAUSE 0.5s] [VI_F: Dạ, anh tìm gì?] [EN: She said] [VI: tìm] [EN: which means to look for.] [EN: Near is] [VI_F: Gần.] [EN: falling tone; relax your lips for this vowel.] [EN: Say near.] [PAUSE 4s] [VI: Gần.] [EN: Far is] [VI_F: Xa.] [EN: flat tone.] [EN: Say far.] [PAUSE 4s] [VI: Xa.] [EN: To walk is] [VI_F: Đi bộ.] [VI_F: Bộ] [EN: has a falling, broken tone; round your lips.] [EN: Now ask, is it near, can I walk?] [PAUSE 4s] [VI: Gần không? Đi bộ được không?] [EN: Good.]"
+      "duration_s": 195,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Bến Thành có xa không?] [PAUSE 0.5s] [VI_F: Dạ, gần, không xa.] [PAUSE 0.5s] [VI: Vậy tôi đi bộ.] [PAUSE 1s] [EN: You heard] [VI: gần] [EN: it means near. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: gần] [PAUSE 1s] [VI_F: gần] [EN: Now you say it.] [PAUSE 4s] [VI: gần] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: xa] [EN: means far. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: xa] [PAUSE 1s] [VI_F: xa] [EN: Now you say it.] [PAUSE 4s] [VI: xa] [EN: Good. Near, far —] [PAUSE 4s] [VI: gần, xa] [EN: Listen.] [VI_F: gần, xa] [PAUSE 1s] [EN: Last,] [VI: đi bộ] [EN: means to walk. Listen to its two parts.] [VI_F: đi] [EN: is] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: bộ] [EN: has] [EN: a low tone, cut off short] [EN: . Listen to the whole phrase again.] [VI_F: đi bộ] [PAUSE 1s] [VI_F: đi bộ] [EN: Now you say it.] [PAUSE 4s] [VI: đi bộ] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Near —] [PAUSE 4s] [VI: gần] [PAUSE 0.5s] [EN: Far —] [PAUSE 4s] [VI: xa] [PAUSE 0.5s] [EN: To walk —] [PAUSE 4s] [VI: đi bộ] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Near.] [PAUSE 4s] [VI: Gần.] [EN: Far.] [PAUSE 4s] [VI: Xa.] [EN: To walk.] [PAUSE 4s] [VI: Đi bộ.] [EN: Can I walk, is that okay?] [PAUSE 4s] [VI: Đi bộ được không?] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Xa.] [PAUSE 3s] [EN: Far.] [EN: What does this mean?] [VI_F: Gần.] [PAUSE 3s] [EN: Near.] [EN: And, is it near? Using the question frame.] [PAUSE 4s] [VI: Gần không?] [EN: Good.]"
+      "duration_s": 210,
+      "script": "[EN: Let's drill. Near —] [PAUSE 4s] [VI: gần] [PAUSE 0.5s] [EN: Far —] [PAUSE 4s] [VI: xa] [PAUSE 0.5s] [EN: To walk —] [PAUSE 4s] [VI: đi bộ] [PAUSE 0.5s] [EN: Now say it. Is it far —] [PAUSE 4s] [VI: Có xa không?] [PAUSE 0.5s] [EN: Say so I'll walk —] [PAUSE 4s] [VI: Vậy tôi đi bộ.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: gần] [PAUSE 3s] [EN: near] [PAUSE 0.5s] [VI_F: xa] [PAUSE 3s] [EN: far] [PAUSE 0.5s] [VI_F: đi bộ] [PAUSE 3s] [EN: to walk] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: gần] [PAUSE 1s] [VI_F: xa] [PAUSE 1s] [VI_F: đi bộ] [PAUSE 0.5s] [EN: Remember,] [VI: gần] [EN: has] [EN: a falling tone] [EN: , and] [VI: bộ] [EN: has] [EN: a low tone, cut off short] [EN: .]"
     },
     {
       "type": "synthesis",
-      "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Chị ơi, ATM gần không?] [VI_F: Dạ, gần lắm. Đi bộ được.] [EN: She said] [VI: lắm] [EN: which means very, similar to] [VI: quá] [EN: from before.] [VI_M: Dạ, cảm ơn chị.] [PAUSE 0.5s] [EN: Now you try. Ask is it near.] [PAUSE 4s] [VI: Gần không?] [EN: Ask can I walk.] [PAUSE 4s] [VI: Đi bộ được không?] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you shop for groceries. The preview word is] [VI: siêu thị] [EN: which means supermarket.]"
+      "duration_s": 145,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Bến Thành có xa không?] [PAUSE 0.5s] [VI_F: Dạ, gần, không xa.] [PAUSE 0.5s] [VI: Vậy tôi đi bộ.] [PAUSE 1s] [EN: Your turn. Ask if it's far.] [PAUSE 4s] [VI: Có xa không?] [EN: Good.] [PAUSE 0.5s] [EN: Now say you'll walk —] [PAUSE 4s] [VI: Tôi đi bộ.] [EN: Well done.] [PAUSE 0.5s] [EN: Next lesson, the supermarket. One word to start —] [VI: siêu thị] [EN: it means supermarket. See you then.]"
     }
   ]
 }

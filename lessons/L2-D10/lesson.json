@@ -1,30 +1,32 @@
 {
   "id": "L2-D10",
-  "title": "Một ngày — Describing your whole day",
-  "vocab": [
-    {"vi": "buổi trưa", "en": "midday, noon", "ipa": "/ɓuəj˧˩˧ ʈɨə˧/"},
-    {"vi": "buổi chiều", "en": "afternoon", "ipa": "/ɓuəj˧˩˧ t͡ɕiəw˨˩/"}
-  ],
+  "title": "Một ngày của em: my whole day",
+  "vocab": [],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Ông.] [PAUSE 3s] [EN: An older man, grandfather age.] [EN: What does this mean?] [VI_F: Bà.] [PAUSE 3s] [EN: An older woman, grandmother age.] [EN: What does this mean?] [VI_F: Cô.] [PAUSE 3s] [EN: A woman your parent’s age.] [EN: What does this mean?] [VI_F: Chú.] [PAUSE 3s] [EN: A man your parent’s age.] [EN: Good.]"
+      "script": "[EN: Quick review. Say the classifier for a generic thing —] [PAUSE 4s] [VI: cái] [PAUSE 0.5s] [EN: Say glass —] [PAUSE 4s] [VI: ly] [PAUSE 0.5s] [EN: Say bottle —] [PAUSE 4s] [VI: chai] [PAUSE 0.5s] [EN: Say bowl —] [PAUSE 4s] [VI: tô] [PAUSE 0.5s] [EN: Say loaf —] [PAUSE 4s] [VI: ổ] [PAUSE 0.5s] [EN: Say the classifier for a person —] [PAUSE 4s] [VI: người] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: Two more parts of the day. Midday is] [VI_F: Buổi trưa.] [EN: relax your lips for this vowel. Say midday.] [PAUSE 4s] [VI: Buổi trưa.] [EN: Afternoon is] [VI_F: Buổi chiều.] [EN: Say afternoon.] [PAUSE 4s] [VI: Buổi chiều.] [EN: So your full day runs morning, midday, afternoon, evening:] [VI: sáng, trưa, chiều, tối.] [EN: Now build it. In the morning I go to work.] [PAUSE 4s] [VI: Buổi sáng tôi đi làm.] [EN: At midday I eat lunch.] [PAUSE 4s] [VI: Buổi trưa tôi ăn trưa.] [EN: In the evening I cook.] [PAUSE 4s] [VI: Buổi tối tôi nấu ăn.] [EN: Good.]"
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Em thường dậy sáu giờ sáng, rồi ăn sáng.] [PAUSE 0.5s] [VI_F: Sau đó anh làm việc không?] [PAUSE 0.5s] [VI: Dạ, làm việc. Sáu giờ chiều em về nhà, rồi nấu ăn.] [PAUSE 0.5s] [VI_F: Dạ, cảm ơn anh.] [PAUSE 1s] [EN: No new words today — just putting everything from this week together into one story. Listen to how the pieces link up.] [PAUSE 0.5s] [EN: The first sentence uses] [VI: thường] [EN: usually, plus two actions joined by] [VI: rồi] [EN: — wake up, then eat breakfast.] [VI_F: Em thường dậy sáu giờ sáng, rồi ăn sáng.] [PAUSE 1s] [EN: Now you say it.] [PAUSE 4s] [VI: Em thường dậy sáu giờ sáng, rồi ăn sáng.] [EN: Good.] [PAUSE 0.5s] [EN: The question adds] [VI: không] [EN: at the end — you already know that turns a statement into a yes-no question.] [VI_F: Sau đó anh làm việc không?] [PAUSE 1s] [EN: Now you say it.] [PAUSE 4s] [VI: Sau đó anh làm việc không?] [EN: Good.] [PAUSE 0.5s] [EN: And the answer strings together a time, a place, and] [VI: rồi] [EN: again for the next action.] [VI: Dạ, làm việc. Sáu giờ chiều em về nhà, rồi nấu ăn.] [PAUSE 1s] [EN: Now you say it.] [PAUSE 4s] [VI: Dạ, làm việc. Sáu giờ chiều em về nhà, rồi nấu ăn.] [EN: Good.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over the pieces that link a day together.] [PAUSE 0.5s] [EN: Usually —] [PAUSE 4s] [VI: thường] [PAUSE 0.5s] [EN: Then, linking two actions —] [PAUSE 4s] [VI: rồi] [PAUSE 0.5s] [EN: Then, or after that —] [PAUSE 4s] [VI: sau đó] [PAUSE 0.5s] [EN: The yes-no question marker —] [PAUSE 4s] [VI: không] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Midday.] [PAUSE 3s] [VI: Buổi trưa.] [EN: Afternoon.] [PAUSE 3s] [VI: Buổi chiều.] [EN: In the morning I go to work.] [PAUSE 4s] [VI: Buổi sáng tôi đi làm.] [EN: In the afternoon I go home.] [PAUSE 4s] [VI: Buổi chiều tôi về nhà.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Buổi chiều.] [PAUSE 3s] [EN: Afternoon.] [EN: What does this mean?] [VI_F: Buổi trưa.] [PAUSE 3s] [EN: Midday.] [EN: Good.]"
+      "duration_s": 250,
+      "script": "[EN: Let's drill. Build your own day, one sentence at a time.] [PAUSE 0.5s] [EN: Say you wake up at seven —] [PAUSE 4s] [VI: Em dậy bảy giờ.] [PAUSE 0.5s] [EN: Say then you eat breakfast —] [PAUSE 4s] [VI: Rồi ăn sáng.] [PAUSE 0.5s] [EN: Say you work at eight —] [PAUSE 4s] [VI: Tám giờ em làm việc.] [PAUSE 0.5s] [EN: Say you go home at five —] [PAUSE 4s] [VI: Năm giờ em về nhà.] [PAUSE 0.5s] [EN: Say then you cook —] [PAUSE 4s] [VI: Rồi nấu ăn.] [PAUSE 0.5s] [EN: Say then you sleep —] [PAUSE 4s] [VI: Sau đó em ngủ.] [PAUSE 0.5s] [EN: Now put your whole day in one breath.] [PAUSE 4s] [VI: Em dậy bảy giờ, ăn sáng, rồi làm việc. Năm giờ về nhà, nấu ăn, rồi ngủ.] [EN: Great.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: thường] [PAUSE 3s] [EN: usually] [PAUSE 0.5s] [VI_F: rồi] [PAUSE 3s] [EN: then] [PAUSE 0.5s] [VI_F: sau đó] [PAUSE 3s] [EN: then, or after that] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: thường] [PAUSE 1s] [VI_F: rồi] [PAUSE 1s] [VI_F: sau đó] [PAUSE 0.5s] [EN: Remember,] [VI: dậy] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: ngủ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: .]"
     },
     {
       "type": "synthesis",
-      "duration_s": 155,
-      "script": "[EN: Listen to someone describe their day.] [PAUSE 0.5s] [VI_M: Buổi sáng tôi dậy lúc sáu giờ, rồi ăn sáng. Buổi trưa tôi làm việc. Buổi chiều tôi về nhà, sau đó nấu ăn.] [PAUSE 0.5s] [EN: Now you try. In the morning I wake up at six.] [PAUSE 4s] [VI: Buổi sáng tôi dậy lúc sáu giờ.] [EN: In the evening I cook.] [PAUSE 4s] [VI: Buổi tối tôi nấu ăn.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you join two actions with a when-clause. The preview word is] [VI: khi] [EN: which means when.]"
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Em thường dậy sáu giờ sáng, rồi ăn sáng.] [PAUSE 0.5s] [VI_F: Sau đó anh làm việc không?] [PAUSE 0.5s] [VI: Dạ, làm việc. Sáu giờ chiều em về nhà, rồi nấu ăn.] [PAUSE 0.5s] [VI_F: Dạ, cảm ơn anh.] [PAUSE 1s] [EN: Your turn. Tell me what time you go home.] [PAUSE 4s] [VI: Sáu giờ chiều em về nhà.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, saying when something happens. One word to start —] [VI: khi nào] [EN: it means when. See you then.]"
     }
   ]
 }

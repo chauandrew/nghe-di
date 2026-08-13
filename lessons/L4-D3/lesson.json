@@ -1,0 +1,36 @@
+{
+  "id": "L4-D3",
+  "title": "Khám, họng, ho: at the doctor",
+  "vocab": [
+    {"vi": "khám", "en": "to examine", "ipa": "xaːm˧˥"},
+    {"vi": "họng", "en": "throat", "ipa": "hɔŋ˨˩ʔ"},
+    {"vi": "ho", "en": "to cough", "ipa": "hɔ˧"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say give me —] [PAUSE 4s] [VI: cho tôi] [PAUSE 0.5s] [EN: Say bill —] [PAUSE 4s] [VI: hóa đơn] [PAUSE 0.5s] [EN: Say station —] [PAUSE 4s] [VI: ga] [PAUSE 0.5s] [EN: Say ticket —] [PAUSE 4s] [VI: vé] [PAUSE 0.5s] [EN: Say a trip, or a scheduled departure —] [PAUSE 4s] [VI: chuyến] [PAUSE 0.5s] [EN: Say tall —] [PAUSE 4s] [VI: cao] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 205,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh bị gì?] [PAUSE 0.5s] [VI: Dạ, tôi đau họng, tôi ho.] [PAUSE 0.5s] [VI_F: Tôi khám họng anh nha.] [PAUSE 0.5s] [VI: Dạ.] [PAUSE 1s] [EN: Three new words at the doctor's office today.] [PAUSE 0.5s] [EN: First,] [VI: khám] [EN: means to examine. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: khám] [PAUSE 1s] [VI_F: khám] [EN: Now you say it.] [PAUSE 4s] [VI: khám] [EN: Good. The doctor examines —] [PAUSE 4s] [VI: Bác sĩ khám.] [PAUSE 0.5s] [EN: Next,] [VI: họng] [EN: means throat. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: họng] [PAUSE 1s] [VI_F: họng] [EN: Now you say it.] [PAUSE 4s] [VI: họng] [EN: Good. You already know] [VI: đau] [EN: — sore throat —] [PAUSE 4s] [VI: đau họng] [PAUSE 0.5s] [EN: Last,] [VI: ho] [EN: means to cough. It has] [VI: ngang] [EN: — flat, no mark. Listen again.] [VI_F: ho] [PAUSE 1s] [VI_F: ho] [EN: Now you say it.] [PAUSE 4s] [VI: ho] [EN: Good. I'm coughing —] [PAUSE 4s] [VI: Tôi ho.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To examine —] [PAUSE 4s] [VI: khám] [PAUSE 0.5s] [EN: Throat —] [PAUSE 4s] [VI: họng] [PAUSE 0.5s] [EN: To cough —] [PAUSE 4s] [VI: ho] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. To examine —] [PAUSE 4s] [VI: khám] [PAUSE 0.5s] [EN: Throat —] [PAUSE 4s] [VI: họng] [PAUSE 0.5s] [EN: To cough —] [PAUSE 4s] [VI: ho] [PAUSE 0.5s] [EN: Now build it. The doctor examines my throat —] [PAUSE 4s] [VI: Bác sĩ khám họng tôi.] [PAUSE 0.5s] [EN: I have a sore throat —] [PAUSE 4s] [VI: Tôi đau họng.] [PAUSE 0.5s] [EN: I'm coughing —] [PAUSE 4s] [VI: Tôi ho.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: khám] [PAUSE 3s] [EN: to examine] [PAUSE 0.5s] [VI_F: họng] [PAUSE 3s] [EN: throat] [PAUSE 0.5s] [VI_F: ho] [PAUSE 3s] [EN: to cough] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: khám] [PAUSE 1s] [VI_F: họng] [PAUSE 1s] [VI_F: ho] [PAUSE 0.5s] [EN: Remember,] [VI: khám] [EN: has] [VI: dấu sắc] [EN: , and] [VI: họng] [EN: has] [VI: dấu nặng] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh bị gì?] [PAUSE 0.5s] [VI: Dạ, tôi đau họng, tôi ho.] [PAUSE 0.5s] [VI_F: Tôi khám họng anh nha.] [PAUSE 0.5s] [VI: Dạ.] [PAUSE 1s] [EN: Your turn. Say you have a sore throat.] [PAUSE 4s] [VI: Tôi đau họng.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, what you should do. One word to start —] [VI: phải] [EN: it means must. See you then.]"
+    }
+  ]
+}

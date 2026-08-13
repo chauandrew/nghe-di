@@ -1,0 +1,35 @@
+{
+  "id": "L5-D8",
+  "title": "Giá mà, phải chi: if only",
+  "vocab": [
+    {"vi": "giá mà", "en": "if only (regret, contrary to fact)", "ipa": "zaː˧˥ maː˨˩"},
+    {"vi": "phải chi", "en": "if only (colloquial synonym of giá mà)", "ipa": "faːj˨˩˦ tɕi˧"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say to play —] [PAUSE 4s] [VI: chơi] [PAUSE 0.5s] [EN: Say to watch, or to look at —] [PAUSE 4s] [VI: xem] [PAUSE 0.5s] [EN: Say to listen to music —] [PAUSE 4s] [VI: nghe nhạc] [PAUSE 0.5s] [EN: Say to examine —] [PAUSE 4s] [VI: khám] [PAUSE 0.5s] [EN: Say throat —] [PAUSE 4s] [VI: họng] [PAUSE 0.5s] [EN: Say to cough —] [PAUSE 4s] [VI: ho] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Sao anh buồn vậy?] [PAUSE 0.5s] [VI: Giá mà tôi rảnh hơn, thì tôi đã đi chơi rồi.] [PAUSE 0.5s] [VI_F: Phải chi tôi cũng vậy.] [PAUSE 1s] [EN: Today's structure: if only, for regret about something not true.] [PAUSE 0.5s] [EN: First,] [VI: giá mà] [EN: means if only. It opens the regret. Listen to its two parts.] [VI_F: giá] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: mà] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole word again.] [VI_F: giá mà] [PAUSE 1s] [VI_F: giá mà] [EN: Now you say it.] [PAUSE 4s] [VI: giá mà] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: phải chi] [EN: means the same thing — if only. It's the more colloquial, southern version. Listen to its two parts.] [VI_F: phải] [EN: has] [VI: dấu hỏi] [PAUSE 0.3s] [VI_F: chi] [EN: has] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: phải chi] [PAUSE 1s] [VI_F: phải chi] [EN: Now you say it.] [PAUSE 4s] [VI: phải chi] [EN: Good. The pattern —] [VI: giá mà] [EN: or] [VI: phải chi] [EN: plus the wish, then] [VI: thì đã] [EN: plus the verb, plus] [VI: rồi] [EN: — if only I were freer, I would have gone out already —] [PAUSE 4s] [VI: Giá mà tôi rảnh hơn, thì tôi đã đi chơi rồi.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: If only —] [PAUSE 4s] [VI: giá mà] [PAUSE 0.5s] [EN: If only, colloquial —] [PAUSE 4s] [VI: phải chi] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. If only —] [PAUSE 4s] [VI: giá mà] [PAUSE 0.5s] [EN: If only, colloquial —] [PAUSE 4s] [VI: phải chi] [PAUSE 0.5s] [EN: Now build it. If only I were freer, I would have gone out already —] [PAUSE 4s] [VI: Giá mà tôi rảnh hơn, thì tôi đã đi chơi rồi.] [PAUSE 0.5s] [EN: If only it hadn't rained, I would have gone already —] [PAUSE 4s] [VI: Phải chi trời không mưa, thì tôi đã đi rồi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: giá mà] [PAUSE 3s] [EN: if only] [PAUSE 0.5s] [VI_F: phải chi] [PAUSE 3s] [EN: if only, colloquial] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: giá mà] [PAUSE 1s] [VI_F: phải chi] [PAUSE 0.5s] [EN: Remember,] [VI: giá] [EN: has] [VI: dấu sắc] [EN: , and] [VI: phải] [EN: has] [VI: dấu hỏi] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Sao anh buồn vậy?] [PAUSE 0.5s] [VI: Giá mà tôi rảnh hơn, thì tôi đã đi chơi rồi.] [PAUSE 0.5s] [VI_F: Phải chi tôi cũng vậy.] [PAUSE 1s] [EN: Your turn. Say if only it hadn't rained, I would have gone already.] [PAUSE 4s] [VI: Phải chi trời không mưa, thì tôi đã đi rồi.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, expressing regret about the past. One word to start —] [VI: biết trước] [EN: it means to know in advance. See you then.]"
+    }
+  ]
+}

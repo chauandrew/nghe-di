@@ -1,31 +1,48 @@
 {
   "id": "L2-D21",
-  "title": "Hơn, nhất — Comparing",
+  "title": "Hơn, bằng, nhất: comparatives",
   "vocab": [
-    {"vi": "hơn", "en": "more, -er (than)", "ipa": "/həːn˧/"},
-    {"vi": "bằng", "en": "equal to, as ... as", "ipa": "/ɓaŋ˨˩/"},
-    {"vi": "nhất", "en": "most, -est", "ipa": "/ɲət˧˥/"}
+    {
+      "vi": "hơn",
+      "en": "more than",
+      "ipa": "hɤn˧"
+    },
+    {
+      "vi": "bằng",
+      "en": "as ... as, equal",
+      "ipa": "băŋ˨˩"
+    },
+    {
+      "vi": "nhất",
+      "en": "the most (superlative)",
+      "ipa": "ɲat˧˥"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Nha.] [PAUSE 3s] [EN: A warm, friendly okay.] [EN: What does this mean?] [VI_F: Nhé.] [PAUSE 3s] [EN: A warm, friendly okay.] [EN: What does this mean?] [VI_F: Nghen.] [PAUSE 3s] [EN: A very southern, warm okay.] [EN: Too expensive.] [PAUSE 4s] [VI: Đắt quá.] [EN: Good.]"
+      "script": "[EN: Quick review. Say too expensive —] [PAUSE 4s] [VI: đắt quá] [PAUSE 0.5s] [EN: Say cheap —] [PAUSE 4s] [VI: rẻ] [PAUSE 0.5s] [EN: Say to discount —] [PAUSE 4s] [VI: giảm giá] [PAUSE 0.5s] [EN: Say can you? or is that okay? —] [PAUSE 4s] [VI: được không] [PAUSE 0.5s] [EN: Say to wake up —] [PAUSE 4s] [VI: dậy] [PAUSE 0.5s] [EN: Say to sleep —] [PAUSE 4s] [VI: ngủ] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: You know] [VI: hơn] [EN: from] [VI: nói chậm hơn,] [EN: speak slower. To compare, put it after the adjective.] [VI_F: Hơn.] [EN: a flat tone. Cheaper is] [VI: rẻ hơn.] [EN: This is cheaper than that.] [PAUSE 4s] [VI: Cái này rẻ hơn cái đó.] [EN: Good.] [PAUSE 0.5s] [EN: To say as much as, or equal to, use] [VI_F: Bằng.] [EN: a falling tone. This is as big as that.] [PAUSE 4s] [VI: Cái này lớn bằng cái đó.] [EN: For the most, the -est, use] [VI_F: Nhất.] [EN: a high, rising tone, after the adjective. The cheapest.] [PAUSE 4s] [VI: Rẻ nhất.] [EN: Good.]"
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cái này lớn hơn cái đó.] [PAUSE 0.5s] [VI: Cái này lớn bằng cái đó không?] [PAUSE 0.5s] [VI_F: Không, cái này lớn nhất.] [PAUSE 1s] [EN: Today, comparing things — three small words.] [PAUSE 0.5s] [EN: First,] [VI: hơn] [EN: means more than. You have heard it before, inside] [VI: nói chậm hơn] [EN: — speak more slowly. Today it stands alone. It has] [EN: a flat tone, no mark] [EN: . Listen again.] [VI_F: hơn] [PAUSE 1s] [VI_F: hơn] [EN: Now you say it.] [PAUSE 4s] [VI: hơn] [EN: Good.] [PAUSE 0.5s] [EN: Put it after an adjective. Bigger —] [PAUSE 4s] [VI: lớn hơn] [PAUSE 0.5s] [EN: Next,] [VI: bằng] [EN: means as ... as, equal. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: bằng] [PAUSE 1s] [VI_F: bằng] [EN: Now you say it.] [PAUSE 4s] [VI: bằng] [EN: Good.] [PAUSE 0.5s] [EN: Use it to ask if two things are equal. As big as that one —] [PAUSE 4s] [VI: lớn bằng cái đó] [PAUSE 0.5s] [EN: Last,] [VI: nhất] [EN: means the most — the superlative. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: nhất] [PAUSE 1s] [VI_F: nhất] [EN: Now you say it.] [PAUSE 4s] [VI: nhất] [EN: Good.] [PAUSE 0.5s] [EN: Put it after the adjective too. Biggest —] [PAUSE 4s] [VI: lớn nhất]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: More than —] [PAUSE 4s] [VI: hơn] [PAUSE 0.5s] [EN: As ... as —] [PAUSE 4s] [VI: bằng] [PAUSE 0.5s] [EN: The most —] [PAUSE 4s] [VI: nhất] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. More, or -er.] [PAUSE 3s] [VI: Hơn.] [EN: Equal to.] [PAUSE 3s] [VI: Bằng.] [EN: Most.] [PAUSE 3s] [VI: Nhất.] [EN: This is cheaper.] [PAUSE 4s] [VI: Cái này rẻ hơn.] [EN: The cheapest.] [PAUSE 4s] [VI: Rẻ nhất.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Nhất.] [PAUSE 3s] [EN: Most, -est.] [EN: What does this mean?] [VI_F: Bằng.] [PAUSE 3s] [EN: Equal to, as ... as.] [EN: Good.]"
+      "duration_s": 250,
+      "script": "[EN: Let's drill. More than —] [PAUSE 4s] [VI: hơn] [PAUSE 0.5s] [EN: As ... as —] [PAUSE 4s] [VI: bằng] [PAUSE 0.5s] [EN: The most —] [PAUSE 4s] [VI: nhất] [PAUSE 0.5s] [EN: Now say it. Bigger —] [PAUSE 4s] [VI: Lớn hơn.] [PAUSE 0.5s] [EN: Cheaper —] [PAUSE 4s] [VI: Rẻ hơn.] [PAUSE 0.5s] [EN: Tastier —] [PAUSE 4s] [VI: Ngon hơn.] [PAUSE 0.5s] [EN: As cheap as that one —] [PAUSE 4s] [VI: Rẻ bằng cái đó.] [PAUSE 0.5s] [EN: The biggest —] [PAUSE 4s] [VI: Lớn nhất.] [PAUSE 0.5s] [EN: The tastiest —] [PAUSE 4s] [VI: Ngon nhất.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: hơn] [PAUSE 3s] [EN: more than] [PAUSE 0.5s] [VI_F: bằng] [PAUSE 3s] [EN: as ... as] [PAUSE 0.5s] [VI_F: nhất] [PAUSE 3s] [EN: the most] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: hơn] [PAUSE 1s] [VI_F: bằng] [PAUSE 1s] [VI_F: nhất] [PAUSE 0.5s] [EN: Remember,] [VI: bằng] [EN: has] [EN: a falling tone] [EN: , and] [VI: nhất] [EN: has] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen at a stall.] [PAUSE 0.5s] [VI_M: Cái nào rẻ hơn?] [VI_F: Dạ, cái này rẻ nhất.] [VI_M: Vậy cho tôi cái này.] [PAUSE 0.5s] [EN: Now you try. Say this is cheaper than that.] [PAUSE 4s] [VI: Cái này rẻ hơn cái đó.] [EN: Say the cheapest.] [PAUSE 4s] [VI: Rẻ nhất.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you compare two options out loud. The preview phrase is] [VI: lớn hơn] [EN: which means bigger.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Cái này lớn hơn cái đó.] [PAUSE 0.5s] [VI: Cái này lớn bằng cái đó không?] [PAUSE 0.5s] [VI_F: Không, cái này lớn nhất.] [PAUSE 1s] [EN: Your turn. Say it's the biggest.] [PAUSE 4s] [VI: Lớn nhất.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, comparing prices and sizes directly. One word to start —] [VI: rẻ hơn] [EN: it means cheaper. See you then.]"
     }
   ]
 }

@@ -1,31 +1,53 @@
 {
   "id": "L2-D20",
-  "title": "Nha, nhé — Friendly softeners",
+  "title": "Nha, nhé, nghen, đi: friendly softeners",
   "vocab": [
-    {"vi": "nha", "en": "okay? (warm softener, southern)", "ipa": "/ɲaː˧/"},
-    {"vi": "nhé", "en": "okay? (warm softener)", "ipa": "/ɲɛ˧˥/"},
-    {"vi": "nghen", "en": "okay? (very southern softener)", "ipa": "/ŋɛn˧/"}
+    {
+      "vi": "nha",
+      "en": "friendly sentence-final softener",
+      "ipa": "ɲaː˧"
+    },
+    {
+      "vi": "nhé",
+      "en": "soft okay?, at the end of a sentence",
+      "ipa": "ɲɛ˧˥"
+    },
+    {
+      "vi": "nghen",
+      "en": "southern soft okay?, at the end of a sentence",
+      "ipa": "ŋɛn˧"
+    },
+    {
+      "vi": "đi",
+      "en": "softener meaning go ahead, or come on — not the verb to go",
+      "ipa": "di˧"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Hẹn.] [PAUSE 3s] [EN: To make an appointment.] [EN: To meet.] [PAUSE 3s] [VI: Gặp.] [EN: Schedule, calendar.] [PAUSE 3s] [VI: Lịch.] [EN: My name is.] [PAUSE 4s] [VI: Tên tôi là.] [EN: Good.]"
+      "script": "[EN: Quick review. Say who —] [PAUSE 4s] [VI: ai] [PAUSE 0.5s] [EN: Say what —] [PAUSE 4s] [VI: gì] [PAUSE 0.5s] [EN: Say what is your name —] [PAUSE 4s] [VI: bạn tên gì] [PAUSE 0.5s] [EN: Say my name is —] [PAUSE 4s] [VI: tên tôi là] [PAUSE 0.5s] [EN: Say the past marker —] [PAUSE 4s] [VI: đã] [PAUSE 0.5s] [EN: Say the future marker —] [PAUSE 4s] [VI: sẽ] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: You have heard these soft endings already. They make a request or statement warm and friendly, like adding okay? or ', alright?'. The southern favourite is] [VI_F: Nha.] [EN: a flat tone. See you tomorrow, okay?] [PAUSE 4s] [VI: Mai gặp nha.] [EN: Good.] [PAUSE 0.5s] [EN: A close cousin is] [VI_F: Nhé.] [EN: a high, rising tone, the same job. And very southern, very warm, is] [VI_F: Nghen.] [EN: Say it.] [PAUSE 4s] [VI: Nghen.] [EN: See you again, okay?] [PAUSE 4s] [VI: Hẹn gặp lại nghen.] [EN: You also know] [VI: đi,] [EN: which softens a suggestion into come on, let's. Let's go, come on.] [PAUSE 4s] [VI: Đi đi.] [EN: Good.]"
+      "duration_s": 230,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Ăn đi!] [PAUSE 0.5s] [VI: Dạ, em ăn nha!] [PAUSE 0.5s] [VI_F: Ngày mai đi chơi nhé?] [PAUSE 0.5s] [VI: Dạ, được. Hẹn gặp lại nghen!] [PAUSE 1s] [EN: Four little words that soften a sentence — friendly, not commanding.] [PAUSE 0.5s] [EN: First, one you already know.] [VI: đi] [EN: — you learned this as go, back when you took a motorbike taxi. Today it has a different job. At the END of a sentence, it softens a suggestion, like go ahead, or come on. Same word, same] [EN: a flat tone, no mark] [EN: tone, new job. Listen.] [VI_F: Ăn đi!] [PAUSE 1s] [VI_F: Ăn đi!] [EN: Now you say it.] [PAUSE 4s] [VI: Ăn đi!] [EN: Good — go ahead, eat.] [PAUSE 0.5s] [EN: Next,] [VI: nha] [EN: you have heard this one already too — a friendly softener. It has] [EN: a flat tone, no mark] [EN: . Listen again.] [VI_F: nha] [PAUSE 1s] [VI_F: nha] [EN: Now you say it.] [PAUSE 4s] [VI: nha] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: nhé] [EN: works the same way — a soft okay, at the end. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: nhé] [PAUSE 1s] [VI_F: nhé] [EN: Now you say it.] [PAUSE 4s] [VI: nhé] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: nghen] [EN: means the same thing — another way to say okay, softer and very southern. It has] [EN: a flat tone, no mark] [EN: . Listen again.] [VI_F: nghen] [PAUSE 1s] [VI_F: nghen] [EN: Now you say it.] [PAUSE 4s] [VI: nghen] [EN: Good.] [PAUSE 0.5s] [EN: All four go at the END of a sentence — pick whichever feels natural.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 75,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Go ahead, the softener —] [PAUSE 4s] [VI: đi] [PAUSE 0.5s] [EN: Friendly softener —] [PAUSE 4s] [VI: nha] [PAUSE 0.5s] [EN: Soft okay —] [PAUSE 4s] [VI: nhé] [PAUSE 0.5s] [EN: Southern soft okay —] [PAUSE 4s] [VI: nghen] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Add a warm okay to each. See you tomorrow, okay?] [PAUSE 4s] [VI: Mai gặp nha.] [EN: Thank you, okay?] [PAUSE 4s] [VI: Cảm ơn nha.] [EN: Wait a moment, okay?] [PAUSE 4s] [VI: Chờ một chút nghen.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What do these soft endings do?] [VI_F: Nha?] [PAUSE 3s] [EN: They add a warm, friendly okay.] [EN: What does this mean?] [VI_F: Đi đi.] [PAUSE 3s] [EN: Come on, let's go.] [EN: Good.]"
+      "duration_s": 250,
+      "script": "[EN: Let's drill. Go ahead, eat —] [PAUSE 4s] [VI: Ăn đi!] [PAUSE 0.5s] [EN: Let's go out, okay —] [PAUSE 4s] [VI: Đi chơi nha!] [PAUSE 0.5s] [EN: Let's go to] [VI: Bến Thành] [EN: , okay —] [PAUSE 4s] [VI: Đi Bến Thành nhé?] [PAUSE 0.5s] [EN: See you again, okay —] [PAUSE 4s] [VI: Hẹn gặp lại nghen!] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đi] [PAUSE 3s] [EN: go ahead, the softener] [PAUSE 0.5s] [VI_F: nha] [PAUSE 3s] [EN: friendly softener] [PAUSE 0.5s] [VI_F: nhé] [PAUSE 3s] [EN: soft okay] [PAUSE 0.5s] [VI_F: nghen] [PAUSE 3s] [EN: southern soft okay] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đi] [PAUSE 1s] [VI_F: nha] [PAUSE 1s] [VI_F: nhé] [PAUSE 1s] [VI_F: nghen] [PAUSE 0.5s] [EN: Remember,] [VI: nhé] [EN: has] [EN: a high, rising tone] [EN: — the only one of the four that isn't flat.]"
     },
     {
       "type": "synthesis",
-      "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Mai mình gặp nha?] [VI_M: Dạ, được. Mười giờ nghen.] [VI_F: Ừ, hẹn gặp lại nha!] [PAUSE 0.5s] [EN: Now you try. Say, see you tomorrow, okay?] [PAUSE 4s] [VI: Mai gặp nha.] [EN: Say, thank you, okay?] [PAUSE 4s] [VI: Cảm ơn nha.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you compare things. The preview word is] [VI: hơn] [EN: which means more, or -er.]"
+      "duration_s": 155,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Ăn đi!] [PAUSE 0.5s] [VI: Dạ, em ăn nha!] [PAUSE 0.5s] [VI_F: Ngày mai đi chơi nhé?] [PAUSE 0.5s] [VI: Dạ, được. Hẹn gặp lại nghen!] [PAUSE 1s] [EN: Your turn. Tell someone to go ahead and eat.] [PAUSE 4s] [VI: Ăn đi!] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, comparing things — more, less, the same. One word to start —] [VI: hơn] [EN: it means more than. See you then.]"
     }
   ]
 }

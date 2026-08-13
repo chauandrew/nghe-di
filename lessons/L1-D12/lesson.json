@@ -1,30 +1,43 @@
 {
   "id": "L1-D12",
-  "title": "Tôi thích — Saying what you like",
+  "title": "Tôi thích: saying what you like",
   "vocab": [
-    {"vi": "thích", "en": "to like", "ipa": "/tʰik˧˥/"},
-    {"vi": "đường", "en": "sugar", "ipa": "/ɗɨəŋ˨˩/"}
+    {
+      "vi": "thích",
+      "en": "to like",
+      "ipa": "tʰik˧˥"
+    },
+    {
+      "vi": "đường",
+      "en": "sugar",
+      "ipa": "dɨəŋ˨˩"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: This one.] [PAUSE 4s] [VI: Cái này.] [EN: Is there coffee?] [PAUSE 4s] [VI: Có cà phê không?] [EN: More ice.] [PAUSE 4s] [VI: Thêm đá.] [EN: Less ice.] [PAUSE 4s] [VI: Ít đá.] [EN: What does this mean?] [VI_F: Không phải.] [PAUSE 3s] [EN: No, that is not so.] [EN: Good.]"
+      "script": "[EN: Quick review. Say the general counting word —] [PAUSE 4s] [VI: cái] [PAUSE 0.5s] [EN: Say glass —] [PAUSE 4s] [VI: ly] [PAUSE 0.5s] [EN: Say bottle —] [PAUSE 4s] [VI: chai] [PAUSE 0.5s] [EN: Say bowl —] [PAUSE 4s] [VI: tô] [PAUSE 0.5s] [EN: Say loaf —] [PAUSE 4s] [VI: ổ] [PAUSE 0.5s] [EN: Say person —] [PAUSE 4s] [VI: người] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: To say you like something, use] [VI_M: Tôi thích.] [EN: To like is] [VI_F: Thích.] [EN: high, rising tone.] [EN: Say I like.] [PAUSE 4s] [VI: Tôi thích.] [EN: I like coffee.] [PAUSE 4s] [VI: Tôi thích cà phê.] [EN: Good.] [PAUSE 0.5s] [EN: Using] [VI: không] [EN: from before, do not like.] [VI_M: Không thích.] [EN: Say I do not like.] [PAUSE 4s] [VI: Tôi không thích.] [EN: Good.] [PAUSE 0.5s] [EN: Sugar is] [VI_F: Đường.] [EN: relax your lips for this vowel, do not round them.] [EN: Say sugar.] [PAUSE 4s] [VI: Đường.] [EN: So, without sugar, is no sugar.] [PAUSE 4s] [VI: Không đường.] [EN: I like coffee, no sugar.] [PAUSE 4s] [VI: Tôi thích cà phê, không đường.] [EN: Good.]"
+      "duration_s": 200,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, tôi thích cà phê. Không đường.] [PAUSE 0.5s] [VI_F: Dạ, ít đường hả?] [PAUSE 0.5s] [VI: Dạ, không đường.] [PAUSE 1s] [EN: You heard] [VI: tôi thích] [EN: I like. You already know] [VI: tôi] [EN: it means I. The new word is] [VI: thích] [EN: it means to like. It has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: thích] [PAUSE 1s] [VI_F: thích] [EN: Now you say it.] [PAUSE 4s] [VI: thích] [EN: Good.] [PAUSE 0.3s] [VI_F: tôi thích] [EN: I like.] [PAUSE 0.5s] [EN: Next,] [VI: đường] [EN: means sugar. It has] [EN: a falling tone] [EN: — falling. Listen again.] [VI_F: đường] [PAUSE 1s] [VI_F: đường] [EN: Now you say it.] [PAUSE 4s] [VI: đường] [EN: Good. To say no sugar, use what you already know.] [PAUSE 0.3s] [VI_F: không đường] [EN: no sugar.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To like —] [PAUSE 4s] [VI: thích] [PAUSE 0.5s] [EN: Sugar —] [PAUSE 4s] [VI: đường] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 185,
-      "script": "[EN: Drill. I like.] [PAUSE 4s] [VI: Tôi thích.] [EN: I do not like.] [PAUSE 4s] [VI: Tôi không thích.] [EN: Sugar.] [PAUSE 4s] [VI: Đường.] [EN: No sugar.] [PAUSE 4s] [VI: Không đường.] [EN: I like coffee, no sugar, less ice.] [PAUSE 4s] [VI: Tôi thích cà phê, không đường, ít đá.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Không thích.] [PAUSE 3s] [EN: Do not like.] [EN: What does this mean?] [VI_F: Đường.] [PAUSE 3s] [EN: Sugar.] [EN: Good.]"
+      "duration_s": 230,
+      "script": "[EN: Let's drill. To like —] [PAUSE 4s] [VI: thích] [PAUSE 0.5s] [EN: Sugar —] [PAUSE 4s] [VI: đường] [PAUSE 0.5s] [EN: Now say it. I like coffee —] [PAUSE 4s] [VI: Tôi thích cà phê.] [PAUSE 0.5s] [EN: No sugar —] [PAUSE 4s] [VI: Không đường.] [PAUSE 0.5s] [EN: A little sugar —] [PAUSE 4s] [VI: Ít đường.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: thích] [PAUSE 3s] [EN: to like] [PAUSE 0.5s] [VI_F: đường] [PAUSE 3s] [EN: sugar] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: thích] [PAUSE 1s] [VI_F: đường] [PAUSE 0.5s] [EN: Remember,] [VI: thích] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: đường] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạ, anh muốn cà phê không?] [VI_M: Dạ. Tôi thích cà phê, không đường.] [VI_F: Ít đá nha?] [VI_M: Dạ, ít đá.] [PAUSE 0.5s] [EN: Now you try. Say, I like coffee, no sugar.] [PAUSE 4s] [VI: Tôi thích cà phê, không đường.] [EN: Say, I do not like it.] [PAUSE 4s] [VI: Tôi không thích.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you ask for the restroom. The preview phrase is] [VI: ở đâu] [EN: which means where.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Dạ, tôi thích cà phê. Không đường.] [PAUSE 0.5s] [VI_F: Dạ, ít đường hả?] [PAUSE 0.5s] [VI: Dạ, không đường.] [PAUSE 1s] [EN: Your turn. Say you like coffee.] [PAUSE 4s] [VI: Tôi thích cà phê.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, you will ask where the restroom is. One phrase to start —] [VI: ở đâu] [EN: it means where. See you then.]"
     }
   ]
 }

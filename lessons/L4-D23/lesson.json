@@ -1,0 +1,36 @@
+{
+  "id": "L4-D23",
+  "title": "Cấp cứu, cảnh sát, nguy hiểm: emergencies",
+  "vocab": [
+    {"vi": "cấp cứu", "en": "emergency, or the ER (also: to call an ambulance)", "ipa": "kâp˧˥ kɨw˧˥"},
+    {"vi": "cảnh sát", "en": "police", "ipa": "kaːɲ˨˩˦ saːt˧˥"},
+    {"vi": "nguy hiểm", "en": "dangerous", "ipa": "ŋwi˧ hiəm˨˩˦"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say before —] [PAUSE 4s] [VI: trước] [PAUSE 0.5s] [EN: Say after —] [PAUSE 4s] [VI: sau] [PAUSE 0.5s] [EN: Say then, or after that —] [PAUSE 4s] [VI: sau đó] [PAUSE 0.5s] [EN: Say personality —] [PAUSE 4s] [VI: tính tình] [PAUSE 0.5s] [EN: Say to look, or appear —] [PAUSE 4s] [VI: trông] [PAUSE 0.5s] [EN: Say the polite opener for a request —] [PAUSE 4s] [VI: phiền] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Nguy hiểm quá, gọi cấp cứu giúp tôi!] [PAUSE 0.5s] [VI_F: Dạ, tôi gọi cấp cứu.] [PAUSE 0.5s] [VI: Cảnh sát biết chưa?] [PAUSE 0.5s] [VI_F: Dạ biết rồi.] [PAUSE 1s] [EN: Three new words today: emergencies.] [PAUSE 0.5s] [EN: First,] [VI: nguy hiểm] [EN: means dangerous.] [VI: nguy] [EN: has] [VI: ngang] [EN: — flat] [PAUSE 0.3s] [VI: hiểm] [EN: has] [VI: dấu hỏi] [EN: . Listen to the whole word again.] [VI_F: nguy hiểm] [PAUSE 1s] [VI_F: nguy hiểm] [EN: Now you say it.] [PAUSE 4s] [VI: nguy hiểm] [EN: Good. Very dangerous —] [PAUSE 4s] [VI: Nguy hiểm quá!] [PAUSE 0.5s] [EN: Next,] [VI: cấp cứu] [EN: means emergency, or the ER — also used for calling an ambulance. Both syllables have] [VI: dấu sắc] [EN: . Listen again.] [VI_F: cấp cứu] [PAUSE 1s] [VI_F: cấp cứu] [EN: Now you say it.] [PAUSE 4s] [VI: cấp cứu] [EN: Good. Call the ambulance to help me —] [PAUSE 4s] [VI: Gọi cấp cứu giúp tôi!] [PAUSE 0.5s] [EN: Last,] [VI: cảnh sát] [EN: means police.] [VI: cảnh] [EN: has] [VI: dấu hỏi] [PAUSE 0.3s] [VI: sát] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole word again.] [VI_F: cảnh sát] [PAUSE 1s] [VI_F: cảnh sát] [EN: Now you say it.] [PAUSE 4s] [VI: cảnh sát] [EN: Good. Does the police know yet —] [PAUSE 4s] [VI: Cảnh sát biết chưa?]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 65,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Dangerous —] [PAUSE 4s] [VI: nguy hiểm] [PAUSE 0.5s] [EN: Emergency, or the ER —] [PAUSE 4s] [VI: cấp cứu] [PAUSE 0.5s] [EN: Police —] [PAUSE 4s] [VI: cảnh sát] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Dangerous —] [PAUSE 4s] [VI: nguy hiểm] [PAUSE 0.5s] [EN: Emergency, or the ER —] [PAUSE 4s] [VI: cấp cứu] [PAUSE 0.5s] [EN: Police —] [PAUSE 4s] [VI: cảnh sát] [PAUSE 0.5s] [EN: Now build it. Very dangerous —] [PAUSE 4s] [VI: Nguy hiểm quá!] [PAUSE 0.5s] [EN: Call the ambulance to help me —] [PAUSE 4s] [VI: Gọi cấp cứu giúp tôi!] [PAUSE 0.5s] [EN: Does the police know yet —] [PAUSE 4s] [VI: Cảnh sát biết chưa?] [PAUSE 0.5s] [EN: Very dangerous, call the ambulance to help me —] [PAUSE 4s] [VI: Nguy hiểm quá, gọi cấp cứu giúp tôi!] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: nguy hiểm] [PAUSE 3s] [EN: dangerous] [PAUSE 0.5s] [VI_F: cấp cứu] [PAUSE 3s] [EN: emergency, or the ER] [PAUSE 0.5s] [VI_F: cảnh sát] [PAUSE 3s] [EN: police] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: nguy hiểm] [PAUSE 1s] [VI_F: cấp cứu] [PAUSE 1s] [VI_F: cảnh sát] [PAUSE 0.5s] [EN: Remember,] [VI: hiểm] [EN: and] [VI: cảnh] [EN: both have] [VI: dấu hỏi] [EN: , and] [VI: cấp] [EN: and] [VI: sát] [EN: both have] [VI: dấu sắc] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 155,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Nguy hiểm quá, gọi cấp cứu giúp tôi!] [PAUSE 0.5s] [VI_F: Dạ, tôi gọi cấp cứu.] [PAUSE 0.5s] [VI: Cảnh sát biết chưa?] [PAUSE 0.5s] [VI_F: Dạ biết rồi.] [PAUSE 1s] [EN: Your turn. Say very dangerous, call the ambulance to help me.] [PAUSE 4s] [VI: Nguy hiểm quá, gọi cấp cứu giúp tôi!] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, asking for urgent help. One word to start —] [VI: gấp] [EN: it means urgent. See you then.]"
+    }
+  ]
+}

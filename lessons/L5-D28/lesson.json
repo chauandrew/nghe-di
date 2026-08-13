@@ -1,0 +1,36 @@
+{
+  "id": "L5-D28",
+  "title": "Môi trường, công nghệ, vấn đề: current topics",
+  "vocab": [
+    {"vi": "vấn đề", "en": "issue, or problem", "ipa": "vɤn˧˥ de˨˩"},
+    {"vi": "môi trường", "en": "environment", "ipa": "moj˧ tɕɨəŋ˨˩"},
+    {"vi": "công nghệ", "en": "technology", "ipa": "kɔŋ˧ ŋe˨˩ʔ"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say tasty —] [PAUSE 4s] [VI: ngon] [PAUSE 0.5s] [EN: Say spicy —] [PAUSE 4s] [VI: cay] [PAUSE 0.5s] [EN: Say too, or very, after the adjective —] [PAUSE 4s] [VI: quá] [PAUSE 0.5s] [EN: Say not, before an adjective —] [PAUSE 4s] [VI: không] [PAUSE 0.5s] [EN: Say that's not right —] [PAUSE 4s] [VI: không phải] [PAUSE 0.5s] [EN: Say we, or us, friendly and informal —] [PAUSE 4s] [VI: mình] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 215,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh nghĩ vấn đề lớn nhất là gì?] [PAUSE 0.5s] [VI: Tôi nghĩ là môi trường. Công nghệ mới có thể giúp.] [PAUSE 0.5s] [VI_F: Có lẽ vậy.] [PAUSE 1s] [EN: Today, current topics.] [PAUSE 0.5s] [EN: First,] [VI: vấn đề] [EN: means issue, or problem. Listen to its two parts.] [VI_F: vấn] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: đề] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole word again.] [VI_F: vấn đề] [PAUSE 1s] [VI_F: vấn đề] [EN: Now you say it.] [PAUSE 4s] [VI: vấn đề] [EN: Good. The biggest issue —] [PAUSE 4s] [VI: Vấn đề lớn nhất.] [PAUSE 0.5s] [EN: Next,] [VI: môi trường] [EN: means environment. Listen to its two parts.] [VI_F: môi] [EN: is] [VI: ngang] [EN: — flat,] [PAUSE 0.3s] [VI_F: trường] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole word again.] [VI_F: môi trường] [PAUSE 1s] [VI_F: môi trường] [EN: Now you say it.] [PAUSE 4s] [VI: môi trường] [EN: Good. I think it's the environment —] [PAUSE 4s] [VI: Tôi nghĩ là môi trường.] [PAUSE 0.5s] [EN: Last,] [VI: công nghệ] [EN: means technology. Listen to its two parts.] [VI_F: công] [EN: is] [VI: ngang] [EN: — flat,] [PAUSE 0.3s] [VI_F: nghệ] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: công nghệ] [PAUSE 1s] [VI_F: công nghệ] [EN: Now you say it.] [PAUSE 4s] [VI: công nghệ] [EN: Good. New technology can help —] [PAUSE 4s] [VI: Công nghệ mới có thể giúp.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Issue, or problem —] [PAUSE 4s] [VI: vấn đề] [PAUSE 0.5s] [EN: Environment —] [PAUSE 4s] [VI: môi trường] [PAUSE 0.5s] [EN: Technology —] [PAUSE 4s] [VI: công nghệ] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. Issue, or problem —] [PAUSE 4s] [VI: vấn đề] [PAUSE 0.5s] [EN: Environment —] [PAUSE 4s] [VI: môi trường] [PAUSE 0.5s] [EN: Technology —] [PAUSE 4s] [VI: công nghệ] [PAUSE 0.5s] [EN: Now build it. What's the biggest issue? —] [PAUSE 4s] [VI: Vấn đề lớn nhất là gì?] [PAUSE 0.5s] [EN: I think it's the environment —] [PAUSE 4s] [VI: Tôi nghĩ là môi trường.] [PAUSE 0.5s] [EN: New technology can help —] [PAUSE 4s] [VI: Công nghệ mới có thể giúp.] [PAUSE 0.5s] [EN: My company has an environmental issue —] [PAUSE 4s] [VI: Công ty tôi có vấn đề môi trường.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: vấn đề] [PAUSE 3s] [EN: issue, or problem] [PAUSE 0.5s] [VI_F: môi trường] [PAUSE 3s] [EN: environment] [PAUSE 0.5s] [VI_F: công nghệ] [PAUSE 3s] [EN: technology] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: vấn đề] [PAUSE 1s] [VI_F: môi trường] [PAUSE 1s] [VI_F: công nghệ] [PAUSE 0.5s] [EN: Remember,] [VI: vấn] [EN: has] [VI: dấu sắc] [EN: , and] [VI: đề] [EN: has] [VI: dấu huyền] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Anh nghĩ vấn đề lớn nhất là gì?] [PAUSE 0.5s] [VI: Tôi nghĩ là môi trường. Công nghệ mới có thể giúp.] [PAUSE 0.5s] [VI_F: Có lẽ vậy.] [PAUSE 1s] [EN: Your turn. Say new technology can help.] [PAUSE 4s] [VI: Công nghệ mới có thể giúp.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, no new words — a reasoned opinion, all in your own words.]"
+    }
+  ]
+}

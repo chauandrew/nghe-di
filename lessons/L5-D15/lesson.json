@@ -1,0 +1,35 @@
+{
+  "id": "L5-D15",
+  "title": "Đồng ý, phản đối: discussing and (dis)agreeing",
+  "vocab": [
+    {"vi": "đồng ý", "en": "to agree", "ipa": "doŋ˨˩ i˧˥"},
+    {"vi": "phản đối", "en": "to oppose, or object", "ipa": "faːn˨˩˦ doj˧˥"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say to review —] [PAUSE 4s] [VI: ôn tập] [PAUSE 0.5s] [EN: Say next —] [PAUSE 4s] [VI: tiếp theo] [PAUSE 0.5s] [EN: Say to withdraw money —] [PAUSE 4s] [VI: rút tiền] [PAUSE 0.5s] [EN: Say to exchange money —] [PAUSE 4s] [VI: đổi tiền] [PAUSE 0.5s] [EN: Say to transfer money —] [PAUSE 4s] [VI: chuyển khoản] [PAUSE 0.5s] [EN: Say if only —] [PAUSE 4s] [VI: giá mà] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Mình nên chuyển đến đây, phải không?] [PAUSE 0.5s] [VI: Tôi đồng ý.] [PAUSE 0.5s] [VI_F: Tôi phản đối.] [PAUSE 0.5s] [VI: Vậy à? Tại sao?] [PAUSE 1s] [EN: Today, discussing a topic and disagreeing.] [PAUSE 0.5s] [EN: First,] [VI: đồng ý] [EN: means to agree. Listen to its two parts.] [VI_F: đồng] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI_F: ý] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole word again.] [VI_F: đồng ý] [PAUSE 1s] [VI_F: đồng ý] [EN: Now you say it.] [PAUSE 4s] [VI: đồng ý] [EN: Good. I agree —] [PAUSE 4s] [VI: Tôi đồng ý.] [PAUSE 0.5s] [EN: Add] [VI: không] [EN: to disagree —] [PAUSE 4s] [VI: Tôi không đồng ý.] [PAUSE 0.5s] [EN: Next,] [VI: phản đối] [EN: means to oppose, or object — stronger than just disagreeing. Listen to its two parts.] [VI_F: phản] [EN: has] [VI: dấu hỏi] [PAUSE 0.3s] [VI_F: đối] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole word again.] [VI_F: phản đối] [PAUSE 1s] [VI_F: phản đối] [EN: Now you say it.] [PAUSE 4s] [VI: phản đối] [EN: Good. I oppose it —] [PAUSE 4s] [VI: Tôi phản đối.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To agree —] [PAUSE 4s] [VI: đồng ý] [PAUSE 0.5s] [EN: To oppose, or object —] [PAUSE 4s] [VI: phản đối] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 245,
+      "script": "[EN: Let's drill. To agree —] [PAUSE 4s] [VI: đồng ý] [PAUSE 0.5s] [EN: To oppose, or object —] [PAUSE 4s] [VI: phản đối] [PAUSE 0.5s] [EN: Now build it. I agree —] [PAUSE 4s] [VI: Tôi đồng ý.] [PAUSE 0.5s] [EN: I don't agree —] [PAUSE 4s] [VI: Tôi không đồng ý.] [PAUSE 0.5s] [EN: I think we should join — do you agree? —] [PAUSE 4s] [VI: Tôi nghĩ mình nên tham gia, anh đồng ý không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đồng ý] [PAUSE 3s] [EN: to agree] [PAUSE 0.5s] [VI_F: phản đối] [PAUSE 3s] [EN: to oppose, or object] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đồng ý] [PAUSE 1s] [VI_F: phản đối] [PAUSE 0.5s] [EN: Remember,] [VI: đồng] [EN: has] [VI: dấu huyền] [EN: , and] [VI: đối] [EN: has] [VI: dấu sắc] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI_F: Mình nên chuyển đến đây, phải không?] [PAUSE 0.5s] [VI: Tôi đồng ý.] [PAUSE 0.5s] [VI_F: Tôi phản đối.] [PAUSE 0.5s] [VI: Vậy à? Tại sao?] [PAUSE 1s] [EN: Your turn. Say I think we should join, do you agree?] [PAUSE 4s] [VI: Tôi nghĩ mình nên tham gia, anh đồng ý không?] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, weddings. One word to start —] [VI: đám cưới] [EN: it means wedding. See you then.]"
+    }
+  ]
+}

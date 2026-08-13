@@ -1,0 +1,35 @@
+{
+  "id": "L4-D18",
+  "title": "Kịp, chuyến sau: missing it and rebooking",
+  "vocab": [
+    {"vi": "kịp", "en": "to make it in time", "ipa": "kip˨˩ʔ"},
+    {"vi": "chuyến sau", "en": "the next trip, or next departure", "ipa": "tɕwiən˧˥ saw˧"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 90,
+      "script": "[EN: Quick review. Say right now, in progress —] [PAUSE 4s] [VI: đang] [PAUSE 0.5s] [EN: Say we, or us, friendly and informal —] [PAUSE 4s] [VI: mình] [PAUSE 0.5s] [EN: Say please, or let's —] [PAUSE 4s] [VI: hãy] [PAUSE 0.5s] [EN: Say don't —] [PAUSE 4s] [VI: đừng] [PAUSE 0.5s] [EN: Say to hurt, or painful —] [PAUSE 4s] [VI: đau] [PAUSE 0.5s] [EN: Say the bad-outcome marker —] [PAUSE 4s] [VI: bị] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 210,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Tôi lỡ chuyến rồi, còn kịp không?] [PAUSE 0.5s] [VI_F: Dạ không kịp. Chuyến sau lúc ba giờ.] [PAUSE 0.5s] [VI: Dạ được, tôi chờ chuyến sau.] [PAUSE 0.5s] [VI_F: Dạ, hẹn gặp lại.] [PAUSE 1s] [EN: Two new words today: missing your ride, and rebooking.] [PAUSE 0.5s] [EN: First,] [VI: kịp] [EN: means to make it in time. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: kịp] [PAUSE 1s] [VI_F: kịp] [EN: Now you say it.] [PAUSE 4s] [VI: kịp] [EN: Good. Am I still in time —] [PAUSE 4s] [VI: Còn kịp không?] [PAUSE 0.5s] [EN: Next,] [VI: chuyến sau] [EN: means the next trip, or next departure. You know both pieces —] [VI: chuyến] [EN: a trip, and] [VI: sau] [EN: after.] [VI: chuyến] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI: sau] [EN: has] [VI: ngang] [EN: — flat. Listen to the whole phrase again.] [VI_F: chuyến sau] [PAUSE 1s] [VI_F: chuyến sau] [EN: Now you say it.] [PAUSE 4s] [VI: chuyến sau] [EN: Good. The next trip is at three o'clock —] [PAUSE 4s] [VI: Chuyến sau lúc ba giờ.] [PAUSE 0.5s] [EN: Combine them — not in time, I'll wait for the next trip —] [PAUSE 4s] [VI: Không kịp, tôi chờ chuyến sau.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 60,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: To make it in time —] [PAUSE 4s] [VI: kịp] [PAUSE 0.5s] [EN: The next trip —] [PAUSE 4s] [VI: chuyến sau] [PAUSE 0.5s] [EN: Am I still in time —] [PAUSE 4s] [VI: Còn kịp không?] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 240,
+      "script": "[EN: Let's drill. To make it in time —] [PAUSE 4s] [VI: kịp] [PAUSE 0.5s] [EN: The next trip —] [PAUSE 4s] [VI: chuyến sau] [PAUSE 0.5s] [EN: Now build it. Am I still in time —] [PAUSE 4s] [VI: Còn kịp không?] [PAUSE 0.5s] [EN: The next trip is at three o'clock —] [PAUSE 4s] [VI: Chuyến sau lúc ba giờ.] [PAUSE 0.5s] [EN: Not in time, I'll wait for the next trip —] [PAUSE 4s] [VI: Không kịp, tôi chờ chuyến sau.] [PAUSE 0.5s] [EN: I missed the trip, is there still time —] [PAUSE 4s] [VI: Tôi lỡ chuyến rồi, còn kịp không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: kịp] [PAUSE 3s] [EN: to make it in time] [PAUSE 0.5s] [VI_F: chuyến sau] [PAUSE 3s] [EN: the next trip] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: kịp] [PAUSE 1s] [VI_F: chuyến sau] [PAUSE 0.5s] [EN: Remember,] [VI: kịp] [EN: has] [VI: dấu nặng] [EN: , and] [VI: chuyến] [EN: has] [VI: dấu sắc] [EN: .]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 150,
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Tôi lỡ chuyến rồi, còn kịp không?] [PAUSE 0.5s] [VI_F: Dạ không kịp. Chuyến sau lúc ba giờ.] [PAUSE 0.5s] [VI: Dạ được, tôi chờ chuyến sau.] [PAUSE 0.5s] [VI_F: Dạ, hẹn gặp lại.] [PAUSE 1s] [EN: Your turn. Ask if you're still in time.] [PAUSE 4s] [VI: Còn kịp không?] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, a new pattern — the more... the more. One word to start —] [VI: càng] [EN: See you then.]"
+    }
+  ]
+}

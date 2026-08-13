@@ -1,32 +1,63 @@
 {
   "id": "L2-D9",
-  "title": "Ông, bà, cô, chú — Addressing more people",
+  "title": "Ông, bà, cô, chú, bác, con: extended address",
   "vocab": [
-    {"vi": "ông", "en": "you/I, an older man (grandfather age)", "ipa": "/oŋ˧/"},
-    {"vi": "bà", "en": "you/I, an older woman (grandmother age)", "ipa": "/ɓaː˨˩/"},
-    {"vi": "cô", "en": "you/I, a woman your parent's age; also Miss/teacher", "ipa": "/ko˧/"},
-    {"vi": "chú", "en": "you/I, a man your parent's age", "ipa": "/t͡ɕu˧˥/"}
+    {
+      "vi": "ông",
+      "en": "grandfather, or an older man",
+      "ipa": "oŋ˧"
+    },
+    {
+      "vi": "bà",
+      "en": "grandmother, or an older woman",
+      "ipa": "baː˨˩"
+    },
+    {
+      "vi": "cô",
+      "en": "aunt, or a young woman (Miss)",
+      "ipa": "ko˧"
+    },
+    {
+      "vi": "chú",
+      "en": "uncle, or a youngish man",
+      "ipa": "tɕu˧˥"
+    },
+    {
+      "vi": "bác",
+      "en": "uncle or aunt, older than your parents",
+      "ipa": "baːk˧˥"
+    },
+    {
+      "vi": "con",
+      "en": "child — how an elder addresses a child, or a child refers to themselves",
+      "ipa": "kɔn˧"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Warm up.] [PAUSE 0.5s] [EN: Before, first.] [PAUSE 3s] [VI: Trước.] [EN: After.] [PAUSE 3s] [VI: Sau.] [EN: After that, then.] [PAUSE 4s] [VI: Sau đó.] [EN: Supermarket.] [PAUSE 4s] [VI: Siêu thị.] [EN: Good.]"
+      "script": "[EN: Quick review. Say six —] [PAUSE 4s] [VI: sáu] [PAUSE 0.5s] [EN: Say seven —] [PAUSE 4s] [VI: bảy] [PAUSE 0.5s] [EN: Say eight —] [PAUSE 4s] [VI: tám] [PAUSE 0.5s] [EN: Say nine —] [PAUSE 4s] [VI: chín] [PAUSE 0.5s] [EN: Say ten —] [PAUSE 4s] [VI: mười] [PAUSE 0.5s] [EN: Say supermarket —] [PAUSE 4s] [VI: siêu thị] [EN: Good.]"
     },
     {
       "type": "dialogue",
-      "duration_s": 185,
-      "script": "[EN: In Level 1 you learned] [VI: anh, chị, em.] [EN: Here are four more, for people older than you. For a man around your parent's age, use] [VI_F: Chú.] [EN: a high, rising tone. For a woman that age, use] [VI_F: Cô.] [EN: round your lips, a flat tone. For grandparent-aged people, an older man is] [VI_F: Ông.] [EN: and an older woman is] [VI_F: Bà.] [EN: a falling tone. Say grandfather-aged man.] [PAUSE 4s] [VI: Ông.] [EN: Say it for a woman.] [PAUSE 4s] [VI: Bà.] [EN: Good.] [PAUSE 0.5s] [EN: Greet an older gentleman politely.] [PAUSE 4s] [VI: Dạ, xin chào ông.] [EN: Thank a woman your parent's age.] [PAUSE 4s] [VI: Cảm ơn cô.] [EN: Good.]"
+      "duration_s": 240,
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Xin chào ông! Xin chào bà!] [PAUSE 0.5s] [VI_F: Dạ, xin chào con!] [PAUSE 0.5s] [VI: Con cảm ơn bà.] [PAUSE 1s] [EN: You already know] [VI: anh] [EN: , ] [VI: chị] [EN: , and] [VI: em] [EN: — today, six more words for family and for people much older or younger than you.] [PAUSE 0.5s] [EN: First,] [VI: ông] [EN: means grandfather, or an older man. It has] [EN: a flat tone, no mark] [EN: — flat, no mark. Listen again.] [VI_F: ông] [PAUSE 1s] [VI_F: ông] [EN: Now you say it.] [PAUSE 4s] [VI: ông] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: bà] [EN: means grandmother, or an older woman. It has] [EN: a falling tone] [EN: — falling. Listen again.] [VI_F: bà] [PAUSE 1s] [VI_F: bà] [EN: Now you say it.] [PAUSE 4s] [VI: bà] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: cô] [EN: means aunt, or a young woman — like Miss. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: cô] [PAUSE 1s] [VI_F: cô] [EN: Now you say it.] [PAUSE 4s] [VI: cô] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: chú] [EN: means uncle, or a youngish man. It has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: chú] [PAUSE 1s] [VI_F: chú] [EN: Now you say it.] [PAUSE 4s] [VI: chú] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: bác] [EN: means uncle or aunt, someone older than your parents. It also has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: bác] [PAUSE 1s] [VI_F: bác] [EN: Now you say it.] [PAUSE 4s] [VI: bác] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: con] [EN: means child. An elder calls a child] [VI: con] [EN: , and a child calls themselves] [VI: con] [EN: too. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: con] [PAUSE 1s] [VI_F: con] [EN: Now you say it.] [PAUSE 4s] [VI: con] [EN: Good.] [PAUSE 0.5s] [EN: Add any of them to] [VI: xin chào] [EN: to greet someone by their place in the family.] [PAUSE 4s] [VI: Xin chào bác.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 90,
+      "script": "[EN: Quick pass over today's words.] [PAUSE 0.5s] [EN: Grandfather, or an older man —] [PAUSE 4s] [VI: ông] [PAUSE 0.5s] [EN: Grandmother, or an older woman —] [PAUSE 4s] [VI: bà] [PAUSE 0.5s] [EN: Aunt, or a young woman —] [PAUSE 4s] [VI: cô] [PAUSE 0.5s] [EN: Uncle, or a youngish man —] [PAUSE 4s] [VI: chú] [PAUSE 0.5s] [EN: Uncle or aunt, older than your parents —] [PAUSE 4s] [VI: bác] [PAUSE 0.5s] [EN: Child —] [PAUSE 4s] [VI: con] [EN: Good.]"
     },
     {
       "type": "drill",
-      "duration_s": 180,
-      "script": "[EN: Drill. Address an older man, grandfather age.] [PAUSE 3s] [VI: Ông.] [EN: An older woman, grandmother age.] [PAUSE 3s] [VI: Bà.] [EN: A man your parent's age.] [PAUSE 3s] [VI: Chú.] [EN: A woman your parent's age.] [PAUSE 3s] [VI: Cô.] [EN: Thank a gentleman.] [PAUSE 4s] [VI: Cảm ơn ông.] [EN: Now reverse.] [PAUSE 0.5s] [EN: What does this mean?] [VI_F: Chú.] [PAUSE 3s] [EN: A man your parent's age.] [EN: What does this mean?] [VI_F: Bà.] [PAUSE 3s] [EN: An older woman, grandmother age.] [EN: Good.]"
+      "duration_s": 260,
+      "script": "[EN: Let's drill. Grandfather —] [PAUSE 4s] [VI: ông] [PAUSE 0.5s] [EN: Grandmother —] [PAUSE 4s] [VI: bà] [PAUSE 0.5s] [EN: Aunt —] [PAUSE 4s] [VI: cô] [PAUSE 0.5s] [EN: Uncle —] [PAUSE 4s] [VI: chú] [PAUSE 0.5s] [EN: Older uncle or aunt —] [PAUSE 4s] [VI: bác] [PAUSE 0.5s] [EN: Child —] [PAUSE 4s] [VI: con] [PAUSE 0.5s] [EN: Now say hello to each of them. Hello, grandfather —] [PAUSE 4s] [VI: Xin chào ông.] [PAUSE 0.5s] [EN: Hello, grandmother —] [PAUSE 4s] [VI: Xin chào bà.] [PAUSE 0.5s] [EN: Hello, aunt —] [PAUSE 4s] [VI: Xin chào cô.] [PAUSE 0.5s] [EN: Hello, uncle —] [PAUSE 4s] [VI: Xin chào chú.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ông] [PAUSE 3s] [EN: grandfather, or an older man] [PAUSE 0.5s] [VI_F: bà] [PAUSE 3s] [EN: grandmother, or an older woman] [PAUSE 0.5s] [VI_F: cô] [PAUSE 3s] [EN: aunt, or a young woman] [PAUSE 0.5s] [VI_F: chú] [PAUSE 3s] [EN: uncle, or a youngish man] [PAUSE 0.5s] [VI_F: bác] [PAUSE 3s] [EN: uncle or aunt, older than your parents] [PAUSE 0.5s] [VI_F: con] [PAUSE 3s] [EN: child] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ông] [PAUSE 1s] [VI_F: bà] [PAUSE 1s] [VI_F: cô] [PAUSE 1s] [VI_F: chú] [PAUSE 1s] [VI_F: bác] [PAUSE 1s] [VI_F: con] [PAUSE 0.5s] [EN: Remember,] [VI: bà] [EN: has] [EN: a falling tone] [EN: , and] [VI: chú] [EN: and] [VI: bác] [EN: both have] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",
       "duration_s": 150,
-      "script": "[EN: Listen. A young person greets an older couple.] [PAUSE 0.5s] [VI_M: Dạ, con chào ông bà.] [EN: He called himself] [VI: con] [EN: which a young person uses with grandparent-aged people.] [VI_F: Chào con.] [PAUSE 0.5s] [EN: Now you try. Greet a gentleman politely.] [PAUSE 4s] [VI: Dạ, xin chào ông.] [EN: Thank a woman your parent's age.] [PAUSE 4s] [VI: Cảm ơn cô.] [EN: Good.] [PAUSE 0.5s] [EN: Tomorrow you describe your whole day. The preview phrase is] [VI: buổi trưa] [EN: which means midday, noon.]"
+      "script": "[EN: Listen again — now you understand it.] [PAUSE 0.5s] [VI: Xin chào ông! Xin chào bà!] [PAUSE 0.5s] [VI_F: Dạ, xin chào con!] [PAUSE 0.5s] [VI: Con cảm ơn bà.] [PAUSE 1s] [EN: Your turn. Say hello to your aunt.] [PAUSE 4s] [VI: Xin chào cô.] [EN: Good.] [PAUSE 0.5s] [EN: Next lesson, no new words — you'll put your whole day into one story, start to finish.]"
     }
   ]
 }
