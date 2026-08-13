@@ -2,10 +2,26 @@
   "id": "L2-D27",
   "title": "Bận, dời, trễ, sớm: rescheduling",
   "vocab": [
-    {"vi": "bận", "en": "busy", "ipa": "bân˨˩ʔ"},
-    {"vi": "dời", "en": "to move, or to reschedule", "ipa": "zɤj˨˩"},
-    {"vi": "trễ", "en": "late", "ipa": "tɕe˨˩˦"},
-    {"vi": "sớm", "en": "early", "ipa": "sɤm˧˥"}
+    {
+      "vi": "bận",
+      "en": "busy",
+      "ipa": "bân˨˩ʔ"
+    },
+    {
+      "vi": "dời",
+      "en": "to move, or to reschedule",
+      "ipa": "zɤj˨˩"
+    },
+    {
+      "vi": "trễ",
+      "en": "late",
+      "ipa": "tɕe˨˩˦"
+    },
+    {
+      "vi": "sớm",
+      "en": "early",
+      "ipa": "sɤm˧˥"
+    }
   ],
   "segments": [
     {
@@ -16,7 +32,7 @@
     {
       "type": "dialogue",
       "duration_s": 220,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Alô, chị bận không?] [PAUSE 0.5s] [VI_F: Dạ bận. Dời giờ khác được không?] [PAUSE 0.5s] [VI: Dạ được. Sớm hơn hay trễ hơn?] [PAUSE 0.5s] [VI_F: Trễ hơn nha.] [PAUSE 1s] [EN: Four words for rescheduling today.] [PAUSE 0.5s] [EN: First,] [VI: bận] [EN: means busy. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: bận] [PAUSE 1s] [VI_F: bận] [EN: Now you say it.] [PAUSE 4s] [VI: bận] [EN: Good.] [PAUSE 0.5s] [EN: Are you busy —] [PAUSE 4s] [VI: Bận không?] [PAUSE 0.5s] [EN: Next,] [VI: dời] [EN: means to move, or to reschedule. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: dời] [PAUSE 1s] [VI_F: dời] [EN: Now you say it.] [PAUSE 4s] [VI: dời] [EN: Good.] [PAUSE 0.5s] [EN: Can we reschedule —] [PAUSE 4s] [VI: Dời được không?] [PAUSE 0.5s] [EN: Last, a pair.] [VI: sớm] [EN: means early. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: sớm] [PAUSE 1s] [VI_F: sớm] [EN: Now you say it.] [PAUSE 4s] [VI: sớm] [EN: Good.] [PAUSE 0.5s] [VI: trễ] [EN: means late. It has] [VI: dấu ngã] [EN: . Listen again.] [VI_F: trễ] [PAUSE 1s] [VI_F: trễ] [EN: Now you say it.] [PAUSE 4s] [VI: trễ] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Alô, chị bận không?] [PAUSE 0.5s] [VI_F: Dạ bận. Dời giờ khác được không?] [PAUSE 0.5s] [VI: Dạ được. Sớm hơn hay trễ hơn?] [PAUSE 0.5s] [VI_F: Trễ hơn nha.] [PAUSE 1s] [EN: Four words for rescheduling today.] [PAUSE 0.5s] [EN: First,] [VI: bận] [EN: means busy. It has] [EN: a low tone, cut off short] [EN: . Listen again.] [VI_F: bận] [PAUSE 1s] [VI_F: bận] [EN: Now you say it.] [PAUSE 4s] [VI: bận] [EN: Good.] [PAUSE 0.5s] [EN: Are you busy —] [PAUSE 4s] [VI: Bận không?] [PAUSE 0.5s] [EN: Next,] [VI: dời] [EN: means to move, or to reschedule. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: dời] [PAUSE 1s] [VI_F: dời] [EN: Now you say it.] [PAUSE 4s] [VI: dời] [EN: Good.] [PAUSE 0.5s] [EN: Can we reschedule —] [PAUSE 4s] [VI: Dời được không?] [PAUSE 0.5s] [EN: Last, a pair.] [VI: sớm] [EN: means early. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: sớm] [PAUSE 1s] [VI_F: sớm] [EN: Now you say it.] [PAUSE 4s] [VI: sớm] [EN: Good.] [PAUSE 0.5s] [VI: trễ] [EN: means late. It has] [EN: a dipping tone — it falls, then rises] [EN: . Listen again.] [VI_F: trễ] [PAUSE 1s] [VI_F: trễ] [EN: Now you say it.] [PAUSE 4s] [VI: trễ] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -26,7 +42,7 @@
     {
       "type": "drill",
       "duration_s": 245,
-      "script": "[EN: Let's drill. Busy —] [PAUSE 4s] [VI: bận] [PAUSE 0.5s] [EN: To reschedule —] [PAUSE 4s] [VI: dời] [PAUSE 0.5s] [EN: Early —] [PAUSE 4s] [VI: sớm] [PAUSE 0.5s] [EN: Late —] [PAUSE 4s] [VI: trễ] [PAUSE 0.5s] [EN: Now say it. Are you busy? —] [PAUSE 4s] [VI: Bận không?] [PAUSE 0.5s] [EN: Can we reschedule? —] [PAUSE 4s] [VI: Dời được không?] [PAUSE 0.5s] [EN: A little earlier —] [PAUSE 4s] [VI: Sớm hơn.] [PAUSE 0.5s] [EN: A little later —] [PAUSE 4s] [VI: Trễ hơn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: bận] [PAUSE 3s] [EN: busy] [PAUSE 0.5s] [VI_F: dời] [PAUSE 3s] [EN: to move, or reschedule] [PAUSE 0.5s] [VI_F: sớm] [PAUSE 3s] [EN: early] [PAUSE 0.5s] [VI_F: trễ] [PAUSE 3s] [EN: late] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: bận] [PAUSE 1s] [VI_F: dời] [PAUSE 1s] [VI_F: sớm] [PAUSE 1s] [VI_F: trễ] [PAUSE 0.5s] [EN: Remember,] [VI: sớm] [EN: has] [VI: dấu sắc] [EN: , and] [VI: trễ] [EN: has] [VI: dấu ngã] [EN: — opposite words, careful not to mix them up.]"
+      "script": "[EN: Let's drill. Busy —] [PAUSE 4s] [VI: bận] [PAUSE 0.5s] [EN: To reschedule —] [PAUSE 4s] [VI: dời] [PAUSE 0.5s] [EN: Early —] [PAUSE 4s] [VI: sớm] [PAUSE 0.5s] [EN: Late —] [PAUSE 4s] [VI: trễ] [PAUSE 0.5s] [EN: Now say it. Are you busy? —] [PAUSE 4s] [VI: Bận không?] [PAUSE 0.5s] [EN: Can we reschedule? —] [PAUSE 4s] [VI: Dời được không?] [PAUSE 0.5s] [EN: A little earlier —] [PAUSE 4s] [VI: Sớm hơn.] [PAUSE 0.5s] [EN: A little later —] [PAUSE 4s] [VI: Trễ hơn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: bận] [PAUSE 3s] [EN: busy] [PAUSE 0.5s] [VI_F: dời] [PAUSE 3s] [EN: to move, or reschedule] [PAUSE 0.5s] [VI_F: sớm] [PAUSE 3s] [EN: early] [PAUSE 0.5s] [VI_F: trễ] [PAUSE 3s] [EN: late] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: bận] [PAUSE 1s] [VI_F: dời] [PAUSE 1s] [VI_F: sớm] [PAUSE 1s] [VI_F: trễ] [PAUSE 0.5s] [EN: Remember,] [VI: sớm] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: trễ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: — opposite words, careful not to mix them up.]"
     },
     {
       "type": "synthesis",

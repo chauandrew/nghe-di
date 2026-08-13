@@ -2,9 +2,21 @@
   "id": "L2-D28",
   "title": "Ga, vé, chuyến: at the station",
   "vocab": [
-    {"vi": "ga", "en": "station", "ipa": "ga˧"},
-    {"vi": "vé", "en": "ticket", "ipa": "vɛ˧˥"},
-    {"vi": "chuyến", "en": "a trip, or a scheduled departure", "ipa": "tɕwiən˧˥"}
+    {
+      "vi": "ga",
+      "en": "station",
+      "ipa": "ga˧"
+    },
+    {
+      "vi": "vé",
+      "en": "ticket",
+      "ipa": "vɛ˧˥"
+    },
+    {
+      "vi": "chuyến",
+      "en": "a trip, or a scheduled departure",
+      "ipa": "tɕwiən˧˥"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 210,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Ga xe buýt ở đâu?] [PAUSE 0.5s] [VI_F: Ga ở đó.] [PAUSE 0.5s] [VI: Cho tôi một vé. Chuyến mấy giờ?] [PAUSE 0.5s] [VI_F: Dạ, chuyến sáng.] [PAUSE 1s] [EN: Three words for the station today.] [PAUSE 0.5s] [EN: First,] [VI: ga] [EN: means station. It has] [VI: ngang] [EN: . Listen again.] [VI_F: ga] [PAUSE 1s] [VI_F: ga] [EN: Now you say it.] [PAUSE 4s] [VI: ga] [EN: Good.] [PAUSE 0.5s] [EN: Where's the station —] [PAUSE 4s] [VI: Ga ở đâu?] [PAUSE 0.5s] [EN: Next,] [VI: vé] [EN: means ticket. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: vé] [PAUSE 1s] [VI_F: vé] [EN: Now you say it.] [PAUSE 4s] [VI: vé] [EN: Good.] [PAUSE 0.5s] [EN: Give me one ticket —] [PAUSE 4s] [VI: Cho tôi một vé.] [PAUSE 0.5s] [EN: Last,] [VI: chuyến] [EN: means a trip, or a scheduled departure. It also has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: chuyến] [PAUSE 1s] [VI_F: chuyến] [EN: Now you say it.] [PAUSE 4s] [VI: chuyến] [EN: Good.] [PAUSE 0.5s] [EN: What time's the trip —] [PAUSE 4s] [VI: Chuyến mấy giờ?]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Ga xe buýt ở đâu?] [PAUSE 0.5s] [VI_F: Ga ở đó.] [PAUSE 0.5s] [VI: Cho tôi một vé. Chuyến mấy giờ?] [PAUSE 0.5s] [VI_F: Dạ, chuyến sáng.] [PAUSE 1s] [EN: Three words for the station today.] [PAUSE 0.5s] [EN: First,] [VI: ga] [EN: means station. It has] [EN: a flat tone, no mark] [EN: . Listen again.] [VI_F: ga] [PAUSE 1s] [VI_F: ga] [EN: Now you say it.] [PAUSE 4s] [VI: ga] [EN: Good.] [PAUSE 0.5s] [EN: Where's the station —] [PAUSE 4s] [VI: Ga ở đâu?] [PAUSE 0.5s] [EN: Next,] [VI: vé] [EN: means ticket. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: vé] [PAUSE 1s] [VI_F: vé] [EN: Now you say it.] [PAUSE 4s] [VI: vé] [EN: Good.] [PAUSE 0.5s] [EN: Give me one ticket —] [PAUSE 4s] [VI: Cho tôi một vé.] [PAUSE 0.5s] [EN: Last,] [VI: chuyến] [EN: means a trip, or a scheduled departure. It also has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: chuyến] [PAUSE 1s] [VI_F: chuyến] [EN: Now you say it.] [PAUSE 4s] [VI: chuyến] [EN: Good.] [PAUSE 0.5s] [EN: What time's the trip —] [PAUSE 4s] [VI: Chuyến mấy giờ?]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 240,
-      "script": "[EN: Let's drill. Station —] [PAUSE 4s] [VI: ga] [PAUSE 0.5s] [EN: Ticket —] [PAUSE 4s] [VI: vé] [PAUSE 0.5s] [EN: Trip —] [PAUSE 4s] [VI: chuyến] [PAUSE 0.5s] [EN: Now say it. Where's the station —] [PAUSE 4s] [VI: Ga ở đâu?] [PAUSE 0.5s] [EN: Give me one ticket —] [PAUSE 4s] [VI: Cho tôi một vé.] [PAUSE 0.5s] [EN: What time's the trip —] [PAUSE 4s] [VI: Chuyến mấy giờ?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ga] [PAUSE 3s] [EN: station] [PAUSE 0.5s] [VI_F: vé] [PAUSE 3s] [EN: ticket] [PAUSE 0.5s] [VI_F: chuyến] [PAUSE 3s] [EN: a trip, or a scheduled departure] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ga] [PAUSE 1s] [VI_F: vé] [PAUSE 1s] [VI_F: chuyến] [PAUSE 0.5s] [EN: Remember,] [VI: vé] [EN: and] [VI: chuyến] [EN: both have] [VI: dấu sắc] [EN: , and] [VI: ga] [EN: is flat —] [VI: ngang] [EN: .]"
+      "script": "[EN: Let's drill. Station —] [PAUSE 4s] [VI: ga] [PAUSE 0.5s] [EN: Ticket —] [PAUSE 4s] [VI: vé] [PAUSE 0.5s] [EN: Trip —] [PAUSE 4s] [VI: chuyến] [PAUSE 0.5s] [EN: Now say it. Where's the station —] [PAUSE 4s] [VI: Ga ở đâu?] [PAUSE 0.5s] [EN: Give me one ticket —] [PAUSE 4s] [VI: Cho tôi một vé.] [PAUSE 0.5s] [EN: What time's the trip —] [PAUSE 4s] [VI: Chuyến mấy giờ?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ga] [PAUSE 3s] [EN: station] [PAUSE 0.5s] [VI_F: vé] [PAUSE 3s] [EN: ticket] [PAUSE 0.5s] [VI_F: chuyến] [PAUSE 3s] [EN: a trip, or a scheduled departure] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ga] [PAUSE 1s] [VI_F: vé] [PAUSE 1s] [VI_F: chuyến] [PAUSE 0.5s] [EN: Remember,] [VI: vé] [EN: and] [VI: chuyến] [EN: both have] [EN: a high, rising tone] [EN: , and] [VI: ga] [EN: is flat —] [EN: a flat tone, no mark] [EN: .]"
     },
     {
       "type": "synthesis",

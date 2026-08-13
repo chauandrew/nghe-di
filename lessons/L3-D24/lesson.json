@@ -2,8 +2,16 @@
   "id": "L3-D24",
   "title": "Giống, khác: comparing people and things",
   "vocab": [
-    {"vi": "giống", "en": "similar, alike", "ipa": "zoŋ˧˥"},
-    {"vi": "khác", "en": "different", "ipa": "xaːk˧˥"}
+    {
+      "vi": "giống",
+      "en": "similar, alike",
+      "ipa": "zoŋ˧˥"
+    },
+    {
+      "vi": "khác",
+      "en": "different",
+      "ipa": "xaːk˧˥"
+    }
   ],
   "segments": [
     {
@@ -14,7 +22,7 @@
     {
       "type": "dialogue",
       "duration_s": 210,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chị đó giống em không?] [PAUSE 0.5s] [VI: Dạ không, chị đó khác em.] [PAUSE 0.5s] [VI_F: Khác thế nào?] [PAUSE 0.5s] [VI: Chị đó cao hơn.] [PAUSE 1s] [EN: Today, two words for comparing.] [PAUSE 0.5s] [EN: First,] [VI: giống] [EN: means similar, or alike. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: giống] [PAUSE 1s] [VI_F: giống] [EN: Now you say it.] [PAUSE 4s] [VI: giống] [EN: Good. She looks like me —] [PAUSE 4s] [VI: Chị đó giống em.] [PAUSE 0.5s] [EN: Next,] [VI: khác] [EN: means different. You already heard it inside] [VI: loại khác] [EN: — a different kind. Today it stands on its own, still meaning different. It has] [VI: dấu sắc] [EN: too. Listen again.] [VI_F: khác] [PAUSE 1s] [VI_F: khác] [EN: Now you say it.] [PAUSE 4s] [VI: khác] [EN: Good. She's different from me —] [PAUSE 4s] [VI: Chị đó khác em.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chị đó giống em không?] [PAUSE 0.5s] [VI: Dạ không, chị đó khác em.] [PAUSE 0.5s] [VI_F: Khác thế nào?] [PAUSE 0.5s] [VI: Chị đó cao hơn.] [PAUSE 1s] [EN: Today, two words for comparing.] [PAUSE 0.5s] [EN: First,] [VI: giống] [EN: means similar, or alike. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: giống] [PAUSE 1s] [VI_F: giống] [EN: Now you say it.] [PAUSE 4s] [VI: giống] [EN: Good. She looks like me —] [PAUSE 4s] [VI: Chị đó giống em.] [PAUSE 0.5s] [EN: Next,] [VI: khác] [EN: means different. You already heard it inside] [VI: loại khác] [EN: — a different kind. Today it stands on its own, still meaning different. It has] [EN: a high, rising tone] [EN: too. Listen again.] [VI_F: khác] [PAUSE 1s] [VI_F: khác] [EN: Now you say it.] [PAUSE 4s] [VI: khác] [EN: Good. She's different from me —] [PAUSE 4s] [VI: Chị đó khác em.]"
     },
     {
       "type": "consolidate",
@@ -24,7 +32,7 @@
     {
       "type": "drill",
       "duration_s": 220,
-      "script": "[EN: Let's drill. Similar, alike —] [PAUSE 4s] [VI: giống] [PAUSE 0.5s] [EN: Different —] [PAUSE 4s] [VI: khác] [PAUSE 0.5s] [EN: Now build it. He looks like me —] [PAUSE 4s] [VI: Anh đó giống em.] [PAUSE 0.5s] [EN: This shirt is different —] [PAUSE 4s] [VI: Áo này khác.] [PAUSE 0.5s] [EN: She's different from me, she's taller —] [PAUSE 4s] [VI: Chị đó khác em, chị đó cao hơn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: giống] [PAUSE 3s] [EN: similar, alike] [PAUSE 0.5s] [VI_F: khác] [PAUSE 3s] [EN: different] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: giống] [PAUSE 1s] [VI_F: khác] [PAUSE 0.5s] [EN: Remember,] [VI: giống] [EN: and] [VI: khác] [EN: both have] [VI: dấu sắc] [EN: .]"
+      "script": "[EN: Let's drill. Similar, alike —] [PAUSE 4s] [VI: giống] [PAUSE 0.5s] [EN: Different —] [PAUSE 4s] [VI: khác] [PAUSE 0.5s] [EN: Now build it. He looks like me —] [PAUSE 4s] [VI: Anh đó giống em.] [PAUSE 0.5s] [EN: This shirt is different —] [PAUSE 4s] [VI: Áo này khác.] [PAUSE 0.5s] [EN: She's different from me, she's taller —] [PAUSE 4s] [VI: Chị đó khác em, chị đó cao hơn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: giống] [PAUSE 3s] [EN: similar, alike] [PAUSE 0.5s] [VI_F: khác] [PAUSE 3s] [EN: different] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: giống] [PAUSE 1s] [VI_F: khác] [PAUSE 0.5s] [EN: Remember,] [VI: giống] [EN: and] [VI: khác] [EN: both have] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",

@@ -2,8 +2,16 @@
   "id": "L3-D28",
   "title": "Tham gia, tiệc: inviting to a birthday and responding",
   "vocab": [
-    {"vi": "tham gia", "en": "to participate, join in", "ipa": "tʰaːm˧ zaː˧"},
-    {"vi": "tiệc", "en": "party", "ipa": "tiək˨˩ʔ"}
+    {
+      "vi": "tham gia",
+      "en": "to participate, join in",
+      "ipa": "tʰaːm˧ zaː˧"
+    },
+    {
+      "vi": "tiệc",
+      "en": "party",
+      "ipa": "tiək˨˩ʔ"
+    }
   ],
   "segments": [
     {
@@ -14,7 +22,7 @@
     {
       "type": "dialogue",
       "duration_s": 210,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Sinh nhật tôi có tiệc. Mời anh tham gia!] [PAUSE 0.5s] [VI: Dạ, tôi tham gia. Mấy giờ vậy?] [PAUSE 0.5s] [VI_F: Bảy giờ tối nay.] [PAUSE 1s] [EN: Today, two words for a party.] [PAUSE 0.5s] [EN: First,] [VI: tiệc] [EN: means party. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: tiệc] [PAUSE 1s] [VI_F: tiệc] [EN: Now you say it.] [PAUSE 4s] [VI: tiệc] [EN: Good. A birthday party —] [PAUSE 4s] [VI: tiệc sinh nhật] [PAUSE 0.5s] [EN: Next,] [VI: tham gia] [EN: means to participate, or join in. Listen to its two parts.] [VI_F: tham] [EN: has] [VI: ngang] [EN: — flat] [PAUSE 0.3s] [VI_F: gia] [EN: has] [VI: ngang] [EN: too. Listen to the whole word again.] [VI_F: tham gia] [PAUSE 1s] [VI_F: tham gia] [EN: Now you say it.] [PAUSE 4s] [VI: tham gia] [EN: Good. I invite you to join the party —] [PAUSE 4s] [VI: Mời anh tham gia tiệc.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Sinh nhật tôi có tiệc. Mời anh tham gia!] [PAUSE 0.5s] [VI: Dạ, tôi tham gia. Mấy giờ vậy?] [PAUSE 0.5s] [VI_F: Bảy giờ tối nay.] [PAUSE 1s] [EN: Today, two words for a party.] [PAUSE 0.5s] [EN: First,] [VI: tiệc] [EN: means party. It has] [EN: a low tone, cut off short] [EN: . Listen again.] [VI_F: tiệc] [PAUSE 1s] [VI_F: tiệc] [EN: Now you say it.] [PAUSE 4s] [VI: tiệc] [EN: Good. A birthday party —] [PAUSE 4s] [VI: tiệc sinh nhật] [PAUSE 0.5s] [EN: Next,] [VI: tham gia] [EN: means to participate, or join in. Listen to its two parts.] [VI_F: tham] [EN: has] [EN: a flat tone, no mark] [EN: — flat] [PAUSE 0.3s] [VI_F: gia] [EN: has] [EN: a flat tone, no mark] [EN: too. Listen to the whole word again.] [VI_F: tham gia] [PAUSE 1s] [VI_F: tham gia] [EN: Now you say it.] [PAUSE 4s] [VI: tham gia] [EN: Good. I invite you to join the party —] [PAUSE 4s] [VI: Mời anh tham gia tiệc.]"
     },
     {
       "type": "consolidate",
@@ -24,7 +32,7 @@
     {
       "type": "drill",
       "duration_s": 215,
-      "script": "[EN: Let's drill. Party —] [PAUSE 4s] [VI: tiệc] [PAUSE 0.5s] [EN: To participate, join in —] [PAUSE 4s] [VI: tham gia] [PAUSE 0.5s] [EN: Now build it. A birthday party —] [PAUSE 4s] [VI: tiệc sinh nhật] [PAUSE 0.5s] [EN: I invite you to join the party —] [PAUSE 4s] [VI: Mời anh tham gia tiệc.] [PAUSE 0.5s] [EN: Yes, I'll join, what time —] [PAUSE 4s] [VI: Dạ, tôi tham gia. Mấy giờ vậy?] [PAUSE 0.5s] [EN: Seven tonight —] [PAUSE 4s] [VI: Bảy giờ tối nay.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: tiệc] [PAUSE 3s] [EN: party] [PAUSE 0.5s] [VI_F: tham gia] [PAUSE 3s] [EN: to participate, join in] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: tiệc] [PAUSE 1s] [VI_F: tham gia] [PAUSE 0.5s] [EN: Remember,] [VI: tiệc] [EN: has] [VI: dấu nặng] [EN: , and] [VI: tham] [EN: has] [VI: ngang] [EN: — flat.]"
+      "script": "[EN: Let's drill. Party —] [PAUSE 4s] [VI: tiệc] [PAUSE 0.5s] [EN: To participate, join in —] [PAUSE 4s] [VI: tham gia] [PAUSE 0.5s] [EN: Now build it. A birthday party —] [PAUSE 4s] [VI: tiệc sinh nhật] [PAUSE 0.5s] [EN: I invite you to join the party —] [PAUSE 4s] [VI: Mời anh tham gia tiệc.] [PAUSE 0.5s] [EN: Yes, I'll join, what time —] [PAUSE 4s] [VI: Dạ, tôi tham gia. Mấy giờ vậy?] [PAUSE 0.5s] [EN: Seven tonight —] [PAUSE 4s] [VI: Bảy giờ tối nay.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: tiệc] [PAUSE 3s] [EN: party] [PAUSE 0.5s] [VI_F: tham gia] [PAUSE 3s] [EN: to participate, join in] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: tiệc] [PAUSE 1s] [VI_F: tham gia] [PAUSE 0.5s] [EN: Remember,] [VI: tiệc] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: tham] [EN: has] [EN: a flat tone, no mark] [EN: — flat.]"
     },
     {
       "type": "synthesis",

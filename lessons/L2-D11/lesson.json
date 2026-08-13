@@ -2,9 +2,21 @@
   "id": "L2-D11",
   "title": "Khi, lúc, khi nào: saying when",
   "vocab": [
-    {"vi": "khi", "en": "when (joins two events)", "ipa": "xi˧"},
-    {"vi": "lúc", "en": "at, for a specific point in time", "ipa": "luk˧˥"},
-    {"vi": "khi nào", "en": "when? (question word)", "ipa": "xi˧ naːw˨˩"}
+    {
+      "vi": "khi",
+      "en": "when (joins two events)",
+      "ipa": "xi˧"
+    },
+    {
+      "vi": "lúc",
+      "en": "at, for a specific point in time",
+      "ipa": "luk˧˥"
+    },
+    {
+      "vi": "khi nào",
+      "en": "when? (question word)",
+      "ipa": "xi˧ naːw˨˩"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 210,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Khi nào anh về nhà?] [PAUSE 0.5s] [VI: Dạ, lúc sáu giờ.] [PAUSE 0.5s] [VI_F: Dạ, khi anh về, em nấu ăn.] [PAUSE 1s] [EN: Today's structure: saying when. Three words, three jobs.] [PAUSE 0.5s] [EN: First,] [VI: khi] [EN: means when, joining two events — when one thing happens, the other follows. It has] [VI: ngang] [EN: — flat, no mark. Listen again.] [VI_F: khi] [PAUSE 1s] [VI_F: khi] [EN: Now you say it.] [PAUSE 4s] [VI: khi] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: lúc] [EN: means at, for a specific point in time. It has] [VI: dấu sắc] [EN: — high, rising. Listen again.] [VI_F: lúc] [PAUSE 1s] [VI_F: lúc] [EN: Now you say it.] [PAUSE 4s] [VI: lúc] [EN: Good.] [PAUSE 0.3s] [VI_F: lúc sáu giờ] [EN: at six o'clock.] [PAUSE 0.5s] [EN: Last,] [VI: khi nào] [EN: means when, as a question. Listen to its two parts.] [VI_F: khi] [EN: you just learned.] [VI_F: nào] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole phrase again.] [VI_F: khi nào] [PAUSE 1s] [VI_F: khi nào] [EN: Now you say it.] [PAUSE 4s] [VI: khi nào] [EN: Good.] [PAUSE 0.3s] [VI_F: Khi nào anh về nhà?] [EN: when are you going home?]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Khi nào anh về nhà?] [PAUSE 0.5s] [VI: Dạ, lúc sáu giờ.] [PAUSE 0.5s] [VI_F: Dạ, khi anh về, em nấu ăn.] [PAUSE 1s] [EN: Today's structure: saying when. Three words, three jobs.] [PAUSE 0.5s] [EN: First,] [VI: khi] [EN: means when, joining two events — when one thing happens, the other follows. It has] [EN: a flat tone, no mark] [EN: — flat, no mark. Listen again.] [VI_F: khi] [PAUSE 1s] [VI_F: khi] [EN: Now you say it.] [PAUSE 4s] [VI: khi] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: lúc] [EN: means at, for a specific point in time. It has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: lúc] [PAUSE 1s] [VI_F: lúc] [EN: Now you say it.] [PAUSE 4s] [VI: lúc] [EN: Good.] [PAUSE 0.3s] [VI_F: lúc sáu giờ] [EN: at six o'clock.] [PAUSE 0.5s] [EN: Last,] [VI: khi nào] [EN: means when, as a question. Listen to its two parts.] [VI_F: khi] [EN: you just learned.] [VI_F: nào] [EN: has] [EN: a falling tone] [EN: . Listen to the whole phrase again.] [VI_F: khi nào] [PAUSE 1s] [VI_F: khi nào] [EN: Now you say it.] [PAUSE 4s] [VI: khi nào] [EN: Good.] [PAUSE 0.3s] [VI_F: Khi nào anh về nhà?] [EN: when are you going home?]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 240,
-      "script": "[EN: Let's drill. When, joining two events —] [PAUSE 4s] [VI: khi] [PAUSE 0.5s] [EN: At, a specific point in time —] [PAUSE 4s] [VI: lúc] [PAUSE 0.5s] [EN: When, as a question —] [PAUSE 4s] [VI: khi nào] [PAUSE 0.5s] [EN: Now say it. When I wake up, I eat breakfast —] [PAUSE 4s] [VI: Khi em dậy, em ăn sáng.] [PAUSE 0.5s] [EN: At seven o'clock —] [PAUSE 4s] [VI: Lúc bảy giờ.] [PAUSE 0.5s] [EN: Ask when someone is going to work —] [PAUSE 4s] [VI: Khi nào anh làm việc?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: khi] [PAUSE 3s] [EN: when, joining two events] [PAUSE 0.5s] [VI_F: lúc] [PAUSE 3s] [EN: at, a specific point in time] [PAUSE 0.5s] [VI_F: khi nào] [PAUSE 3s] [EN: when, as a question] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: khi] [PAUSE 1s] [VI_F: lúc] [PAUSE 1s] [VI_F: khi nào] [PAUSE 0.5s] [EN: Remember,] [VI: lúc] [EN: has] [VI: dấu sắc] [EN: , and] [VI: nào] [EN: in] [VI: khi nào] [EN: has] [VI: dấu huyền] [EN: .]"
+      "script": "[EN: Let's drill. When, joining two events —] [PAUSE 4s] [VI: khi] [PAUSE 0.5s] [EN: At, a specific point in time —] [PAUSE 4s] [VI: lúc] [PAUSE 0.5s] [EN: When, as a question —] [PAUSE 4s] [VI: khi nào] [PAUSE 0.5s] [EN: Now say it. When I wake up, I eat breakfast —] [PAUSE 4s] [VI: Khi em dậy, em ăn sáng.] [PAUSE 0.5s] [EN: At seven o'clock —] [PAUSE 4s] [VI: Lúc bảy giờ.] [PAUSE 0.5s] [EN: Ask when someone is going to work —] [PAUSE 4s] [VI: Khi nào anh làm việc?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: khi] [PAUSE 3s] [EN: when, joining two events] [PAUSE 0.5s] [VI_F: lúc] [PAUSE 3s] [EN: at, a specific point in time] [PAUSE 0.5s] [VI_F: khi nào] [PAUSE 3s] [EN: when, as a question] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: khi] [PAUSE 1s] [VI_F: lúc] [PAUSE 1s] [VI_F: khi nào] [PAUSE 0.5s] [EN: Remember,] [VI: lúc] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: nào] [EN: in] [VI: khi nào] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",

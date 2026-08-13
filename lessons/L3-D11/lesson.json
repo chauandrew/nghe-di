@@ -2,8 +2,16 @@
   "id": "L3-D11",
   "title": "Ở giữa, đối diện: describing where things are",
   "vocab": [
-    {"vi": "ở giữa", "en": "in the middle", "ipa": "ə˨˩˦ zɨə˨˩˦"},
-    {"vi": "đối diện", "en": "across from, opposite", "ipa": "doj˧˥ ziən˨˩ʔ"}
+    {
+      "vi": "ở giữa",
+      "en": "in the middle",
+      "ipa": "ə˨˩˦ zɨə˨˩˦"
+    },
+    {
+      "vi": "đối diện",
+      "en": "across from, opposite",
+      "ipa": "doj˧˥ ziən˨˩ʔ"
+    }
   ],
   "segments": [
     {
@@ -14,7 +22,7 @@
     {
       "type": "dialogue",
       "duration_s": 210,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Bếp ở đâu?] [PAUSE 0.5s] [VI: Dạ, bếp ở giữa phòng khách và phòng ngủ.] [PAUSE 0.5s] [VI_F: Còn phòng ngủ?] [PAUSE 0.5s] [VI: Phòng ngủ đối diện phòng khách.] [PAUSE 1s] [EN: Two more ways to place things.] [PAUSE 0.5s] [EN: First,] [VI: ở giữa] [EN: means in the middle. You know] [VI: ở] [EN: already; the new part is] [VI: giữa] [EN: — middle. It has] [VI: dấu ngã] [EN: — the same dipping sound as] [VI: dấu hỏi] [EN: down here in the south. Listen again.] [VI_F: ở giữa] [PAUSE 1s] [VI_F: ở giữa] [EN: Now you say it.] [PAUSE 4s] [VI: ở giữa] [EN: Good. In the middle of the living room —] [PAUSE 4s] [VI: ở giữa phòng khách] [PAUSE 0.5s] [EN: Next,] [VI: đối diện] [EN: means across from, or opposite. Listen to its two parts.] [VI_F: đối] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: diện] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: đối diện] [PAUSE 1s] [VI_F: đối diện] [EN: Now you say it.] [PAUSE 4s] [VI: đối diện] [EN: Good. The bedroom is across from the kitchen —] [PAUSE 4s] [VI: Phòng ngủ đối diện bếp.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Bếp ở đâu?] [PAUSE 0.5s] [VI: Dạ, bếp ở giữa phòng khách và phòng ngủ.] [PAUSE 0.5s] [VI_F: Còn phòng ngủ?] [PAUSE 0.5s] [VI: Phòng ngủ đối diện phòng khách.] [PAUSE 1s] [EN: Two more ways to place things.] [PAUSE 0.5s] [EN: First,] [VI: ở giữa] [EN: means in the middle. You know] [VI: ở] [EN: already; the new part is] [VI: giữa] [EN: — middle. It has] [EN: a dipping tone — it falls, then rises] [EN: — the same dipping sound as] [EN: a dipping tone — it falls, then rises] [EN: down here in the south. Listen again.] [VI_F: ở giữa] [PAUSE 1s] [VI_F: ở giữa] [EN: Now you say it.] [PAUSE 4s] [VI: ở giữa] [EN: Good. In the middle of the living room —] [PAUSE 4s] [VI: ở giữa phòng khách] [PAUSE 0.5s] [EN: Next,] [VI: đối diện] [EN: means across from, or opposite. Listen to its two parts.] [VI_F: đối] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: diện] [EN: has] [EN: a low tone, cut off short] [EN: . Listen to the whole word again.] [VI_F: đối diện] [PAUSE 1s] [VI_F: đối diện] [EN: Now you say it.] [PAUSE 4s] [VI: đối diện] [EN: Good. The bedroom is across from the kitchen —] [PAUSE 4s] [VI: Phòng ngủ đối diện bếp.]"
     },
     {
       "type": "consolidate",
@@ -24,7 +32,7 @@
     {
       "type": "drill",
       "duration_s": 220,
-      "script": "[EN: Let's drill. In the middle —] [PAUSE 4s] [VI: ở giữa] [PAUSE 0.5s] [EN: Across from, opposite —] [PAUSE 4s] [VI: đối diện] [PAUSE 0.5s] [EN: Now say it. The kitchen is in the middle —] [PAUSE 4s] [VI: Bếp ở giữa.] [PAUSE 0.5s] [EN: The living room is across from the bedroom —] [PAUSE 4s] [VI: Phòng khách đối diện phòng ngủ.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ở giữa] [PAUSE 3s] [EN: in the middle] [PAUSE 0.5s] [VI_F: đối diện] [PAUSE 3s] [EN: across from, opposite] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ở giữa] [PAUSE 1s] [VI_F: đối diện] [PAUSE 0.5s] [EN: Remember,] [VI: giữa] [EN: has] [VI: dấu ngã] [EN: , and] [VI: đối] [EN: has] [VI: dấu sắc] [EN: .]"
+      "script": "[EN: Let's drill. In the middle —] [PAUSE 4s] [VI: ở giữa] [PAUSE 0.5s] [EN: Across from, opposite —] [PAUSE 4s] [VI: đối diện] [PAUSE 0.5s] [EN: Now say it. The kitchen is in the middle —] [PAUSE 4s] [VI: Bếp ở giữa.] [PAUSE 0.5s] [EN: The living room is across from the bedroom —] [PAUSE 4s] [VI: Phòng khách đối diện phòng ngủ.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ở giữa] [PAUSE 3s] [EN: in the middle] [PAUSE 0.5s] [VI_F: đối diện] [PAUSE 3s] [EN: across from, opposite] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ở giữa] [PAUSE 1s] [VI_F: đối diện] [PAUSE 0.5s] [EN: Remember,] [VI: giữa] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: , and] [VI: đối] [EN: has] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",

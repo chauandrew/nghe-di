@@ -2,20 +2,32 @@
   "id": "L1-D7",
   "title": "Gọi đồ uống: ordering something to drink",
   "vocab": [
-    {"vi": "tôi muốn", "en": "I want", "ipa": "toj˧ muən˧˥"},
-    {"vi": "cà phê", "en": "coffee", "ipa": "kaː˨˩ fe˧"},
-    {"vi": "nước", "en": "water", "ipa": "nɨək˧˥"}
+    {
+      "vi": "tôi muốn",
+      "en": "I want",
+      "ipa": "toj˧ muən˧˥"
+    },
+    {
+      "vi": "cà phê",
+      "en": "coffee",
+      "ipa": "kaː˨˩ fe˧"
+    },
+    {
+      "vi": "nước",
+      "en": "water",
+      "ipa": "nɨək˧˥"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Quick review of the tone names.] [PAUSE 0.5s] [EN: Flat tone, no mark —] [PAUSE 4s] [VI: ngang] [PAUSE 0.5s] [EN: Falling tone —] [PAUSE 4s] [VI: dấu huyền] [PAUSE 0.5s] [EN: High, rising tone —] [PAUSE 4s] [VI: dấu sắc] [PAUSE 0.5s] [EN: Dipping tone —] [PAUSE 4s] [VI: dấu hỏi] [PAUSE 0.5s] [EN: The same dipping sound, written differently —] [PAUSE 4s] [VI: dấu ngã] [PAUSE 0.5s] [EN: Low, cut-off tone —] [PAUSE 4s] [VI: dấu nặng] [EN: Good.]"
+      "script": "[EN: Quick review. Count with me. Six —] [PAUSE 4s] [VI: sáu] [EN: Seven —] [PAUSE 4s] [VI: bảy] [EN: Eight —] [PAUSE 4s] [VI: tám] [EN: Nine —] [PAUSE 4s] [VI: chín] [EN: Ten —] [PAUSE 4s] [VI: mười] [EN: And a group of ten —] [PAUSE 4s] [VI: chục] [EN: Good.]"
     },
     {
       "type": "dialogue",
       "duration_s": 220,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, tôi muốn một ly cà phê.] [PAUSE 0.5s] [VI_F: Dạ, một ly cà phê.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị!] [PAUSE 1s] [EN: You just heard] [VI: tôi muốn] [EN: it means I want. Listen to its two parts.] [VI_F: tôi] [EN: has] [VI: ngang] [PAUSE 0.3s] [VI_F: muốn] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole phrase again.] [VI_F: tôi muốn] [PAUSE 1s] [VI_F: tôi muốn] [EN: Now you say it.] [PAUSE 4s] [VI: tôi muốn] [EN: Good.] [PAUSE 0.5s] [EN: Now] [VI: cà phê] [EN: it means coffee. Listen to its two parts.] [VI_F: cà] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI_F: phê] [EN: has] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: cà phê] [PAUSE 1s] [VI_F: cà phê] [EN: Now you say it.] [PAUSE 4s] [VI: cà phê] [EN: Good.] [PAUSE 0.5s] [EN: And] [VI: nước] [EN: it means water. It has] [VI: dấu sắc] [EN: — high, rising. Keep your lips relaxed, not rounded, for that vowel. Listen again.] [VI_F: nước] [PAUSE 1s] [VI_F: nước] [EN: Now you say it.] [PAUSE 4s] [VI: nước] [EN: Good.] [PAUSE 0.5s] [EN: Put it together with what you know.] [PAUSE 0.3s] [VI_F: tôi muốn một ly cà phê] [EN: I want one glass of coffee.] [PAUSE 0.3s] [VI_F: tôi muốn một chai nước] [EN: I want one bottle of water.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, tôi muốn một ly cà phê.] [PAUSE 0.5s] [VI_F: Dạ, một ly cà phê.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị!] [PAUSE 1s] [EN: You just heard] [VI: tôi muốn] [EN: it means I want. Listen to its two parts.] [VI_F: tôi] [EN: has] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: muốn] [EN: has] [EN: a high, rising tone] [EN: . Listen to the whole phrase again.] [VI_F: tôi muốn] [PAUSE 1s] [VI_F: tôi muốn] [EN: Now you say it.] [PAUSE 4s] [VI: tôi muốn] [EN: Good.] [PAUSE 0.5s] [EN: Now] [VI: cà phê] [EN: it means coffee. Listen to its two parts.] [VI_F: cà] [EN: has] [EN: a falling tone] [PAUSE 0.3s] [VI_F: phê] [EN: has] [EN: a flat tone, no mark] [EN: . Listen to the whole word again.] [VI_F: cà phê] [PAUSE 1s] [VI_F: cà phê] [EN: Now you say it.] [PAUSE 4s] [VI: cà phê] [EN: Good.] [PAUSE 0.5s] [EN: And] [VI: nước] [EN: it means water. It has] [EN: a high, rising tone] [EN: — high, rising. Keep your lips relaxed, not rounded, for that vowel. Listen again.] [VI_F: nước] [PAUSE 1s] [VI_F: nước] [EN: Now you say it.] [PAUSE 4s] [VI: nước] [EN: Good.] [PAUSE 0.5s] [EN: Put it together with what you know.] [PAUSE 0.3s] [VI_F: tôi muốn một ly cà phê] [EN: I want one glass of coffee.] [PAUSE 0.3s] [VI_F: tôi muốn một chai nước] [EN: I want one bottle of water.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 240,
-      "script": "[EN: Let's drill. I want —] [PAUSE 4s] [VI: tôi muốn] [PAUSE 0.5s] [EN: Coffee —] [PAUSE 4s] [VI: cà phê] [PAUSE 0.5s] [EN: Water —] [PAUSE 4s] [VI: nước] [PAUSE 0.5s] [EN: Now order. I want one glass of coffee —] [PAUSE 4s] [VI: Tôi muốn một ly cà phê.] [PAUSE 0.5s] [EN: I want two bottles of water —] [PAUSE 4s] [VI: Tôi muốn hai chai nước.] [PAUSE 0.5s] [EN: I want three glasses of coffee —] [PAUSE 4s] [VI: Tôi muốn ba ly cà phê.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: tôi muốn] [PAUSE 3s] [EN: I want] [PAUSE 0.5s] [VI_F: cà phê] [PAUSE 3s] [EN: coffee] [PAUSE 0.5s] [VI_F: nước] [PAUSE 3s] [EN: water] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: tôi muốn] [PAUSE 1s] [VI_F: cà phê] [PAUSE 1s] [VI_F: nước] [PAUSE 0.5s] [EN: Remember,] [VI: muốn] [EN: has] [VI: dấu sắc] [EN: , and so does] [VI: nước] [EN: .]"
+      "script": "[EN: Let's drill. I want —] [PAUSE 4s] [VI: tôi muốn] [PAUSE 0.5s] [EN: Coffee —] [PAUSE 4s] [VI: cà phê] [PAUSE 0.5s] [EN: Water —] [PAUSE 4s] [VI: nước] [PAUSE 0.5s] [EN: Now order. I want one glass of coffee —] [PAUSE 4s] [VI: Tôi muốn một ly cà phê.] [PAUSE 0.5s] [EN: I want two bottles of water —] [PAUSE 4s] [VI: Tôi muốn hai chai nước.] [PAUSE 0.5s] [EN: I want three glasses of coffee —] [PAUSE 4s] [VI: Tôi muốn ba ly cà phê.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: tôi muốn] [PAUSE 3s] [EN: I want] [PAUSE 0.5s] [VI_F: cà phê] [PAUSE 3s] [EN: coffee] [PAUSE 0.5s] [VI_F: nước] [PAUSE 3s] [EN: water] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: tôi muốn] [PAUSE 1s] [VI_F: cà phê] [PAUSE 1s] [VI_F: nước] [PAUSE 0.5s] [EN: Remember,] [VI: muốn] [EN: has] [EN: a high, rising tone] [EN: , and so does] [VI: nước] [EN: .]"
     },
     {
       "type": "synthesis",

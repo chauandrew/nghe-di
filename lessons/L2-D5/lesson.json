@@ -2,20 +2,32 @@
   "id": "L2-D5",
   "title": "Dậy, ngủ, ăn sáng: waking, sleeping, breakfast",
   "vocab": [
-    {"vi": "dậy", "en": "to wake up", "ipa": "zəj˨˩ʔ"},
-    {"vi": "ngủ", "en": "to sleep", "ipa": "ŋu˨˩˦"},
-    {"vi": "ăn sáng", "en": "breakfast", "ipa": "ăn˧ saːŋ˧˥"}
+    {
+      "vi": "dậy",
+      "en": "to wake up",
+      "ipa": "zəj˨˩ʔ"
+    },
+    {
+      "vi": "ngủ",
+      "en": "to sleep",
+      "ipa": "ŋu˨˩˦"
+    },
+    {
+      "vi": "ăn sáng",
+      "en": "breakfast",
+      "ipa": "ăn˧ saːŋ˧˥"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Quick review. Tone names today.] [PAUSE 0.5s] [EN: Say the name for a flat tone —] [PAUSE 4s] [VI: ngang] [PAUSE 0.5s] [EN: Say the name for a falling tone —] [PAUSE 4s] [VI: dấu huyền] [PAUSE 0.5s] [EN: Say the name for a high, rising tone —] [PAUSE 4s] [VI: dấu sắc] [PAUSE 0.5s] [EN: Say the name for a dipping tone —] [PAUSE 4s] [VI: dấu hỏi] [PAUSE 0.5s] [EN: Say the other dipping-tone mark, same sound in the south —] [PAUSE 4s] [VI: dấu ngã] [PAUSE 0.5s] [EN: Say the name for a low, cut-off tone —] [PAUSE 4s] [VI: dấu nặng] [EN: Good.]"
+      "script": "[EN: Quick review. Say to order food —] [PAUSE 4s] [VI: gọi món] [EN: Say large —] [PAUSE 4s] [VI: lớn] [EN: Say portion —] [PAUSE 4s] [VI: phần] [EN: Say I need —] [PAUSE 4s] [VI: tôi cần] [EN: Say medicine —] [PAUSE 4s] [VI: thuốc] [EN: Say pharmacy —] [PAUSE 4s] [VI: nhà thuốc] [EN: Good.]"
     },
     {
       "type": "dialogue",
       "duration_s": 210,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Em dậy chưa?] [PAUSE 0.5s] [VI: Dạ, dậy rồi. Em đang ăn sáng.] [PAUSE 0.5s] [VI_F: Ngủ ngon không?] [PAUSE 0.5s] [VI: Dạ, ngon lắm.] [PAUSE 1s] [EN: You heard] [VI: lắm] [EN: an intensifier meaning very, placed right after the word it strengthens.] [PAUSE 0.5s] [EN: You said] [VI: dậy] [EN: it means to wake up. It has] [VI: dấu nặng] [EN: — low, cut off short. Listen again.] [VI_F: dậy] [PAUSE 1s] [VI_F: dậy] [EN: Now you say it.] [PAUSE 4s] [VI: dậy] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: ngủ] [EN: means to sleep. It has] [VI: dấu hỏi] [EN: — dipping. Listen again.] [VI_F: ngủ] [PAUSE 1s] [VI_F: ngủ] [EN: Now you say it.] [PAUSE 4s] [VI: ngủ] [EN: Good.] [PAUSE 0.3s] [VI_F: ngủ ngon] [EN: sleep well — a common way to say goodnight.] [PAUSE 0.5s] [EN: Last,] [VI: ăn sáng] [EN: means breakfast. You already know both pieces —] [VI: ăn] [EN: to eat, and] [VI: sáng] [EN: morning. Listen to the whole word again.] [VI_F: ăn sáng] [PAUSE 1s] [VI_F: ăn sáng] [EN: Now you say it.] [PAUSE 4s] [VI: ăn sáng] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Em dậy chưa?] [PAUSE 0.5s] [VI: Dạ, dậy rồi. Em đang ăn sáng.] [PAUSE 0.5s] [VI_F: Ngủ ngon không?] [PAUSE 0.5s] [VI: Dạ, ngon lắm.] [PAUSE 1s] [EN: You heard] [VI: lắm] [EN: an intensifier meaning very, placed right after the word it strengthens.] [PAUSE 0.5s] [EN: You said] [VI: dậy] [EN: it means to wake up. It has] [EN: a low tone, cut off short] [EN: — low, cut off short. Listen again.] [VI_F: dậy] [PAUSE 1s] [VI_F: dậy] [EN: Now you say it.] [PAUSE 4s] [VI: dậy] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: ngủ] [EN: means to sleep. It has] [EN: a dipping tone — it falls, then rises] [EN: — dipping. Listen again.] [VI_F: ngủ] [PAUSE 1s] [VI_F: ngủ] [EN: Now you say it.] [PAUSE 4s] [VI: ngủ] [EN: Good.] [PAUSE 0.3s] [VI_F: ngủ ngon] [EN: sleep well — a common way to say goodnight.] [PAUSE 0.5s] [EN: Last,] [VI: ăn sáng] [EN: means breakfast. You already know both pieces —] [VI: ăn] [EN: to eat, and] [VI: sáng] [EN: morning. Listen to the whole word again.] [VI_F: ăn sáng] [PAUSE 1s] [VI_F: ăn sáng] [EN: Now you say it.] [PAUSE 4s] [VI: ăn sáng] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 240,
-      "script": "[EN: Let's drill. To wake up —] [PAUSE 4s] [VI: dậy] [PAUSE 0.5s] [EN: To sleep —] [PAUSE 4s] [VI: ngủ] [PAUSE 0.5s] [EN: Breakfast —] [PAUSE 4s] [VI: ăn sáng] [PAUSE 0.5s] [EN: Now say it. Have you woken up yet —] [PAUSE 4s] [VI: Dậy chưa?] [PAUSE 0.5s] [EN: I'm already up —] [PAUSE 4s] [VI: Dậy rồi.] [PAUSE 0.5s] [EN: I'm eating breakfast right now —] [PAUSE 4s] [VI: Em đang ăn sáng.] [PAUSE 0.5s] [EN: I will sleep —] [PAUSE 4s] [VI: Em sẽ ngủ.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: dậy] [PAUSE 3s] [EN: to wake up] [PAUSE 0.5s] [VI_F: ngủ] [PAUSE 3s] [EN: to sleep] [PAUSE 0.5s] [VI_F: ăn sáng] [PAUSE 3s] [EN: breakfast] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: dậy] [PAUSE 1s] [VI_F: ngủ] [PAUSE 1s] [VI_F: ăn sáng] [PAUSE 0.5s] [EN: Remember,] [VI: dậy] [EN: has] [VI: dấu nặng] [EN: , and] [VI: ngủ] [EN: has] [VI: dấu hỏi] [EN: .]"
+      "script": "[EN: Let's drill. To wake up —] [PAUSE 4s] [VI: dậy] [PAUSE 0.5s] [EN: To sleep —] [PAUSE 4s] [VI: ngủ] [PAUSE 0.5s] [EN: Breakfast —] [PAUSE 4s] [VI: ăn sáng] [PAUSE 0.5s] [EN: Now say it. Have you woken up yet —] [PAUSE 4s] [VI: Dậy chưa?] [PAUSE 0.5s] [EN: I'm already up —] [PAUSE 4s] [VI: Dậy rồi.] [PAUSE 0.5s] [EN: I'm eating breakfast right now —] [PAUSE 4s] [VI: Em đang ăn sáng.] [PAUSE 0.5s] [EN: I will sleep —] [PAUSE 4s] [VI: Em sẽ ngủ.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: dậy] [PAUSE 3s] [EN: to wake up] [PAUSE 0.5s] [VI_F: ngủ] [PAUSE 3s] [EN: to sleep] [PAUSE 0.5s] [VI_F: ăn sáng] [PAUSE 3s] [EN: breakfast] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: dậy] [PAUSE 1s] [VI_F: ngủ] [PAUSE 1s] [VI_F: ăn sáng] [PAUSE 0.5s] [EN: Remember,] [VI: dậy] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: ngủ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: .]"
     },
     {
       "type": "synthesis",

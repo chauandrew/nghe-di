@@ -2,9 +2,21 @@
   "id": "L3-D9",
   "title": "Phòng khách, phòng ngủ, bếp: the house and its rooms",
   "vocab": [
-    {"vi": "phòng khách", "en": "living room", "ipa": "fɔŋ˨˩ xaːk˧˥"},
-    {"vi": "phòng ngủ", "en": "bedroom", "ipa": "fɔŋ˨˩ ŋu˨˩˦"},
-    {"vi": "bếp", "en": "kitchen", "ipa": "bep˧˥"}
+    {
+      "vi": "phòng khách",
+      "en": "living room",
+      "ipa": "fɔŋ˨˩ xaːk˧˥"
+    },
+    {
+      "vi": "phòng ngủ",
+      "en": "bedroom",
+      "ipa": "fɔŋ˨˩ ŋu˨˩˦"
+    },
+    {
+      "vi": "bếp",
+      "en": "kitchen",
+      "ipa": "bep˧˥"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 215,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Phòng khách ở đâu?] [PAUSE 0.5s] [VI: Dạ, phòng khách gần bếp.] [PAUSE 0.5s] [VI_F: Còn phòng ngủ?] [PAUSE 0.5s] [VI: Phòng ngủ đẹp lắm.] [PAUSE 1s] [EN: Today, rooms of the house.] [PAUSE 0.5s] [EN: First,] [VI: phòng khách] [EN: means living room. Listen to its two parts.] [VI: phòng] [EN: you know — room. And] [VI: khách] [EN: means guest — a living room is where you receive guests. It has] [VI: dấu sắc] [EN: . Listen to the whole word again.] [VI_F: phòng khách] [PAUSE 1s] [VI_F: phòng khách] [EN: Now you say it.] [PAUSE 4s] [VI: phòng khách] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: bếp] [EN: means kitchen. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: bếp] [PAUSE 1s] [VI_F: bếp] [EN: Now you say it.] [PAUSE 4s] [VI: bếp] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: phòng ngủ] [EN: means bedroom. You already know both parts —] [VI: phòng] [EN: room, and] [VI: ngủ] [EN: to sleep. Listen to the whole word again.] [VI_F: phòng ngủ] [PAUSE 1s] [VI_F: phòng ngủ] [EN: Now you say it.] [PAUSE 4s] [VI: phòng ngủ] [EN: Good.] [PAUSE 0.5s] [EN: Ask where the kitchen is —] [PAUSE 4s] [VI: Bếp ở đâu?]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Phòng khách ở đâu?] [PAUSE 0.5s] [VI: Dạ, phòng khách gần bếp.] [PAUSE 0.5s] [VI_F: Còn phòng ngủ?] [PAUSE 0.5s] [VI: Phòng ngủ đẹp lắm.] [PAUSE 1s] [EN: Today, rooms of the house.] [PAUSE 0.5s] [EN: First,] [VI: phòng khách] [EN: means living room. Listen to its two parts.] [VI: phòng] [EN: you know — room. And] [VI: khách] [EN: means guest — a living room is where you receive guests. It has] [EN: a high, rising tone] [EN: . Listen to the whole word again.] [VI_F: phòng khách] [PAUSE 1s] [VI_F: phòng khách] [EN: Now you say it.] [PAUSE 4s] [VI: phòng khách] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: bếp] [EN: means kitchen. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: bếp] [PAUSE 1s] [VI_F: bếp] [EN: Now you say it.] [PAUSE 4s] [VI: bếp] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: phòng ngủ] [EN: means bedroom. You already know both parts —] [VI: phòng] [EN: room, and] [VI: ngủ] [EN: to sleep. Listen to the whole word again.] [VI_F: phòng ngủ] [PAUSE 1s] [VI_F: phòng ngủ] [EN: Now you say it.] [PAUSE 4s] [VI: phòng ngủ] [EN: Good.] [PAUSE 0.5s] [EN: Ask where the kitchen is —] [PAUSE 4s] [VI: Bếp ở đâu?]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 245,
-      "script": "[EN: Let's drill. Living room —] [PAUSE 4s] [VI: phòng khách] [PAUSE 0.5s] [EN: Kitchen —] [PAUSE 4s] [VI: bếp] [PAUSE 0.5s] [EN: Bedroom —] [PAUSE 4s] [VI: phòng ngủ] [PAUSE 0.5s] [EN: Now say it. Where's the living room —] [PAUSE 4s] [VI: Phòng khách ở đâu?] [PAUSE 0.5s] [EN: The kitchen is near the living room —] [PAUSE 4s] [VI: Bếp gần phòng khách.] [PAUSE 0.5s] [EN: The bedroom is beautiful —] [PAUSE 4s] [VI: Phòng ngủ đẹp.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: phòng khách] [PAUSE 3s] [EN: living room] [PAUSE 0.5s] [VI_F: bếp] [PAUSE 3s] [EN: kitchen] [PAUSE 0.5s] [VI_F: phòng ngủ] [PAUSE 3s] [EN: bedroom] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: phòng khách] [PAUSE 1s] [VI_F: bếp] [PAUSE 1s] [VI_F: phòng ngủ] [PAUSE 0.5s] [EN: Remember,] [VI: khách] [EN: and] [VI: bếp] [EN: both have] [VI: dấu sắc] [EN: .]"
+      "script": "[EN: Let's drill. Living room —] [PAUSE 4s] [VI: phòng khách] [PAUSE 0.5s] [EN: Kitchen —] [PAUSE 4s] [VI: bếp] [PAUSE 0.5s] [EN: Bedroom —] [PAUSE 4s] [VI: phòng ngủ] [PAUSE 0.5s] [EN: Now say it. Where's the living room —] [PAUSE 4s] [VI: Phòng khách ở đâu?] [PAUSE 0.5s] [EN: The kitchen is near the living room —] [PAUSE 4s] [VI: Bếp gần phòng khách.] [PAUSE 0.5s] [EN: The bedroom is beautiful —] [PAUSE 4s] [VI: Phòng ngủ đẹp.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: phòng khách] [PAUSE 3s] [EN: living room] [PAUSE 0.5s] [VI_F: bếp] [PAUSE 3s] [EN: kitchen] [PAUSE 0.5s] [VI_F: phòng ngủ] [PAUSE 3s] [EN: bedroom] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: phòng khách] [PAUSE 1s] [VI_F: bếp] [PAUSE 1s] [VI_F: phòng ngủ] [PAUSE 0.5s] [EN: Remember,] [VI: khách] [EN: and] [VI: bếp] [EN: both have] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",

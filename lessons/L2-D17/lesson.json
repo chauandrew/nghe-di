@@ -2,10 +2,26 @@
   "id": "L2-D17",
   "title": "Building bigger numbers",
   "vocab": [
-    {"vi": "mười lăm", "en": "fifteen", "ipa": "mɨːj˨˩ lăm˧"},
-    {"vi": "hai mươi mốt", "en": "twenty-one", "ipa": "haːj˧ mɨəj˧ mot˧˥"},
-    {"vi": "tư", "en": "four, at the end of a number", "ipa": "tɨ˧"},
-    {"vi": "một trăm", "en": "one hundred", "ipa": "mot˨˩ʔ tɕăm˧"}
+    {
+      "vi": "mười lăm",
+      "en": "fifteen",
+      "ipa": "mɨːj˨˩ lăm˧"
+    },
+    {
+      "vi": "hai mươi mốt",
+      "en": "twenty-one",
+      "ipa": "haːj˧ mɨəj˧ mot˧˥"
+    },
+    {
+      "vi": "tư",
+      "en": "four, at the end of a number",
+      "ipa": "tɨ˧"
+    },
+    {
+      "vi": "một trăm",
+      "en": "one hundred",
+      "ipa": "mot˨˩ʔ tɕăm˧"
+    }
   ],
   "segments": [
     {
@@ -16,7 +32,7 @@
     {
       "type": "dialogue",
       "duration_s": 230,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cái này bao nhiêu vậy?] [PAUSE 0.5s] [VI: Dạ, một trăm ngàn.] [PAUSE 0.5s] [VI_F: Đắt quá! Mười lăm ngàn được không?] [PAUSE 0.5s] [VI: Dạ, hai mươi mốt ngàn.] [PAUSE 1s] [EN: Today, three sound-changes for numbers you already know.] [PAUSE 0.5s] [EN: First, the teens. You know] [VI: mười] [EN: is ten, and] [VI: năm] [EN: is five — but in the teens,] [VI: năm] [EN: changes to] [VI: lăm] [EN: . It has] [VI: ngang] [EN: — flat, no mark. Listen.] [VI_F: mười lăm] [PAUSE 1s] [VI_F: mười lăm] [EN: Now you say it.] [PAUSE 4s] [VI: mười lăm] [EN: Good — that's fifteen.] [PAUSE 0.5s] [EN: Next, the tens. Twenty and up use] [VI: mươi] [EN: instead of] [VI: mười] [EN: . It also has] [VI: ngang] [EN: . Listen.] [VI_F: hai mươi] [PAUSE 1s] [VI_F: hai mươi] [EN: Now you say it.] [PAUSE 4s] [VI: hai mươi] [EN: Good — that's twenty.] [PAUSE 0.5s] [EN: And the number one, at the end of twenty-one and up, changes to] [VI: mốt] [EN: . It has] [VI: dấu sắc] [EN: . Listen.] [VI_F: mốt] [PAUSE 1s] [VI_F: mốt] [EN: Now you say it.] [PAUSE 4s] [VI: mốt] [EN: Good.] [PAUSE 0.5s] [EN: Put it together.] [PAUSE 4s] [VI: Hai mươi mốt.] [EN: Twenty-one.] [PAUSE 0.5s] [EN: Last, the number four also changes at the end of a number.] [VI: bốn] [EN: becomes] [VI: tư] [EN: . It has] [VI: ngang] [EN: . Listen.] [VI_F: tư] [PAUSE 1s] [VI_F: tư] [EN: Now you say it.] [PAUSE 4s] [VI: tư] [EN: Good — twenty-four is] [VI: hai mươi tư] [EN: This same sound-change also shows up in the name for April. More on that tomorrow.] [PAUSE 0.5s] [EN: One more phrase,] [VI: một trăm] [EN: means one hundred. You know] [VI: trăm] [EN: already —] [VI: một] [EN: plus] [VI: trăm] [EN: . Listen.] [VI_F: một trăm] [PAUSE 1s] [VI_F: một trăm] [EN: Now you say it.] [PAUSE 4s] [VI: một trăm] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cái này bao nhiêu vậy?] [PAUSE 0.5s] [VI: Dạ, một trăm ngàn.] [PAUSE 0.5s] [VI_F: Đắt quá! Mười lăm ngàn được không?] [PAUSE 0.5s] [VI: Dạ, hai mươi mốt ngàn.] [PAUSE 1s] [EN: Today, three sound-changes for numbers you already know.] [PAUSE 0.5s] [EN: First, the teens. You know] [VI: mười] [EN: is ten, and] [VI: năm] [EN: is five — but in the teens,] [VI: năm] [EN: changes to] [VI: lăm] [EN: . It has] [EN: a flat tone, no mark] [EN: — flat, no mark. Listen.] [VI_F: mười lăm] [PAUSE 1s] [VI_F: mười lăm] [EN: Now you say it.] [PAUSE 4s] [VI: mười lăm] [EN: Good — that's fifteen.] [PAUSE 0.5s] [EN: Next, the tens. Twenty and up use] [VI: mươi] [EN: instead of] [VI: mười] [EN: . It also has] [EN: a flat tone, no mark] [EN: . Listen.] [VI_F: hai mươi] [PAUSE 1s] [VI_F: hai mươi] [EN: Now you say it.] [PAUSE 4s] [VI: hai mươi] [EN: Good — that's twenty.] [PAUSE 0.5s] [EN: And the number one, at the end of twenty-one and up, changes to] [VI: mốt] [EN: . It has] [EN: a high, rising tone] [EN: . Listen.] [VI_F: mốt] [PAUSE 1s] [VI_F: mốt] [EN: Now you say it.] [PAUSE 4s] [VI: mốt] [EN: Good.] [PAUSE 0.5s] [EN: Put it together.] [PAUSE 4s] [VI: Hai mươi mốt.] [EN: Twenty-one.] [PAUSE 0.5s] [EN: Last, the number four also changes at the end of a number.] [VI: bốn] [EN: becomes] [VI: tư] [EN: . It has] [EN: a flat tone, no mark] [EN: . Listen.] [VI_F: tư] [PAUSE 1s] [VI_F: tư] [EN: Now you say it.] [PAUSE 4s] [VI: tư] [EN: Good — twenty-four is] [VI: hai mươi tư] [EN: This same sound-change also shows up in the name for April. More on that tomorrow.] [PAUSE 0.5s] [EN: One more phrase,] [VI: một trăm] [EN: means one hundred. You know] [VI: trăm] [EN: already —] [VI: một] [EN: plus] [VI: trăm] [EN: . Listen.] [VI_F: một trăm] [PAUSE 1s] [VI_F: một trăm] [EN: Now you say it.] [PAUSE 4s] [VI: một trăm] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -26,7 +42,7 @@
     {
       "type": "drill",
       "duration_s": 250,
-      "script": "[EN: Let's drill. Fifteen —] [PAUSE 4s] [VI: mười lăm] [PAUSE 0.5s] [EN: Twenty —] [PAUSE 4s] [VI: hai mươi] [PAUSE 0.5s] [EN: Twenty-one —] [PAUSE 4s] [VI: hai mươi mốt] [PAUSE 0.5s] [EN: Twenty-four —] [PAUSE 4s] [VI: hai mươi tư] [PAUSE 0.5s] [EN: One hundred —] [PAUSE 4s] [VI: một trăm] [PAUSE 0.5s] [EN: Now say it. This costs fifteen thousand —] [PAUSE 4s] [VI: Mười lăm ngàn.] [PAUSE 0.5s] [EN: This costs one hundred thousand —] [PAUSE 4s] [VI: Một trăm ngàn.] [PAUSE 0.5s] [EN: How much is this? Twenty-one thousand —] [PAUSE 4s] [VI: Hai mươi mốt ngàn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: mười lăm] [PAUSE 3s] [EN: fifteen] [PAUSE 0.5s] [VI_F: hai mươi mốt] [PAUSE 3s] [EN: twenty-one] [PAUSE 0.5s] [VI_F: tư] [PAUSE 3s] [EN: four, at the end of a number] [PAUSE 0.5s] [VI_F: một trăm] [PAUSE 3s] [EN: one hundred] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: mười lăm] [PAUSE 1s] [VI_F: hai mươi mốt] [PAUSE 1s] [VI_F: tư] [PAUSE 1s] [VI_F: một trăm] [PAUSE 0.5s] [EN: Remember,] [VI: mốt] [EN: has] [VI: dấu sắc] [EN: , and] [VI: lăm] [EN: and] [VI: tư] [EN: both have] [VI: ngang] [EN: .]"
+      "script": "[EN: Let's drill. Fifteen —] [PAUSE 4s] [VI: mười lăm] [PAUSE 0.5s] [EN: Twenty —] [PAUSE 4s] [VI: hai mươi] [PAUSE 0.5s] [EN: Twenty-one —] [PAUSE 4s] [VI: hai mươi mốt] [PAUSE 0.5s] [EN: Twenty-four —] [PAUSE 4s] [VI: hai mươi tư] [PAUSE 0.5s] [EN: One hundred —] [PAUSE 4s] [VI: một trăm] [PAUSE 0.5s] [EN: Now say it. This costs fifteen thousand —] [PAUSE 4s] [VI: Mười lăm ngàn.] [PAUSE 0.5s] [EN: This costs one hundred thousand —] [PAUSE 4s] [VI: Một trăm ngàn.] [PAUSE 0.5s] [EN: How much is this? Twenty-one thousand —] [PAUSE 4s] [VI: Hai mươi mốt ngàn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: mười lăm] [PAUSE 3s] [EN: fifteen] [PAUSE 0.5s] [VI_F: hai mươi mốt] [PAUSE 3s] [EN: twenty-one] [PAUSE 0.5s] [VI_F: tư] [PAUSE 3s] [EN: four, at the end of a number] [PAUSE 0.5s] [VI_F: một trăm] [PAUSE 3s] [EN: one hundred] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: mười lăm] [PAUSE 1s] [VI_F: hai mươi mốt] [PAUSE 1s] [VI_F: tư] [PAUSE 1s] [VI_F: một trăm] [PAUSE 0.5s] [EN: Remember,] [VI: mốt] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: lăm] [EN: and] [VI: tư] [EN: both have] [EN: a flat tone, no mark] [EN: .]"
     },
     {
       "type": "synthesis",

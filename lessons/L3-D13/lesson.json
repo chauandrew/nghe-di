@@ -2,9 +2,21 @@
   "id": "L3-D13",
   "title": "Hãy, đừng, mình: making suggestions",
   "vocab": [
-    {"vi": "mình", "en": "we, us (friendly, informal)", "ipa": "miɲ˨˩"},
-    {"vi": "hãy", "en": "please, let's (softens a command)", "ipa": "haːj˨˩˦"},
-    {"vi": "đừng", "en": "don't", "ipa": "dɨŋ˨˩"}
+    {
+      "vi": "mình",
+      "en": "we, us (friendly, informal)",
+      "ipa": "miɲ˨˩"
+    },
+    {
+      "vi": "hãy",
+      "en": "please, let's (softens a command)",
+      "ipa": "haːj˨˩˦"
+    },
+    {
+      "vi": "đừng",
+      "en": "don't",
+      "ipa": "dɨŋ˨˩"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 220,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Mình đi chơi đi!] [PAUSE 0.5s] [VI: Dạ, đừng đi chiều nay, tôi bận.] [PAUSE 0.5s] [VI_F: Vậy hãy đi tối nay nhé.] [PAUSE 0.5s] [VI: Dạ được.] [PAUSE 1s] [EN: Three words for suggesting things today.] [PAUSE 0.5s] [EN: First,] [VI: mình] [EN: means we, or us — friendly and informal. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: mình] [PAUSE 1s] [VI_F: mình] [EN: Now you say it.] [PAUSE 4s] [VI: mình] [EN: Good. Add] [VI: đi] [EN: which you know as a softener, at the end, to suggest doing something together. Let's go out —] [PAUSE 4s] [VI: Mình đi chơi đi.] [PAUSE 0.5s] [EN: Next,] [VI: hãy] [EN: means please, or let's — it softens a command. Put it before the verb. It has] [VI: dấu ngã] [EN: — the same dipping sound as] [VI: dấu hỏi] [EN: down here in the south. Listen again.] [VI_F: hãy] [PAUSE 1s] [VI_F: hãy] [EN: Now you say it.] [PAUSE 4s] [VI: hãy] [EN: Good. Let's go tonight —] [PAUSE 4s] [VI: Hãy đi tối nay.] [PAUSE 0.5s] [EN: Last,] [VI: đừng] [EN: means don't. It also goes before the verb. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: đừng] [PAUSE 1s] [VI_F: đừng] [EN: Now you say it.] [PAUSE 4s] [VI: đừng] [EN: Good. Don't go this afternoon —] [PAUSE 4s] [VI: Đừng đi chiều nay.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Mình đi chơi đi!] [PAUSE 0.5s] [VI: Dạ, đừng đi chiều nay, tôi bận.] [PAUSE 0.5s] [VI_F: Vậy hãy đi tối nay nhé.] [PAUSE 0.5s] [VI: Dạ được.] [PAUSE 1s] [EN: Three words for suggesting things today.] [PAUSE 0.5s] [EN: First,] [VI: mình] [EN: means we, or us — friendly and informal. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: mình] [PAUSE 1s] [VI_F: mình] [EN: Now you say it.] [PAUSE 4s] [VI: mình] [EN: Good. Add] [VI: đi] [EN: which you know as a softener, at the end, to suggest doing something together. Let's go out —] [PAUSE 4s] [VI: Mình đi chơi đi.] [PAUSE 0.5s] [EN: Next,] [VI: hãy] [EN: means please, or let's — it softens a command. Put it before the verb. It has] [EN: a dipping tone — it falls, then rises] [EN: — the same dipping sound as] [EN: a dipping tone — it falls, then rises] [EN: down here in the south. Listen again.] [VI_F: hãy] [PAUSE 1s] [VI_F: hãy] [EN: Now you say it.] [PAUSE 4s] [VI: hãy] [EN: Good. Let's go tonight —] [PAUSE 4s] [VI: Hãy đi tối nay.] [PAUSE 0.5s] [EN: Last,] [VI: đừng] [EN: means don't. It also goes before the verb. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: đừng] [PAUSE 1s] [VI_F: đừng] [EN: Now you say it.] [PAUSE 4s] [VI: đừng] [EN: Good. Don't go this afternoon —] [PAUSE 4s] [VI: Đừng đi chiều nay.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 245,
-      "script": "[EN: Let's drill. We, us —] [PAUSE 4s] [VI: mình] [PAUSE 0.5s] [EN: Please, let's —] [PAUSE 4s] [VI: hãy] [PAUSE 0.5s] [EN: Don't —] [PAUSE 4s] [VI: đừng] [PAUSE 0.5s] [EN: Now build it. Let's go out —] [PAUSE 4s] [VI: Mình đi chơi đi.] [PAUSE 0.5s] [EN: Let's go tonight —] [PAUSE 4s] [VI: Hãy đi tối nay.] [PAUSE 0.5s] [EN: Don't be late —] [PAUSE 4s] [VI: Đừng trễ.] [PAUSE 0.5s] [EN: Don't reschedule —] [PAUSE 4s] [VI: Đừng dời.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: mình] [PAUSE 3s] [EN: we, us] [PAUSE 0.5s] [VI_F: hãy] [PAUSE 3s] [EN: please, let's] [PAUSE 0.5s] [VI_F: đừng] [PAUSE 3s] [EN: don't] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: mình] [PAUSE 1s] [VI_F: hãy] [PAUSE 1s] [VI_F: đừng] [PAUSE 0.5s] [EN: Remember,] [VI: hãy] [EN: has] [VI: dấu ngã] [EN: , and] [VI: mình] [EN: and] [VI: đừng] [EN: both have] [VI: dấu huyền] [EN: .]"
+      "script": "[EN: Let's drill. We, us —] [PAUSE 4s] [VI: mình] [PAUSE 0.5s] [EN: Please, let's —] [PAUSE 4s] [VI: hãy] [PAUSE 0.5s] [EN: Don't —] [PAUSE 4s] [VI: đừng] [PAUSE 0.5s] [EN: Now build it. Let's go out —] [PAUSE 4s] [VI: Mình đi chơi đi.] [PAUSE 0.5s] [EN: Let's go tonight —] [PAUSE 4s] [VI: Hãy đi tối nay.] [PAUSE 0.5s] [EN: Don't be late —] [PAUSE 4s] [VI: Đừng trễ.] [PAUSE 0.5s] [EN: Don't reschedule —] [PAUSE 4s] [VI: Đừng dời.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: mình] [PAUSE 3s] [EN: we, us] [PAUSE 0.5s] [VI_F: hãy] [PAUSE 3s] [EN: please, let's] [PAUSE 0.5s] [VI_F: đừng] [PAUSE 3s] [EN: don't] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: mình] [PAUSE 1s] [VI_F: hãy] [PAUSE 1s] [VI_F: đừng] [PAUSE 0.5s] [EN: Remember,] [VI: hãy] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: , and] [VI: mình] [EN: and] [VI: đừng] [EN: both have] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",

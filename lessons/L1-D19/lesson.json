@@ -2,9 +2,21 @@
   "id": "L1-D19",
   "title": "Gọi món: ordering food",
   "vocab": [
-    {"vi": "gọi món", "en": "to order food", "ipa": "gɔj˨˩ʔ mɔn˧˥"},
-    {"vi": "lớn", "en": "large", "ipa": "lɤn˧˥"},
-    {"vi": "phần", "en": "portion", "ipa": "fân˨˩"}
+    {
+      "vi": "gọi món",
+      "en": "to order food",
+      "ipa": "gɔj˨˩ʔ mɔn˧˥"
+    },
+    {
+      "vi": "lớn",
+      "en": "large",
+      "ipa": "lɤn˧˥"
+    },
+    {
+      "vi": "phần",
+      "en": "portion",
+      "ipa": "fân˨˩"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 205,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Tôi muốn gọi món.] [PAUSE 0.5s] [VI_F: Dạ, anh ăn gì?] [PAUSE 0.5s] [VI: Dạ, cho tôi một tô lớn.] [PAUSE 0.5s] [VI_F: Dạ, một phần lớn.] [PAUSE 1s] [EN: You said] [VI: gọi món] [EN: it means to order food. Listen to its two parts.] [VI_F: gọi] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: món] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole phrase again.] [VI_F: gọi món] [PAUSE 1s] [VI_F: gọi món] [EN: Now you say it.] [PAUSE 4s] [VI: gọi món] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: lớn] [EN: means large. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: lớn] [PAUSE 1s] [VI_F: lớn] [EN: Now you say it.] [PAUSE 4s] [VI: lớn] [EN: Good. A large bowl —] [PAUSE 4s] [VI: một tô lớn] [EN: Listen.] [VI_F: một tô lớn] [PAUSE 1s] [EN: Last,] [VI: phần] [EN: means portion. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: phần] [PAUSE 1s] [VI_F: phần] [EN: Now you say it.] [PAUSE 4s] [VI: phần] [EN: Good. One portion —] [PAUSE 4s] [VI: một phần] [EN: Listen.] [VI_F: một phần] [PAUSE 1s]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Tôi muốn gọi món.] [PAUSE 0.5s] [VI_F: Dạ, anh ăn gì?] [PAUSE 0.5s] [VI: Dạ, cho tôi một tô lớn.] [PAUSE 0.5s] [VI_F: Dạ, một phần lớn.] [PAUSE 1s] [EN: You said] [VI: gọi món] [EN: it means to order food. Listen to its two parts.] [VI_F: gọi] [EN: has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: món] [EN: has] [EN: a high, rising tone] [EN: . Listen to the whole phrase again.] [VI_F: gọi món] [PAUSE 1s] [VI_F: gọi món] [EN: Now you say it.] [PAUSE 4s] [VI: gọi món] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: lớn] [EN: means large. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: lớn] [PAUSE 1s] [VI_F: lớn] [EN: Now you say it.] [PAUSE 4s] [VI: lớn] [EN: Good. A large bowl —] [PAUSE 4s] [VI: một tô lớn] [EN: Listen.] [VI_F: một tô lớn] [PAUSE 1s] [EN: Last,] [VI: phần] [EN: means portion. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: phần] [PAUSE 1s] [VI_F: phần] [EN: Now you say it.] [PAUSE 4s] [VI: phần] [EN: Good. One portion —] [PAUSE 4s] [VI: một phần] [EN: Listen.] [VI_F: một phần] [PAUSE 1s]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 220,
-      "script": "[EN: Let's drill. To order food —] [PAUSE 4s] [VI: gọi món] [PAUSE 0.5s] [EN: Large —] [PAUSE 4s] [VI: lớn] [PAUSE 0.5s] [EN: Portion —] [PAUSE 4s] [VI: phần] [PAUSE 0.5s] [EN: Now say it. I want to order food —] [PAUSE 4s] [VI: Tôi muốn gọi món.] [PAUSE 0.5s] [EN: Give me one large bowl —] [PAUSE 4s] [VI: Cho tôi một tô lớn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: gọi món] [PAUSE 3s] [EN: to order food] [PAUSE 0.5s] [VI_F: lớn] [PAUSE 3s] [EN: large] [PAUSE 0.5s] [VI_F: phần] [PAUSE 3s] [EN: portion] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: gọi món] [PAUSE 1s] [VI_F: lớn] [PAUSE 1s] [VI_F: phần] [PAUSE 0.5s] [EN: Remember,] [VI: gọi] [EN: has] [VI: dấu nặng] [EN: , and] [VI: lớn] [EN: has] [VI: dấu sắc] [EN: .]"
+      "script": "[EN: Let's drill. To order food —] [PAUSE 4s] [VI: gọi món] [PAUSE 0.5s] [EN: Large —] [PAUSE 4s] [VI: lớn] [PAUSE 0.5s] [EN: Portion —] [PAUSE 4s] [VI: phần] [PAUSE 0.5s] [EN: Now say it. I want to order food —] [PAUSE 4s] [VI: Tôi muốn gọi món.] [PAUSE 0.5s] [EN: Give me one large bowl —] [PAUSE 4s] [VI: Cho tôi một tô lớn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: gọi món] [PAUSE 3s] [EN: to order food] [PAUSE 0.5s] [VI_F: lớn] [PAUSE 3s] [EN: large] [PAUSE 0.5s] [VI_F: phần] [PAUSE 3s] [EN: portion] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: gọi món] [PAUSE 1s] [VI_F: lớn] [PAUSE 1s] [VI_F: phần] [PAUSE 0.5s] [EN: Remember,] [VI: gọi] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: lớn] [EN: has] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",

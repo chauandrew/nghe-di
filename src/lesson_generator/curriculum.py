@@ -7,12 +7,13 @@ lesson — but explicit hints produce more focused results.
 
 CURRICULUM: dict[tuple[int, int], dict] = {
     # Day 0 is a pronunciation primer (vowels by mouth-shape + the six tones).
-    # It is hand-authored in lessons/L1-D0/lesson.json. It teaches the six tone-mark
-    # NAMES as vocabulary (ngang, dấu huyền/sắc/hỏi/ngã/nặng) — from Day 1 onward the
-    # system prompt names a word's tone in Vietnamese using these words instead of an
-    # English description, so keep this vocab list in sync with the actual primer.
-    (1,  0):  {"vocab": ["ngang", "dấu huyền", "dấu sắc", "dấu hỏi", "dấu ngã", "dấu nặng"],
-                                                                        "scene": "pronunciation primer: rounded, neutral, and front vowels, plus the six southern tones and their names"},
+    # It is hand-authored in lessons/L1-D0/lesson.json. It teaches no vocabulary —
+    # tones are described in plain English here and throughout L1-L3 (too much,
+    # too soon, for a Day-1 beginner to name six tone marks). The tone-mark NAMES
+    # themselves are taught later, as real vocabulary, at L4-D0 — from L4-D0 onward
+    # the system prompt names a word's tone in Vietnamese using those names instead
+    # of an English description.
+    (1,  0):  {"vocab": [],                                            "scene": "pronunciation primer: rounded, neutral, and front vowels, plus the six southern tones"},
     # --- Foundations: politeness, address, numbers, measure words, money ---
     (1,  1):  {"vocab": ["xin chào", "cảm ơn", "dạ"],                  "scene": "greeting a street vendor politely, using dạ to sound respectful"},
     (1,  2):  {"vocab": ["anh", "chị", "em"],                          "scene": "learning to address people by age and gender when greeting them"},
@@ -121,6 +122,13 @@ CURRICULUM: dict[tuple[int, int], dict] = {
     # the doc's fuller domain lists are split across days to keep the pace
     # catchable for a beginner. See docs/curriculum-units-2-5.md.
     # ===================================================================
+    # Day 0 is a second pronunciation primer, hand-authored in lessons/L4-D0/lesson.json.
+    # By now the learner has 320+ words and has heard hundreds of plain-English tone
+    # descriptions ("a high, rising tone") — this is where those get names. Teaches the
+    # six tone-mark NAMES as real vocabulary. From here on, the system prompt names a
+    # word's tone in Vietnamese using these names instead of an English description.
+    (4,  0):  {"vocab": ["ngang", "dấu huyền", "dấu sắc", "dấu hỏi", "dấu ngã", "dấu nặng"],
+                                                                        "scene": "pronunciation primer, part two: naming the six tones you already hear — ngang, dấu huyền, dấu sắc, dấu hỏi, dấu ngã, dấu nặng"},
     (4,  1):  {"vocab": ["đầu", "bụng", "tay", "chân"],               "scene": "body parts: head, stomach, hand/arm, leg/foot"},
     (4,  2):  {"vocab": ["đau", "bị", "sốt", "cảm"],                   "scene": "STRUCTURE: symptoms — đau + body part, bị + illness (bị cảm, bị sốt)"},
     (4,  3):  {"vocab": ["khám", "họng", "ho"],                        "scene": "at the doctor: describing symptoms (bác sĩ khám, đau họng, ho)"},

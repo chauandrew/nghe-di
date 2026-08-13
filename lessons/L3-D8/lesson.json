@@ -2,8 +2,16 @@
   "id": "L3-D8",
   "title": "Khỏe, sao rồi: asking how someone is",
   "vocab": [
-    {"vi": "khỏe", "en": "healthy, or well", "ipa": "xwɛ˨˩˦"},
-    {"vi": "sao rồi", "en": "how's it going, how are things", "ipa": "saːw˧ ʐoj˨˩"}
+    {
+      "vi": "khỏe",
+      "en": "healthy, or well",
+      "ipa": "xwɛ˨˩˦"
+    },
+    {
+      "vi": "sao rồi",
+      "en": "how's it going, how are things",
+      "ipa": "saːw˧ ʐoj˨˩"
+    }
   ],
   "segments": [
     {
@@ -14,7 +22,7 @@
     {
       "type": "dialogue",
       "duration_s": 210,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạo này sao rồi?] [PAUSE 0.5s] [VI: Dạ, khỏe. Còn chị?] [PAUSE 0.5s] [VI_F: Dạ, cũng khỏe.] [PAUSE 1s] [EN: Two new words today.] [PAUSE 0.5s] [EN: First,] [VI: khỏe] [EN: means healthy, or well. It has] [VI: dấu hỏi] [EN: . Listen again.] [VI_F: khỏe] [PAUSE 1s] [VI_F: khỏe] [EN: Now you say it.] [PAUSE 4s] [VI: khỏe] [EN: Good. I'm well —] [PAUSE 4s] [VI: Tôi khỏe.] [PAUSE 0.5s] [EN: Next,] [VI: sao rồi] [EN: means how's it going, how are things. Listen to its two parts.] [VI_F: sao] [EN: has] [VI: ngang] [PAUSE 0.3s] [VI_F: rồi] [EN: you already know from] [VI: rồi] [EN: — already — it has] [VI: dấu huyền] [EN: . Listen to the whole phrase again.] [VI_F: sao rồi] [PAUSE 1s] [VI_F: sao rồi] [EN: Now you say it.] [PAUSE 4s] [VI: sao rồi] [EN: Good. Ask how things are —] [PAUSE 4s] [VI: Dạo này sao rồi?]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạo này sao rồi?] [PAUSE 0.5s] [VI: Dạ, khỏe. Còn chị?] [PAUSE 0.5s] [VI_F: Dạ, cũng khỏe.] [PAUSE 1s] [EN: Two new words today.] [PAUSE 0.5s] [EN: First,] [VI: khỏe] [EN: means healthy, or well. It has] [EN: a dipping tone — it falls, then rises] [EN: . Listen again.] [VI_F: khỏe] [PAUSE 1s] [VI_F: khỏe] [EN: Now you say it.] [PAUSE 4s] [VI: khỏe] [EN: Good. I'm well —] [PAUSE 4s] [VI: Tôi khỏe.] [PAUSE 0.5s] [EN: Next,] [VI: sao rồi] [EN: means how's it going, how are things. Listen to its two parts.] [VI_F: sao] [EN: has] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: rồi] [EN: you already know from] [VI: rồi] [EN: — already — it has] [EN: a falling tone] [EN: . Listen to the whole phrase again.] [VI_F: sao rồi] [PAUSE 1s] [VI_F: sao rồi] [EN: Now you say it.] [PAUSE 4s] [VI: sao rồi] [EN: Good. Ask how things are —] [PAUSE 4s] [VI: Dạo này sao rồi?]"
     },
     {
       "type": "consolidate",
@@ -24,7 +32,7 @@
     {
       "type": "drill",
       "duration_s": 210,
-      "script": "[EN: Let's drill. Healthy, or well —] [PAUSE 4s] [VI: khỏe] [PAUSE 0.5s] [EN: How's it going —] [PAUSE 4s] [VI: sao rồi] [PAUSE 0.5s] [EN: Now say it. I'm well —] [PAUSE 4s] [VI: Tôi khỏe.] [PAUSE 0.5s] [EN: Ask how things are, lately —] [PAUSE 4s] [VI: Dạo này sao rồi?] [PAUSE 0.5s] [EN: Say you're also well —] [PAUSE 4s] [VI: Dạ, cũng khỏe.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: khỏe] [PAUSE 3s] [EN: healthy, or well] [PAUSE 0.5s] [VI_F: sao rồi] [PAUSE 3s] [EN: how's it going] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: khỏe] [PAUSE 1s] [VI_F: sao rồi] [PAUSE 0.5s] [EN: Remember,] [VI: khỏe] [EN: has] [VI: dấu hỏi] [EN: , and] [VI: sao] [EN: is] [VI: ngang] [EN: — flat.]"
+      "script": "[EN: Let's drill. Healthy, or well —] [PAUSE 4s] [VI: khỏe] [PAUSE 0.5s] [EN: How's it going —] [PAUSE 4s] [VI: sao rồi] [PAUSE 0.5s] [EN: Now say it. I'm well —] [PAUSE 4s] [VI: Tôi khỏe.] [PAUSE 0.5s] [EN: Ask how things are, lately —] [PAUSE 4s] [VI: Dạo này sao rồi?] [PAUSE 0.5s] [EN: Say you're also well —] [PAUSE 4s] [VI: Dạ, cũng khỏe.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: khỏe] [PAUSE 3s] [EN: healthy, or well] [PAUSE 0.5s] [VI_F: sao rồi] [PAUSE 3s] [EN: how's it going] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: khỏe] [PAUSE 1s] [VI_F: sao rồi] [PAUSE 0.5s] [EN: Remember,] [VI: khỏe] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: , and] [VI: sao] [EN: is] [EN: a flat tone, no mark] [EN: — flat.]"
     },
     {
       "type": "synthesis",

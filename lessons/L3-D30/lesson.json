@@ -2,8 +2,16 @@
   "id": "L3-D30",
   "title": "Ôn tập: Level Three wrap-up",
   "vocab": [
-    {"vi": "ôn tập", "en": "to review", "ipa": "on˧ tap˨˩ʔ"},
-    {"vi": "tiếp theo", "en": "next", "ipa": "tiəp˧˥ tʰɛw˧"}
+    {
+      "vi": "ôn tập",
+      "en": "to review",
+      "ipa": "on˧ tap˨˩ʔ"
+    },
+    {
+      "vi": "tiếp theo",
+      "en": "next",
+      "ipa": "tiəp˧˥ tʰɛw˧"
+    }
   ],
   "segments": [
     {
@@ -14,7 +22,7 @@
     {
       "type": "dialogue",
       "duration_s": 200,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạo này anh ôn tập không?] [PAUSE 0.5s] [VI: Dạ có, tôi ôn tập rồi. Tôi giới thiệu bạn bè, tôi quen người mới.] [PAUSE 0.5s] [VI_F: Tiếp theo?] [PAUSE 0.5s] [VI: Dạ, tiếp theo tôi nghỉ.] [PAUSE 1s] [EN: Two familiar words to close out Level Three.] [PAUSE 0.5s] [EN: First,] [VI: ôn tập] [EN: means to review. Listen to its two parts.] [VI_F: ôn] [EN: has] [VI: ngang] [PAUSE 0.3s] [VI_F: tập] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: ôn tập] [PAUSE 1s] [VI_F: ôn tập] [EN: Now you say it.] [PAUSE 4s] [VI: ôn tập] [EN: Good.] [PAUSE 0.5s] [EN: Say you already reviewed —] [PAUSE 4s] [VI: Tôi ôn tập rồi.] [PAUSE 0.5s] [EN: Next,] [VI: tiếp theo] [EN: means next. Listen to its two parts.] [VI_F: tiếp] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: theo] [EN: has] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: tiếp theo] [PAUSE 1s] [VI_F: tiếp theo] [EN: Now you say it.] [PAUSE 4s] [VI: tiếp theo] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạo này anh ôn tập không?] [PAUSE 0.5s] [VI: Dạ có, tôi ôn tập rồi. Tôi giới thiệu bạn bè, tôi quen người mới.] [PAUSE 0.5s] [VI_F: Tiếp theo?] [PAUSE 0.5s] [VI: Dạ, tiếp theo tôi nghỉ.] [PAUSE 1s] [EN: Two familiar words to close out Level Three.] [PAUSE 0.5s] [EN: First,] [VI: ôn tập] [EN: means to review. Listen to its two parts.] [VI_F: ôn] [EN: has] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: tập] [EN: has] [EN: a low tone, cut off short] [EN: . Listen to the whole word again.] [VI_F: ôn tập] [PAUSE 1s] [VI_F: ôn tập] [EN: Now you say it.] [PAUSE 4s] [VI: ôn tập] [EN: Good.] [PAUSE 0.5s] [EN: Say you already reviewed —] [PAUSE 4s] [VI: Tôi ôn tập rồi.] [PAUSE 0.5s] [EN: Next,] [VI: tiếp theo] [EN: means next. Listen to its two parts.] [VI_F: tiếp] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: theo] [EN: has] [EN: a flat tone, no mark] [EN: . Listen to the whole word again.] [VI_F: tiếp theo] [PAUSE 1s] [VI_F: tiếp theo] [EN: Now you say it.] [PAUSE 4s] [VI: tiếp theo] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -24,7 +32,7 @@
     {
       "type": "drill",
       "duration_s": 220,
-      "script": "[EN: Let's drill. To review —] [PAUSE 4s] [VI: ôn tập] [PAUSE 0.5s] [EN: Next —] [PAUSE 4s] [VI: tiếp theo] [PAUSE 0.5s] [EN: Now bring it all together. This is my friend, we know each other —] [PAUSE 4s] [VI: Đây là bạn tôi, mình quen rồi.] [PAUSE 0.5s] [EN: Her personality is gentle and cheerful —] [PAUSE 4s] [VI: Tính tình chị đó hiền, vui vẻ.] [PAUSE 0.5s] [EN: I invite you to the gathering, it's not boring at all, it's amazing —] [PAUSE 4s] [VI: Mời anh họp mặt, không dở đâu, tuyệt luôn!] [PAUSE 0.5s] [EN: What's next —] [PAUSE 4s] [VI: Tiếp theo?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ôn tập] [PAUSE 3s] [EN: to review] [PAUSE 0.5s] [VI_F: tiếp theo] [PAUSE 3s] [EN: next] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ôn tập] [PAUSE 1s] [VI_F: tiếp theo] [PAUSE 0.5s] [EN: Remember,] [VI: tập] [EN: has] [VI: dấu nặng] [EN: , and] [VI: tiếp] [EN: has] [VI: dấu sắc] [EN: .]"
+      "script": "[EN: Let's drill. To review —] [PAUSE 4s] [VI: ôn tập] [PAUSE 0.5s] [EN: Next —] [PAUSE 4s] [VI: tiếp theo] [PAUSE 0.5s] [EN: Now bring it all together. This is my friend, we know each other —] [PAUSE 4s] [VI: Đây là bạn tôi, mình quen rồi.] [PAUSE 0.5s] [EN: Her personality is gentle and cheerful —] [PAUSE 4s] [VI: Tính tình chị đó hiền, vui vẻ.] [PAUSE 0.5s] [EN: I invite you to the gathering, it's not boring at all, it's amazing —] [PAUSE 4s] [VI: Mời anh họp mặt, không dở đâu, tuyệt luôn!] [PAUSE 0.5s] [EN: What's next —] [PAUSE 4s] [VI: Tiếp theo?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ôn tập] [PAUSE 3s] [EN: to review] [PAUSE 0.5s] [VI_F: tiếp theo] [PAUSE 3s] [EN: next] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ôn tập] [PAUSE 1s] [VI_F: tiếp theo] [PAUSE 0.5s] [EN: Remember,] [VI: tập] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: tiếp] [EN: has] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",

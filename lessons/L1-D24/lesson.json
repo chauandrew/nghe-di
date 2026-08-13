@@ -2,9 +2,21 @@
   "id": "L1-D24",
   "title": "Anh ơi, chị ơi: getting a waiter's attention",
   "vocab": [
-    {"vi": "anh ơi", "en": "hey (to a man)", "ipa": "aɲ˧ ɤj˧"},
-    {"vi": "chị ơi", "en": "hey (to a woman)", "ipa": "tɕi˨˩ʔ ɤj˧"},
-    {"vi": "chờ một chút", "en": "wait a moment", "ipa": "tɕɤ˨˩ mot˨˩ʔ tɕut˧˥"}
+    {
+      "vi": "anh ơi",
+      "en": "hey (to a man)",
+      "ipa": "aɲ˧ ɤj˧"
+    },
+    {
+      "vi": "chị ơi",
+      "en": "hey (to a woman)",
+      "ipa": "tɕi˨˩ʔ ɤj˧"
+    },
+    {
+      "vi": "chờ một chút",
+      "en": "wait a moment",
+      "ipa": "tɕɤ˨˩ mot˨˩ʔ tɕut˧˥"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 195,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Anh ơi! Chị ơi!] [PAUSE 0.5s] [VI_M: Dạ, chờ một chút.] [PAUSE 0.5s] [VI: Dạ, cảm ơn anh.] [PAUSE 1s] [EN: You called] [VI: anh ơi] [EN: hey, to a man — you already know] [VI: anh] [EN: and] [VI: ơi] [EN: , now hear them together.] [VI_F: anh ơi] [PAUSE 1s] [VI_F: anh ơi] [EN: Now you say it.] [PAUSE 4s] [VI: anh ơi] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: chị ơi] [EN: hey, to a woman. Listen again.] [VI_F: chị ơi] [PAUSE 1s] [VI_F: chị ơi] [EN: Now you say it.] [PAUSE 4s] [VI: chị ơi] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: chờ một chút] [EN: means wait a moment. Listen to its three parts.] [VI_F: chờ] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI_F: một] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: chút] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole phrase again.] [VI_F: chờ một chút] [PAUSE 1s] [VI_F: chờ một chút] [EN: Now you say it.] [PAUSE 4s] [VI: chờ một chút] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Anh ơi! Chị ơi!] [PAUSE 0.5s] [VI_M: Dạ, chờ một chút.] [PAUSE 0.5s] [VI: Dạ, cảm ơn anh.] [PAUSE 1s] [EN: You called] [VI: anh ơi] [EN: hey, to a man — you already know] [VI: anh] [EN: and] [VI: ơi] [EN: , now hear them together.] [VI_F: anh ơi] [PAUSE 1s] [VI_F: anh ơi] [EN: Now you say it.] [PAUSE 4s] [VI: anh ơi] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: chị ơi] [EN: hey, to a woman. Listen again.] [VI_F: chị ơi] [PAUSE 1s] [VI_F: chị ơi] [EN: Now you say it.] [PAUSE 4s] [VI: chị ơi] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: chờ một chút] [EN: means wait a moment. Listen to its three parts.] [VI_F: chờ] [EN: has] [EN: a falling tone] [PAUSE 0.3s] [VI_F: một] [EN: has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: chút] [EN: has] [EN: a high, rising tone] [EN: . Listen to the whole phrase again.] [VI_F: chờ một chút] [PAUSE 1s] [VI_F: chờ một chút] [EN: Now you say it.] [PAUSE 4s] [VI: chờ một chút] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 220,
-      "script": "[EN: Let's drill. Hey, to a man —] [PAUSE 4s] [VI: anh ơi] [PAUSE 0.5s] [EN: Hey, to a woman —] [PAUSE 4s] [VI: chị ơi] [PAUSE 0.5s] [EN: Wait a moment —] [PAUSE 4s] [VI: chờ một chút] [PAUSE 0.5s] [EN: Now say it. Call a man over —] [PAUSE 4s] [VI: Anh ơi!] [PAUSE 0.5s] [EN: Say wait a moment —] [PAUSE 4s] [VI: Chờ một chút.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: anh ơi] [PAUSE 3s] [EN: hey, to a man] [PAUSE 0.5s] [VI_F: chị ơi] [PAUSE 3s] [EN: hey, to a woman] [PAUSE 0.5s] [VI_F: chờ một chút] [PAUSE 3s] [EN: wait a moment] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: anh ơi] [PAUSE 1s] [VI_F: chị ơi] [PAUSE 1s] [VI_F: chờ một chút] [PAUSE 0.5s] [EN: Remember,] [VI: chờ] [EN: has] [VI: dấu huyền] [EN: , and] [VI: chút] [EN: has] [VI: dấu sắc] [EN: .]"
+      "script": "[EN: Let's drill. Hey, to a man —] [PAUSE 4s] [VI: anh ơi] [PAUSE 0.5s] [EN: Hey, to a woman —] [PAUSE 4s] [VI: chị ơi] [PAUSE 0.5s] [EN: Wait a moment —] [PAUSE 4s] [VI: chờ một chút] [PAUSE 0.5s] [EN: Now say it. Call a man over —] [PAUSE 4s] [VI: Anh ơi!] [PAUSE 0.5s] [EN: Say wait a moment —] [PAUSE 4s] [VI: Chờ một chút.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: anh ơi] [PAUSE 3s] [EN: hey, to a man] [PAUSE 0.5s] [VI_F: chị ơi] [PAUSE 3s] [EN: hey, to a woman] [PAUSE 0.5s] [VI_F: chờ một chút] [PAUSE 3s] [EN: wait a moment] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: anh ơi] [PAUSE 1s] [VI_F: chị ơi] [PAUSE 1s] [VI_F: chờ một chút] [PAUSE 0.5s] [EN: Remember,] [VI: chờ] [EN: has] [EN: a falling tone] [EN: , and] [VI: chút] [EN: has] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",

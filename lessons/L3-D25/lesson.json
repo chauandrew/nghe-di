@@ -2,8 +2,16 @@
   "id": "L3-D25",
   "title": "Đây là, giới thiệu: introductions",
   "vocab": [
-    {"vi": "đây là", "en": "this is (introducing someone or something)", "ipa": "dəj˧ laː˨˩"},
-    {"vi": "giới thiệu", "en": "to introduce", "ipa": "zɤj˧˥ tʰiəw˨˩ʔ"}
+    {
+      "vi": "đây là",
+      "en": "this is (introducing someone or something)",
+      "ipa": "dəj˧ laː˨˩"
+    },
+    {
+      "vi": "giới thiệu",
+      "en": "to introduce",
+      "ipa": "zɤj˧˥ tʰiəw˨˩ʔ"
+    }
   ],
   "segments": [
     {
@@ -14,7 +22,7 @@
     {
       "type": "dialogue",
       "duration_s": 225,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Ai vậy?] [PAUSE 0.5s] [VI: Tôi giới thiệu, đây là vợ tôi.] [PAUSE 0.5s] [VI_F: Dạ, chào chị!] [PAUSE 1s] [EN: Today, a big one — introducing someone. Listen to a full sentence first.] [PAUSE 0.5s] [VI_F: Đây là vợ tôi.] [EN: This is my wife.] [PAUSE 0.5s] [EN: Let's break it down.] [PAUSE 0.5s] [EN: First,] [VI: đây] [EN: means this, or here. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: đây] [PAUSE 1s] [VI_F: đây] [EN: Now you say it.] [PAUSE 4s] [VI: đây] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: là] [EN: means to be — is, am, or are. It connects two things. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: là] [PAUSE 1s] [VI_F: là] [EN: Now you say it.] [PAUSE 4s] [VI: là] [EN: Good. Put them together —] [VI: đây là] [EN: this is. Listen again.] [VI_F: đây là] [PAUSE 1s] [VI_F: đây là] [EN: Now you say it.] [PAUSE 4s] [VI: đây là] [EN: Good. This is my wife —] [PAUSE 4s] [VI: Đây là vợ tôi.] [PAUSE 0.5s] [EN: Next,] [VI: giới thiệu] [EN: means to introduce. Listen to its two parts.] [VI_F: giới] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: thiệu] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: giới thiệu] [PAUSE 1s] [VI_F: giới thiệu] [EN: Now you say it.] [PAUSE 4s] [VI: giới thiệu] [EN: Good. Let me introduce — this is my wife —] [PAUSE 4s] [VI: Tôi giới thiệu, đây là vợ tôi.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Ai vậy?] [PAUSE 0.5s] [VI: Tôi giới thiệu, đây là vợ tôi.] [PAUSE 0.5s] [VI_F: Dạ, chào chị!] [PAUSE 1s] [EN: Today, a big one — introducing someone. Listen to a full sentence first.] [PAUSE 0.5s] [VI_F: Đây là vợ tôi.] [EN: This is my wife.] [PAUSE 0.5s] [EN: Let's break it down.] [PAUSE 0.5s] [EN: First,] [VI: đây] [EN: means this, or here. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: đây] [PAUSE 1s] [VI_F: đây] [EN: Now you say it.] [PAUSE 4s] [VI: đây] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: là] [EN: means to be — is, am, or are. It connects two things. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: là] [PAUSE 1s] [VI_F: là] [EN: Now you say it.] [PAUSE 4s] [VI: là] [EN: Good. Put them together —] [VI: đây là] [EN: this is. Listen again.] [VI_F: đây là] [PAUSE 1s] [VI_F: đây là] [EN: Now you say it.] [PAUSE 4s] [VI: đây là] [EN: Good. This is my wife —] [PAUSE 4s] [VI: Đây là vợ tôi.] [PAUSE 0.5s] [EN: Next,] [VI: giới thiệu] [EN: means to introduce. Listen to its two parts.] [VI_F: giới] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: thiệu] [EN: has] [EN: a low tone, cut off short] [EN: . Listen to the whole word again.] [VI_F: giới thiệu] [PAUSE 1s] [VI_F: giới thiệu] [EN: Now you say it.] [PAUSE 4s] [VI: giới thiệu] [EN: Good. Let me introduce — this is my wife —] [PAUSE 4s] [VI: Tôi giới thiệu, đây là vợ tôi.]"
     },
     {
       "type": "consolidate",
@@ -24,7 +32,7 @@
     {
       "type": "drill",
       "duration_s": 245,
-      "script": "[EN: Let's drill. This is —] [PAUSE 4s] [VI: đây là] [PAUSE 0.5s] [EN: To introduce —] [PAUSE 4s] [VI: giới thiệu] [PAUSE 0.5s] [EN: Now build it. This is my wife —] [PAUSE 4s] [VI: Đây là vợ tôi.] [PAUSE 0.5s] [EN: This is my husband —] [PAUSE 4s] [VI: Đây là chồng tôi.] [PAUSE 0.5s] [EN: This is my dad —] [PAUSE 4s] [VI: Đây là ba tôi.] [PAUSE 0.5s] [EN: This is my mom —] [PAUSE 4s] [VI: Đây là má tôi.] [PAUSE 0.5s] [EN: Let me introduce — this is my dad —] [PAUSE 4s] [VI: Tôi giới thiệu, đây là ba tôi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đây là] [PAUSE 3s] [EN: this is] [PAUSE 0.5s] [VI_F: giới thiệu] [PAUSE 3s] [EN: to introduce] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đây là] [PAUSE 1s] [VI_F: giới thiệu] [PAUSE 0.5s] [EN: Remember,] [VI: đây] [EN: has] [VI: ngang] [EN: — flat, and] [VI: là] [EN: has] [VI: dấu huyền] [EN: .]"
+      "script": "[EN: Let's drill. This is —] [PAUSE 4s] [VI: đây là] [PAUSE 0.5s] [EN: To introduce —] [PAUSE 4s] [VI: giới thiệu] [PAUSE 0.5s] [EN: Now build it. This is my wife —] [PAUSE 4s] [VI: Đây là vợ tôi.] [PAUSE 0.5s] [EN: This is my husband —] [PAUSE 4s] [VI: Đây là chồng tôi.] [PAUSE 0.5s] [EN: This is my dad —] [PAUSE 4s] [VI: Đây là ba tôi.] [PAUSE 0.5s] [EN: This is my mom —] [PAUSE 4s] [VI: Đây là má tôi.] [PAUSE 0.5s] [EN: Let me introduce — this is my dad —] [PAUSE 4s] [VI: Tôi giới thiệu, đây là ba tôi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đây là] [PAUSE 3s] [EN: this is] [PAUSE 0.5s] [VI_F: giới thiệu] [PAUSE 3s] [EN: to introduce] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đây là] [PAUSE 1s] [VI_F: giới thiệu] [PAUSE 0.5s] [EN: Remember,] [VI: đây] [EN: has] [EN: a flat tone, no mark] [EN: — flat, and] [VI: là] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",

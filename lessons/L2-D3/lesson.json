@@ -2,7 +2,11 @@
   "id": "L2-D3",
   "title": "Đang: the progressive",
   "vocab": [
-    {"vi": "đang", "en": "right now, in progress (marks an ongoing action)", "ipa": "daːŋ˧"}
+    {
+      "vi": "đang",
+      "en": "right now, in progress (marks an ongoing action)",
+      "ipa": "daːŋ˧"
+    }
   ],
   "segments": [
     {
@@ -13,7 +17,7 @@
     {
       "type": "dialogue",
       "duration_s": 190,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Alô, chị đang ở đâu?] [PAUSE 0.5s] [VI_F: Dạ, em đang đi Bến Thành.] [PAUSE 0.5s] [VI: Dạ, hẹn gặp lại nha!] [PAUSE 1s] [EN: You heard] [VI: nha] [EN: a friendly softener at the end of a sentence.] [PAUSE 0.5s] [EN: Today's structure: the progressive. Put] [VI: đang] [EN: right before a verb to say you are doing it right now. It has] [VI: ngang] [EN: — flat, no mark. Listen again.] [VI_F: đang] [PAUSE 1s] [VI_F: đang] [EN: Now you say it.] [PAUSE 4s] [VI: đang] [EN: Good.] [PAUSE 0.5s] [EN: Put it in front of a verb you already know.] [VI_F: đang ăn] [EN: eating right now.] [PAUSE 0.5s] [VI_F: đang đi] [EN: going right now, or on the way.] [PAUSE 0.5s] [EN: And with a question word:] [VI_F: đang ở đâu] [EN: where are you right now.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Alô, chị đang ở đâu?] [PAUSE 0.5s] [VI_F: Dạ, em đang đi Bến Thành.] [PAUSE 0.5s] [VI: Dạ, hẹn gặp lại nha!] [PAUSE 1s] [EN: You heard] [VI: nha] [EN: a friendly softener at the end of a sentence.] [PAUSE 0.5s] [EN: Today's structure: the progressive. Put] [VI: đang] [EN: right before a verb to say you are doing it right now. It has] [EN: a flat tone, no mark] [EN: — flat, no mark. Listen again.] [VI_F: đang] [PAUSE 1s] [VI_F: đang] [EN: Now you say it.] [PAUSE 4s] [VI: đang] [EN: Good.] [PAUSE 0.5s] [EN: Put it in front of a verb you already know.] [VI_F: đang ăn] [EN: eating right now.] [PAUSE 0.5s] [VI_F: đang đi] [EN: going right now, or on the way.] [PAUSE 0.5s] [EN: And with a question word:] [VI_F: đang ở đâu] [EN: where are you right now.]"
     },
     {
       "type": "consolidate",
@@ -23,7 +27,7 @@
     {
       "type": "drill",
       "duration_s": 220,
-      "script": "[EN: Let's drill the pattern. Right now, in progress —] [PAUSE 4s] [VI: đang] [PAUSE 0.5s] [EN: Now say it. Eating right now —] [PAUSE 4s] [VI: Đang ăn.] [PAUSE 0.5s] [EN: Going right now —] [PAUSE 4s] [VI: Đang đi.] [PAUSE 0.5s] [EN: Say I am eating right now —] [PAUSE 4s] [VI: Em đang ăn.] [PAUSE 0.5s] [EN: Ask where someone is right now —] [PAUSE 4s] [VI: Đang ở đâu?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đang] [PAUSE 3s] [EN: right now, in progress] [PAUSE 0.5s] [VI_F: đang ăn] [PAUSE 3s] [EN: eating right now] [PAUSE 0.5s] [VI_F: đang đi] [PAUSE 3s] [EN: going right now] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đang] [PAUSE 1s] [VI_F: đang ăn] [PAUSE 1s] [VI_F: đang đi] [PAUSE 0.5s] [EN: Remember,] [VI: đang] [EN: has] [VI: ngang] [EN: — flat, no mark.]"
+      "script": "[EN: Let's drill the pattern. Right now, in progress —] [PAUSE 4s] [VI: đang] [PAUSE 0.5s] [EN: Now say it. Eating right now —] [PAUSE 4s] [VI: Đang ăn.] [PAUSE 0.5s] [EN: Going right now —] [PAUSE 4s] [VI: Đang đi.] [PAUSE 0.5s] [EN: Say I am eating right now —] [PAUSE 4s] [VI: Em đang ăn.] [PAUSE 0.5s] [EN: Ask where someone is right now —] [PAUSE 4s] [VI: Đang ở đâu?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đang] [PAUSE 3s] [EN: right now, in progress] [PAUSE 0.5s] [VI_F: đang ăn] [PAUSE 3s] [EN: eating right now] [PAUSE 0.5s] [VI_F: đang đi] [PAUSE 3s] [EN: going right now] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đang] [PAUSE 1s] [VI_F: đang ăn] [PAUSE 1s] [VI_F: đang đi] [PAUSE 0.5s] [EN: Remember,] [VI: đang] [EN: has] [EN: a flat tone, no mark] [EN: — flat, no mark.]"
     },
     {
       "type": "synthesis",

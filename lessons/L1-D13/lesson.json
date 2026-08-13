@@ -2,10 +2,26 @@
   "id": "L1-D13",
   "title": "Nhà vệ sinh ở đâu: asking for the restroom",
   "vocab": [
-    {"vi": "ở đâu", "en": "where", "ipa": "ə˨˩˦ dəw˧"},
-    {"vi": "nhà vệ sinh", "en": "restroom", "ipa": "ɲaː˨˩ ve˨˩ʔ siɲ˧"},
-    {"vi": "bên phải", "en": "on the right", "ipa": "ben˧ faːj˨˩˦"},
-    {"vi": "bên trái", "en": "on the left", "ipa": "ben˧ tɕaːj˧˥"}
+    {
+      "vi": "ở đâu",
+      "en": "where",
+      "ipa": "ə˨˩˦ dəw˧"
+    },
+    {
+      "vi": "nhà vệ sinh",
+      "en": "restroom",
+      "ipa": "ɲaː˨˩ ve˨˩ʔ siɲ˧"
+    },
+    {
+      "vi": "bên phải",
+      "en": "on the right",
+      "ipa": "ben˧ faːj˨˩˦"
+    },
+    {
+      "vi": "bên trái",
+      "en": "on the left",
+      "ipa": "ben˧ tɕaːj˧˥"
+    }
   ],
   "segments": [
     {
@@ -16,7 +32,7 @@
     {
       "type": "dialogue",
       "duration_s": 240,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, nhà vệ sinh ở đâu?] [PAUSE 0.5s] [VI_M: Dạ, bên phải.] [PAUSE 0.5s] [VI: Dạ, cảm ơn anh!] [PAUSE 1s] [EN: You asked] [VI: ở đâu] [EN: it means where. Listen to its two parts.] [VI_F: ở] [EN: has] [VI: dấu hỏi] [PAUSE 0.3s] [VI_F: đâu] [EN: has] [VI: ngang] [EN: . Listen to the whole phrase again.] [VI_F: ở đâu] [PAUSE 1s] [VI_F: ở đâu] [EN: Now you say it.] [PAUSE 4s] [VI: ở đâu] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: nhà vệ sinh] [EN: means restroom. Listen to its three parts.] [VI_F: nhà] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI_F: vệ] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: sinh] [EN: has] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: nhà vệ sinh] [PAUSE 1s] [VI_F: nhà vệ sinh] [EN: Now you say it.] [PAUSE 4s] [VI: nhà vệ sinh] [EN: Good.] [PAUSE 0.3s] [VI_F: nhà vệ sinh ở đâu] [EN: where's the restroom?] [PAUSE 0.5s] [EN: Now directions. First,] [VI: bên phải] [EN: means on the right. It has two parts.] [VI_F: bên] [EN: has] [VI: ngang] [PAUSE 0.3s] [VI_F: phải] [EN: has] [VI: dấu hỏi] [EN: . Listen to the whole phrase again.] [VI_F: bên phải] [PAUSE 1s] [VI_F: bên phải] [EN: Now you say it.] [PAUSE 4s] [VI: bên phải] [EN: Good.] [PAUSE 0.5s] [EN: And] [VI: bên trái] [EN: means on the left. It has] [VI: dấu sắc] [EN: on the second part — high, rising. Listen again.] [VI_F: bên trái] [PAUSE 1s] [VI_F: bên trái] [EN: Now you say it.] [PAUSE 4s] [VI: bên trái] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, nhà vệ sinh ở đâu?] [PAUSE 0.5s] [VI_M: Dạ, bên phải.] [PAUSE 0.5s] [VI: Dạ, cảm ơn anh!] [PAUSE 1s] [EN: You asked] [VI: ở đâu] [EN: it means where. Listen to its two parts.] [VI_F: ở] [EN: has] [EN: a dipping tone — it falls, then rises] [PAUSE 0.3s] [VI_F: đâu] [EN: has] [EN: a flat tone, no mark] [EN: . Listen to the whole phrase again.] [VI_F: ở đâu] [PAUSE 1s] [VI_F: ở đâu] [EN: Now you say it.] [PAUSE 4s] [VI: ở đâu] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: nhà vệ sinh] [EN: means restroom. Listen to its three parts.] [VI_F: nhà] [EN: has] [EN: a falling tone] [PAUSE 0.3s] [VI_F: vệ] [EN: has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: sinh] [EN: has] [EN: a flat tone, no mark] [EN: . Listen to the whole word again.] [VI_F: nhà vệ sinh] [PAUSE 1s] [VI_F: nhà vệ sinh] [EN: Now you say it.] [PAUSE 4s] [VI: nhà vệ sinh] [EN: Good.] [PAUSE 0.3s] [VI_F: nhà vệ sinh ở đâu] [EN: where's the restroom?] [PAUSE 0.5s] [EN: Now directions. First,] [VI: bên phải] [EN: means on the right. It has two parts.] [VI_F: bên] [EN: has] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: phải] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: . Listen to the whole phrase again.] [VI_F: bên phải] [PAUSE 1s] [VI_F: bên phải] [EN: Now you say it.] [PAUSE 4s] [VI: bên phải] [EN: Good.] [PAUSE 0.5s] [EN: And] [VI: bên trái] [EN: means on the left. It has] [EN: a high, rising tone] [EN: on the second part — high, rising. Listen again.] [VI_F: bên trái] [PAUSE 1s] [VI_F: bên trái] [EN: Now you say it.] [PAUSE 4s] [VI: bên trái] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -26,7 +42,7 @@
     {
       "type": "drill",
       "duration_s": 260,
-      "script": "[EN: Let's drill. Where —] [PAUSE 4s] [VI: ở đâu] [PAUSE 0.5s] [EN: Restroom —] [PAUSE 4s] [VI: nhà vệ sinh] [PAUSE 0.5s] [EN: On the right —] [PAUSE 4s] [VI: bên phải] [PAUSE 0.5s] [EN: On the left —] [PAUSE 4s] [VI: bên trái] [PAUSE 0.5s] [EN: Now ask. Where's the restroom —] [PAUSE 4s] [VI: Nhà vệ sinh ở đâu?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ở đâu] [PAUSE 3s] [EN: where] [PAUSE 0.5s] [VI_F: nhà vệ sinh] [PAUSE 3s] [EN: restroom] [PAUSE 0.5s] [VI_F: bên phải] [PAUSE 3s] [EN: on the right] [PAUSE 0.5s] [VI_F: bên trái] [PAUSE 3s] [EN: on the left] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ở đâu] [PAUSE 1s] [VI_F: nhà vệ sinh] [PAUSE 1s] [VI_F: bên phải] [PAUSE 1s] [VI_F: bên trái] [PAUSE 0.5s] [EN: Remember,] [VI: ở] [EN: has] [VI: dấu hỏi] [EN: , and] [VI: trái] [EN: has] [VI: dấu sắc] [EN: .]"
+      "script": "[EN: Let's drill. Where —] [PAUSE 4s] [VI: ở đâu] [PAUSE 0.5s] [EN: Restroom —] [PAUSE 4s] [VI: nhà vệ sinh] [PAUSE 0.5s] [EN: On the right —] [PAUSE 4s] [VI: bên phải] [PAUSE 0.5s] [EN: On the left —] [PAUSE 4s] [VI: bên trái] [PAUSE 0.5s] [EN: Now ask. Where's the restroom —] [PAUSE 4s] [VI: Nhà vệ sinh ở đâu?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ở đâu] [PAUSE 3s] [EN: where] [PAUSE 0.5s] [VI_F: nhà vệ sinh] [PAUSE 3s] [EN: restroom] [PAUSE 0.5s] [VI_F: bên phải] [PAUSE 3s] [EN: on the right] [PAUSE 0.5s] [VI_F: bên trái] [PAUSE 3s] [EN: on the left] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ở đâu] [PAUSE 1s] [VI_F: nhà vệ sinh] [PAUSE 1s] [VI_F: bên phải] [PAUSE 1s] [VI_F: bên trái] [PAUSE 0.5s] [EN: Remember,] [VI: ở] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: , and] [VI: trái] [EN: has] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",

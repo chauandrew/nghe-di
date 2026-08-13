@@ -2,9 +2,21 @@
   "id": "L1-D23",
   "title": "Siêu thị: at the supermarket",
   "vocab": [
-    {"vi": "siêu thị", "en": "supermarket", "ipa": "siəw˧ tʰi˨˩ʔ"},
-    {"vi": "túi ni lông", "en": "plastic bag", "ipa": "tuj˧˥ ni˧ loŋ˧"},
-    {"vi": "tiền thối", "en": "change (money back)", "ipa": "tiən˨˩ tʰoj˧˥"}
+    {
+      "vi": "siêu thị",
+      "en": "supermarket",
+      "ipa": "siəw˧ tʰi˨˩ʔ"
+    },
+    {
+      "vi": "túi ni lông",
+      "en": "plastic bag",
+      "ipa": "tuj˧˥ ni˧ loŋ˧"
+    },
+    {
+      "vi": "tiền thối",
+      "en": "change (money back)",
+      "ipa": "tiən˨˩ tʰoj˧˥"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 210,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Túi ni lông được không?] [PAUSE 0.5s] [VI: Dạ, có. Cảm ơn chị.] [PAUSE 0.5s] [VI_F: Tiền thối của chị.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: You will visit] [VI: siêu thị] [EN: it means supermarket. Listen to its two parts.] [VI_F: siêu] [EN: is] [VI: ngang] [PAUSE 0.3s] [VI_F: thị] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: siêu thị] [PAUSE 1s] [VI_F: siêu thị] [EN: Now you say it.] [PAUSE 4s] [VI: siêu thị] [EN: Good. I want to go to the supermarket —] [PAUSE 4s] [VI: Tôi muốn đi siêu thị.] [EN: Listen.] [VI_F: Tôi muốn đi siêu thị.] [PAUSE 1s] [EN: You heard] [VI: túi ni lông] [EN: it means plastic bag. Listen to its three parts.] [VI_F: túi] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: ni] [EN: is] [VI: ngang] [PAUSE 0.3s] [VI_F: lông] [EN: also] [VI: ngang] [EN: . Listen to the whole phrase again.] [VI_F: túi ni lông] [PAUSE 1s] [VI_F: túi ni lông] [EN: Now you say it.] [PAUSE 4s] [VI: túi ni lông] [EN: Good.] [PAUSE 0.5s] [EN: Last, you heard] [VI: tiền thối] [EN: it means change, the money you get back. Listen to its two parts.] [VI_F: tiền] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI_F: thối] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole phrase again.] [VI_F: tiền thối] [PAUSE 1s] [VI_F: tiền thối] [EN: Now you say it.] [PAUSE 4s] [VI: tiền thối] [EN: Good.] [PAUSE 0.5s] [EN: You also heard] [VI: của] [EN: a small word meaning of, showing who something belongs to.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Túi ni lông được không?] [PAUSE 0.5s] [VI: Dạ, có. Cảm ơn chị.] [PAUSE 0.5s] [VI_F: Tiền thối của chị.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: You will visit] [VI: siêu thị] [EN: it means supermarket. Listen to its two parts.] [VI_F: siêu] [EN: is] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: thị] [EN: has] [EN: a low tone, cut off short] [EN: . Listen to the whole word again.] [VI_F: siêu thị] [PAUSE 1s] [VI_F: siêu thị] [EN: Now you say it.] [PAUSE 4s] [VI: siêu thị] [EN: Good. I want to go to the supermarket —] [PAUSE 4s] [VI: Tôi muốn đi siêu thị.] [EN: Listen.] [VI_F: Tôi muốn đi siêu thị.] [PAUSE 1s] [EN: You heard] [VI: túi ni lông] [EN: it means plastic bag. Listen to its three parts.] [VI_F: túi] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: ni] [EN: is] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: lông] [EN: also] [EN: a flat tone, no mark] [EN: . Listen to the whole phrase again.] [VI_F: túi ni lông] [PAUSE 1s] [VI_F: túi ni lông] [EN: Now you say it.] [PAUSE 4s] [VI: túi ni lông] [EN: Good.] [PAUSE 0.5s] [EN: Last, you heard] [VI: tiền thối] [EN: it means change, the money you get back. Listen to its two parts.] [VI_F: tiền] [EN: has] [EN: a falling tone] [PAUSE 0.3s] [VI_F: thối] [EN: has] [EN: a high, rising tone] [EN: . Listen to the whole phrase again.] [VI_F: tiền thối] [PAUSE 1s] [VI_F: tiền thối] [EN: Now you say it.] [PAUSE 4s] [VI: tiền thối] [EN: Good.] [PAUSE 0.5s] [EN: You also heard] [VI: của] [EN: a small word meaning of, showing who something belongs to.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 225,
-      "script": "[EN: Let's drill. Supermarket —] [PAUSE 4s] [VI: siêu thị] [PAUSE 0.5s] [EN: Plastic bag —] [PAUSE 4s] [VI: túi ni lông] [PAUSE 0.5s] [EN: Change —] [PAUSE 4s] [VI: tiền thối] [PAUSE 0.5s] [EN: Now say it. I want to go to the supermarket —] [PAUSE 4s] [VI: Tôi muốn đi siêu thị.] [PAUSE 0.5s] [EN: Ask for a plastic bag —] [PAUSE 4s] [VI: Túi ni lông được không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: siêu thị] [PAUSE 3s] [EN: supermarket] [PAUSE 0.5s] [VI_F: túi ni lông] [PAUSE 3s] [EN: plastic bag] [PAUSE 0.5s] [VI_F: tiền thối] [PAUSE 3s] [EN: change] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: siêu thị] [PAUSE 1s] [VI_F: túi ni lông] [PAUSE 1s] [VI_F: tiền thối] [PAUSE 0.5s] [EN: Remember,] [VI: thị] [EN: has] [VI: dấu nặng] [EN: , and] [VI: tiền] [EN: has] [VI: dấu huyền] [EN: .]"
+      "script": "[EN: Let's drill. Supermarket —] [PAUSE 4s] [VI: siêu thị] [PAUSE 0.5s] [EN: Plastic bag —] [PAUSE 4s] [VI: túi ni lông] [PAUSE 0.5s] [EN: Change —] [PAUSE 4s] [VI: tiền thối] [PAUSE 0.5s] [EN: Now say it. I want to go to the supermarket —] [PAUSE 4s] [VI: Tôi muốn đi siêu thị.] [PAUSE 0.5s] [EN: Ask for a plastic bag —] [PAUSE 4s] [VI: Túi ni lông được không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: siêu thị] [PAUSE 3s] [EN: supermarket] [PAUSE 0.5s] [VI_F: túi ni lông] [PAUSE 3s] [EN: plastic bag] [PAUSE 0.5s] [VI_F: tiền thối] [PAUSE 3s] [EN: change] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: siêu thị] [PAUSE 1s] [VI_F: túi ni lông] [PAUSE 1s] [VI_F: tiền thối] [PAUSE 0.5s] [EN: Remember,] [VI: thị] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: tiền] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",

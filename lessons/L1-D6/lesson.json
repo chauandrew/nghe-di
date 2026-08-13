@@ -2,9 +2,21 @@
   "id": "L1-D6",
   "title": "Giá tiền thật: real prices in thousands",
   "vocab": [
-    {"vi": "chục", "en": "a group of ten", "ipa": "tɕuk˨˩ʔ"},
-    {"vi": "trăm", "en": "hundred", "ipa": "tɕăm˧"},
-    {"vi": "ngàn", "en": "thousand", "ipa": "ŋaːn˨˩"}
+    {
+      "vi": "chục",
+      "en": "a group of ten",
+      "ipa": "tɕuk˨˩ʔ"
+    },
+    {
+      "vi": "trăm",
+      "en": "hundred",
+      "ipa": "tɕăm˧"
+    },
+    {
+      "vi": "ngàn",
+      "en": "thousand",
+      "ipa": "ŋaːn˨˩"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 220,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, cái này bao nhiêu?] [PAUSE 0.5s] [VI_F: Dạ, hai chục ngàn.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị!] [PAUSE 1s] [EN: You just heard a real price.] [VI: hai chục ngàn] [EN: means twenty thousand.] [PAUSE 0.5s] [EN: Let's break down the pieces. Today's structure: a number, then a word for ten, hundred, or thousand.] [PAUSE 0.5s] [EN: First,] [VI: chục] [EN: means a group of ten. It has] [VI: dấu nặng] [EN: — low, cut off. Listen again.] [VI_F: chục] [PAUSE 1s] [VI_F: chục] [EN: Say it.] [PAUSE 4s] [VI: chục] [EN: Good.] [PAUSE 0.5s] [EN: Put a number in front to count tens.] [PAUSE 0.3s] [VI_F: hai chục] [EN: twenty.] [PAUSE 0.3s] [VI_F: ba chục] [EN: thirty.] [PAUSE 0.5s] [EN: Next,] [VI: trăm] [EN: means hundred. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: trăm] [PAUSE 1s] [VI_F: trăm] [EN: Say it.] [PAUSE 4s] [VI: trăm] [EN: Good.] [PAUSE 0.5s] [EN: Same pattern.] [VI_F: một trăm] [EN: one hundred.] [PAUSE 0.5s] [EN: Last,] [VI: ngàn] [EN: means thousand. It has] [VI: dấu huyền] [EN: — falling. Listen again.] [VI_F: ngàn] [PAUSE 1s] [VI_F: ngàn] [EN: Say it.] [PAUSE 4s] [VI: ngàn] [EN: Good.] [PAUSE 0.5s] [EN: For real prices, put a number, then] [VI: chục] [EN: then] [VI: ngàn] [EN: .] [PAUSE 0.3s] [VI_F: hai chục ngàn] [EN: twenty thousand — a common price at a street stall.] [PAUSE 0.5s] [EN: To ask, you already know] [VI: cái này bao nhiêu] [EN: how much is this.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, cái này bao nhiêu?] [PAUSE 0.5s] [VI_F: Dạ, hai chục ngàn.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị!] [PAUSE 1s] [EN: You just heard a real price.] [VI: hai chục ngàn] [EN: means twenty thousand.] [PAUSE 0.5s] [EN: Let's break down the pieces. Today's structure: a number, then a word for ten, hundred, or thousand.] [PAUSE 0.5s] [EN: First,] [VI: chục] [EN: means a group of ten. It has] [EN: a low tone, cut off short] [EN: — low, cut off. Listen again.] [VI_F: chục] [PAUSE 1s] [VI_F: chục] [EN: Say it.] [PAUSE 4s] [VI: chục] [EN: Good.] [PAUSE 0.5s] [EN: Put a number in front to count tens.] [PAUSE 0.3s] [VI_F: hai chục] [EN: twenty.] [PAUSE 0.3s] [VI_F: ba chục] [EN: thirty.] [PAUSE 0.5s] [EN: Next,] [VI: trăm] [EN: means hundred. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: trăm] [PAUSE 1s] [VI_F: trăm] [EN: Say it.] [PAUSE 4s] [VI: trăm] [EN: Good.] [PAUSE 0.5s] [EN: Same pattern.] [VI_F: một trăm] [EN: one hundred.] [PAUSE 0.5s] [EN: Last,] [VI: ngàn] [EN: means thousand. It has] [EN: a falling tone] [EN: — falling. Listen again.] [VI_F: ngàn] [PAUSE 1s] [VI_F: ngàn] [EN: Say it.] [PAUSE 4s] [VI: ngàn] [EN: Good.] [PAUSE 0.5s] [EN: For real prices, put a number, then] [VI: chục] [EN: then] [VI: ngàn] [EN: .] [PAUSE 0.3s] [VI_F: hai chục ngàn] [EN: twenty thousand — a common price at a street stall.] [PAUSE 0.5s] [EN: To ask, you already know] [VI: cái này bao nhiêu] [EN: how much is this.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 240,
-      "script": "[EN: Let's drill. Ten, as a group —] [PAUSE 4s] [VI: chục] [PAUSE 0.5s] [EN: Hundred —] [PAUSE 4s] [VI: trăm] [PAUSE 0.5s] [EN: Thousand —] [PAUSE 4s] [VI: ngàn] [PAUSE 0.5s] [EN: Now build some prices. Twenty —] [PAUSE 4s] [VI: Hai chục.] [PAUSE 0.5s] [EN: Thirty thousand —] [PAUSE 4s] [VI: Ba chục ngàn.] [PAUSE 0.5s] [EN: One hundred thousand —] [PAUSE 4s] [VI: Một trăm ngàn.] [PAUSE 0.5s] [EN: Fifty thousand —] [PAUSE 4s] [VI: Năm chục ngàn.] [PAUSE 0.5s] [EN: Now ask the price. How much is this —] [PAUSE 4s] [VI: Cái này bao nhiêu?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: chục] [PAUSE 3s] [EN: ten, as a group] [PAUSE 0.5s] [VI_F: trăm] [PAUSE 3s] [EN: hundred] [PAUSE 0.5s] [VI_F: ngàn] [PAUSE 3s] [EN: thousand] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: chục] [PAUSE 1s] [VI_F: trăm] [PAUSE 1s] [VI_F: ngàn] [PAUSE 0.5s] [EN: Remember,] [VI: chục] [EN: has] [VI: dấu nặng] [EN: , and] [VI: ngàn] [EN: has] [VI: dấu huyền] [EN: .]"
+      "script": "[EN: Let's drill. Ten, as a group —] [PAUSE 4s] [VI: chục] [PAUSE 0.5s] [EN: Hundred —] [PAUSE 4s] [VI: trăm] [PAUSE 0.5s] [EN: Thousand —] [PAUSE 4s] [VI: ngàn] [PAUSE 0.5s] [EN: Now build some prices. Twenty —] [PAUSE 4s] [VI: Hai chục.] [PAUSE 0.5s] [EN: Thirty thousand —] [PAUSE 4s] [VI: Ba chục ngàn.] [PAUSE 0.5s] [EN: One hundred thousand —] [PAUSE 4s] [VI: Một trăm ngàn.] [PAUSE 0.5s] [EN: Fifty thousand —] [PAUSE 4s] [VI: Năm chục ngàn.] [PAUSE 0.5s] [EN: Now ask the price. How much is this —] [PAUSE 4s] [VI: Cái này bao nhiêu?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: chục] [PAUSE 3s] [EN: ten, as a group] [PAUSE 0.5s] [VI_F: trăm] [PAUSE 3s] [EN: hundred] [PAUSE 0.5s] [VI_F: ngàn] [PAUSE 3s] [EN: thousand] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: chục] [PAUSE 1s] [VI_F: trăm] [PAUSE 1s] [VI_F: ngàn] [PAUSE 0.5s] [EN: Remember,] [VI: chục] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: ngàn] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",

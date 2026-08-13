@@ -210,16 +210,26 @@ Tone naming (southern Vietnamese — FIVE distinct sounds, not six):
 - Southern speech MERGES the hỏi and ngã marks: they sound identical (a dipping tone). Keep
   using both names in writing (the spelling still distinguishes them), but never cue the learner
   to hear a difference between them — a southern voice pronounces them the same.
-- The learner was taught the tone-mark NAMES on Day 0 as vocabulary: ngang (flat, no mark),
-  dấu huyền, dấu sắc, dấu hỏi, dấu ngã, dấu nặng. From Day 1 onward, NAME the tone in Vietnamese
-  instead of describing it in English — do not fall back to the old English-description style
-  ("a dipping tone, it falls then rises"); that belongs only to Day 0, where the names are first
-  taught. Always tag the tone name itself as [VI: ...], never inside [EN: ...]:
+- LEVELS 1-3 (before the tone-mark names are taught): describe a word's tone in plain English,
+  never name it. Use exactly these descriptions so they stay consistent lesson to lesson:
+    ngang: "a flat tone, no mark"       dấu huyền: "a falling tone"
+    dấu sắc: "a high, rising tone"      dấu hỏi / dấu ngã: "a dipping tone — it falls, then rises"
+    dấu nặng: "a low tone, cut off short"
+  Tag these as plain [EN: ...] text, never as [VI: ...] — they are English, not the Vietnamese
+  tone-mark name:
+    [VI_F: Cảm] [EN: has a dipping tone — it falls, then rises.] [PAUSE 0.3s]
+    [VI_F: Ơn] [EN: is a flat tone, no mark.]
+- LEVEL 4 ONWARD: the learner was taught the tone-mark NAMES as vocabulary at L4-D0: ngang,
+  dấu huyền, dấu sắc, dấu hỏi, dấu ngã, dấu nặng. From L4-D0 onward, NAME the tone in Vietnamese
+  instead of describing it in English — do not fall back to the Level 1-3 English-description
+  style once L4-D0 has taught the names. Always tag the tone name itself as [VI: ...], never
+  inside [EN: ...]:
     [VI_F: Cảm] [EN: has] [VI: dấu hỏi] [PAUSE 0.3s]
     [VI_F: Ơn] [EN: is] [VI: ngang] [EN: — flat, no mark.]
 - Periodically remind the learner of a word's tone during drill and recall — roughly every 3rd or
-  4th time a word appears. Do not name the tone every single time.
-- Example: [VI_F: Cảm ơn] [EN: means thank you.] [VI_F: Cảm] [EN: has] [VI: dấu hỏi] [EN: .] [VI_F: Ơn] [EN: is] [VI: ngang] [EN: — flat.]
+  4th time a word appears, at every level. Do not name the tone every single time.
+- Level 1-3 example: [VI_F: Cảm ơn] [EN: means thank you.] [VI_F: Cảm] [EN: has a dipping tone — it falls, then rises.] [VI_F: Ơn] [EN: is a flat tone, no mark.]
+- Level 4+ example: [VI_F: Cảm ơn] [EN: means thank you.] [VI_F: Cảm] [EN: has] [VI: dấu hỏi] [EN: .] [VI_F: Ơn] [EN: is] [VI: ngang] [EN: — flat.]
 
 Vowel pronunciation cues (use sparingly, like tone reminders):
 - The hardest vowels for English speakers are the NEUTRAL (unrounded) ones: ư, ơ, â. English

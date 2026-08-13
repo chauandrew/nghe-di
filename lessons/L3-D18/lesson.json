@@ -2,8 +2,16 @@
   "id": "L3-D18",
   "title": "Tính tình, trông: describing a friend",
   "vocab": [
-    {"vi": "tính tình", "en": "personality", "ipa": "tiɲ˧˥ tiɲ˨˩"},
-    {"vi": "trông", "en": "to look, appear", "ipa": "tɕoŋ˧"}
+    {
+      "vi": "tính tình",
+      "en": "personality",
+      "ipa": "tiɲ˧˥ tiɲ˨˩"
+    },
+    {
+      "vi": "trông",
+      "en": "to look, appear",
+      "ipa": "tɕoŋ˧"
+    }
   ],
   "segments": [
     {
@@ -14,7 +22,7 @@
     {
       "type": "dialogue",
       "duration_s": 210,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh đó trông dễ thương quá!] [PAUSE 0.5s] [VI: Dạ, anh đó hiền. Tính tình anh đó cũng vui.] [PAUSE 0.5s] [VI_F: Vậy à? Tôi cũng thích anh đó.] [PAUSE 1s] [EN: Today, two words for describing a friend more fully.] [PAUSE 0.5s] [EN: First,] [VI: trông] [EN: means to look, or appear — you put it before a describing word. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: trông] [PAUSE 1s] [VI_F: trông] [EN: Now you say it.] [PAUSE 4s] [VI: trông] [EN: Good. She looks tall —] [PAUSE 4s] [VI: Chị đó trông cao.] [PAUSE 0.5s] [EN: Next,] [VI: tính tình] [EN: means personality. Listen to its two parts.] [VI_F: tính] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: tình] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole word again.] [VI_F: tính tình] [PAUSE 1s] [VI_F: tính tình] [EN: Now you say it.] [PAUSE 4s] [VI: tính tình] [EN: Good. His personality is gentle —] [PAUSE 4s] [VI: Tính tình anh đó hiền.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh đó trông dễ thương quá!] [PAUSE 0.5s] [VI: Dạ, anh đó hiền. Tính tình anh đó cũng vui.] [PAUSE 0.5s] [VI_F: Vậy à? Tôi cũng thích anh đó.] [PAUSE 1s] [EN: Today, two words for describing a friend more fully.] [PAUSE 0.5s] [EN: First,] [VI: trông] [EN: means to look, or appear — you put it before a describing word. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: trông] [PAUSE 1s] [VI_F: trông] [EN: Now you say it.] [PAUSE 4s] [VI: trông] [EN: Good. She looks tall —] [PAUSE 4s] [VI: Chị đó trông cao.] [PAUSE 0.5s] [EN: Next,] [VI: tính tình] [EN: means personality. Listen to its two parts.] [VI_F: tính] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: tình] [EN: has] [EN: a falling tone] [EN: . Listen to the whole word again.] [VI_F: tính tình] [PAUSE 1s] [VI_F: tính tình] [EN: Now you say it.] [PAUSE 4s] [VI: tính tình] [EN: Good. His personality is gentle —] [PAUSE 4s] [VI: Tính tình anh đó hiền.]"
     },
     {
       "type": "consolidate",
@@ -24,7 +32,7 @@
     {
       "type": "drill",
       "duration_s": 220,
-      "script": "[EN: Let's drill. To look, appear —] [PAUSE 4s] [VI: trông] [PAUSE 0.5s] [EN: Personality —] [PAUSE 4s] [VI: tính tình] [PAUSE 0.5s] [EN: Now build it. He looks tall —] [PAUSE 4s] [VI: Anh đó trông cao.] [PAUSE 0.5s] [EN: She looks cute —] [PAUSE 4s] [VI: Chị đó trông dễ thương.] [PAUSE 0.5s] [EN: His personality is gentle —] [PAUSE 4s] [VI: Tính tình anh đó hiền.] [PAUSE 0.5s] [EN: Her personality is also cheerful —] [PAUSE 4s] [VI: Tính tình chị đó cũng vui.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: trông] [PAUSE 3s] [EN: to look, appear] [PAUSE 0.5s] [VI_F: tính tình] [PAUSE 3s] [EN: personality] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: trông] [PAUSE 1s] [VI_F: tính tình] [PAUSE 0.5s] [EN: Remember,] [VI: tính] [EN: has] [VI: dấu sắc] [EN: , and] [VI: tình] [EN: has] [VI: dấu huyền] [EN: .]"
+      "script": "[EN: Let's drill. To look, appear —] [PAUSE 4s] [VI: trông] [PAUSE 0.5s] [EN: Personality —] [PAUSE 4s] [VI: tính tình] [PAUSE 0.5s] [EN: Now build it. He looks tall —] [PAUSE 4s] [VI: Anh đó trông cao.] [PAUSE 0.5s] [EN: She looks cute —] [PAUSE 4s] [VI: Chị đó trông dễ thương.] [PAUSE 0.5s] [EN: His personality is gentle —] [PAUSE 4s] [VI: Tính tình anh đó hiền.] [PAUSE 0.5s] [EN: Her personality is also cheerful —] [PAUSE 4s] [VI: Tính tình chị đó cũng vui.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: trông] [PAUSE 3s] [EN: to look, appear] [PAUSE 0.5s] [VI_F: tính tình] [PAUSE 3s] [EN: personality] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: trông] [PAUSE 1s] [VI_F: tính tình] [PAUSE 0.5s] [EN: Remember,] [VI: tính] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: tình] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",

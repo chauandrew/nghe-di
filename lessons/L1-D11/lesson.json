@@ -2,9 +2,21 @@
   "id": "L1-D11",
   "title": "Gọi thêm: customizing an order",
   "vocab": [
-    {"vi": "thêm", "en": "more / add", "ipa": "tʰem˧"},
-    {"vi": "ít", "en": "a little / less", "ipa": "it˧˥"},
-    {"vi": "đá", "en": "ice", "ipa": "daː˧˥"}
+    {
+      "vi": "thêm",
+      "en": "more / add",
+      "ipa": "tʰem˧"
+    },
+    {
+      "vi": "ít",
+      "en": "a little / less",
+      "ipa": "it˧˥"
+    },
+    {
+      "vi": "đá",
+      "en": "ice",
+      "ipa": "daː˧˥"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 210,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, tôi muốn một ly cà phê. Thêm đá.] [PAUSE 0.5s] [VI_F: Dạ, ít đá hả?] [PAUSE 0.5s] [VI: Dạ, ít.] [PAUSE 1s] [EN: You heard] [VI: hả] [EN: again — that friendly tag question, like saying right at the end.] [PAUSE 0.5s] [EN: Now the words. First,] [VI: thêm] [EN: means more, or add. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: thêm] [PAUSE 1s] [VI_F: thêm] [EN: Now you say it.] [PAUSE 4s] [VI: thêm] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: đá] [EN: means ice. It has] [VI: dấu sắc] [EN: — high, rising. Listen again.] [VI_F: đá] [PAUSE 1s] [VI_F: đá] [EN: Now you say it.] [PAUSE 4s] [VI: đá] [EN: Good. Put them together.] [PAUSE 0.3s] [VI_F: thêm đá] [EN: add ice.] [PAUSE 0.5s] [EN: Last,] [VI: ít] [EN: means a little, or less. It has] [VI: dấu sắc] [EN: — high, rising. Listen again.] [VI_F: ít] [PAUSE 1s] [VI_F: ít] [EN: Now you say it.] [PAUSE 4s] [VI: ít] [EN: Good.] [PAUSE 0.3s] [VI_F: ít đá] [EN: a little ice.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, tôi muốn một ly cà phê. Thêm đá.] [PAUSE 0.5s] [VI_F: Dạ, ít đá hả?] [PAUSE 0.5s] [VI: Dạ, ít.] [PAUSE 1s] [EN: You heard] [VI: hả] [EN: again — that friendly tag question, like saying right at the end.] [PAUSE 0.5s] [EN: Now the words. First,] [VI: thêm] [EN: means more, or add. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: thêm] [PAUSE 1s] [VI_F: thêm] [EN: Now you say it.] [PAUSE 4s] [VI: thêm] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: đá] [EN: means ice. It has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: đá] [PAUSE 1s] [VI_F: đá] [EN: Now you say it.] [PAUSE 4s] [VI: đá] [EN: Good. Put them together.] [PAUSE 0.3s] [VI_F: thêm đá] [EN: add ice.] [PAUSE 0.5s] [EN: Last,] [VI: ít] [EN: means a little, or less. It has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: ít] [PAUSE 1s] [VI_F: ít] [EN: Now you say it.] [PAUSE 4s] [VI: ít] [EN: Good.] [PAUSE 0.3s] [VI_F: ít đá] [EN: a little ice.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 240,
-      "script": "[EN: Let's drill. More, or add —] [PAUSE 4s] [VI: thêm] [PAUSE 0.5s] [EN: A little, or less —] [PAUSE 4s] [VI: ít] [PAUSE 0.5s] [EN: Ice —] [PAUSE 4s] [VI: đá] [PAUSE 0.5s] [EN: Now order. Add ice —] [PAUSE 4s] [VI: Thêm đá.] [PAUSE 0.5s] [EN: A little ice —] [PAUSE 4s] [VI: Ít đá.] [PAUSE 0.5s] [EN: I want coffee, a little ice —] [PAUSE 4s] [VI: Tôi muốn cà phê, ít đá.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: thêm] [PAUSE 3s] [EN: more, or add] [PAUSE 0.5s] [VI_F: ít] [PAUSE 3s] [EN: a little, or less] [PAUSE 0.5s] [VI_F: đá] [PAUSE 3s] [EN: ice] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: thêm] [PAUSE 1s] [VI_F: ít] [PAUSE 1s] [VI_F: đá] [PAUSE 0.5s] [EN: Remember,] [VI: ít] [EN: and] [VI: đá] [EN: both have] [VI: dấu sắc] [EN: .]"
+      "script": "[EN: Let's drill. More, or add —] [PAUSE 4s] [VI: thêm] [PAUSE 0.5s] [EN: A little, or less —] [PAUSE 4s] [VI: ít] [PAUSE 0.5s] [EN: Ice —] [PAUSE 4s] [VI: đá] [PAUSE 0.5s] [EN: Now order. Add ice —] [PAUSE 4s] [VI: Thêm đá.] [PAUSE 0.5s] [EN: A little ice —] [PAUSE 4s] [VI: Ít đá.] [PAUSE 0.5s] [EN: I want coffee, a little ice —] [PAUSE 4s] [VI: Tôi muốn cà phê, ít đá.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: thêm] [PAUSE 3s] [EN: more, or add] [PAUSE 0.5s] [VI_F: ít] [PAUSE 3s] [EN: a little, or less] [PAUSE 0.5s] [VI_F: đá] [PAUSE 3s] [EN: ice] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: thêm] [PAUSE 1s] [VI_F: ít] [PAUSE 1s] [VI_F: đá] [PAUSE 0.5s] [EN: Remember,] [VI: ít] [EN: and] [VI: đá] [EN: both have] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",

@@ -2,9 +2,21 @@
   "id": "L1-D2",
   "title": "Xưng hô: addressing people by age and gender",
   "vocab": [
-    {"vi": "anh", "en": "you/he, for an older man", "ipa": "aɲ˧"},
-    {"vi": "chị", "en": "you/she, for an older woman", "ipa": "tɕi˨˩ʔ"},
-    {"vi": "em", "en": "you, for someone younger", "ipa": "ɛm˧"}
+    {
+      "vi": "anh",
+      "en": "you/he, for an older man",
+      "ipa": "aɲ˧"
+    },
+    {
+      "vi": "chị",
+      "en": "you/she, for an older woman",
+      "ipa": "tɕi˨˩ʔ"
+    },
+    {
+      "vi": "em",
+      "en": "you, for someone younger",
+      "ipa": "ɛm˧"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 210,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Xin chào anh!] [PAUSE 0.5s] [VI: Dạ, xin chào chị!] [PAUSE 0.5s] [VI_M: Xin chào em!] [PAUSE 0.5s] [VI_F: Dạ, xin chào anh!] [PAUSE 1s] [EN: You just heard three new words for addressing people.] [PAUSE 0.5s] [EN: First,] [VI: anh] [EN: it means you, for an older man. It has] [VI: ngang] [EN: — flat, no mark. Listen again.] [VI_F: anh] [PAUSE 1s] [VI_F: anh] [EN: Now you say it.] [PAUSE 4s] [VI: anh] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: chị] [EN: it means you, for an older woman. It has] [VI: dấu nặng] [EN: — low, cut off. Listen again.] [VI_F: chị] [PAUSE 1s] [VI_F: chị] [EN: Now you say it.] [PAUSE 4s] [VI: chị] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: em] [EN: it means you, for someone younger. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: em] [PAUSE 1s] [VI_F: em] [EN: Now you say it.] [PAUSE 4s] [VI: em] [EN: Good.] [PAUSE 0.5s] [EN: Add any of them to] [VI: xin chào] [EN: to greet someone by their age and gender.] [PAUSE 4s] [VI: Xin chào chị.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Xin chào anh!] [PAUSE 0.5s] [VI: Dạ, xin chào chị!] [PAUSE 0.5s] [VI_M: Xin chào em!] [PAUSE 0.5s] [VI_F: Dạ, xin chào anh!] [PAUSE 1s] [EN: You just heard three new words for addressing people.] [PAUSE 0.5s] [EN: First,] [VI: anh] [EN: it means you, for an older man. It has] [EN: a flat tone, no mark] [EN: — flat, no mark. Listen again.] [VI_F: anh] [PAUSE 1s] [VI_F: anh] [EN: Now you say it.] [PAUSE 4s] [VI: anh] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: chị] [EN: it means you, for an older woman. It has] [EN: a low tone, cut off short] [EN: — low, cut off. Listen again.] [VI_F: chị] [PAUSE 1s] [VI_F: chị] [EN: Now you say it.] [PAUSE 4s] [VI: chị] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: em] [EN: it means you, for someone younger. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: em] [PAUSE 1s] [VI_F: em] [EN: Now you say it.] [PAUSE 4s] [VI: em] [EN: Good.] [PAUSE 0.5s] [EN: Add any of them to] [VI: xin chào] [EN: to greet someone by their age and gender.] [PAUSE 4s] [VI: Xin chào chị.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 240,
-      "script": "[EN: Let's drill. Older man —] [PAUSE 4s] [VI: anh] [PAUSE 0.5s] [EN: Older woman —] [PAUSE 4s] [VI: chị] [PAUSE 0.5s] [EN: Younger person —] [PAUSE 4s] [VI: em] [PAUSE 0.5s] [EN: One more round.] [PAUSE 0.5s] [EN: Older man —] [PAUSE 4s] [VI: anh] [PAUSE 0.5s] [EN: Older woman —] [PAUSE 4s] [VI: chị] [PAUSE 0.5s] [EN: Younger person —] [PAUSE 4s] [VI: em] [PAUSE 0.5s] [EN: Now say hello to each of them.] [PAUSE 0.5s] [EN: Hello to an older man —] [PAUSE 4s] [VI: Xin chào anh.] [PAUSE 0.5s] [EN: Hello to an older woman —] [PAUSE 4s] [VI: Xin chào chị.] [PAUSE 0.5s] [EN: Hello to someone younger —] [PAUSE 4s] [VI: Xin chào em.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: anh] [PAUSE 3s] [EN: an older man] [PAUSE 0.5s] [VI_F: chị] [PAUSE 3s] [EN: an older woman] [PAUSE 0.5s] [VI_F: em] [PAUSE 3s] [EN: someone younger] [PAUSE 0.5s] [EN: One last time.] [PAUSE 0.5s] [VI_F: anh] [PAUSE 1s] [VI_F: chị] [PAUSE 1s] [VI_F: em] [PAUSE 0.5s] [EN: Remember,] [VI: chị] [EN: has] [VI: dấu nặng] [EN: — low and cut off.]"
+      "script": "[EN: Let's drill. Older man —] [PAUSE 4s] [VI: anh] [PAUSE 0.5s] [EN: Older woman —] [PAUSE 4s] [VI: chị] [PAUSE 0.5s] [EN: Younger person —] [PAUSE 4s] [VI: em] [PAUSE 0.5s] [EN: One more round.] [PAUSE 0.5s] [EN: Older man —] [PAUSE 4s] [VI: anh] [PAUSE 0.5s] [EN: Older woman —] [PAUSE 4s] [VI: chị] [PAUSE 0.5s] [EN: Younger person —] [PAUSE 4s] [VI: em] [PAUSE 0.5s] [EN: Now say hello to each of them.] [PAUSE 0.5s] [EN: Hello to an older man —] [PAUSE 4s] [VI: Xin chào anh.] [PAUSE 0.5s] [EN: Hello to an older woman —] [PAUSE 4s] [VI: Xin chào chị.] [PAUSE 0.5s] [EN: Hello to someone younger —] [PAUSE 4s] [VI: Xin chào em.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: anh] [PAUSE 3s] [EN: an older man] [PAUSE 0.5s] [VI_F: chị] [PAUSE 3s] [EN: an older woman] [PAUSE 0.5s] [VI_F: em] [PAUSE 3s] [EN: someone younger] [PAUSE 0.5s] [EN: One last time.] [PAUSE 0.5s] [VI_F: anh] [PAUSE 1s] [VI_F: chị] [PAUSE 1s] [VI_F: em] [PAUSE 0.5s] [EN: Remember,] [VI: chị] [EN: has] [EN: a low tone, cut off short] [EN: — low and cut off.]"
     },
     {
       "type": "synthesis",

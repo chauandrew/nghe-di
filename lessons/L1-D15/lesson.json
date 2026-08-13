@@ -2,10 +2,26 @@
   "id": "L1-D15",
   "title": "Introducing Yourself — ai and gì",
   "vocab": [
-    {"vi": "ai", "en": "who", "ipa": "aːj˧"},
-    {"vi": "gì", "en": "what", "ipa": "zi˨˩"},
-    {"vi": "bạn tên gì", "en": "what is your name?", "ipa": "baːn˨˩ʔ tɛn˧ zi˨˩"},
-    {"vi": "tên tôi là", "en": "my name is", "ipa": "tɛn˧ toj˧ laː˨˩"}
+    {
+      "vi": "ai",
+      "en": "who",
+      "ipa": "aːj˧"
+    },
+    {
+      "vi": "gì",
+      "en": "what",
+      "ipa": "zi˨˩"
+    },
+    {
+      "vi": "bạn tên gì",
+      "en": "what is your name?",
+      "ipa": "baːn˨˩ʔ tɛn˧ zi˨˩"
+    },
+    {
+      "vi": "tên tôi là",
+      "en": "my name is",
+      "ipa": "tɛn˧ toj˧ laː˨˩"
+    }
   ],
   "segments": [
     {
@@ -16,7 +32,7 @@
     {
       "type": "dialogue",
       "duration_s": 205,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Ê, ai đó?] [PAUSE 0.5s] [VI_F: Dạ, bạn tên gì?] [PAUSE 0.5s] [VI_M: Dạ, tên tôi là Minh.] [PAUSE 1s] [EN: New word.] [VI_F: ai] [EN: means who. It has] [VI: ngang] [EN: — flat, no mark. Listen again.] [VI_F: ai] [PAUSE 1s] [VI_F: ai] [EN: Now you say it.] [PAUSE 4s] [VI: ai] [EN: Good. Who is that —] [PAUSE 4s] [VI: Ai đó?] [EN: Listen.] [VI_F: Ai đó?] [PAUSE 1s] [EN: Next, a question.] [VI_F: bạn tên gì] [EN: means what is your name. Listen to its last part.] [VI_F: gì] [EN: means what. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: gì] [PAUSE 1s] [VI_F: gì] [EN: Now you say it.] [PAUSE 4s] [VI: gì] [EN: Good. Now the whole question. Listen.] [VI_F: bạn tên gì] [PAUSE 1s] [VI_F: bạn tên gì] [EN: Now you say it.] [PAUSE 4s] [VI: bạn tên gì] [EN: Good.] [PAUSE 0.5s] [EN: Last, how to answer.] [VI_F: tên tôi là] [EN: means my name is. Listen to its parts.] [VI_F: Tên] [EN: is] [VI: ngang] [PAUSE 0.3s] [VI_F: tôi] [EN: also] [VI: ngang] [PAUSE 0.3s] [VI_F: là] [EN: has] [VI: dấu huyền] [EN: . Listen to it whole again.] [VI_F: tên tôi là] [PAUSE 1s] [VI_F: tên tôi là] [EN: Now you say it.] [PAUSE 4s] [VI: tên tôi là] [EN: Good. My name is Minh —] [PAUSE 4s] [VI: Tên tôi là Minh.] [EN: Listen.] [VI_F: Tên tôi là Minh.] [PAUSE 1s]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Ê, ai đó?] [PAUSE 0.5s] [VI_F: Dạ, bạn tên gì?] [PAUSE 0.5s] [VI_M: Dạ, tên tôi là Minh.] [PAUSE 1s] [EN: New word.] [VI_F: ai] [EN: means who. It has] [EN: a flat tone, no mark] [EN: — flat, no mark. Listen again.] [VI_F: ai] [PAUSE 1s] [VI_F: ai] [EN: Now you say it.] [PAUSE 4s] [VI: ai] [EN: Good. Who is that —] [PAUSE 4s] [VI: Ai đó?] [EN: Listen.] [VI_F: Ai đó?] [PAUSE 1s] [EN: Next, a question.] [VI_F: bạn tên gì] [EN: means what is your name. Listen to its last part.] [VI_F: gì] [EN: means what. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: gì] [PAUSE 1s] [VI_F: gì] [EN: Now you say it.] [PAUSE 4s] [VI: gì] [EN: Good. Now the whole question. Listen.] [VI_F: bạn tên gì] [PAUSE 1s] [VI_F: bạn tên gì] [EN: Now you say it.] [PAUSE 4s] [VI: bạn tên gì] [EN: Good.] [PAUSE 0.5s] [EN: Last, how to answer.] [VI_F: tên tôi là] [EN: means my name is. Listen to its parts.] [VI_F: Tên] [EN: is] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: tôi] [EN: also] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: là] [EN: has] [EN: a falling tone] [EN: . Listen to it whole again.] [VI_F: tên tôi là] [PAUSE 1s] [VI_F: tên tôi là] [EN: Now you say it.] [PAUSE 4s] [VI: tên tôi là] [EN: Good. My name is Minh —] [PAUSE 4s] [VI: Tên tôi là Minh.] [EN: Listen.] [VI_F: Tên tôi là Minh.] [PAUSE 1s]"
     },
     {
       "type": "consolidate",
@@ -26,7 +42,7 @@
     {
       "type": "drill",
       "duration_s": 235,
-      "script": "[EN: Let's drill.] [PAUSE 0.5s] [EN: Who —] [PAUSE 4s] [VI: ai] [PAUSE 0.5s] [EN: What —] [PAUSE 4s] [VI: gì] [PAUSE 0.5s] [EN: What is your name —] [PAUSE 4s] [VI: bạn tên gì] [PAUSE 0.5s] [EN: My name is —] [PAUSE 4s] [VI: tên tôi là] [PAUSE 0.5s] [EN: Now say it. Ask who that is —] [PAUSE 4s] [VI: Ai đó?] [EN: Good.] [PAUSE 0.5s] [EN: Say your name is Lan —] [PAUSE 4s] [VI: Tên tôi là Lan.] [EN: Say your name is Minh —] [PAUSE 4s] [VI: Tên tôi là Minh.] [EN: Good.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ai] [PAUSE 3s] [EN: who] [PAUSE 0.5s] [VI_F: gì] [PAUSE 3s] [EN: what] [PAUSE 0.5s] [VI_F: bạn tên gì] [PAUSE 3s] [EN: what is your name] [PAUSE 0.5s] [VI_F: tên tôi là] [PAUSE 3s] [EN: my name is] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ai] [PAUSE 1s] [VI_F: gì] [PAUSE 1s] [VI_F: bạn tên gì] [PAUSE 1s] [VI_F: tên tôi là] [PAUSE 0.5s] [EN: Remember,] [VI: gì] [EN: has] [VI: dấu huyền] [EN: , and] [VI: tên] [EN: is] [VI: ngang] [EN: — flat.]"
+      "script": "[EN: Let's drill.] [PAUSE 0.5s] [EN: Who —] [PAUSE 4s] [VI: ai] [PAUSE 0.5s] [EN: What —] [PAUSE 4s] [VI: gì] [PAUSE 0.5s] [EN: What is your name —] [PAUSE 4s] [VI: bạn tên gì] [PAUSE 0.5s] [EN: My name is —] [PAUSE 4s] [VI: tên tôi là] [PAUSE 0.5s] [EN: Now say it. Ask who that is —] [PAUSE 4s] [VI: Ai đó?] [EN: Good.] [PAUSE 0.5s] [EN: Say your name is Lan —] [PAUSE 4s] [VI: Tên tôi là Lan.] [EN: Say your name is Minh —] [PAUSE 4s] [VI: Tên tôi là Minh.] [EN: Good.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ai] [PAUSE 3s] [EN: who] [PAUSE 0.5s] [VI_F: gì] [PAUSE 3s] [EN: what] [PAUSE 0.5s] [VI_F: bạn tên gì] [PAUSE 3s] [EN: what is your name] [PAUSE 0.5s] [VI_F: tên tôi là] [PAUSE 3s] [EN: my name is] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ai] [PAUSE 1s] [VI_F: gì] [PAUSE 1s] [VI_F: bạn tên gì] [PAUSE 1s] [VI_F: tên tôi là] [PAUSE 0.5s] [EN: Remember,] [VI: gì] [EN: has] [EN: a falling tone] [EN: , and] [VI: tên] [EN: is] [EN: a flat tone, no mark] [EN: — flat.]"
     },
     {
       "type": "synthesis",

@@ -2,10 +2,26 @@
   "id": "L1-D21",
   "title": "Mấy giờ mở cửa: calling a restaurant",
   "vocab": [
-    {"vi": "mấy giờ", "en": "what time", "ipa": "mây˧˥ zɤ˨˩"},
-    {"vi": "buổi sáng", "en": "morning", "ipa": "buəj˨˩˦ saːŋ˧˥"},
-    {"vi": "mở cửa", "en": "to open", "ipa": "mɤ˨˩˦ kɨa˨˩˦"},
-    {"vi": "đóng cửa", "en": "to close", "ipa": "dɔŋ˧˥ kɨa˨˩˦"}
+    {
+      "vi": "mấy giờ",
+      "en": "what time",
+      "ipa": "mây˧˥ zɤ˨˩"
+    },
+    {
+      "vi": "buổi sáng",
+      "en": "morning",
+      "ipa": "buəj˨˩˦ saːŋ˧˥"
+    },
+    {
+      "vi": "mở cửa",
+      "en": "to open",
+      "ipa": "mɤ˨˩˦ kɨa˨˩˦"
+    },
+    {
+      "vi": "đóng cửa",
+      "en": "to close",
+      "ipa": "dɔŋ˧˥ kɨa˨˩˦"
+    }
   ],
   "segments": [
     {
@@ -16,7 +32,7 @@
     {
       "type": "dialogue",
       "duration_s": 220,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Alô, mở cửa chưa?] [PAUSE 0.5s] [VI_F: Dạ, mở cửa rồi.] [PAUSE 0.5s] [VI: Dạ, mấy giờ đóng cửa?] [PAUSE 0.5s] [VI_F: Dạ, buổi sáng.] [PAUSE 1s] [EN: You also heard] [VI: alô] [EN: hello, used only when answering the phone.] [PAUSE 0.5s] [EN: You asked] [VI: mấy giờ] [EN: it means what time. Listen to its two parts.] [VI_F: mấy] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: giờ] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole phrase again.] [VI_F: mấy giờ] [PAUSE 1s] [VI_F: mấy giờ] [EN: Now you say it.] [PAUSE 4s] [VI: mấy giờ] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: buổi sáng] [EN: means morning. Listen to its two parts.] [VI_F: buổi] [EN: has] [VI: dấu hỏi] [PAUSE 0.3s] [VI_F: sáng] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole word again.] [VI_F: buổi sáng] [PAUSE 1s] [VI_F: buổi sáng] [EN: Now you say it.] [PAUSE 4s] [VI: buổi sáng] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: mở cửa] [EN: means to open. Listen to its two parts.] [VI_F: mở] [EN: has] [VI: dấu hỏi] [PAUSE 0.3s] [VI_F: cửa] [EN: has] [VI: dấu hỏi] [EN: . Listen to the whole word again.] [VI_F: mở cửa] [PAUSE 1s] [VI_F: mở cửa] [EN: Now you say it.] [PAUSE 4s] [VI: mở cửa] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: đóng cửa] [EN: means to close. It shares] [VI: cửa] [EN: with] [VI: mở cửa] [EN: — listen to the first part.] [VI_F: đóng] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole word again.] [VI_F: đóng cửa] [PAUSE 1s] [VI_F: đóng cửa] [EN: Now you say it.] [PAUSE 4s] [VI: đóng cửa] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Alô, mở cửa chưa?] [PAUSE 0.5s] [VI_F: Dạ, mở cửa rồi.] [PAUSE 0.5s] [VI: Dạ, mấy giờ đóng cửa?] [PAUSE 0.5s] [VI_F: Dạ, buổi sáng.] [PAUSE 1s] [EN: You also heard] [VI: alô] [EN: hello, used only when answering the phone.] [PAUSE 0.5s] [EN: You asked] [VI: mấy giờ] [EN: it means what time. Listen to its two parts.] [VI_F: mấy] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: giờ] [EN: has] [EN: a falling tone] [EN: . Listen to the whole phrase again.] [VI_F: mấy giờ] [PAUSE 1s] [VI_F: mấy giờ] [EN: Now you say it.] [PAUSE 4s] [VI: mấy giờ] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: buổi sáng] [EN: means morning. Listen to its two parts.] [VI_F: buổi] [EN: has] [EN: a dipping tone — it falls, then rises] [PAUSE 0.3s] [VI_F: sáng] [EN: has] [EN: a high, rising tone] [EN: . Listen to the whole word again.] [VI_F: buổi sáng] [PAUSE 1s] [VI_F: buổi sáng] [EN: Now you say it.] [PAUSE 4s] [VI: buổi sáng] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: mở cửa] [EN: means to open. Listen to its two parts.] [VI_F: mở] [EN: has] [EN: a dipping tone — it falls, then rises] [PAUSE 0.3s] [VI_F: cửa] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: . Listen to the whole word again.] [VI_F: mở cửa] [PAUSE 1s] [VI_F: mở cửa] [EN: Now you say it.] [PAUSE 4s] [VI: mở cửa] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: đóng cửa] [EN: means to close. It shares] [VI: cửa] [EN: with] [VI: mở cửa] [EN: — listen to the first part.] [VI_F: đóng] [EN: has] [EN: a high, rising tone] [EN: . Listen to the whole word again.] [VI_F: đóng cửa] [PAUSE 1s] [VI_F: đóng cửa] [EN: Now you say it.] [PAUSE 4s] [VI: đóng cửa] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -26,7 +42,7 @@
     {
       "type": "drill",
       "duration_s": 245,
-      "script": "[EN: Let's drill. What time —] [PAUSE 4s] [VI: mấy giờ] [PAUSE 0.5s] [EN: Morning —] [PAUSE 4s] [VI: buổi sáng] [PAUSE 0.5s] [EN: To open —] [PAUSE 4s] [VI: mở cửa] [PAUSE 0.5s] [EN: To close —] [PAUSE 4s] [VI: đóng cửa] [PAUSE 0.5s] [EN: Now say it. Ask if it's open yet —] [PAUSE 4s] [VI: Mở cửa chưa?] [PAUSE 0.5s] [EN: Ask what time it closes —] [PAUSE 4s] [VI: Mấy giờ đóng cửa?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: mấy giờ] [PAUSE 3s] [EN: what time] [PAUSE 0.5s] [VI_F: buổi sáng] [PAUSE 3s] [EN: morning] [PAUSE 0.5s] [VI_F: mở cửa] [PAUSE 3s] [EN: to open] [PAUSE 0.5s] [VI_F: đóng cửa] [PAUSE 3s] [EN: to close] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: mấy giờ] [PAUSE 1s] [VI_F: buổi sáng] [PAUSE 1s] [VI_F: mở cửa] [PAUSE 1s] [VI_F: đóng cửa] [PAUSE 0.5s] [EN: Remember,] [VI: mở] [EN: has] [VI: dấu hỏi] [EN: , and] [VI: đóng] [EN: has] [VI: dấu sắc] [EN: .]"
+      "script": "[EN: Let's drill. What time —] [PAUSE 4s] [VI: mấy giờ] [PAUSE 0.5s] [EN: Morning —] [PAUSE 4s] [VI: buổi sáng] [PAUSE 0.5s] [EN: To open —] [PAUSE 4s] [VI: mở cửa] [PAUSE 0.5s] [EN: To close —] [PAUSE 4s] [VI: đóng cửa] [PAUSE 0.5s] [EN: Now say it. Ask if it's open yet —] [PAUSE 4s] [VI: Mở cửa chưa?] [PAUSE 0.5s] [EN: Ask what time it closes —] [PAUSE 4s] [VI: Mấy giờ đóng cửa?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: mấy giờ] [PAUSE 3s] [EN: what time] [PAUSE 0.5s] [VI_F: buổi sáng] [PAUSE 3s] [EN: morning] [PAUSE 0.5s] [VI_F: mở cửa] [PAUSE 3s] [EN: to open] [PAUSE 0.5s] [VI_F: đóng cửa] [PAUSE 3s] [EN: to close] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: mấy giờ] [PAUSE 1s] [VI_F: buổi sáng] [PAUSE 1s] [VI_F: mở cửa] [PAUSE 1s] [VI_F: đóng cửa] [PAUSE 0.5s] [EN: Remember,] [VI: mở] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: , and] [VI: đóng] [EN: has] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",

@@ -2,9 +2,21 @@
   "id": "L2-D16",
   "title": "Và, với, cũng: joining ideas",
   "vocab": [
-    {"vi": "và", "en": "and", "ipa": "vaː˨˩"},
-    {"vi": "với", "en": "with", "ipa": "vɤj˧˥"},
-    {"vi": "cũng", "en": "also, or too", "ipa": "kuŋ˨˩˦"}
+    {
+      "vi": "và",
+      "en": "and",
+      "ipa": "vaː˨˩"
+    },
+    {
+      "vi": "với",
+      "en": "with",
+      "ipa": "vɤj˧˥"
+    },
+    {
+      "vi": "cũng",
+      "en": "also, or too",
+      "ipa": "kuŋ˨˩˦"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 210,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chị đi chơi với em không?] [PAUSE 0.5s] [VI: Dạ, em đi chơi với chị. Anh cũng đi.] [PAUSE 0.5s] [VI_F: Vậy chị đi Bến Thành. Chị muốn cà phê và nước.] [PAUSE 1s] [EN: Three small words to join ideas today.] [PAUSE 0.5s] [EN: First,] [VI: và] [EN: means and — it joins two things. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: và] [PAUSE 1s] [VI_F: và] [EN: Now you say it.] [PAUSE 4s] [VI: và] [EN: Good.] [PAUSE 0.5s] [EN: Use it between two nouns. Coffee and water —] [PAUSE 4s] [VI: Cà phê và nước.] [PAUSE 0.5s] [EN: Next,] [VI: với] [EN: means with. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: với] [PAUSE 1s] [VI_F: với] [EN: Now you say it.] [PAUSE 4s] [VI: với] [EN: Good.] [PAUSE 0.5s] [EN: Put it after a verb, before a person. Go with me —] [PAUSE 4s] [VI: Đi với tôi.] [PAUSE 0.5s] [EN: Last,] [VI: cũng] [EN: means also, or too. It has] [VI: dấu ngã] [EN: . Listen again.] [VI_F: cũng] [PAUSE 1s] [VI_F: cũng] [EN: Now you say it.] [PAUSE 4s] [VI: cũng] [EN: Good.] [PAUSE 0.5s] [EN: Put it before the verb. I also want coffee —] [PAUSE 4s] [VI: Em cũng muốn cà phê.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chị đi chơi với em không?] [PAUSE 0.5s] [VI: Dạ, em đi chơi với chị. Anh cũng đi.] [PAUSE 0.5s] [VI_F: Vậy chị đi Bến Thành. Chị muốn cà phê và nước.] [PAUSE 1s] [EN: Three small words to join ideas today.] [PAUSE 0.5s] [EN: First,] [VI: và] [EN: means and — it joins two things. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: và] [PAUSE 1s] [VI_F: và] [EN: Now you say it.] [PAUSE 4s] [VI: và] [EN: Good.] [PAUSE 0.5s] [EN: Use it between two nouns. Coffee and water —] [PAUSE 4s] [VI: Cà phê và nước.] [PAUSE 0.5s] [EN: Next,] [VI: với] [EN: means with. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: với] [PAUSE 1s] [VI_F: với] [EN: Now you say it.] [PAUSE 4s] [VI: với] [EN: Good.] [PAUSE 0.5s] [EN: Put it after a verb, before a person. Go with me —] [PAUSE 4s] [VI: Đi với tôi.] [PAUSE 0.5s] [EN: Last,] [VI: cũng] [EN: means also, or too. It has] [EN: a dipping tone — it falls, then rises] [EN: . Listen again.] [VI_F: cũng] [PAUSE 1s] [VI_F: cũng] [EN: Now you say it.] [PAUSE 4s] [VI: cũng] [EN: Good.] [PAUSE 0.5s] [EN: Put it before the verb. I also want coffee —] [PAUSE 4s] [VI: Em cũng muốn cà phê.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 240,
-      "script": "[EN: Let's drill. And —] [PAUSE 4s] [VI: và] [PAUSE 0.5s] [EN: With —] [PAUSE 4s] [VI: với] [PAUSE 0.5s] [EN: Also —] [PAUSE 4s] [VI: cũng] [PAUSE 0.5s] [EN: Now say it. Coffee and water —] [PAUSE 4s] [VI: Cà phê và nước.] [PAUSE 0.5s] [EN: Go with me —] [PAUSE 4s] [VI: Đi với tôi.] [PAUSE 0.5s] [EN: I also want coffee —] [PAUSE 4s] [VI: Em cũng muốn cà phê.] [PAUSE 0.5s] [EN: Now swap in a new pair. I want water and ice —] [PAUSE 4s] [VI: Em muốn nước và đá.] [PAUSE 0.5s] [EN: I go with him —] [PAUSE 4s] [VI: Em đi với anh.] [PAUSE 0.5s] [EN: He is also going —] [PAUSE 4s] [VI: Anh cũng đi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: và] [PAUSE 3s] [EN: and] [PAUSE 0.5s] [VI_F: với] [PAUSE 3s] [EN: with] [PAUSE 0.5s] [VI_F: cũng] [PAUSE 3s] [EN: also, or too] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: và] [PAUSE 1s] [VI_F: với] [PAUSE 1s] [VI_F: cũng] [PAUSE 0.5s] [EN: Remember,] [VI: và] [EN: has] [VI: dấu huyền] [EN: , and] [VI: cũng] [EN: has] [VI: dấu ngã] [EN: .]"
+      "script": "[EN: Let's drill. And —] [PAUSE 4s] [VI: và] [PAUSE 0.5s] [EN: With —] [PAUSE 4s] [VI: với] [PAUSE 0.5s] [EN: Also —] [PAUSE 4s] [VI: cũng] [PAUSE 0.5s] [EN: Now say it. Coffee and water —] [PAUSE 4s] [VI: Cà phê và nước.] [PAUSE 0.5s] [EN: Go with me —] [PAUSE 4s] [VI: Đi với tôi.] [PAUSE 0.5s] [EN: I also want coffee —] [PAUSE 4s] [VI: Em cũng muốn cà phê.] [PAUSE 0.5s] [EN: Now swap in a new pair. I want water and ice —] [PAUSE 4s] [VI: Em muốn nước và đá.] [PAUSE 0.5s] [EN: I go with him —] [PAUSE 4s] [VI: Em đi với anh.] [PAUSE 0.5s] [EN: He is also going —] [PAUSE 4s] [VI: Anh cũng đi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: và] [PAUSE 3s] [EN: and] [PAUSE 0.5s] [VI_F: với] [PAUSE 3s] [EN: with] [PAUSE 0.5s] [VI_F: cũng] [PAUSE 3s] [EN: also, or too] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: và] [PAUSE 1s] [VI_F: với] [PAUSE 1s] [VI_F: cũng] [PAUSE 0.5s] [EN: Remember,] [VI: và] [EN: has] [EN: a falling tone] [EN: , and] [VI: cũng] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: .]"
     },
     {
       "type": "synthesis",

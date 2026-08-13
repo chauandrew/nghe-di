@@ -2,11 +2,31 @@
   "id": "L1-D8",
   "title": "Phủ định: negation with không",
   "vocab": [
-    {"vi": "ngon", "en": "tasty", "ipa": "ŋɔn˧"},
-    {"vi": "cay", "en": "spicy", "ipa": "kaːj˧"},
-    {"vi": "quá", "en": "too / very (after the adjective)", "ipa": "kwaː˧˥"},
-    {"vi": "không", "en": "not (before an adjective)", "ipa": "xoŋ˧"},
-    {"vi": "không phải", "en": "that's not right", "ipa": "xoŋ˧ faːj˨˩˦"}
+    {
+      "vi": "ngon",
+      "en": "tasty",
+      "ipa": "ŋɔn˧"
+    },
+    {
+      "vi": "cay",
+      "en": "spicy",
+      "ipa": "kaːj˧"
+    },
+    {
+      "vi": "quá",
+      "en": "too / very (after the adjective)",
+      "ipa": "kwaː˧˥"
+    },
+    {
+      "vi": "không",
+      "en": "not (before an adjective)",
+      "ipa": "xoŋ˧"
+    },
+    {
+      "vi": "không phải",
+      "en": "that's not right",
+      "ipa": "xoŋ˧ faːj˨˩˦"
+    }
   ],
   "segments": [
     {
@@ -17,7 +37,7 @@
     {
       "type": "dialogue",
       "duration_s": 250,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Ngon không?] [PAUSE 0.5s] [VI: Dạ, ngon! Cay quá!] [PAUSE 0.5s] [VI_F: Không phải, không cay.] [PAUSE 0.5s] [VI: Dạ, cay quá!] [PAUSE 1s] [EN: You heard] [VI: không] [EN: at the end of a question — it turns a statement into a yes or no question. You'll hear it often.] [PAUSE 0.5s] [EN: Now the words. First,] [VI: ngon] [EN: means tasty. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: ngon] [PAUSE 1s] [VI_F: ngon] [EN: Now you say it.] [PAUSE 4s] [VI: ngon] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: cay] [EN: means spicy. It also has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: cay] [PAUSE 1s] [VI_F: cay] [EN: Now you say it.] [PAUSE 4s] [VI: cay] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: quá] [EN: means too, or very — it comes after the adjective. It has] [VI: dấu sắc] [EN: — high, rising. Listen again.] [VI_F: quá] [PAUSE 1s] [VI_F: quá] [EN: Now you say it.] [PAUSE 4s] [VI: quá] [EN: Good. Try it with a word you know.] [PAUSE 0.3s] [VI_F: cay quá] [EN: too spicy.] [PAUSE 0.5s] [EN: Now the structure. To say something is NOT a certain way, put] [VI: không] [EN: in front of the adjective. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: không] [PAUSE 1s] [VI_F: không] [EN: Now you say it.] [PAUSE 4s] [VI: không] [EN: Good.] [PAUSE 0.5s] [VI_F: không cay] [EN: not spicy.] [PAUSE 0.3s] [VI_F: không ngon] [EN: not tasty.] [PAUSE 0.5s] [EN: And to flatly deny something, use] [VI: không phải] [EN: it means that's not right. It has two parts.] [VI: không] [EN: is] [VI: ngang] [PAUSE 0.3s] [VI_F: phải] [EN: has] [VI: dấu hỏi] [EN: . Listen to the whole phrase again.] [VI_F: không phải] [PAUSE 1s] [VI_F: không phải] [EN: Now you say it.] [PAUSE 4s] [VI: không phải] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Ngon không?] [PAUSE 0.5s] [VI: Dạ, ngon! Cay quá!] [PAUSE 0.5s] [VI_F: Không phải, không cay.] [PAUSE 0.5s] [VI: Dạ, cay quá!] [PAUSE 1s] [EN: You heard] [VI: không] [EN: at the end of a question — it turns a statement into a yes or no question. You'll hear it often.] [PAUSE 0.5s] [EN: Now the words. First,] [VI: ngon] [EN: means tasty. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: ngon] [PAUSE 1s] [VI_F: ngon] [EN: Now you say it.] [PAUSE 4s] [VI: ngon] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: cay] [EN: means spicy. It also has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: cay] [PAUSE 1s] [VI_F: cay] [EN: Now you say it.] [PAUSE 4s] [VI: cay] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: quá] [EN: means too, or very — it comes after the adjective. It has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: quá] [PAUSE 1s] [VI_F: quá] [EN: Now you say it.] [PAUSE 4s] [VI: quá] [EN: Good. Try it with a word you know.] [PAUSE 0.3s] [VI_F: cay quá] [EN: too spicy.] [PAUSE 0.5s] [EN: Now the structure. To say something is NOT a certain way, put] [VI: không] [EN: in front of the adjective. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: không] [PAUSE 1s] [VI_F: không] [EN: Now you say it.] [PAUSE 4s] [VI: không] [EN: Good.] [PAUSE 0.5s] [VI_F: không cay] [EN: not spicy.] [PAUSE 0.3s] [VI_F: không ngon] [EN: not tasty.] [PAUSE 0.5s] [EN: And to flatly deny something, use] [VI: không phải] [EN: it means that's not right. It has two parts.] [VI: không] [EN: is] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: phải] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: . Listen to the whole phrase again.] [VI_F: không phải] [PAUSE 1s] [VI_F: không phải] [EN: Now you say it.] [PAUSE 4s] [VI: không phải] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -27,7 +47,7 @@
     {
       "type": "drill",
       "duration_s": 260,
-      "script": "[EN: Let's drill. Tasty —] [PAUSE 4s] [VI: ngon] [PAUSE 0.5s] [EN: Spicy —] [PAUSE 4s] [VI: cay] [PAUSE 0.5s] [EN: Too, or very —] [PAUSE 4s] [VI: quá] [PAUSE 0.5s] [EN: Not —] [PAUSE 4s] [VI: không] [PAUSE 0.5s] [EN: That's not right —] [PAUSE 4s] [VI: không phải] [PAUSE 0.5s] [EN: Now negate. Not tasty —] [PAUSE 4s] [VI: Không ngon.] [PAUSE 0.5s] [EN: Not spicy —] [PAUSE 4s] [VI: Không cay.] [PAUSE 0.5s] [EN: Too spicy —] [PAUSE 4s] [VI: Cay quá.] [PAUSE 0.5s] [EN: Very tasty —] [PAUSE 4s] [VI: Ngon quá.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ngon] [PAUSE 3s] [EN: tasty] [PAUSE 0.5s] [VI_F: cay] [PAUSE 3s] [EN: spicy] [PAUSE 0.5s] [VI_F: quá] [PAUSE 3s] [EN: too, or very] [PAUSE 0.5s] [VI_F: không] [PAUSE 3s] [EN: not] [PAUSE 0.5s] [VI_F: không phải] [PAUSE 3s] [EN: that's not right] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ngon] [PAUSE 1s] [VI_F: cay] [PAUSE 1s] [VI_F: quá] [PAUSE 1s] [VI_F: không] [PAUSE 1s] [VI_F: không phải] [PAUSE 0.5s] [EN: Remember,] [VI: quá] [EN: has] [VI: dấu sắc] [EN: , and] [VI: phải] [EN: has] [VI: dấu hỏi] [EN: . The rest are] [VI: ngang] [EN: .]"
+      "script": "[EN: Let's drill. Tasty —] [PAUSE 4s] [VI: ngon] [PAUSE 0.5s] [EN: Spicy —] [PAUSE 4s] [VI: cay] [PAUSE 0.5s] [EN: Too, or very —] [PAUSE 4s] [VI: quá] [PAUSE 0.5s] [EN: Not —] [PAUSE 4s] [VI: không] [PAUSE 0.5s] [EN: That's not right —] [PAUSE 4s] [VI: không phải] [PAUSE 0.5s] [EN: Now negate. Not tasty —] [PAUSE 4s] [VI: Không ngon.] [PAUSE 0.5s] [EN: Not spicy —] [PAUSE 4s] [VI: Không cay.] [PAUSE 0.5s] [EN: Too spicy —] [PAUSE 4s] [VI: Cay quá.] [PAUSE 0.5s] [EN: Very tasty —] [PAUSE 4s] [VI: Ngon quá.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: ngon] [PAUSE 3s] [EN: tasty] [PAUSE 0.5s] [VI_F: cay] [PAUSE 3s] [EN: spicy] [PAUSE 0.5s] [VI_F: quá] [PAUSE 3s] [EN: too, or very] [PAUSE 0.5s] [VI_F: không] [PAUSE 3s] [EN: not] [PAUSE 0.5s] [VI_F: không phải] [PAUSE 3s] [EN: that's not right] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ngon] [PAUSE 1s] [VI_F: cay] [PAUSE 1s] [VI_F: quá] [PAUSE 1s] [VI_F: không] [PAUSE 1s] [VI_F: không phải] [PAUSE 0.5s] [EN: Remember,] [VI: quá] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: phải] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: . The rest are] [EN: a flat tone, no mark] [EN: .]"
     },
     {
       "type": "synthesis",

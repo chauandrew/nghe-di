@@ -2,11 +2,31 @@
   "id": "L1-D4",
   "title": "Đếm từ sáu đến mười: counting six to ten",
   "vocab": [
-    {"vi": "sáu", "en": "six", "ipa": "saːw˧˥"},
-    {"vi": "bảy", "en": "seven", "ipa": "baj˨˩˦"},
-    {"vi": "tám", "en": "eight", "ipa": "taːm˧˥"},
-    {"vi": "chín", "en": "nine", "ipa": "tɕin˧˥"},
-    {"vi": "mười", "en": "ten", "ipa": "mɨːj˨˩"}
+    {
+      "vi": "sáu",
+      "en": "six",
+      "ipa": "saːw˧˥"
+    },
+    {
+      "vi": "bảy",
+      "en": "seven",
+      "ipa": "baj˨˩˦"
+    },
+    {
+      "vi": "tám",
+      "en": "eight",
+      "ipa": "taːm˧˥"
+    },
+    {
+      "vi": "chín",
+      "en": "nine",
+      "ipa": "tɕin˧˥"
+    },
+    {
+      "vi": "mười",
+      "en": "ten",
+      "ipa": "mɨːj˨˩"
+    }
   ],
   "segments": [
     {
@@ -17,7 +37,7 @@
     {
       "type": "dialogue",
       "duration_s": 240,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạ, bao nhiêu?] [PAUSE 0.5s] [VI: Dạ, mười.] [PAUSE 0.5s] [VI_F: Dạ, cảm ơn anh!] [PAUSE 1s] [EN: Let's keep counting, from six to ten.] [PAUSE 0.5s] [EN: First,] [VI: sáu] [EN: means six. It has] [VI: dấu sắc] [EN: — high, rising. Listen again.] [VI_F: sáu] [PAUSE 1s] [VI_F: sáu] [EN: Now you say it.] [PAUSE 4s] [VI: sáu] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: bảy] [EN: means seven. It has] [VI: dấu hỏi] [EN: — dipping. Listen again.] [VI_F: bảy] [PAUSE 1s] [VI_F: bảy] [EN: Now you say it.] [PAUSE 4s] [VI: bảy] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: tám] [EN: means eight. It has] [VI: dấu sắc] [EN: — high, rising. Listen again.] [VI_F: tám] [PAUSE 1s] [VI_F: tám] [EN: Now you say it.] [PAUSE 4s] [VI: tám] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: chín] [EN: means nine. It also has] [VI: dấu sắc] [EN: — high, rising. Listen again.] [VI_F: chín] [PAUSE 1s] [VI_F: chín] [EN: Now you say it.] [PAUSE 4s] [VI: chín] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: mười] [EN: means ten. It has] [VI: dấu huyền] [EN: — falling. Listen again.] [VI_F: mười] [PAUSE 1s] [VI_F: mười] [EN: Now you say it.] [PAUSE 4s] [VI: mười] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạ, bao nhiêu?] [PAUSE 0.5s] [VI: Dạ, mười.] [PAUSE 0.5s] [VI_F: Dạ, cảm ơn anh!] [PAUSE 1s] [EN: Let's keep counting, from six to ten.] [PAUSE 0.5s] [EN: First,] [VI: sáu] [EN: means six. It has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: sáu] [PAUSE 1s] [VI_F: sáu] [EN: Now you say it.] [PAUSE 4s] [VI: sáu] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: bảy] [EN: means seven. It has] [EN: a dipping tone — it falls, then rises] [EN: — dipping. Listen again.] [VI_F: bảy] [PAUSE 1s] [VI_F: bảy] [EN: Now you say it.] [PAUSE 4s] [VI: bảy] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: tám] [EN: means eight. It has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: tám] [PAUSE 1s] [VI_F: tám] [EN: Now you say it.] [PAUSE 4s] [VI: tám] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: chín] [EN: means nine. It also has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: chín] [PAUSE 1s] [VI_F: chín] [EN: Now you say it.] [PAUSE 4s] [VI: chín] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: mười] [EN: means ten. It has] [EN: a falling tone] [EN: — falling. Listen again.] [VI_F: mười] [PAUSE 1s] [VI_F: mười] [EN: Now you say it.] [PAUSE 4s] [VI: mười] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -27,7 +47,7 @@
     {
       "type": "drill",
       "duration_s": 270,
-      "script": "[EN: Let's drill. Six —] [PAUSE 4s] [VI: sáu] [PAUSE 0.5s] [EN: Seven —] [PAUSE 4s] [VI: bảy] [PAUSE 0.5s] [EN: Eight —] [PAUSE 4s] [VI: tám] [PAUSE 0.5s] [EN: Nine —] [PAUSE 4s] [VI: chín] [PAUSE 0.5s] [EN: Ten —] [PAUSE 4s] [VI: mười] [PAUSE 0.5s] [EN: Now count all the way from one to ten.] [PAUSE 0.5s] [VI_F: một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười.] [EN: Your turn.] [PAUSE 6s] [VI: một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười.] [EN: Good.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: sáu] [PAUSE 3s] [EN: six] [PAUSE 0.5s] [VI_F: bảy] [PAUSE 3s] [EN: seven] [PAUSE 0.5s] [VI_F: tám] [PAUSE 3s] [EN: eight] [PAUSE 0.5s] [VI_F: chín] [PAUSE 3s] [EN: nine] [PAUSE 0.5s] [VI_F: mười] [PAUSE 3s] [EN: ten] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: sáu] [PAUSE 1s] [VI_F: bảy] [PAUSE 1s] [VI_F: tám] [PAUSE 1s] [VI_F: chín] [PAUSE 1s] [VI_F: mười] [PAUSE 0.5s] [EN: Remember,] [VI: bảy] [EN: has] [VI: dấu hỏi] [EN: , and] [VI: mười] [EN: has] [VI: dấu huyền] [EN: . The others have] [VI: dấu sắc] [EN: .]"
+      "script": "[EN: Let's drill. Six —] [PAUSE 4s] [VI: sáu] [PAUSE 0.5s] [EN: Seven —] [PAUSE 4s] [VI: bảy] [PAUSE 0.5s] [EN: Eight —] [PAUSE 4s] [VI: tám] [PAUSE 0.5s] [EN: Nine —] [PAUSE 4s] [VI: chín] [PAUSE 0.5s] [EN: Ten —] [PAUSE 4s] [VI: mười] [PAUSE 0.5s] [EN: Now count all the way from one to ten.] [PAUSE 0.5s] [VI_F: một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười.] [EN: Your turn.] [PAUSE 6s] [VI: một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười.] [EN: Good.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: sáu] [PAUSE 3s] [EN: six] [PAUSE 0.5s] [VI_F: bảy] [PAUSE 3s] [EN: seven] [PAUSE 0.5s] [VI_F: tám] [PAUSE 3s] [EN: eight] [PAUSE 0.5s] [VI_F: chín] [PAUSE 3s] [EN: nine] [PAUSE 0.5s] [VI_F: mười] [PAUSE 3s] [EN: ten] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: sáu] [PAUSE 1s] [VI_F: bảy] [PAUSE 1s] [VI_F: tám] [PAUSE 1s] [VI_F: chín] [PAUSE 1s] [VI_F: mười] [PAUSE 0.5s] [EN: Remember,] [VI: bảy] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: , and] [VI: mười] [EN: has] [EN: a falling tone] [EN: . The others have] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",

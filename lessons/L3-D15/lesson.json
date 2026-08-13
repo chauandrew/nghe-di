@@ -2,20 +2,32 @@
   "id": "L3-D15",
   "title": "Vì ... nên, tại sao: explaining reasons",
   "vocab": [
-    {"vi": "vì", "en": "because", "ipa": "vi˨˩"},
-    {"vi": "nên", "en": "so, therefore", "ipa": "nen˧"},
-    {"vi": "tại sao", "en": "why?", "ipa": "taːj˨˩ʔ saːw˧"}
+    {
+      "vi": "vì",
+      "en": "because",
+      "ipa": "vi˨˩"
+    },
+    {
+      "vi": "nên",
+      "en": "so, therefore",
+      "ipa": "nen˧"
+    },
+    {
+      "vi": "tại sao",
+      "en": "why?",
+      "ipa": "taːj˨˩ʔ saːw˧"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 95,
-      "script": "[EN: Quick review of the tone names — it has been a while.] [PAUSE 0.5s] [EN: Flat tone, no mark —] [PAUSE 4s] [VI: ngang] [PAUSE 0.5s] [EN: Falling tone —] [PAUSE 4s] [VI: dấu huyền] [PAUSE 0.5s] [EN: High, rising tone —] [PAUSE 4s] [VI: dấu sắc] [PAUSE 0.5s] [EN: Dipping tone —] [PAUSE 4s] [VI: dấu hỏi] [PAUSE 0.5s] [EN: The same dipping sound, written differently —] [PAUSE 4s] [VI: dấu ngã] [PAUSE 0.5s] [EN: Low, cut-off tone —] [PAUSE 4s] [VI: dấu nặng] [EN: Good.]"
+      "script": "[EN: Quick review. Say one day, or my day —] [PAUSE 4s] [VI: một ngày] [EN: Say normal, or as usual —] [PAUSE 4s] [VI: bình thường] [EN: Say healthy, or well —] [PAUSE 4s] [VI: khỏe] [EN: Say how's it going —] [PAUSE 4s] [VI: sao rồi] [EN: Say market —] [PAUSE 4s] [VI: chợ] [EN: Say park —] [PAUSE 4s] [VI: công viên] [EN: Good.]"
     },
     {
       "type": "dialogue",
       "duration_s": 215,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Tại sao anh mệt vậy?] [PAUSE 0.5s] [VI: Dạ, vì tôi bận, nên tôi mệt.] [PAUSE 0.5s] [VI_F: Vậy hãy nghỉ đi.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: Today, a structure for giving reasons.] [PAUSE 0.5s] [EN: First,] [VI: vì] [EN: means because. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: vì] [PAUSE 1s] [VI_F: vì] [EN: Now you say it.] [PAUSE 4s] [VI: vì] [EN: Good. Because I'm busy —] [PAUSE 4s] [VI: vì tôi bận] [PAUSE 0.5s] [EN: Next,] [VI: nên] [EN: means so, or therefore — it introduces the result. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: nên] [PAUSE 1s] [VI_F: nên] [EN: Now you say it.] [PAUSE 4s] [VI: nên] [EN: Good. Put them together:] [VI_F: vì tôi bận, nên tôi mệt] [EN: because I'm busy, so I'm tired.] [PAUSE 0.5s] [EN: Last, the question word.] [VI: tại sao] [EN: means why. Listen to its two parts.] [VI_F: tại] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: sao] [EN: has] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: tại sao] [PAUSE 1s] [VI_F: tại sao] [EN: Now you say it.] [PAUSE 4s] [VI: tại sao] [EN: Good. Why are you tired —] [PAUSE 4s] [VI: Tại sao anh mệt?]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Tại sao anh mệt vậy?] [PAUSE 0.5s] [VI: Dạ, vì tôi bận, nên tôi mệt.] [PAUSE 0.5s] [VI_F: Vậy hãy nghỉ đi.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: Today, a structure for giving reasons.] [PAUSE 0.5s] [EN: First,] [VI: vì] [EN: means because. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: vì] [PAUSE 1s] [VI_F: vì] [EN: Now you say it.] [PAUSE 4s] [VI: vì] [EN: Good. Because I'm busy —] [PAUSE 4s] [VI: vì tôi bận] [PAUSE 0.5s] [EN: Next,] [VI: nên] [EN: means so, or therefore — it introduces the result. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: nên] [PAUSE 1s] [VI_F: nên] [EN: Now you say it.] [PAUSE 4s] [VI: nên] [EN: Good. Put them together:] [VI_F: vì tôi bận, nên tôi mệt] [EN: because I'm busy, so I'm tired.] [PAUSE 0.5s] [EN: Last, the question word.] [VI: tại sao] [EN: means why. Listen to its two parts.] [VI_F: tại] [EN: has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: sao] [EN: has] [EN: a flat tone, no mark] [EN: . Listen to the whole word again.] [VI_F: tại sao] [PAUSE 1s] [VI_F: tại sao] [EN: Now you say it.] [PAUSE 4s] [VI: tại sao] [EN: Good. Why are you tired —] [PAUSE 4s] [VI: Tại sao anh mệt?]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 245,
-      "script": "[EN: Let's drill. Because —] [PAUSE 4s] [VI: vì] [PAUSE 0.5s] [EN: So, therefore —] [PAUSE 4s] [VI: nên] [PAUSE 0.5s] [EN: Why —] [PAUSE 4s] [VI: tại sao] [PAUSE 0.5s] [EN: Now build it. Ask why —] [PAUSE 4s] [VI: Tại sao?] [PAUSE 0.5s] [EN: Because I'm tired —] [PAUSE 4s] [VI: Vì tôi mệt.] [PAUSE 0.5s] [EN: Because I'm busy, so I'm tired —] [PAUSE 4s] [VI: Vì tôi bận, nên tôi mệt.] [PAUSE 0.5s] [EN: Why are you tired —] [PAUSE 4s] [VI: Tại sao anh mệt?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: vì] [PAUSE 3s] [EN: because] [PAUSE 0.5s] [VI_F: nên] [PAUSE 3s] [EN: so, therefore] [PAUSE 0.5s] [VI_F: tại sao] [PAUSE 3s] [EN: why] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: vì] [PAUSE 1s] [VI_F: nên] [PAUSE 1s] [VI_F: tại sao] [PAUSE 0.5s] [EN: Remember,] [VI: vì] [EN: has] [VI: dấu huyền] [EN: , and] [VI: tại] [EN: has] [VI: dấu nặng] [EN: .]"
+      "script": "[EN: Let's drill. Because —] [PAUSE 4s] [VI: vì] [PAUSE 0.5s] [EN: So, therefore —] [PAUSE 4s] [VI: nên] [PAUSE 0.5s] [EN: Why —] [PAUSE 4s] [VI: tại sao] [PAUSE 0.5s] [EN: Now build it. Ask why —] [PAUSE 4s] [VI: Tại sao?] [PAUSE 0.5s] [EN: Because I'm tired —] [PAUSE 4s] [VI: Vì tôi mệt.] [PAUSE 0.5s] [EN: Because I'm busy, so I'm tired —] [PAUSE 4s] [VI: Vì tôi bận, nên tôi mệt.] [PAUSE 0.5s] [EN: Why are you tired —] [PAUSE 4s] [VI: Tại sao anh mệt?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: vì] [PAUSE 3s] [EN: because] [PAUSE 0.5s] [VI_F: nên] [PAUSE 3s] [EN: so, therefore] [PAUSE 0.5s] [VI_F: tại sao] [PAUSE 3s] [EN: why] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: vì] [PAUSE 1s] [VI_F: nên] [PAUSE 1s] [VI_F: tại sao] [PAUSE 0.5s] [EN: Remember,] [VI: vì] [EN: has] [EN: a falling tone] [EN: , and] [VI: tại] [EN: has] [EN: a low tone, cut off short] [EN: .]"
     },
     {
       "type": "synthesis",

@@ -2,8 +2,16 @@
   "id": "L2-D26",
   "title": "Lâu rồi, dạo này: catching up",
   "vocab": [
-    {"vi": "lâu rồi", "en": "it's been a long time", "ipa": "ləw˧ ʐoj˨˩"},
-    {"vi": "dạo này", "en": "these days, or lately", "ipa": "zaːw˨˩ʔ naːj˨˩"}
+    {
+      "vi": "lâu rồi",
+      "en": "it's been a long time",
+      "ipa": "ləw˧ ʐoj˨˩"
+    },
+    {
+      "vi": "dạo này",
+      "en": "these days, or lately",
+      "ipa": "zaːw˨˩ʔ naːj˨˩"
+    }
   ],
   "segments": [
     {
@@ -14,7 +22,7 @@
     {
       "type": "dialogue",
       "duration_s": 200,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Lâu rồi không gặp!] [PAUSE 0.5s] [VI: Dạ, lâu rồi!] [PAUSE 0.5s] [VI_F: Dạo này chị làm việc không?] [PAUSE 0.5s] [VI: Dạ có.] [PAUSE 1s] [EN: Two phrases for catching up today.] [PAUSE 0.5s] [EN: First,] [VI: lâu rồi] [EN: means it's been a long time. You know] [VI: bao lâu] [EN: — how long — and] [VI: rồi] [EN: — already. Listen again.] [VI_F: lâu rồi] [PAUSE 1s] [VI_F: lâu rồi] [EN: Now you say it.] [PAUSE 4s] [VI: lâu rồi] [EN: Good.] [PAUSE 0.5s] [EN: Say long time no see —] [PAUSE 4s] [VI: Lâu rồi không gặp!] [PAUSE 0.5s] [EN: Next,] [VI: dạo này] [EN: means these days, or lately. It has] [VI: dấu nặng] [EN: on] [VI: dạo] [EN: — you already know] [VI: này] [EN: from before. Listen again.] [VI_F: dạo này] [PAUSE 1s] [VI_F: dạo này] [EN: Now you say it.] [PAUSE 4s] [VI: dạo này] [EN: Good.] [PAUSE 0.5s] [EN: Use it to open a question. These days, are you working? —] [PAUSE 4s] [VI: Dạo này chị làm việc không?]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Lâu rồi không gặp!] [PAUSE 0.5s] [VI: Dạ, lâu rồi!] [PAUSE 0.5s] [VI_F: Dạo này chị làm việc không?] [PAUSE 0.5s] [VI: Dạ có.] [PAUSE 1s] [EN: Two phrases for catching up today.] [PAUSE 0.5s] [EN: First,] [VI: lâu rồi] [EN: means it's been a long time. You know] [VI: bao lâu] [EN: — how long — and] [VI: rồi] [EN: — already. Listen again.] [VI_F: lâu rồi] [PAUSE 1s] [VI_F: lâu rồi] [EN: Now you say it.] [PAUSE 4s] [VI: lâu rồi] [EN: Good.] [PAUSE 0.5s] [EN: Say long time no see —] [PAUSE 4s] [VI: Lâu rồi không gặp!] [PAUSE 0.5s] [EN: Next,] [VI: dạo này] [EN: means these days, or lately. It has] [EN: a low tone, cut off short] [EN: on] [VI: dạo] [EN: — you already know] [VI: này] [EN: from before. Listen again.] [VI_F: dạo này] [PAUSE 1s] [VI_F: dạo này] [EN: Now you say it.] [PAUSE 4s] [VI: dạo này] [EN: Good.] [PAUSE 0.5s] [EN: Use it to open a question. These days, are you working? —] [PAUSE 4s] [VI: Dạo này chị làm việc không?]"
     },
     {
       "type": "consolidate",
@@ -24,7 +32,7 @@
     {
       "type": "drill",
       "duration_s": 230,
-      "script": "[EN: Let's drill. It's been a long time —] [PAUSE 4s] [VI: lâu rồi] [PAUSE 0.5s] [EN: These days —] [PAUSE 4s] [VI: dạo này] [PAUSE 0.5s] [EN: Now say it. Long time no see —] [PAUSE 4s] [VI: Lâu rồi không gặp!] [PAUSE 0.5s] [EN: These days, are you free? —] [PAUSE 4s] [VI: Dạo này chị rảnh không?] [PAUSE 0.5s] [EN: These days, are you working? —] [PAUSE 4s] [VI: Dạo này chị làm việc không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: lâu rồi] [PAUSE 3s] [EN: it's been a long time] [PAUSE 0.5s] [VI_F: dạo này] [PAUSE 3s] [EN: these days, or lately] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: lâu rồi] [PAUSE 1s] [VI_F: dạo này] [PAUSE 0.5s] [EN: Remember,] [VI: dạo] [EN: has] [VI: dấu nặng] [EN: , and] [VI: này] [EN: has] [VI: dấu huyền] [EN: .]"
+      "script": "[EN: Let's drill. It's been a long time —] [PAUSE 4s] [VI: lâu rồi] [PAUSE 0.5s] [EN: These days —] [PAUSE 4s] [VI: dạo này] [PAUSE 0.5s] [EN: Now say it. Long time no see —] [PAUSE 4s] [VI: Lâu rồi không gặp!] [PAUSE 0.5s] [EN: These days, are you free? —] [PAUSE 4s] [VI: Dạo này chị rảnh không?] [PAUSE 0.5s] [EN: These days, are you working? —] [PAUSE 4s] [VI: Dạo này chị làm việc không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: lâu rồi] [PAUSE 3s] [EN: it's been a long time] [PAUSE 0.5s] [VI_F: dạo này] [PAUSE 3s] [EN: these days, or lately] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: lâu rồi] [PAUSE 1s] [VI_F: dạo này] [PAUSE 0.5s] [EN: Remember,] [VI: dạo] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: này] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",

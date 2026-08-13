@@ -2,9 +2,21 @@
   "id": "L2-D6",
   "title": "Làm việc, về nhà, nấu ăn: work, home, cooking",
   "vocab": [
-    {"vi": "làm việc", "en": "to work", "ipa": "laːm˨˩ viək˨˩ʔ"},
-    {"vi": "về nhà", "en": "to go home", "ipa": "ve˨˩ ɲaː˨˩"},
-    {"vi": "nấu ăn", "en": "to cook", "ipa": "nəw˧˥ ăn˧"}
+    {
+      "vi": "làm việc",
+      "en": "to work",
+      "ipa": "laːm˨˩ viək˨˩ʔ"
+    },
+    {
+      "vi": "về nhà",
+      "en": "to go home",
+      "ipa": "ve˨˩ ɲaː˨˩"
+    },
+    {
+      "vi": "nấu ăn",
+      "en": "to cook",
+      "ipa": "nəw˧˥ ăn˧"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 200,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Mấy giờ chị về nhà?] [PAUSE 0.5s] [VI_F: Dạ, sáu giờ tối.] [PAUSE 0.5s] [VI: Chị nấu ăn không?] [PAUSE 0.5s] [VI_F: Dạ, có. Em thích nấu ăn.] [PAUSE 1s] [EN: Three more routine verbs today. First,] [VI: làm việc] [EN: means to work. Listen to its two parts.] [VI_F: làm] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI_F: việc] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: làm việc] [PAUSE 1s] [VI_F: làm việc] [EN: Now you say it.] [PAUSE 4s] [VI: làm việc] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: về nhà] [EN: means to go home. Listen to its two parts.] [VI_F: về] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI_F: nhà] [EN: also has] [VI: dấu huyền] [EN: . Listen to the whole word again.] [VI_F: về nhà] [PAUSE 1s] [VI_F: về nhà] [EN: Now you say it.] [PAUSE 4s] [VI: về nhà] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: nấu ăn] [EN: means to cook. You already know] [VI: ăn] [EN: to eat — this adds] [VI: nấu] [EN: which has] [VI: dấu sắc] [EN: . Listen to the whole word again.] [VI_F: nấu ăn] [PAUSE 1s] [VI_F: nấu ăn] [EN: Now you say it.] [PAUSE 4s] [VI: nấu ăn] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Mấy giờ chị về nhà?] [PAUSE 0.5s] [VI_F: Dạ, sáu giờ tối.] [PAUSE 0.5s] [VI: Chị nấu ăn không?] [PAUSE 0.5s] [VI_F: Dạ, có. Em thích nấu ăn.] [PAUSE 1s] [EN: Three more routine verbs today. First,] [VI: làm việc] [EN: means to work. Listen to its two parts.] [VI_F: làm] [EN: has] [EN: a falling tone] [PAUSE 0.3s] [VI_F: việc] [EN: has] [EN: a low tone, cut off short] [EN: . Listen to the whole word again.] [VI_F: làm việc] [PAUSE 1s] [VI_F: làm việc] [EN: Now you say it.] [PAUSE 4s] [VI: làm việc] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: về nhà] [EN: means to go home. Listen to its two parts.] [VI_F: về] [EN: has] [EN: a falling tone] [PAUSE 0.3s] [VI_F: nhà] [EN: also has] [EN: a falling tone] [EN: . Listen to the whole word again.] [VI_F: về nhà] [PAUSE 1s] [VI_F: về nhà] [EN: Now you say it.] [PAUSE 4s] [VI: về nhà] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: nấu ăn] [EN: means to cook. You already know] [VI: ăn] [EN: to eat — this adds] [VI: nấu] [EN: which has] [EN: a high, rising tone] [EN: . Listen to the whole word again.] [VI_F: nấu ăn] [PAUSE 1s] [VI_F: nấu ăn] [EN: Now you say it.] [PAUSE 4s] [VI: nấu ăn] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 240,
-      "script": "[EN: Let's drill. To work —] [PAUSE 4s] [VI: làm việc] [PAUSE 0.5s] [EN: To go home —] [PAUSE 4s] [VI: về nhà] [PAUSE 0.5s] [EN: To cook —] [PAUSE 4s] [VI: nấu ăn] [PAUSE 0.5s] [EN: Now say it. I'm working right now —] [PAUSE 4s] [VI: Em đang làm việc.] [PAUSE 0.5s] [EN: I already went home —] [PAUSE 4s] [VI: Em đã về nhà.] [PAUSE 0.5s] [EN: I will cook —] [PAUSE 4s] [VI: Em sẽ nấu ăn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: làm việc] [PAUSE 3s] [EN: to work] [PAUSE 0.5s] [VI_F: về nhà] [PAUSE 3s] [EN: to go home] [PAUSE 0.5s] [VI_F: nấu ăn] [PAUSE 3s] [EN: to cook] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: làm việc] [PAUSE 1s] [VI_F: về nhà] [PAUSE 1s] [VI_F: nấu ăn] [PAUSE 0.5s] [EN: Remember,] [VI: làm] [EN: and] [VI: về] [EN: and] [VI: nhà] [EN: all have] [VI: dấu huyền] [EN: .]"
+      "script": "[EN: Let's drill. To work —] [PAUSE 4s] [VI: làm việc] [PAUSE 0.5s] [EN: To go home —] [PAUSE 4s] [VI: về nhà] [PAUSE 0.5s] [EN: To cook —] [PAUSE 4s] [VI: nấu ăn] [PAUSE 0.5s] [EN: Now say it. I'm working right now —] [PAUSE 4s] [VI: Em đang làm việc.] [PAUSE 0.5s] [EN: I already went home —] [PAUSE 4s] [VI: Em đã về nhà.] [PAUSE 0.5s] [EN: I will cook —] [PAUSE 4s] [VI: Em sẽ nấu ăn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: làm việc] [PAUSE 3s] [EN: to work] [PAUSE 0.5s] [VI_F: về nhà] [PAUSE 3s] [EN: to go home] [PAUSE 0.5s] [VI_F: nấu ăn] [PAUSE 3s] [EN: to cook] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: làm việc] [PAUSE 1s] [VI_F: về nhà] [PAUSE 1s] [VI_F: nấu ăn] [PAUSE 0.5s] [EN: Remember,] [VI: làm] [EN: and] [VI: về] [EN: and] [VI: nhà] [EN: all have] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",

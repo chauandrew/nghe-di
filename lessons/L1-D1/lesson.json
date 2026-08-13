@@ -2,20 +2,32 @@
   "id": "L1-D1",
   "title": "Chào người bán hàng: greeting a street vendor",
   "vocab": [
-    {"vi": "xin chào", "en": "hello", "ipa": "sin˧ tɕaːw˨˩"},
-    {"vi": "cảm ơn", "en": "thank you", "ipa": "kaːm˨˩˦ ɤn˧"},
-    {"vi": "dạ", "en": "polite yes / soft opener", "ipa": "zaː˨˩ʔ"}
+    {
+      "vi": "xin chào",
+      "en": "hello",
+      "ipa": "sin˧ tɕaːw˨˩"
+    },
+    {
+      "vi": "cảm ơn",
+      "en": "thank you",
+      "ipa": "kaːm˨˩˦ ɤn˧"
+    },
+    {
+      "vi": "dạ",
+      "en": "polite yes / soft opener",
+      "ipa": "zaː˨˩ʔ"
+    }
   ],
   "segments": [
     {
       "type": "recall",
-      "duration_s": 90,
-      "script": "[EN: Quick review of the tone names from last time. When you hear the tone described, say its name.] [PAUSE 0.5s] [EN: Flat tone, no mark —] [PAUSE 4s] [VI: ngang] [PAUSE 0.5s] [EN: Falling tone —] [PAUSE 4s] [VI: dấu huyền] [PAUSE 0.5s] [EN: High, rising tone —] [PAUSE 4s] [VI: dấu sắc] [PAUSE 0.5s] [EN: Dipping tone —] [PAUSE 4s] [VI: dấu hỏi] [PAUSE 0.5s] [EN: The same dipping sound, written differently —] [PAUSE 4s] [VI: dấu ngã] [PAUSE 0.5s] [EN: Low, cut-off tone —] [PAUSE 4s] [VI: dấu nặng] [EN: Good. All six.]"
+      "duration_s": 40,
+      "script": "[EN: Quick warm-up before we start. Round your lips —] [PAUSE 3s] [VI: u] [EN: Relax them —] [PAUSE 3s] [VI: ư] [EN: Smile —] [PAUSE 3s] [VI: i] [EN: Good. Let's begin.]"
     },
     {
       "type": "dialogue",
       "duration_s": 210,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Xin chào!] [PAUSE 0.5s] [VI: Dạ, xin chào! Cảm ơn!] [PAUSE 1s] [EN: That greeting was] [VI: xin chào] [EN: it means hello. Listen to its two parts.] [VI_F: xin] [EN: has] [VI: ngang] [EN: — flat, no mark.] [PAUSE 0.3s] [VI_F: chào] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole word again.] [VI_F: xin chào] [PAUSE 1s] [VI_F: xin chào] [EN: Now you say it.] [PAUSE 4s] [VI: xin chào] [EN: Good.] [PAUSE 0.5s] [EN: Before] [VI: xin chào] [EN: you heard] [VI: dạ] [EN: it is a soft, polite opener — it shows respect, like a gentle yes.] [VI: dạ] [EN: has] [VI: dấu nặng] [EN: — low, cut off. Listen again.] [VI_F: dạ] [PAUSE 1s] [VI_F: dạ] [EN: You try.] [PAUSE 4s] [VI: dạ] [EN: Now open a greeting politely with it.] [PAUSE 4s] [VI: Dạ, xin chào.] [PAUSE 0.5s] [EN: Now] [VI: cảm ơn] [EN: it means thank you.] [VI: Cảm] [EN: has] [VI: dấu hỏi] [PAUSE 0.3s] [VI: Ơn] [EN: is] [VI: ngang] [EN: — flat. Listen to the whole word.] [VI_F: cảm ơn] [PAUSE 1s] [VI_F: cảm ơn] [EN: Now you say it.] [PAUSE 4s] [VI: cảm ơn] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Xin chào!] [PAUSE 0.5s] [VI: Dạ, xin chào! Cảm ơn!] [PAUSE 1s] [EN: That greeting was] [VI: xin chào] [EN: it means hello. Listen to its two parts.] [VI_F: xin] [EN: has] [EN: a flat tone, no mark] [EN: — flat, no mark.] [PAUSE 0.3s] [VI_F: chào] [EN: has] [EN: a falling tone] [EN: . Listen to the whole word again.] [VI_F: xin chào] [PAUSE 1s] [VI_F: xin chào] [EN: Now you say it.] [PAUSE 4s] [VI: xin chào] [EN: Good.] [PAUSE 0.5s] [EN: Before] [VI: xin chào] [EN: you heard] [VI: dạ] [EN: it is a soft, polite opener — it shows respect, like a gentle yes.] [VI: dạ] [EN: has] [EN: a low tone, cut off short] [EN: — low, cut off. Listen again.] [VI_F: dạ] [PAUSE 1s] [VI_F: dạ] [EN: You try.] [PAUSE 4s] [VI: dạ] [EN: Now open a greeting politely with it.] [PAUSE 4s] [VI: Dạ, xin chào.] [PAUSE 0.5s] [EN: Now] [VI: cảm ơn] [EN: it means thank you.] [VI: Cảm] [EN: has] [EN: a dipping tone — it falls, then rises] [PAUSE 0.3s] [VI: Ơn] [EN: is] [EN: a flat tone, no mark] [EN: — flat. Listen to the whole word.] [VI_F: cảm ơn] [PAUSE 1s] [VI_F: cảm ơn] [EN: Now you say it.] [PAUSE 4s] [VI: cảm ơn] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 240,
-      "script": "[EN: Let's drill. Say hello —] [PAUSE 4s] [VI: xin chào] [PAUSE 0.5s] [EN: Say thank you —] [PAUSE 4s] [VI: cảm ơn] [PAUSE 0.5s] [EN: Say the polite opener —] [PAUSE 4s] [VI: dạ] [PAUSE 0.5s] [EN: One more round.] [PAUSE 0.5s] [EN: Hello —] [PAUSE 4s] [VI: xin chào] [PAUSE 0.5s] [EN: Thank you —] [PAUSE 4s] [VI: cảm ơn] [PAUSE 0.5s] [EN: The polite opener —] [PAUSE 4s] [VI: dạ] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: xin chào] [PAUSE 3s] [EN: hello] [PAUSE 0.5s] [VI_F: cảm ơn] [PAUSE 3s] [EN: thank you] [PAUSE 0.5s] [VI_F: dạ] [PAUSE 3s] [EN: the polite opener] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: xin chào] [PAUSE 1s] [VI_F: cảm ơn] [PAUSE 1s] [VI_F: dạ] [PAUSE 0.5s] [EN: Remember,] [VI: dạ] [EN: has] [VI: dấu nặng] [EN: — low and cut off.]"
+      "script": "[EN: Let's drill. Say hello —] [PAUSE 4s] [VI: xin chào] [PAUSE 0.5s] [EN: Say thank you —] [PAUSE 4s] [VI: cảm ơn] [PAUSE 0.5s] [EN: Say the polite opener —] [PAUSE 4s] [VI: dạ] [PAUSE 0.5s] [EN: One more round.] [PAUSE 0.5s] [EN: Hello —] [PAUSE 4s] [VI: xin chào] [PAUSE 0.5s] [EN: Thank you —] [PAUSE 4s] [VI: cảm ơn] [PAUSE 0.5s] [EN: The polite opener —] [PAUSE 4s] [VI: dạ] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: xin chào] [PAUSE 3s] [EN: hello] [PAUSE 0.5s] [VI_F: cảm ơn] [PAUSE 3s] [EN: thank you] [PAUSE 0.5s] [VI_F: dạ] [PAUSE 3s] [EN: the polite opener] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: xin chào] [PAUSE 1s] [VI_F: cảm ơn] [PAUSE 1s] [VI_F: dạ] [PAUSE 0.5s] [EN: Remember,] [VI: dạ] [EN: has] [EN: a low tone, cut off short] [EN: — low and cut off.]"
     },
     {
       "type": "synthesis",

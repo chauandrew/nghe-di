@@ -2,9 +2,21 @@
   "id": "L3-D6",
   "title": "Bác sĩ, giáo viên, kỹ sư: jobs and occupations",
   "vocab": [
-    {"vi": "bác sĩ", "en": "doctor", "ipa": "baːk˧˥ si˨˩˦"},
-    {"vi": "giáo viên", "en": "teacher", "ipa": "zaːw˧˥ viən˧"},
-    {"vi": "kỹ sư", "en": "engineer", "ipa": "ki˨˩˦ sɨ˧"}
+    {
+      "vi": "bác sĩ",
+      "en": "doctor",
+      "ipa": "baːk˧˥ si˨˩˦"
+    },
+    {
+      "vi": "giáo viên",
+      "en": "teacher",
+      "ipa": "zaːw˧˥ viən˧"
+    },
+    {
+      "vi": "kỹ sư",
+      "en": "engineer",
+      "ipa": "ki˨˩˦ sɨ˧"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 215,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Ai đó?] [PAUSE 0.5s] [VI: Dạ, bác sĩ đó.] [PAUSE 0.5s] [VI_F: Còn ai đó?] [PAUSE 0.5s] [VI: Dạ, giáo viên đó.] [PAUSE 1s] [EN: Today, three jobs.] [PAUSE 0.5s] [EN: First,] [VI: bác sĩ] [EN: means doctor. Listen to its two parts.] [VI_F: bác] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: sĩ] [EN: has] [VI: dấu ngã] [EN: . Listen to the whole word again.] [VI_F: bác sĩ] [PAUSE 1s] [VI_F: bác sĩ] [EN: Now you say it.] [PAUSE 4s] [VI: bác sĩ] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: giáo viên] [EN: means teacher. Listen to its two parts.] [VI_F: giáo] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: viên] [EN: has] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: giáo viên] [PAUSE 1s] [VI_F: giáo viên] [EN: Now you say it.] [PAUSE 4s] [VI: giáo viên] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: kỹ sư] [EN: means engineer. Listen to its two parts.] [VI_F: kỹ] [EN: has] [VI: dấu ngã] [PAUSE 0.3s] [VI_F: sư] [EN: has] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: kỹ sư] [PAUSE 1s] [VI_F: kỹ sư] [EN: Now you say it.] [PAUSE 4s] [VI: kỹ sư] [EN: Good.] [PAUSE 0.5s] [EN: Point one out —] [PAUSE 4s] [VI: Kỹ sư đó.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Ai đó?] [PAUSE 0.5s] [VI: Dạ, bác sĩ đó.] [PAUSE 0.5s] [VI_F: Còn ai đó?] [PAUSE 0.5s] [VI: Dạ, giáo viên đó.] [PAUSE 1s] [EN: Today, three jobs.] [PAUSE 0.5s] [EN: First,] [VI: bác sĩ] [EN: means doctor. Listen to its two parts.] [VI_F: bác] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: sĩ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: . Listen to the whole word again.] [VI_F: bác sĩ] [PAUSE 1s] [VI_F: bác sĩ] [EN: Now you say it.] [PAUSE 4s] [VI: bác sĩ] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: giáo viên] [EN: means teacher. Listen to its two parts.] [VI_F: giáo] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: viên] [EN: has] [EN: a flat tone, no mark] [EN: . Listen to the whole word again.] [VI_F: giáo viên] [PAUSE 1s] [VI_F: giáo viên] [EN: Now you say it.] [PAUSE 4s] [VI: giáo viên] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: kỹ sư] [EN: means engineer. Listen to its two parts.] [VI_F: kỹ] [EN: has] [EN: a dipping tone — it falls, then rises] [PAUSE 0.3s] [VI_F: sư] [EN: has] [EN: a flat tone, no mark] [EN: . Listen to the whole word again.] [VI_F: kỹ sư] [PAUSE 1s] [VI_F: kỹ sư] [EN: Now you say it.] [PAUSE 4s] [VI: kỹ sư] [EN: Good.] [PAUSE 0.5s] [EN: Point one out —] [PAUSE 4s] [VI: Kỹ sư đó.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 245,
-      "script": "[EN: Let's drill. Doctor —] [PAUSE 4s] [VI: bác sĩ] [PAUSE 0.5s] [EN: Teacher —] [PAUSE 4s] [VI: giáo viên] [PAUSE 0.5s] [EN: Engineer —] [PAUSE 4s] [VI: kỹ sư] [PAUSE 0.5s] [EN: Now say it. Ask who that is —] [PAUSE 4s] [VI: Ai đó?] [PAUSE 0.5s] [EN: That's a doctor —] [PAUSE 4s] [VI: Bác sĩ đó.] [PAUSE 0.5s] [EN: That's a teacher —] [PAUSE 4s] [VI: Giáo viên đó.] [PAUSE 0.5s] [EN: That's an engineer —] [PAUSE 4s] [VI: Kỹ sư đó.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: bác sĩ] [PAUSE 3s] [EN: doctor] [PAUSE 0.5s] [VI_F: giáo viên] [PAUSE 3s] [EN: teacher] [PAUSE 0.5s] [VI_F: kỹ sư] [PAUSE 3s] [EN: engineer] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: bác sĩ] [PAUSE 1s] [VI_F: giáo viên] [PAUSE 1s] [VI_F: kỹ sư] [PAUSE 0.5s] [EN: Remember,] [VI: sĩ] [EN: and] [VI: kỹ] [EN: both have] [VI: dấu ngã] [EN: , which sounds the same as] [VI: dấu hỏi] [EN: down here in the south.]"
+      "script": "[EN: Let's drill. Doctor —] [PAUSE 4s] [VI: bác sĩ] [PAUSE 0.5s] [EN: Teacher —] [PAUSE 4s] [VI: giáo viên] [PAUSE 0.5s] [EN: Engineer —] [PAUSE 4s] [VI: kỹ sư] [PAUSE 0.5s] [EN: Now say it. Ask who that is —] [PAUSE 4s] [VI: Ai đó?] [PAUSE 0.5s] [EN: That's a doctor —] [PAUSE 4s] [VI: Bác sĩ đó.] [PAUSE 0.5s] [EN: That's a teacher —] [PAUSE 4s] [VI: Giáo viên đó.] [PAUSE 0.5s] [EN: That's an engineer —] [PAUSE 4s] [VI: Kỹ sư đó.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: bác sĩ] [PAUSE 3s] [EN: doctor] [PAUSE 0.5s] [VI_F: giáo viên] [PAUSE 3s] [EN: teacher] [PAUSE 0.5s] [VI_F: kỹ sư] [PAUSE 3s] [EN: engineer] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: bác sĩ] [PAUSE 1s] [VI_F: giáo viên] [PAUSE 1s] [VI_F: kỹ sư] [PAUSE 0.5s] [EN: Remember,] [VI: sĩ] [EN: and] [VI: kỹ] [EN: both have] [EN: a dipping tone — it falls, then rises] [EN: , which sounds the same as] [EN: a dipping tone — it falls, then rises] [EN: down here in the south.]"
     },
     {
       "type": "synthesis",

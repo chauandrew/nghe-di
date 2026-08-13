@@ -2,9 +2,21 @@
   "id": "L1-D25",
   "title": "Hết rồi: when the dish is sold out",
   "vocab": [
-    {"vi": "hết rồi", "en": "all gone / sold out", "ipa": "het˧˥ ʐoj˨˩"},
-    {"vi": "còn không", "en": "is there any left?", "ipa": "kɔn˨˩ xoŋ˧"},
-    {"vi": "loại khác", "en": "a different kind", "ipa": "lwaj˨˩ʔ xaːk˧˥"}
+    {
+      "vi": "hết rồi",
+      "en": "all gone / sold out",
+      "ipa": "het˧˥ ʐoj˨˩"
+    },
+    {
+      "vi": "còn không",
+      "en": "is there any left?",
+      "ipa": "kɔn˨˩ xoŋ˧"
+    },
+    {
+      "vi": "loại khác",
+      "en": "a different kind",
+      "ipa": "lwaj˨˩ʔ xaːk˧˥"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 200,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Tôi muốn gọi món.] [PAUSE 0.5s] [VI_M: Dạ, hết rồi.] [PAUSE 0.5s] [VI: Còn không?] [PAUSE 0.5s] [VI_M: Dạ, có loại khác.] [PAUSE 1s] [EN: You heard] [VI: hết rồi] [EN: it means all gone, or sold out. Listen to its two parts.] [VI_F: hết] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: rồi] [EN: you know — it means already, and here it has] [VI: dấu huyền] [EN: . Listen to the whole phrase again.] [VI_F: hết rồi] [PAUSE 1s] [VI_F: hết rồi] [EN: Now you say it.] [PAUSE 4s] [VI: hết rồi] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: còn không] [EN: means is there any left. Listen to its two parts.] [VI_F: còn] [EN: has] [VI: dấu huyền] [PAUSE 0.3s] [VI_F: không] [EN: is] [VI: ngang] [EN: — review from day one. Listen to the whole phrase again.] [VI_F: còn không] [PAUSE 1s] [VI_F: còn không] [EN: Now you say it.] [PAUSE 4s] [VI: còn không] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: loại khác] [EN: means a different kind. Listen to its two parts.] [VI_F: loại] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: khác] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole phrase again.] [VI_F: loại khác] [PAUSE 1s] [VI_F: loại khác] [EN: Now you say it.] [PAUSE 4s] [VI: loại khác] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Tôi muốn gọi món.] [PAUSE 0.5s] [VI_M: Dạ, hết rồi.] [PAUSE 0.5s] [VI: Còn không?] [PAUSE 0.5s] [VI_M: Dạ, có loại khác.] [PAUSE 1s] [EN: You heard] [VI: hết rồi] [EN: it means all gone, or sold out. Listen to its two parts.] [VI_F: hết] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: rồi] [EN: you know — it means already, and here it has] [EN: a falling tone] [EN: . Listen to the whole phrase again.] [VI_F: hết rồi] [PAUSE 1s] [VI_F: hết rồi] [EN: Now you say it.] [PAUSE 4s] [VI: hết rồi] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: còn không] [EN: means is there any left. Listen to its two parts.] [VI_F: còn] [EN: has] [EN: a falling tone] [PAUSE 0.3s] [VI_F: không] [EN: is] [EN: a flat tone, no mark] [EN: — review from day one. Listen to the whole phrase again.] [VI_F: còn không] [PAUSE 1s] [VI_F: còn không] [EN: Now you say it.] [PAUSE 4s] [VI: còn không] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: loại khác] [EN: means a different kind. Listen to its two parts.] [VI_F: loại] [EN: has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: khác] [EN: has] [EN: a high, rising tone] [EN: . Listen to the whole phrase again.] [VI_F: loại khác] [PAUSE 1s] [VI_F: loại khác] [EN: Now you say it.] [PAUSE 4s] [VI: loại khác] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 220,
-      "script": "[EN: Let's drill. All gone —] [PAUSE 4s] [VI: hết rồi] [PAUSE 0.5s] [EN: Is there any left —] [PAUSE 4s] [VI: còn không] [PAUSE 0.5s] [EN: A different kind —] [PAUSE 4s] [VI: loại khác] [PAUSE 0.5s] [EN: Now say it. Ask if there's any left —] [PAUSE 4s] [VI: Còn không?] [PAUSE 0.5s] [EN: Say there's a different kind —] [PAUSE 4s] [VI: Có loại khác.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: hết rồi] [PAUSE 3s] [EN: all gone] [PAUSE 0.5s] [VI_F: còn không] [PAUSE 3s] [EN: is there any left] [PAUSE 0.5s] [VI_F: loại khác] [PAUSE 3s] [EN: a different kind] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: hết rồi] [PAUSE 1s] [VI_F: còn không] [PAUSE 1s] [VI_F: loại khác] [PAUSE 0.5s] [EN: Remember,] [VI: hết] [EN: has] [VI: dấu sắc] [EN: , and] [VI: còn] [EN: has] [VI: dấu huyền] [EN: .]"
+      "script": "[EN: Let's drill. All gone —] [PAUSE 4s] [VI: hết rồi] [PAUSE 0.5s] [EN: Is there any left —] [PAUSE 4s] [VI: còn không] [PAUSE 0.5s] [EN: A different kind —] [PAUSE 4s] [VI: loại khác] [PAUSE 0.5s] [EN: Now say it. Ask if there's any left —] [PAUSE 4s] [VI: Còn không?] [PAUSE 0.5s] [EN: Say there's a different kind —] [PAUSE 4s] [VI: Có loại khác.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: hết rồi] [PAUSE 3s] [EN: all gone] [PAUSE 0.5s] [VI_F: còn không] [PAUSE 3s] [EN: is there any left] [PAUSE 0.5s] [VI_F: loại khác] [PAUSE 3s] [EN: a different kind] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: hết rồi] [PAUSE 1s] [VI_F: còn không] [PAUSE 1s] [VI_F: loại khác] [PAUSE 0.5s] [EN: Remember,] [VI: hết] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: còn] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",

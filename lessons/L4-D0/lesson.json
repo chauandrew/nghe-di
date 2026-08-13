@@ -1,0 +1,39 @@
+{
+  "id": "L4-D0",
+  "title": "Phát âm, part two — naming the tones",
+  "vocab": [
+    {"vi": "ngang", "en": "flat tone (no mark)", "ipa": "ŋaːŋ˧"},
+    {"vi": "dấu huyền", "en": "falling-tone mark", "ipa": "zəw˥˩ hwiən˨˩"},
+    {"vi": "dấu sắc", "en": "high, rising-tone mark", "ipa": "zəw˥˩ săk˧˥"},
+    {"vi": "dấu hỏi", "en": "dipping-tone mark", "ipa": "zəw˥˩ hoj˨˩˦"},
+    {"vi": "dấu ngã", "en": "dipping-tone mark (same sound as dấu hỏi, in the south)", "ipa": "zəw˥˩ ŋaː˨˩˦"},
+    {"vi": "dấu nặng", "en": "low, cut-off tone mark", "ipa": "zəw˥˩ naŋ˨˩ʔ"}
+  ],
+  "segments": [
+    {
+      "type": "recall",
+      "duration_s": 60,
+      "script": "[EN: Quick warm-up before we begin. Say thank you —] [PAUSE 4s] [VI: cảm ơn] [EN: Say I understand —] [PAUSE 4s] [VI: tôi hiểu] [EN: Good.]"
+    },
+    {
+      "type": "dialogue",
+      "duration_s": 180,
+      "script": "[EN: For over ninety lessons now, I have described a word's tone to you in English — a flat tone, a falling tone, a high rising tone, a dipping tone, a low tone cut off short. Your ear already knows all five. Today, they get names — the same names Vietnamese speakers use.] [PAUSE 0.5s] [EN: The flat tone, no mark, is called] [VI_F: ngang] [PAUSE 1s] [VI_F: ngang] [EN: Now you say it.] [PAUSE 4s] [VI: ngang] [EN: Good.] [PAUSE 0.5s] [EN: The falling tone is called] [VI_F: dấu huyền] [PAUSE 1s] [VI_F: dấu huyền] [EN: Now you say it.] [PAUSE 4s] [VI: dấu huyền] [EN: Good.] [PAUSE 0.5s] [EN: The high, rising tone is called] [VI_F: dấu sắc] [PAUSE 1s] [VI_F: dấu sắc] [EN: Now you say it.] [PAUSE 4s] [VI: dấu sắc] [EN: Good.] [PAUSE 0.5s] [EN: The dipping tone — falls, then rises — is called] [VI_F: dấu hỏi] [PAUSE 1s] [VI_F: dấu hỏi] [EN: Now you say it.] [PAUSE 4s] [VI: dấu hỏi] [EN: Good.] [PAUSE 0.5s] [EN: The low tone, cut off short, is called] [VI_F: dấu nặng] [PAUSE 1s] [VI_F: dấu nặng] [EN: Now you say it.] [PAUSE 4s] [VI: dấu nặng] [EN: Good.] [PAUSE 0.5s] [EN: One more name, for the writing only —] [VI_F: dấu ngã] [EN: — but in the south it sounds exactly like] [VI: dấu hỏi] [EN: , that same dipping tone. Listen.] [VI_F: dấu ngã] [PAUSE 1s] [VI_F: dấu ngã] [EN: Now you say it.] [PAUSE 4s] [VI: dấu ngã] [EN: Good. Six names, five sounds.]"
+    },
+    {
+      "type": "consolidate",
+      "duration_s": 70,
+      "script": "[EN: Quick pass over today's names.] [PAUSE 0.5s] [EN: Flat, no mark —] [PAUSE 4s] [VI: ngang] [PAUSE 0.5s] [EN: Falling —] [PAUSE 4s] [VI: dấu huyền] [PAUSE 0.5s] [EN: High, rising —] [PAUSE 4s] [VI: dấu sắc] [PAUSE 0.5s] [EN: Dipping —] [PAUSE 4s] [VI: dấu hỏi] [PAUSE 0.5s] [EN: Low, cut off short —] [PAUSE 4s] [VI: dấu nặng] [PAUSE 0.5s] [EN: And in writing only, the same dipping sound —] [PAUSE 4s] [VI: dấu ngã] [EN: Good.]"
+    },
+    {
+      "type": "drill",
+      "duration_s": 200,
+      "script": "[EN: Let's drill. Flat, no mark —] [PAUSE 4s] [VI: ngang] [PAUSE 0.5s] [EN: Falling —] [PAUSE 4s] [VI: dấu huyền] [PAUSE 0.5s] [EN: High, rising —] [PAUSE 4s] [VI: dấu sắc] [PAUSE 0.5s] [EN: Dipping —] [PAUSE 4s] [VI: dấu hỏi] [PAUSE 0.5s] [EN: Low, cut off short —] [PAUSE 4s] [VI: dấu nặng] [PAUSE 0.5s] [EN: Now reverse. I say the name, you say what it means.] [PAUSE 0.5s] [VI_F: ngang] [PAUSE 3s] [EN: flat, no mark] [PAUSE 0.5s] [VI_F: dấu huyền] [PAUSE 3s] [EN: falling] [PAUSE 0.5s] [VI_F: dấu sắc] [PAUSE 3s] [EN: high, rising] [PAUSE 0.5s] [VI_F: dấu hỏi] [PAUSE 3s] [EN: dipping] [PAUSE 0.5s] [VI_F: dấu nặng] [PAUSE 3s] [EN: low, cut off short] [PAUSE 0.5s] [EN: Now try it on a real word. You know] [VI: cảm ơn] [EN: means thank you. What tone does] [VI: cảm] [EN: have?] [PAUSE 4s] [VI: dấu hỏi] [EN: Right. And] [VI: ơn] [EN: ?] [PAUSE 4s] [VI: ngang] [EN: Good — flat.] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: ngang] [PAUSE 1s] [VI_F: dấu huyền] [PAUSE 1s] [VI_F: dấu sắc] [PAUSE 1s] [VI_F: dấu hỏi] [PAUSE 1s] [VI_F: dấu nặng]"
+    },
+    {
+      "type": "synthesis",
+      "duration_s": 100,
+      "script": "[EN: From here on, that is how I will talk about tones — by name, not by description. Listen to how it will sound from now on.] [PAUSE 0.5s] [VI_F: Cảm] [EN: has] [VI: dấu hỏi] [PAUSE 0.3s] [VI_F: ơn] [EN: is] [VI: ngang] [EN: — flat.] [PAUSE 0.5s] [EN: Your turn. What tone does] [VI: dạ] [EN: have?] [PAUSE 4s] [VI: dấu nặng] [EN: Good — you already know that word, now you have its name.] [PAUSE 0.5s] [EN: Next lesson, the body. One word to start —] [VI: đầu] [EN: it means head. See you then.]"
+    }
+  ]
+}

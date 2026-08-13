@@ -2,8 +2,16 @@
   "id": "L3-D21",
   "title": "Dở, tuyệt: giving an opinion about food or a place",
   "vocab": [
-    {"vi": "dở", "en": "bad-tasting, poorly made", "ipa": "zɤ˨˩˦"},
-    {"vi": "tuyệt", "en": "excellent, amazing", "ipa": "twiət˨˩ʔ"}
+    {
+      "vi": "dở",
+      "en": "bad-tasting, poorly made",
+      "ipa": "zɤ˨˩˦"
+    },
+    {
+      "vi": "tuyệt",
+      "en": "excellent, amazing",
+      "ipa": "twiət˨˩ʔ"
+    }
   ],
   "segments": [
     {
@@ -14,7 +22,7 @@
     {
       "type": "dialogue",
       "duration_s": 215,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cà phê này dở hả?] [PAUSE 0.5s] [VI: Không dở đâu, tuyệt luôn!] [PAUSE 0.5s] [VI_F: Vậy ngon chứ?] [PAUSE 0.5s] [VI: Dạ, ngon chứ!] [PAUSE 1s] [EN: Today, two words for giving an opinion — one bad, one great.] [PAUSE 0.5s] [EN: First,] [VI: dở] [EN: means bad-tasting, or poorly made. It has] [VI: dấu hỏi] [EN: . Listen again.] [VI_F: dở] [PAUSE 1s] [VI_F: dở] [EN: Now you say it.] [PAUSE 4s] [VI: dở] [EN: Good. Not bad at all —] [PAUSE 4s] [VI: Không dở đâu.] [PAUSE 0.5s] [EN: Next,] [VI: tuyệt] [EN: means excellent, or amazing. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: tuyệt] [PAUSE 1s] [VI_F: tuyệt] [EN: Now you say it.] [PAUSE 4s] [VI: tuyệt] [EN: Good. Totally amazing —] [PAUSE 4s] [VI: Tuyệt luôn!]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cà phê này dở hả?] [PAUSE 0.5s] [VI: Không dở đâu, tuyệt luôn!] [PAUSE 0.5s] [VI_F: Vậy ngon chứ?] [PAUSE 0.5s] [VI: Dạ, ngon chứ!] [PAUSE 1s] [EN: Today, two words for giving an opinion — one bad, one great.] [PAUSE 0.5s] [EN: First,] [VI: dở] [EN: means bad-tasting, or poorly made. It has] [EN: a dipping tone — it falls, then rises] [EN: . Listen again.] [VI_F: dở] [PAUSE 1s] [VI_F: dở] [EN: Now you say it.] [PAUSE 4s] [VI: dở] [EN: Good. Not bad at all —] [PAUSE 4s] [VI: Không dở đâu.] [PAUSE 0.5s] [EN: Next,] [VI: tuyệt] [EN: means excellent, or amazing. It has] [EN: a low tone, cut off short] [EN: . Listen again.] [VI_F: tuyệt] [PAUSE 1s] [VI_F: tuyệt] [EN: Now you say it.] [PAUSE 4s] [VI: tuyệt] [EN: Good. Totally amazing —] [PAUSE 4s] [VI: Tuyệt luôn!]"
     },
     {
       "type": "consolidate",
@@ -24,7 +32,7 @@
     {
       "type": "drill",
       "duration_s": 220,
-      "script": "[EN: Let's drill. Bad-tasting, poorly made —] [PAUSE 4s] [VI: dở] [PAUSE 0.5s] [EN: Excellent, amazing —] [PAUSE 4s] [VI: tuyệt] [PAUSE 0.5s] [EN: Now build it. This room is bad, right —] [PAUSE 4s] [VI: Phòng này dở chứ?] [PAUSE 0.5s] [EN: Not bad at all, it's excellent —] [PAUSE 4s] [VI: Không dở đâu, tuyệt mà!] [PAUSE 0.5s] [EN: Totally amazing —] [PAUSE 4s] [VI: Tuyệt luôn!] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: dở] [PAUSE 3s] [EN: bad-tasting, poorly made] [PAUSE 0.5s] [VI_F: tuyệt] [PAUSE 3s] [EN: excellent, amazing] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: dở] [PAUSE 1s] [VI_F: tuyệt] [PAUSE 0.5s] [EN: Remember,] [VI: dở] [EN: has] [VI: dấu hỏi] [EN: , and] [VI: tuyệt] [EN: has] [VI: dấu nặng] [EN: .]"
+      "script": "[EN: Let's drill. Bad-tasting, poorly made —] [PAUSE 4s] [VI: dở] [PAUSE 0.5s] [EN: Excellent, amazing —] [PAUSE 4s] [VI: tuyệt] [PAUSE 0.5s] [EN: Now build it. This room is bad, right —] [PAUSE 4s] [VI: Phòng này dở chứ?] [PAUSE 0.5s] [EN: Not bad at all, it's excellent —] [PAUSE 4s] [VI: Không dở đâu, tuyệt mà!] [PAUSE 0.5s] [EN: Totally amazing —] [PAUSE 4s] [VI: Tuyệt luôn!] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: dở] [PAUSE 3s] [EN: bad-tasting, poorly made] [PAUSE 0.5s] [VI_F: tuyệt] [PAUSE 3s] [EN: excellent, amazing] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: dở] [PAUSE 1s] [VI_F: tuyệt] [PAUSE 0.5s] [EN: Remember,] [VI: dở] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: , and] [VI: tuyệt] [EN: has] [EN: a low tone, cut off short] [EN: .]"
     },
     {
       "type": "synthesis",

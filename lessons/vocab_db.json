@@ -1,52 +1,4 @@
 {
-  "v001": {
-    "id": "v001",
-    "vi": "ngang",
-    "en": "flat tone (no mark)",
-    "ipa": "ŋaːŋ˧",
-    "level": 1,
-    "day_introduced": 0
-  },
-  "v002": {
-    "id": "v002",
-    "vi": "dấu huyền",
-    "en": "falling-tone mark",
-    "ipa": "zəw˥˩ hwiən˨˩",
-    "level": 1,
-    "day_introduced": 0
-  },
-  "v003": {
-    "id": "v003",
-    "vi": "dấu sắc",
-    "en": "high, rising-tone mark",
-    "ipa": "zəw˥˩ săk˧˥",
-    "level": 1,
-    "day_introduced": 0
-  },
-  "v004": {
-    "id": "v004",
-    "vi": "dấu hỏi",
-    "en": "dipping-tone mark",
-    "ipa": "zəw˥˩ hoj˨˩˦",
-    "level": 1,
-    "day_introduced": 0
-  },
-  "v005": {
-    "id": "v005",
-    "vi": "dấu ngã",
-    "en": "dipping-tone mark (same sound as dấu hỏi, in the south)",
-    "ipa": "zəw˥˩ ŋaː˨˩˦",
-    "level": 1,
-    "day_introduced": 0
-  },
-  "v006": {
-    "id": "v006",
-    "vi": "dấu nặng",
-    "en": "low, cut-off tone mark",
-    "ipa": "zəw˥˩ naŋ˨˩ʔ",
-    "level": 1,
-    "day_introduced": 0
-  },
   "v007": {
     "id": "v007",
     "vi": "xin chào",
@@ -3262,5 +3214,53 @@
     "ipa": "toŋ˧˥ ket˧˥",
     "level": 5,
     "day_introduced": 30
+  },
+  "v409": {
+    "id": "v409",
+    "vi": "ngang",
+    "en": "flat tone (no mark)",
+    "ipa": "ŋaːŋ˧",
+    "level": 4,
+    "day_introduced": 0
+  },
+  "v410": {
+    "id": "v410",
+    "vi": "dấu huyền",
+    "en": "falling-tone mark",
+    "ipa": "zəw˥˩ hwiən˨˩",
+    "level": 4,
+    "day_introduced": 0
+  },
+  "v411": {
+    "id": "v411",
+    "vi": "dấu sắc",
+    "en": "high, rising-tone mark",
+    "ipa": "zəw˥˩ săk˧˥",
+    "level": 4,
+    "day_introduced": 0
+  },
+  "v412": {
+    "id": "v412",
+    "vi": "dấu hỏi",
+    "en": "dipping-tone mark",
+    "ipa": "zəw˥˩ hoj˨˩˦",
+    "level": 4,
+    "day_introduced": 0
+  },
+  "v413": {
+    "id": "v413",
+    "vi": "dấu ngã",
+    "en": "dipping-tone mark (same sound as dấu hỏi, in the south)",
+    "ipa": "zəw˥˩ ŋaː˨˩˦",
+    "level": 4,
+    "day_introduced": 0
+  },
+  "v414": {
+    "id": "v414",
+    "vi": "dấu nặng",
+    "en": "low, cut-off tone mark",
+    "ipa": "zəw˥˩ naŋ˨˩ʔ",
+    "level": 4,
+    "day_introduced": 0
   }
 }

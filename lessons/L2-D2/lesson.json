@@ -2,9 +2,21 @@
   "id": "L2-D2",
   "title": "Thứ hai, thứ bảy, chủ nhật: days of the week",
   "vocab": [
-    {"vi": "thứ hai", "en": "Monday", "ipa": "tʰɨ˧˥ haːj˧"},
-    {"vi": "thứ bảy", "en": "Saturday", "ipa": "tʰɨ˧˥ baj˨˩˦"},
-    {"vi": "chủ nhật", "en": "Sunday", "ipa": "tɕu˨˩˦ ɲət˨˩ʔ"}
+    {
+      "vi": "thứ hai",
+      "en": "Monday",
+      "ipa": "tʰɨ˧˥ haːj˧"
+    },
+    {
+      "vi": "thứ bảy",
+      "en": "Saturday",
+      "ipa": "tʰɨ˧˥ baj˨˩˦"
+    },
+    {
+      "vi": "chủ nhật",
+      "en": "Sunday",
+      "ipa": "tɕu˨˩˦ ɲət˨˩ʔ"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 190,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Thứ hai, đặt bàn được không?] [PAUSE 0.5s] [VI_F: Dạ, có.] [PAUSE 0.5s] [VI: Cảm ơn chị. Hẹn gặp lại thứ hai.] [PAUSE 1s] [EN: You said] [VI: thứ hai] [EN: it means Monday. Listen to its two parts.] [VI_F: thứ] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: hai] [EN: you know — it's] [VI: ngang] [EN: , flat. Listen to the whole word again.] [VI_F: thứ hai] [PAUSE 1s] [VI_F: thứ hai] [EN: Now you say it.] [PAUSE 4s] [VI: thứ hai] [EN: Good.] [PAUSE 0.5s] [EN: The middle days of the week are built the same way — a word for order, plus a number. You'll pick those up as they come. For now, the two ends of the week.] [PAUSE 0.5s] [EN: Saturday is] [VI: thứ bảy] [EN: — the same first part as] [VI: thứ hai] [EN: , with the number you already know for seven. Listen again.] [VI_F: thứ bảy] [PAUSE 1s] [VI_F: thứ bảy] [EN: Now you say it.] [PAUSE 4s] [VI: thứ bảy] [EN: Good.] [PAUSE 0.5s] [EN: And Sunday breaks the pattern completely — it is its own word,] [VI: chủ nhật] [EN: . Listen to its two parts.] [VI_F: chủ] [EN: has] [VI: dấu hỏi] [PAUSE 0.3s] [VI_F: nhật] [EN: has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: chủ nhật] [PAUSE 1s] [VI_F: chủ nhật] [EN: Now you say it.] [PAUSE 4s] [VI: chủ nhật] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Thứ hai, đặt bàn được không?] [PAUSE 0.5s] [VI_F: Dạ, có.] [PAUSE 0.5s] [VI: Cảm ơn chị. Hẹn gặp lại thứ hai.] [PAUSE 1s] [EN: You said] [VI: thứ hai] [EN: it means Monday. Listen to its two parts.] [VI_F: thứ] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: hai] [EN: you know — it's] [EN: a flat tone, no mark] [EN: , flat. Listen to the whole word again.] [VI_F: thứ hai] [PAUSE 1s] [VI_F: thứ hai] [EN: Now you say it.] [PAUSE 4s] [VI: thứ hai] [EN: Good.] [PAUSE 0.5s] [EN: The middle days of the week are built the same way — a word for order, plus a number. You'll pick those up as they come. For now, the two ends of the week.] [PAUSE 0.5s] [EN: Saturday is] [VI: thứ bảy] [EN: — the same first part as] [VI: thứ hai] [EN: , with the number you already know for seven. Listen again.] [VI_F: thứ bảy] [PAUSE 1s] [VI_F: thứ bảy] [EN: Now you say it.] [PAUSE 4s] [VI: thứ bảy] [EN: Good.] [PAUSE 0.5s] [EN: And Sunday breaks the pattern completely — it is its own word,] [VI: chủ nhật] [EN: . Listen to its two parts.] [VI_F: chủ] [EN: has] [EN: a dipping tone — it falls, then rises] [PAUSE 0.3s] [VI_F: nhật] [EN: has] [EN: a low tone, cut off short] [EN: . Listen to the whole word again.] [VI_F: chủ nhật] [PAUSE 1s] [VI_F: chủ nhật] [EN: Now you say it.] [PAUSE 4s] [VI: chủ nhật] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 220,
-      "script": "[EN: Let's drill. Monday —] [PAUSE 4s] [VI: thứ hai] [PAUSE 0.5s] [EN: Saturday —] [PAUSE 4s] [VI: thứ bảy] [PAUSE 0.5s] [EN: Sunday —] [PAUSE 4s] [VI: chủ nhật] [PAUSE 0.5s] [EN: Now say it. Today is Monday —] [PAUSE 4s] [VI: Hôm nay thứ hai.] [PAUSE 0.5s] [EN: Today is Saturday —] [PAUSE 4s] [VI: Hôm nay thứ bảy.] [PAUSE 0.5s] [EN: Today is Sunday —] [PAUSE 4s] [VI: Hôm nay chủ nhật.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: thứ hai] [PAUSE 3s] [EN: Monday] [PAUSE 0.5s] [VI_F: thứ bảy] [PAUSE 3s] [EN: Saturday] [PAUSE 0.5s] [VI_F: chủ nhật] [PAUSE 3s] [EN: Sunday] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: thứ hai] [PAUSE 1s] [VI_F: thứ bảy] [PAUSE 1s] [VI_F: chủ nhật] [PAUSE 0.5s] [EN: Remember,] [VI: bảy] [EN: in] [VI: thứ bảy] [EN: has] [VI: dấu hỏi] [EN: , and] [VI: chủ] [EN: in] [VI: chủ nhật] [EN: has] [VI: dấu hỏi] [EN: too.]"
+      "script": "[EN: Let's drill. Monday —] [PAUSE 4s] [VI: thứ hai] [PAUSE 0.5s] [EN: Saturday —] [PAUSE 4s] [VI: thứ bảy] [PAUSE 0.5s] [EN: Sunday —] [PAUSE 4s] [VI: chủ nhật] [PAUSE 0.5s] [EN: Now say it. Today is Monday —] [PAUSE 4s] [VI: Hôm nay thứ hai.] [PAUSE 0.5s] [EN: Today is Saturday —] [PAUSE 4s] [VI: Hôm nay thứ bảy.] [PAUSE 0.5s] [EN: Today is Sunday —] [PAUSE 4s] [VI: Hôm nay chủ nhật.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: thứ hai] [PAUSE 3s] [EN: Monday] [PAUSE 0.5s] [VI_F: thứ bảy] [PAUSE 3s] [EN: Saturday] [PAUSE 0.5s] [VI_F: chủ nhật] [PAUSE 3s] [EN: Sunday] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: thứ hai] [PAUSE 1s] [VI_F: thứ bảy] [PAUSE 1s] [VI_F: chủ nhật] [PAUSE 0.5s] [EN: Remember,] [VI: bảy] [EN: in] [VI: thứ bảy] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: , and] [VI: chủ] [EN: in] [VI: chủ nhật] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: too.]"
     },
     {
       "type": "synthesis",

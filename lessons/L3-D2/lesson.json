@@ -2,10 +2,26 @@
   "id": "L3-D2",
   "title": "Đẹp, nhỏ, mới, cũ: describing nouns",
   "vocab": [
-    {"vi": "đẹp", "en": "beautiful, nice-looking", "ipa": "dɛp˨˩ʔ"},
-    {"vi": "nhỏ", "en": "small", "ipa": "ɲɔ˨˩˦"},
-    {"vi": "mới", "en": "new", "ipa": "mɤj˧˥"},
-    {"vi": "cũ", "en": "old", "ipa": "kuː˨˩˦"}
+    {
+      "vi": "đẹp",
+      "en": "beautiful, nice-looking",
+      "ipa": "dɛp˨˩ʔ"
+    },
+    {
+      "vi": "nhỏ",
+      "en": "small",
+      "ipa": "ɲɔ˨˩˦"
+    },
+    {
+      "vi": "mới",
+      "en": "new",
+      "ipa": "mɤj˧˥"
+    },
+    {
+      "vi": "cũ",
+      "en": "old",
+      "ipa": "kuː˨˩˦"
+    }
   ],
   "segments": [
     {
@@ -16,7 +32,7 @@
     {
       "type": "dialogue",
       "duration_s": 215,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Phòng này đẹp quá!] [PAUSE 0.5s] [VI: Dạ, phòng nhỏ. Phòng mới.] [PAUSE 0.5s] [VI_F: Còn phòng đó?] [PAUSE 0.5s] [VI: Phòng đó cũ.] [PAUSE 1s] [EN: Today, a structure: in Vietnamese, the describing word comes AFTER the noun, not before it like in English. Room new, not new room.] [PAUSE 0.5s] [EN: First,] [VI: đẹp] [EN: means beautiful, or nice-looking. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: đẹp] [PAUSE 1s] [VI_F: đẹp] [EN: Now you say it.] [PAUSE 4s] [VI: đẹp] [EN: Good. A beautiful room —] [PAUSE 4s] [VI: phòng đẹp] [PAUSE 0.5s] [EN: Next,] [VI: nhỏ] [EN: means small. It has] [VI: dấu hỏi] [EN: . Listen again.] [VI_F: nhỏ] [PAUSE 1s] [VI_F: nhỏ] [EN: Now you say it.] [PAUSE 4s] [VI: nhỏ] [EN: Good. A small room —] [PAUSE 4s] [VI: phòng nhỏ] [PAUSE 0.5s] [EN: Now a pair, opposites:] [VI: mới] [EN: means new, and] [VI: cũ] [EN: means old.] [VI: mới] [EN: has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: mới] [PAUSE 1s] [VI_F: mới] [EN: Now you say it.] [PAUSE 4s] [VI: mới] [EN: Good.] [PAUSE 0.5s] [VI: cũ] [EN: has] [VI: dấu ngã] [EN: — remember, it sounds the same as] [VI: dấu hỏi] [EN: down here in the south. Listen again.] [VI_F: cũ] [PAUSE 1s] [VI_F: cũ] [EN: Now you say it.] [PAUSE 4s] [VI: cũ] [EN: Good. A new room, an old room —] [PAUSE 4s] [VI: phòng mới, phòng cũ]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Phòng này đẹp quá!] [PAUSE 0.5s] [VI: Dạ, phòng nhỏ. Phòng mới.] [PAUSE 0.5s] [VI_F: Còn phòng đó?] [PAUSE 0.5s] [VI: Phòng đó cũ.] [PAUSE 1s] [EN: Today, a structure: in Vietnamese, the describing word comes AFTER the noun, not before it like in English. Room new, not new room.] [PAUSE 0.5s] [EN: First,] [VI: đẹp] [EN: means beautiful, or nice-looking. It has] [EN: a low tone, cut off short] [EN: . Listen again.] [VI_F: đẹp] [PAUSE 1s] [VI_F: đẹp] [EN: Now you say it.] [PAUSE 4s] [VI: đẹp] [EN: Good. A beautiful room —] [PAUSE 4s] [VI: phòng đẹp] [PAUSE 0.5s] [EN: Next,] [VI: nhỏ] [EN: means small. It has] [EN: a dipping tone — it falls, then rises] [EN: . Listen again.] [VI_F: nhỏ] [PAUSE 1s] [VI_F: nhỏ] [EN: Now you say it.] [PAUSE 4s] [VI: nhỏ] [EN: Good. A small room —] [PAUSE 4s] [VI: phòng nhỏ] [PAUSE 0.5s] [EN: Now a pair, opposites:] [VI: mới] [EN: means new, and] [VI: cũ] [EN: means old.] [VI: mới] [EN: has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: mới] [PAUSE 1s] [VI_F: mới] [EN: Now you say it.] [PAUSE 4s] [VI: mới] [EN: Good.] [PAUSE 0.5s] [VI: cũ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: — remember, it sounds the same as] [EN: a dipping tone — it falls, then rises] [EN: down here in the south. Listen again.] [VI_F: cũ] [PAUSE 1s] [VI_F: cũ] [EN: Now you say it.] [PAUSE 4s] [VI: cũ] [EN: Good. A new room, an old room —] [PAUSE 4s] [VI: phòng mới, phòng cũ]"
     },
     {
       "type": "consolidate",
@@ -26,7 +42,7 @@
     {
       "type": "drill",
       "duration_s": 245,
-      "script": "[EN: Let's drill. Beautiful —] [PAUSE 4s] [VI: đẹp] [PAUSE 0.5s] [EN: Small —] [PAUSE 4s] [VI: nhỏ] [PAUSE 0.5s] [EN: New —] [PAUSE 4s] [VI: mới] [PAUSE 0.5s] [EN: Old —] [PAUSE 4s] [VI: cũ] [PAUSE 0.5s] [EN: Now build it. Remember, the describing word goes after the noun. A beautiful room —] [PAUSE 4s] [VI: Phòng đẹp.] [PAUSE 0.5s] [EN: A small room —] [PAUSE 4s] [VI: Phòng nhỏ.] [PAUSE 0.5s] [EN: A new room —] [PAUSE 4s] [VI: Phòng mới.] [PAUSE 0.5s] [EN: An old room —] [PAUSE 4s] [VI: Phòng cũ.] [PAUSE 0.5s] [EN: Now swap in a word you already know. A big room —] [PAUSE 4s] [VI: Phòng lớn.] [PAUSE 0.5s] [EN: A beautiful person —] [PAUSE 4s] [VI: Người đẹp.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đẹp] [PAUSE 3s] [EN: beautiful] [PAUSE 0.5s] [VI_F: nhỏ] [PAUSE 3s] [EN: small] [PAUSE 0.5s] [VI_F: mới] [PAUSE 3s] [EN: new] [PAUSE 0.5s] [VI_F: cũ] [PAUSE 3s] [EN: old] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đẹp] [PAUSE 1s] [VI_F: nhỏ] [PAUSE 1s] [VI_F: mới] [PAUSE 1s] [VI_F: cũ] [PAUSE 0.5s] [EN: Remember,] [VI: mới] [EN: has] [VI: dấu sắc] [EN: , and] [VI: đẹp] [EN: has] [VI: dấu nặng] [EN: .]"
+      "script": "[EN: Let's drill. Beautiful —] [PAUSE 4s] [VI: đẹp] [PAUSE 0.5s] [EN: Small —] [PAUSE 4s] [VI: nhỏ] [PAUSE 0.5s] [EN: New —] [PAUSE 4s] [VI: mới] [PAUSE 0.5s] [EN: Old —] [PAUSE 4s] [VI: cũ] [PAUSE 0.5s] [EN: Now build it. Remember, the describing word goes after the noun. A beautiful room —] [PAUSE 4s] [VI: Phòng đẹp.] [PAUSE 0.5s] [EN: A small room —] [PAUSE 4s] [VI: Phòng nhỏ.] [PAUSE 0.5s] [EN: A new room —] [PAUSE 4s] [VI: Phòng mới.] [PAUSE 0.5s] [EN: An old room —] [PAUSE 4s] [VI: Phòng cũ.] [PAUSE 0.5s] [EN: Now swap in a word you already know. A big room —] [PAUSE 4s] [VI: Phòng lớn.] [PAUSE 0.5s] [EN: A beautiful person —] [PAUSE 4s] [VI: Người đẹp.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đẹp] [PAUSE 3s] [EN: beautiful] [PAUSE 0.5s] [VI_F: nhỏ] [PAUSE 3s] [EN: small] [PAUSE 0.5s] [VI_F: mới] [PAUSE 3s] [EN: new] [PAUSE 0.5s] [VI_F: cũ] [PAUSE 3s] [EN: old] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đẹp] [PAUSE 1s] [VI_F: nhỏ] [PAUSE 1s] [VI_F: mới] [PAUSE 1s] [VI_F: cũ] [PAUSE 0.5s] [EN: Remember,] [VI: mới] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: đẹp] [EN: has] [EN: a low tone, cut off short] [EN: .]"
     },
     {
       "type": "synthesis",

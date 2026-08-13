@@ -2,8 +2,16 @@
   "id": "L3-D14",
   "title": "Đi dạo, cùng: suggesting an outing",
   "vocab": [
-    {"vi": "đi dạo", "en": "to go for a walk", "ipa": "di˧ zaːw˨˩ʔ"},
-    {"vi": "cùng", "en": "together, with", "ipa": "kuŋ˨˩"}
+    {
+      "vi": "đi dạo",
+      "en": "to go for a walk",
+      "ipa": "di˧ zaːw˨˩ʔ"
+    },
+    {
+      "vi": "cùng",
+      "en": "together, with",
+      "ipa": "kuŋ˨˩"
+    }
   ],
   "segments": [
     {
@@ -14,7 +22,7 @@
     {
       "type": "dialogue",
       "duration_s": 210,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Mình đi dạo đi!] [PAUSE 0.5s] [VI: Dạ, đi cùng nhé.] [PAUSE 0.5s] [VI_F: Đi công viên nhé.] [PAUSE 0.5s] [VI: Dạ được.] [PAUSE 1s] [EN: Two words today.] [PAUSE 0.5s] [EN: First,] [VI: đi dạo] [EN: means to go for a walk. Listen to its two parts.] [VI: đi] [EN: you know — to go.] [VI_F: dạo] [EN: has] [VI: dấu nặng] [EN: — same as] [VI: dạo] [EN: in] [VI: dạo này] [EN: . Listen to the whole word again.] [VI_F: đi dạo] [PAUSE 1s] [VI_F: đi dạo] [EN: Now you say it.] [PAUSE 4s] [VI: đi dạo] [EN: Good. Let's go for a walk —] [PAUSE 4s] [VI: Mình đi dạo đi.] [PAUSE 0.5s] [EN: Next,] [VI: cùng] [EN: means together, or with. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: cùng] [PAUSE 1s] [VI_F: cùng] [EN: Now you say it.] [PAUSE 4s] [VI: cùng] [EN: Good. Go for a walk together —] [PAUSE 4s] [VI: đi dạo cùng]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Mình đi dạo đi!] [PAUSE 0.5s] [VI: Dạ, đi cùng nhé.] [PAUSE 0.5s] [VI_F: Đi công viên nhé.] [PAUSE 0.5s] [VI: Dạ được.] [PAUSE 1s] [EN: Two words today.] [PAUSE 0.5s] [EN: First,] [VI: đi dạo] [EN: means to go for a walk. Listen to its two parts.] [VI: đi] [EN: you know — to go.] [VI_F: dạo] [EN: has] [EN: a low tone, cut off short] [EN: — same as] [VI: dạo] [EN: in] [VI: dạo này] [EN: . Listen to the whole word again.] [VI_F: đi dạo] [PAUSE 1s] [VI_F: đi dạo] [EN: Now you say it.] [PAUSE 4s] [VI: đi dạo] [EN: Good. Let's go for a walk —] [PAUSE 4s] [VI: Mình đi dạo đi.] [PAUSE 0.5s] [EN: Next,] [VI: cùng] [EN: means together, or with. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: cùng] [PAUSE 1s] [VI_F: cùng] [EN: Now you say it.] [PAUSE 4s] [VI: cùng] [EN: Good. Go for a walk together —] [PAUSE 4s] [VI: đi dạo cùng]"
     },
     {
       "type": "consolidate",
@@ -24,7 +32,7 @@
     {
       "type": "drill",
       "duration_s": 215,
-      "script": "[EN: Let's drill. To go for a walk —] [PAUSE 4s] [VI: đi dạo] [PAUSE 0.5s] [EN: Together, with —] [PAUSE 4s] [VI: cùng] [PAUSE 0.5s] [EN: Now say it. Let's go for a walk —] [PAUSE 4s] [VI: Mình đi dạo đi.] [PAUSE 0.5s] [EN: Go for a walk together —] [PAUSE 4s] [VI: Đi dạo cùng.] [PAUSE 0.5s] [EN: Let's go to the park together —] [PAUSE 4s] [VI: Mình đi công viên cùng đi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đi dạo] [PAUSE 3s] [EN: to go for a walk] [PAUSE 0.5s] [VI_F: cùng] [PAUSE 3s] [EN: together, with] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đi dạo] [PAUSE 1s] [VI_F: cùng] [PAUSE 0.5s] [EN: Remember,] [VI: dạo] [EN: has] [VI: dấu nặng] [EN: , and] [VI: cùng] [EN: has] [VI: dấu huyền] [EN: .]"
+      "script": "[EN: Let's drill. To go for a walk —] [PAUSE 4s] [VI: đi dạo] [PAUSE 0.5s] [EN: Together, with —] [PAUSE 4s] [VI: cùng] [PAUSE 0.5s] [EN: Now say it. Let's go for a walk —] [PAUSE 4s] [VI: Mình đi dạo đi.] [PAUSE 0.5s] [EN: Go for a walk together —] [PAUSE 4s] [VI: Đi dạo cùng.] [PAUSE 0.5s] [EN: Let's go to the park together —] [PAUSE 4s] [VI: Mình đi công viên cùng đi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đi dạo] [PAUSE 3s] [EN: to go for a walk] [PAUSE 0.5s] [VI_F: cùng] [PAUSE 3s] [EN: together, with] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đi dạo] [PAUSE 1s] [VI_F: cùng] [PAUSE 0.5s] [EN: Remember,] [VI: dạo] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: cùng] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",

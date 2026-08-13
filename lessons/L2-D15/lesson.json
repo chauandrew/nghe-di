@@ -2,7 +2,11 @@
   "id": "L2-D15",
   "title": "Đi chơi: talking about yesterday",
   "vocab": [
-    {"vi": "đi chơi", "en": "to go out, or hang out", "ipa": "di˧ tɕɤj˧"}
+    {
+      "vi": "đi chơi",
+      "en": "to go out, or hang out",
+      "ipa": "di˧ tɕɤj˧"
+    }
   ],
   "segments": [
     {
@@ -13,7 +17,7 @@
     {
       "type": "dialogue",
       "duration_s": 180,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Hôm qua anh đã đi chơi hả?] [PAUSE 0.5s] [VI: Dạ, em đã đi chơi.] [PAUSE 0.5s] [VI_F: Đi chơi ở đâu vậy?] [PAUSE 0.5s] [VI: Dạ, Bến Thành.] [PAUSE 1s] [EN: You said] [VI: đi chơi] [EN: it means to go out, or hang out. You already know] [VI: đi] [EN: — this adds] [VI: chơi] [EN: which has] [VI: ngang] [EN: — flat, no mark. Listen to the whole word again.] [VI_F: đi chơi] [PAUSE 1s] [VI_F: đi chơi] [EN: Now you say it.] [PAUSE 4s] [VI: đi chơi] [EN: Good.] [PAUSE 0.5s] [EN: Put] [VI: đã] [EN: in front of it for the past.] [VI_F: đã đi chơi] [EN: went out.] [PAUSE 0.5s] [EN: And with yesterday:] [VI_F: Hôm qua em đã đi chơi.] [EN: yesterday I went out.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Hôm qua anh đã đi chơi hả?] [PAUSE 0.5s] [VI: Dạ, em đã đi chơi.] [PAUSE 0.5s] [VI_F: Đi chơi ở đâu vậy?] [PAUSE 0.5s] [VI: Dạ, Bến Thành.] [PAUSE 1s] [EN: You said] [VI: đi chơi] [EN: it means to go out, or hang out. You already know] [VI: đi] [EN: — this adds] [VI: chơi] [EN: which has] [EN: a flat tone, no mark] [EN: — flat, no mark. Listen to the whole word again.] [VI_F: đi chơi] [PAUSE 1s] [VI_F: đi chơi] [EN: Now you say it.] [PAUSE 4s] [VI: đi chơi] [EN: Good.] [PAUSE 0.5s] [EN: Put] [VI: đã] [EN: in front of it for the past.] [VI_F: đã đi chơi] [EN: went out.] [PAUSE 0.5s] [EN: And with yesterday:] [VI_F: Hôm qua em đã đi chơi.] [EN: yesterday I went out.]"
     },
     {
       "type": "consolidate",
@@ -23,7 +27,7 @@
     {
       "type": "drill",
       "duration_s": 210,
-      "script": "[EN: Let's drill. To go out, or hang out —] [PAUSE 4s] [VI: đi chơi] [PAUSE 0.5s] [EN: Now say it. I went out yesterday —] [PAUSE 4s] [VI: Hôm qua em đã đi chơi.] [PAUSE 0.5s] [EN: Ask did you go out yesterday —] [PAUSE 4s] [VI: Hôm qua anh đã đi chơi hả?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đi chơi] [PAUSE 3s] [EN: to go out, or hang out] [PAUSE 0.5s] [VI_F: đã đi chơi] [PAUSE 3s] [EN: went out] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đi chơi] [PAUSE 1s] [VI_F: đã đi chơi] [PAUSE 0.5s] [EN: Remember,] [VI: chơi] [EN: has] [VI: ngang] [EN: — flat, no mark.]"
+      "script": "[EN: Let's drill. To go out, or hang out —] [PAUSE 4s] [VI: đi chơi] [PAUSE 0.5s] [EN: Now say it. I went out yesterday —] [PAUSE 4s] [VI: Hôm qua em đã đi chơi.] [PAUSE 0.5s] [EN: Ask did you go out yesterday —] [PAUSE 4s] [VI: Hôm qua anh đã đi chơi hả?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đi chơi] [PAUSE 3s] [EN: to go out, or hang out] [PAUSE 0.5s] [VI_F: đã đi chơi] [PAUSE 3s] [EN: went out] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đi chơi] [PAUSE 1s] [VI_F: đã đi chơi] [PAUSE 0.5s] [EN: Remember,] [VI: chơi] [EN: has] [EN: a flat tone, no mark] [EN: — flat, no mark.]"
     },
     {
       "type": "synthesis",

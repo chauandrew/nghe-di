@@ -2,8 +2,16 @@
   "id": "L3-D16",
   "title": "Tại vì, cho nên: fuller reasons",
   "vocab": [
-    {"vi": "tại vì", "en": "because (fuller, more emphatic form of vì)", "ipa": "taːj˨˩ʔ vi˨˩"},
-    {"vi": "cho nên", "en": "so, therefore (fuller form of nên)", "ipa": "tɕɔ˧ nen˧"}
+    {
+      "vi": "tại vì",
+      "en": "because (fuller, more emphatic form of vì)",
+      "ipa": "taːj˨˩ʔ vi˨˩"
+    },
+    {
+      "vi": "cho nên",
+      "en": "so, therefore (fuller form of nên)",
+      "ipa": "tɕɔ˧ nen˧"
+    }
   ],
   "segments": [
     {
@@ -14,7 +22,7 @@
     {
       "type": "dialogue",
       "duration_s": 210,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Tại sao anh thích cà phê vậy?] [PAUSE 0.5s] [VI: Tại vì cà phê ngon, cho nên tôi thích.] [PAUSE 0.5s] [VI_F: Dạ, tôi cũng vậy.] [PAUSE 1s] [EN: Today, fuller versions of two words you already know.] [PAUSE 0.5s] [EN: First,] [VI: tại vì] [EN: You already know] [VI: vì] [EN: for because.] [VI: tại vì] [EN: means the same thing, just fuller, and a little more emphatic. It has] [VI: dấu nặng] [EN: on the first part. Listen again.] [VI_F: tại vì] [PAUSE 1s] [VI_F: tại vì] [EN: Now you say it.] [PAUSE 4s] [VI: tại vì] [EN: Good. Because the coffee is tasty —] [PAUSE 4s] [VI: Tại vì cà phê ngon.] [PAUSE 0.5s] [EN: Next,] [VI: cho nên] [EN: You already know] [VI: cho] [EN: from] [VI: cho tôi] [EN: — give me. Here it works differently, and combines with] [VI: nên] [EN: which you already know for so, therefore. Together they still mean so, therefore, just fuller. It has] [VI: ngang] [EN: on the first part — flat. Listen again.] [VI_F: cho nên] [PAUSE 1s] [VI_F: cho nên] [EN: Now you say it.] [PAUSE 4s] [VI: cho nên] [EN: Good. Put them together. Because the coffee is tasty, so I like it —] [PAUSE 4s] [VI: Tại vì cà phê ngon, cho nên tôi thích.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Tại sao anh thích cà phê vậy?] [PAUSE 0.5s] [VI: Tại vì cà phê ngon, cho nên tôi thích.] [PAUSE 0.5s] [VI_F: Dạ, tôi cũng vậy.] [PAUSE 1s] [EN: Today, fuller versions of two words you already know.] [PAUSE 0.5s] [EN: First,] [VI: tại vì] [EN: You already know] [VI: vì] [EN: for because.] [VI: tại vì] [EN: means the same thing, just fuller, and a little more emphatic. It has] [EN: a low tone, cut off short] [EN: on the first part. Listen again.] [VI_F: tại vì] [PAUSE 1s] [VI_F: tại vì] [EN: Now you say it.] [PAUSE 4s] [VI: tại vì] [EN: Good. Because the coffee is tasty —] [PAUSE 4s] [VI: Tại vì cà phê ngon.] [PAUSE 0.5s] [EN: Next,] [VI: cho nên] [EN: You already know] [VI: cho] [EN: from] [VI: cho tôi] [EN: — give me. Here it works differently, and combines with] [VI: nên] [EN: which you already know for so, therefore. Together they still mean so, therefore, just fuller. It has] [EN: a flat tone, no mark] [EN: on the first part — flat. Listen again.] [VI_F: cho nên] [PAUSE 1s] [VI_F: cho nên] [EN: Now you say it.] [PAUSE 4s] [VI: cho nên] [EN: Good. Put them together. Because the coffee is tasty, so I like it —] [PAUSE 4s] [VI: Tại vì cà phê ngon, cho nên tôi thích.]"
     },
     {
       "type": "consolidate",
@@ -24,7 +32,7 @@
     {
       "type": "drill",
       "duration_s": 215,
-      "script": "[EN: Let's drill. Because —] [PAUSE 4s] [VI: tại vì] [PAUSE 0.5s] [EN: So, therefore —] [PAUSE 4s] [VI: cho nên] [PAUSE 0.5s] [EN: Now build it. Because I'm busy —] [PAUSE 4s] [VI: Tại vì tôi bận.] [PAUSE 0.5s] [EN: Because the coffee is tasty, so I like it —] [PAUSE 4s] [VI: Tại vì cà phê ngon, cho nên tôi thích.] [PAUSE 0.5s] [EN: Because I'm tired, so I want to rest —] [PAUSE 4s] [VI: Tại vì tôi mệt, cho nên tôi muốn nghỉ.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: tại vì] [PAUSE 3s] [EN: because] [PAUSE 0.5s] [VI_F: cho nên] [PAUSE 3s] [EN: so, therefore] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: tại vì] [PAUSE 1s] [VI_F: cho nên] [PAUSE 0.5s] [EN: Remember,] [VI: tại] [EN: has] [VI: dấu nặng] [EN: , and] [VI: cho] [EN: has] [VI: ngang] [EN: — flat.]"
+      "script": "[EN: Let's drill. Because —] [PAUSE 4s] [VI: tại vì] [PAUSE 0.5s] [EN: So, therefore —] [PAUSE 4s] [VI: cho nên] [PAUSE 0.5s] [EN: Now build it. Because I'm busy —] [PAUSE 4s] [VI: Tại vì tôi bận.] [PAUSE 0.5s] [EN: Because the coffee is tasty, so I like it —] [PAUSE 4s] [VI: Tại vì cà phê ngon, cho nên tôi thích.] [PAUSE 0.5s] [EN: Because I'm tired, so I want to rest —] [PAUSE 4s] [VI: Tại vì tôi mệt, cho nên tôi muốn nghỉ.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: tại vì] [PAUSE 3s] [EN: because] [PAUSE 0.5s] [VI_F: cho nên] [PAUSE 3s] [EN: so, therefore] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: tại vì] [PAUSE 1s] [VI_F: cho nên] [PAUSE 0.5s] [EN: Remember,] [VI: tại] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: cho] [EN: has] [EN: a flat tone, no mark] [EN: — flat.]"
     },
     {
       "type": "synthesis",

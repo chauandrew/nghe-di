@@ -2,10 +2,26 @@
   "id": "L1-D17",
   "title": "Nói chậm hơn: asking the taxi driver to slow down",
   "vocab": [
-    {"vi": "tôi không hiểu", "en": "I don't understand", "ipa": "toj˧ xoŋ˧ hiəw˨˩˦"},
-    {"vi": "biết", "en": "to know", "ipa": "biət˧˥"},
-    {"vi": "nói chậm hơn", "en": "speak more slowly", "ipa": "nɔj˧˥ tɕăm˨˩ʔ hɤn˧"},
-    {"vi": "lại", "en": "again", "ipa": "laːj˨˩ʔ"}
+    {
+      "vi": "tôi không hiểu",
+      "en": "I don't understand",
+      "ipa": "toj˧ xoŋ˧ hiəw˨˩˦"
+    },
+    {
+      "vi": "biết",
+      "en": "to know",
+      "ipa": "biət˧˥"
+    },
+    {
+      "vi": "nói chậm hơn",
+      "en": "speak more slowly",
+      "ipa": "nɔj˧˥ tɕăm˨˩ʔ hɤn˧"
+    },
+    {
+      "vi": "lại",
+      "en": "again",
+      "ipa": "laːj˨˩ʔ"
+    }
   ],
   "segments": [
     {
@@ -16,7 +32,7 @@
     {
       "type": "dialogue",
       "duration_s": 215,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Hai chục ngàn.] [PAUSE 0.5s] [VI: Dạ, tôi không hiểu. Nói chậm hơn được không?] [PAUSE 0.5s] [VI_M: Dạ, hai chục ngàn.] [PAUSE 0.5s] [VI: Dạ, biết rồi. Cảm ơn anh.] [PAUSE 1s] [EN: You said] [VI: tôi không hiểu] [EN: it means I don't understand. Listen to its parts.] [VI_F: tôi] [EN: is] [VI: ngang] [PAUSE 0.3s] [VI_F: không] [EN: also] [VI: ngang] [PAUSE 0.3s] [VI_F: hiểu] [EN: has] [VI: dấu hỏi] [EN: . Listen to the whole phrase again.] [VI_F: tôi không hiểu] [PAUSE 1s] [VI_F: tôi không hiểu] [EN: Now you say it.] [PAUSE 4s] [VI: tôi không hiểu] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: biết] [EN: means to know. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: biết] [PAUSE 1s] [VI_F: biết] [EN: Now you say it.] [PAUSE 4s] [VI: biết] [EN: Good. I don't know —] [PAUSE 4s] [VI: Tôi không biết.] [EN: pairs with] [VI: tôi không hiểu] [EN: — not knowing is different from not understanding.] [PAUSE 0.5s] [EN: Next,] [VI: nói chậm hơn] [EN: means speak more slowly. Listen to its three parts.] [VI_F: nói] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: chậm] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: hơn] [EN: is] [VI: ngang] [EN: . Listen to the whole phrase again.] [VI_F: nói chậm hơn] [PAUSE 1s] [VI_F: nói chậm hơn] [EN: Now you say it.] [PAUSE 4s] [VI: nói chậm hơn] [EN: Good.] [PAUSE 0.3s] [VI_F: Nói chậm hơn được không?] [EN: can you speak more slowly?] [PAUSE 0.5s] [EN: Last,] [VI: lại] [EN: means again. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: lại] [PAUSE 1s] [VI_F: lại] [EN: Now you say it.] [PAUSE 4s] [VI: lại] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_M: Hai chục ngàn.] [PAUSE 0.5s] [VI: Dạ, tôi không hiểu. Nói chậm hơn được không?] [PAUSE 0.5s] [VI_M: Dạ, hai chục ngàn.] [PAUSE 0.5s] [VI: Dạ, biết rồi. Cảm ơn anh.] [PAUSE 1s] [EN: You said] [VI: tôi không hiểu] [EN: it means I don't understand. Listen to its parts.] [VI_F: tôi] [EN: is] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: không] [EN: also] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: hiểu] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: . Listen to the whole phrase again.] [VI_F: tôi không hiểu] [PAUSE 1s] [VI_F: tôi không hiểu] [EN: Now you say it.] [PAUSE 4s] [VI: tôi không hiểu] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: biết] [EN: means to know. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: biết] [PAUSE 1s] [VI_F: biết] [EN: Now you say it.] [PAUSE 4s] [VI: biết] [EN: Good. I don't know —] [PAUSE 4s] [VI: Tôi không biết.] [EN: pairs with] [VI: tôi không hiểu] [EN: — not knowing is different from not understanding.] [PAUSE 0.5s] [EN: Next,] [VI: nói chậm hơn] [EN: means speak more slowly. Listen to its three parts.] [VI_F: nói] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: chậm] [EN: has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: hơn] [EN: is] [EN: a flat tone, no mark] [EN: . Listen to the whole phrase again.] [VI_F: nói chậm hơn] [PAUSE 1s] [VI_F: nói chậm hơn] [EN: Now you say it.] [PAUSE 4s] [VI: nói chậm hơn] [EN: Good.] [PAUSE 0.3s] [VI_F: Nói chậm hơn được không?] [EN: can you speak more slowly?] [PAUSE 0.5s] [EN: Last,] [VI: lại] [EN: means again. It has] [EN: a low tone, cut off short] [EN: . Listen again.] [VI_F: lại] [PAUSE 1s] [VI_F: lại] [EN: Now you say it.] [PAUSE 4s] [VI: lại] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -26,7 +42,7 @@
     {
       "type": "drill",
       "duration_s": 235,
-      "script": "[EN: Let's drill. I don't understand —] [PAUSE 4s] [VI: tôi không hiểu] [PAUSE 0.5s] [EN: To know —] [PAUSE 4s] [VI: biết] [PAUSE 0.5s] [EN: Speak more slowly —] [PAUSE 4s] [VI: nói chậm hơn] [PAUSE 0.5s] [EN: Again —] [PAUSE 4s] [VI: lại] [PAUSE 0.5s] [EN: Now say it. I don't understand —] [PAUSE 4s] [VI: Tôi không hiểu.] [PAUSE 0.5s] [EN: Ask him to speak more slowly —] [PAUSE 4s] [VI: Nói chậm hơn được không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: tôi không hiểu] [PAUSE 3s] [EN: I don't understand] [PAUSE 0.5s] [VI_F: biết] [PAUSE 3s] [EN: to know] [PAUSE 0.5s] [VI_F: nói chậm hơn] [PAUSE 3s] [EN: speak more slowly] [PAUSE 0.5s] [VI_F: lại] [PAUSE 3s] [EN: again] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: tôi không hiểu] [PAUSE 1s] [VI_F: biết] [PAUSE 1s] [VI_F: nói chậm hơn] [PAUSE 1s] [VI_F: lại] [PAUSE 0.5s] [EN: Remember,] [VI: biết] [EN: has] [VI: dấu sắc] [EN: , and] [VI: lại] [EN: has] [VI: dấu nặng] [EN: .]"
+      "script": "[EN: Let's drill. I don't understand —] [PAUSE 4s] [VI: tôi không hiểu] [PAUSE 0.5s] [EN: To know —] [PAUSE 4s] [VI: biết] [PAUSE 0.5s] [EN: Speak more slowly —] [PAUSE 4s] [VI: nói chậm hơn] [PAUSE 0.5s] [EN: Again —] [PAUSE 4s] [VI: lại] [PAUSE 0.5s] [EN: Now say it. I don't understand —] [PAUSE 4s] [VI: Tôi không hiểu.] [PAUSE 0.5s] [EN: Ask him to speak more slowly —] [PAUSE 4s] [VI: Nói chậm hơn được không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: tôi không hiểu] [PAUSE 3s] [EN: I don't understand] [PAUSE 0.5s] [VI_F: biết] [PAUSE 3s] [EN: to know] [PAUSE 0.5s] [VI_F: nói chậm hơn] [PAUSE 3s] [EN: speak more slowly] [PAUSE 0.5s] [VI_F: lại] [PAUSE 3s] [EN: again] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: tôi không hiểu] [PAUSE 1s] [VI_F: biết] [PAUSE 1s] [VI_F: nói chậm hơn] [PAUSE 1s] [VI_F: lại] [PAUSE 0.5s] [EN: Remember,] [VI: biết] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: lại] [EN: has] [EN: a low tone, cut off short] [EN: .]"
     },
     {
       "type": "synthesis",

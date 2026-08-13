@@ -2,15 +2,27 @@
   "id": "L5-D20",
   "title": "Công ty, dự án, áp lực: work and career",
   "vocab": [
-    {"vi": "công ty", "en": "company", "ipa": "kɔŋ˧ ti˧"},
-    {"vi": "dự án", "en": "project", "ipa": "zɨ˨˩ʔ aːn˧˥"},
-    {"vi": "áp lực", "en": "pressure", "ipa": "ap˧˥ lɨk˨˩ʔ"}
+    {
+      "vi": "công ty",
+      "en": "company",
+      "ipa": "kɔŋ˧ ti˧"
+    },
+    {
+      "vi": "dự án",
+      "en": "project",
+      "ipa": "zɨ˨˩ʔ aːn˧˥"
+    },
+    {
+      "vi": "áp lực",
+      "en": "pressure",
+      "ipa": "ap˧˥ lɨk˨˩ʔ"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 90,
-      "script": "[EN: Quick review. Say the flat tone, no mark —] [PAUSE 4s] [VI: ngang] [PAUSE 0.5s] [EN: Say the falling-tone mark —] [PAUSE 4s] [VI: dấu huyền] [PAUSE 0.5s] [EN: Say the high, rising-tone mark —] [PAUSE 4s] [VI: dấu sắc] [PAUSE 0.5s] [EN: Say the dipping-tone mark —] [PAUSE 4s] [VI: dấu hỏi] [PAUSE 0.5s] [EN: Say the other dipping-tone mark, same sound in the south —] [PAUSE 4s] [VI: dấu ngã] [PAUSE 0.5s] [EN: Say the low, cut-off tone mark —] [PAUSE 4s] [VI: dấu nặng] [EN: Good.]"
+      "script": "[EN: Quick review. Say family —] [PAUSE 4s] [VI: gia đình] [EN: Say air conditioner —] [PAUSE 4s] [VI: máy lạnh] [EN: Say to be born —] [PAUSE 4s] [VI: sinh ra] [EN: Say to grow up —] [PAUSE 4s] [VI: lớn lên] [EN: Say to get married —] [PAUSE 4s] [VI: kết hôn] [EN: Say famous —] [PAUSE 4s] [VI: nổi tiếng] [EN: Good.]"
     },
     {
       "type": "dialogue",

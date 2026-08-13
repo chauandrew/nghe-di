@@ -2,8 +2,16 @@
   "id": "L2-D22",
   "title": "Lớn hơn, rẻ hơn: comparing two options",
   "vocab": [
-    {"vi": "lớn hơn", "en": "bigger", "ipa": "lɤn˧˥ hɤn˧"},
-    {"vi": "rẻ hơn", "en": "cheaper", "ipa": "re˨˩˦ hɤn˧"}
+    {
+      "vi": "lớn hơn",
+      "en": "bigger",
+      "ipa": "lɤn˧˥ hɤn˧"
+    },
+    {
+      "vi": "rẻ hơn",
+      "en": "cheaper",
+      "ipa": "re˨˩˦ hɤn˧"
+    }
   ],
   "segments": [
     {
@@ -24,7 +32,7 @@
     {
       "type": "drill",
       "duration_s": 230,
-      "script": "[EN: Let's drill. Bigger —] [PAUSE 4s] [VI: lớn hơn] [PAUSE 0.5s] [EN: Cheaper —] [PAUSE 4s] [VI: rẻ hơn] [PAUSE 0.5s] [EN: Now say it. This room is bigger —] [PAUSE 4s] [VI: Phòng này lớn hơn.] [PAUSE 0.5s] [EN: That one is cheaper —] [PAUSE 4s] [VI: Cái đó rẻ hơn.] [PAUSE 0.5s] [EN: This street is farther —] [PAUSE 4s] [VI: Đường này xa hơn.] [PAUSE 0.5s] [EN: That one is closer —] [PAUSE 4s] [VI: Đường đó gần hơn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: lớn hơn] [PAUSE 3s] [EN: bigger] [PAUSE 0.5s] [VI_F: rẻ hơn] [PAUSE 3s] [EN: cheaper] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: lớn hơn] [PAUSE 1s] [VI_F: rẻ hơn] [PAUSE 0.5s] [EN: Remember,] [VI: rẻ] [EN: has] [VI: dấu hỏi] [EN: , and] [VI: lớn] [EN: has] [VI: dấu sắc] [EN: .]"
+      "script": "[EN: Let's drill. Bigger —] [PAUSE 4s] [VI: lớn hơn] [PAUSE 0.5s] [EN: Cheaper —] [PAUSE 4s] [VI: rẻ hơn] [PAUSE 0.5s] [EN: Now say it. This room is bigger —] [PAUSE 4s] [VI: Phòng này lớn hơn.] [PAUSE 0.5s] [EN: That one is cheaper —] [PAUSE 4s] [VI: Cái đó rẻ hơn.] [PAUSE 0.5s] [EN: This street is farther —] [PAUSE 4s] [VI: Đường này xa hơn.] [PAUSE 0.5s] [EN: That one is closer —] [PAUSE 4s] [VI: Đường đó gần hơn.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: lớn hơn] [PAUSE 3s] [EN: bigger] [PAUSE 0.5s] [VI_F: rẻ hơn] [PAUSE 3s] [EN: cheaper] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: lớn hơn] [PAUSE 1s] [VI_F: rẻ hơn] [PAUSE 0.5s] [EN: Remember,] [VI: rẻ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: , and] [VI: lớn] [EN: has] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",

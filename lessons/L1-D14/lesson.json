@@ -2,9 +2,21 @@
   "id": "L1-D14",
   "title": "Đi Bến Thành: taking a motorbike taxi",
   "vocab": [
-    {"vi": "đi", "en": "to go", "ipa": "di˧"},
-    {"vi": "Bến Thành", "en": "Bến Thành market", "ipa": "ben˧˥ tʰaːɲ˨˩"},
-    {"vi": "bao lâu", "en": "how long", "ipa": "baːw˧ ləw˧"}
+    {
+      "vi": "đi",
+      "en": "to go",
+      "ipa": "di˧"
+    },
+    {
+      "vi": "Bến Thành",
+      "en": "Bến Thành market",
+      "ipa": "ben˧˥ tʰaːɲ˨˩"
+    },
+    {
+      "vi": "bao lâu",
+      "en": "how long",
+      "ipa": "baːw˧ ləw˧"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 220,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, tôi muốn đi Bến Thành.] [PAUSE 0.5s] [VI_M: Dạ.] [PAUSE 0.5s] [VI: Bao lâu vậy anh?] [PAUSE 0.5s] [VI_M: Dạ, mười.] [PAUSE 1s] [EN: You heard] [VI: đi] [EN: it means to go. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: đi] [PAUSE 1s] [VI_F: đi] [EN: Now you say it.] [PAUSE 4s] [VI: đi] [EN: Good.] [PAUSE 0.5s] [EN: Next, the market] [VI: Bến Thành] [EN: a famous market in the city. Listen to its two parts.] [VI_F: Bến] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: Thành] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole name again.] [VI_F: Bến Thành] [PAUSE 1s] [VI_F: Bến Thành] [EN: Now you say it.] [PAUSE 4s] [VI: Bến Thành] [EN: Good.] [PAUSE 0.3s] [VI_F: tôi muốn đi Bến Thành] [EN: I want to go to] [VI: Bến Thành] [EN: .] [PAUSE 0.5s] [EN: Last,] [VI: bao lâu] [EN: means how long. Listen to its two parts.] [VI_F: bao] [EN: has] [VI: ngang] [PAUSE 0.3s] [VI_F: lâu] [EN: also has] [VI: ngang] [EN: . Listen to the whole phrase again.] [VI_F: bao lâu] [PAUSE 1s] [VI_F: bao lâu] [EN: Now you say it.] [PAUSE 4s] [VI: bao lâu] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, tôi muốn đi Bến Thành.] [PAUSE 0.5s] [VI_M: Dạ.] [PAUSE 0.5s] [VI: Bao lâu vậy anh?] [PAUSE 0.5s] [VI_M: Dạ, mười.] [PAUSE 1s] [EN: You heard] [VI: đi] [EN: it means to go. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: đi] [PAUSE 1s] [VI_F: đi] [EN: Now you say it.] [PAUSE 4s] [VI: đi] [EN: Good.] [PAUSE 0.5s] [EN: Next, the market] [VI: Bến Thành] [EN: a famous market in the city. Listen to its two parts.] [VI_F: Bến] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: Thành] [EN: has] [EN: a falling tone] [EN: . Listen to the whole name again.] [VI_F: Bến Thành] [PAUSE 1s] [VI_F: Bến Thành] [EN: Now you say it.] [PAUSE 4s] [VI: Bến Thành] [EN: Good.] [PAUSE 0.3s] [VI_F: tôi muốn đi Bến Thành] [EN: I want to go to] [VI: Bến Thành] [EN: .] [PAUSE 0.5s] [EN: Last,] [VI: bao lâu] [EN: means how long. Listen to its two parts.] [VI_F: bao] [EN: has] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: lâu] [EN: also has] [EN: a flat tone, no mark] [EN: . Listen to the whole phrase again.] [VI_F: bao lâu] [PAUSE 1s] [VI_F: bao lâu] [EN: Now you say it.] [PAUSE 4s] [VI: bao lâu] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 240,
-      "script": "[EN: Let's drill. To go —] [PAUSE 4s] [VI: đi] [PAUSE 0.5s] [VI: Bến Thành] [EN: market —] [PAUSE 4s] [VI: Bến Thành] [PAUSE 0.5s] [EN: How long —] [PAUSE 4s] [VI: bao lâu] [PAUSE 0.5s] [EN: Now say it. I want to go to] [VI: Bến Thành] [EN: —] [PAUSE 4s] [VI: Tôi muốn đi Bến Thành.] [PAUSE 0.5s] [EN: Ask how long —] [PAUSE 4s] [VI: Bao lâu vậy?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đi] [PAUSE 3s] [EN: to go] [PAUSE 0.5s] [VI_F: Bến Thành] [PAUSE 3s] [VI: Bến Thành] [EN: market] [PAUSE 0.5s] [VI_F: bao lâu] [PAUSE 3s] [EN: how long] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đi] [PAUSE 1s] [VI_F: Bến Thành] [PAUSE 1s] [VI_F: bao lâu] [PAUSE 0.5s] [EN: Remember,] [VI: Bến] [EN: has] [VI: dấu sắc] [EN: , and] [VI: Thành] [EN: has] [VI: dấu huyền] [EN: .]"
+      "script": "[EN: Let's drill. To go —] [PAUSE 4s] [VI: đi] [PAUSE 0.5s] [VI: Bến Thành] [EN: market —] [PAUSE 4s] [VI: Bến Thành] [PAUSE 0.5s] [EN: How long —] [PAUSE 4s] [VI: bao lâu] [PAUSE 0.5s] [EN: Now say it. I want to go to] [VI: Bến Thành] [EN: —] [PAUSE 4s] [VI: Tôi muốn đi Bến Thành.] [PAUSE 0.5s] [EN: Ask how long —] [PAUSE 4s] [VI: Bao lâu vậy?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đi] [PAUSE 3s] [EN: to go] [PAUSE 0.5s] [VI_F: Bến Thành] [PAUSE 3s] [VI: Bến Thành] [EN: market] [PAUSE 0.5s] [VI_F: bao lâu] [PAUSE 3s] [EN: how long] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đi] [PAUSE 1s] [VI_F: Bến Thành] [PAUSE 1s] [VI_F: bao lâu] [PAUSE 0.5s] [EN: Remember,] [VI: Bến] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: Thành] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",

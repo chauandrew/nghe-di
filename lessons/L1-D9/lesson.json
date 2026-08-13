@@ -2,9 +2,21 @@
   "id": "L1-D9",
   "title": "Câu hỏi có/không: yes-no questions",
   "vocab": [
-    {"vi": "có", "en": "yes / there is", "ipa": "kɔ˧˥"},
-    {"vi": "đói", "en": "hungry", "ipa": "doj˧˥"},
-    {"vi": "phải không", "en": "right? / isn't that so?", "ipa": "faːj˨˩˦ xoŋ˧"}
+    {
+      "vi": "có",
+      "en": "yes / there is",
+      "ipa": "kɔ˧˥"
+    },
+    {
+      "vi": "đói",
+      "en": "hungry",
+      "ipa": "doj˧˥"
+    },
+    {
+      "vi": "phải không",
+      "en": "right? / isn't that so?",
+      "ipa": "faːj˨˩˦ xoŋ˧"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 230,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Em đói không?] [PAUSE 0.5s] [VI: Dạ, có. Đói quá!] [PAUSE 0.5s] [VI_F: Ngon phải không?] [PAUSE 0.5s] [VI: Dạ, có!] [PAUSE 1s] [EN: Today's structure: yes-no questions. Put] [VI: không] [EN: at the end of a sentence to ask yes or no, then answer] [VI: có] [EN: for yes, or] [VI: không] [EN: for no.] [PAUSE 0.5s] [EN: First,] [VI: có] [EN: means yes, or there is. It has] [VI: dấu sắc] [EN: — high, rising. Listen again.] [VI_F: có] [PAUSE 1s] [VI_F: có] [EN: Now you say it.] [PAUSE 4s] [VI: có] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: đói] [EN: means hungry. It has] [VI: dấu sắc] [EN: — high, rising. Listen again.] [VI_F: đói] [PAUSE 1s] [VI_F: đói] [EN: Now you say it.] [PAUSE 4s] [VI: đói] [EN: Good. Try asking.] [PAUSE 0.3s] [VI_F: đói không] [EN: are you hungry?] [PAUSE 0.5s] [EN: There's also a second way to ask, when you expect the answer to be yes. Add] [VI: phải không] [EN: to the end of a statement — it means right, or isn't that so. You already know both pieces.] [PAUSE 0.3s] [VI_F: phải không] [PAUSE 1s] [VI_F: phải không] [EN: Now you say it.] [PAUSE 4s] [VI: phải không] [EN: Good.] [PAUSE 0.3s] [VI_F: ngon phải không] [EN: it's tasty, right?]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Em đói không?] [PAUSE 0.5s] [VI: Dạ, có. Đói quá!] [PAUSE 0.5s] [VI_F: Ngon phải không?] [PAUSE 0.5s] [VI: Dạ, có!] [PAUSE 1s] [EN: Today's structure: yes-no questions. Put] [VI: không] [EN: at the end of a sentence to ask yes or no, then answer] [VI: có] [EN: for yes, or] [VI: không] [EN: for no.] [PAUSE 0.5s] [EN: First,] [VI: có] [EN: means yes, or there is. It has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: có] [PAUSE 1s] [VI_F: có] [EN: Now you say it.] [PAUSE 4s] [VI: có] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: đói] [EN: means hungry. It has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: đói] [PAUSE 1s] [VI_F: đói] [EN: Now you say it.] [PAUSE 4s] [VI: đói] [EN: Good. Try asking.] [PAUSE 0.3s] [VI_F: đói không] [EN: are you hungry?] [PAUSE 0.5s] [EN: There's also a second way to ask, when you expect the answer to be yes. Add] [VI: phải không] [EN: to the end of a statement — it means right, or isn't that so. You already know both pieces.] [PAUSE 0.3s] [VI_F: phải không] [PAUSE 1s] [VI_F: phải không] [EN: Now you say it.] [PAUSE 4s] [VI: phải không] [EN: Good.] [PAUSE 0.3s] [VI_F: ngon phải không] [EN: it's tasty, right?]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 250,
-      "script": "[EN: Let's drill. Yes, or there is —] [PAUSE 4s] [VI: có] [PAUSE 0.5s] [EN: Hungry —] [PAUSE 4s] [VI: đói] [PAUSE 0.5s] [EN: Right? —] [PAUSE 4s] [VI: phải không] [PAUSE 0.5s] [EN: Now ask. Are you hungry —] [PAUSE 4s] [VI: Đói không?] [PAUSE 0.5s] [EN: Answer yes —] [PAUSE 4s] [VI: Có.] [PAUSE 0.5s] [EN: Answer no —] [PAUSE 4s] [VI: Không.] [PAUSE 0.5s] [EN: Now the tag question. It's spicy, right —] [PAUSE 4s] [VI: Cay phải không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: có] [PAUSE 3s] [EN: yes, or there is] [PAUSE 0.5s] [VI_F: đói] [PAUSE 3s] [EN: hungry] [PAUSE 0.5s] [VI_F: phải không] [PAUSE 3s] [EN: right?] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: có] [PAUSE 1s] [VI_F: đói] [PAUSE 1s] [VI_F: phải không] [PAUSE 0.5s] [EN: Remember,] [VI: có] [EN: and] [VI: đói] [EN: both have] [VI: dấu sắc] [EN: .]"
+      "script": "[EN: Let's drill. Yes, or there is —] [PAUSE 4s] [VI: có] [PAUSE 0.5s] [EN: Hungry —] [PAUSE 4s] [VI: đói] [PAUSE 0.5s] [EN: Right? —] [PAUSE 4s] [VI: phải không] [PAUSE 0.5s] [EN: Now ask. Are you hungry —] [PAUSE 4s] [VI: Đói không?] [PAUSE 0.5s] [EN: Answer yes —] [PAUSE 4s] [VI: Có.] [PAUSE 0.5s] [EN: Answer no —] [PAUSE 4s] [VI: Không.] [PAUSE 0.5s] [EN: Now the tag question. It's spicy, right —] [PAUSE 4s] [VI: Cay phải không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: có] [PAUSE 3s] [EN: yes, or there is] [PAUSE 0.5s] [VI_F: đói] [PAUSE 3s] [EN: hungry] [PAUSE 0.5s] [VI_F: phải không] [PAUSE 3s] [EN: right?] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: có] [PAUSE 1s] [VI_F: đói] [PAUSE 1s] [VI_F: phải không] [PAUSE 0.5s] [EN: Remember,] [VI: có] [EN: and] [VI: đói] [EN: both have] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",

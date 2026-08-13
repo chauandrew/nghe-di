@@ -2,9 +2,21 @@
   "id": "L1-D28",
   "title": "Nhà thuốc: finding a pharmacy",
   "vocab": [
-    {"vi": "tôi cần", "en": "I need", "ipa": "toj˧ kân˨˩"},
-    {"vi": "thuốc", "en": "medicine", "ipa": "tʰuək˧˥"},
-    {"vi": "nhà thuốc", "en": "pharmacy", "ipa": "ɲaː˨˩ tʰuək˧˥"}
+    {
+      "vi": "tôi cần",
+      "en": "I need",
+      "ipa": "toj˧ kân˨˩"
+    },
+    {
+      "vi": "thuốc",
+      "en": "medicine",
+      "ipa": "tʰuək˧˥"
+    },
+    {
+      "vi": "nhà thuốc",
+      "en": "pharmacy",
+      "ipa": "ɲaː˨˩ tʰuək˧˥"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 200,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, tôi cần thuốc. Nhà thuốc ở đâu?] [PAUSE 0.5s] [VI_F: Dạ, bên phải.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: You said] [VI: tôi cần] [EN: it means I need. Listen to its two parts.] [VI_F: tôi] [EN: is] [VI: ngang] [PAUSE 0.3s] [VI_F: cần] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole phrase again.] [VI_F: tôi cần] [PAUSE 1s] [VI_F: tôi cần] [EN: Now you say it.] [PAUSE 4s] [VI: tôi cần] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: thuốc] [EN: means medicine. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: thuốc] [PAUSE 1s] [VI_F: thuốc] [EN: Now you say it.] [PAUSE 4s] [VI: thuốc] [EN: Good. I need medicine —] [PAUSE 4s] [VI: Tôi cần thuốc.] [EN: Listen.] [VI_F: Tôi cần thuốc.] [PAUSE 1s] [EN: Last,] [VI: nhà thuốc] [EN: means pharmacy. It shares] [VI: nhà] [EN: with] [VI: nhà vệ sinh] [EN: — listen to the first part.] [VI_F: nhà] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole word again.] [VI_F: nhà thuốc] [PAUSE 1s] [VI_F: nhà thuốc] [EN: Now you say it.] [PAUSE 4s] [VI: nhà thuốc] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Dạ, tôi cần thuốc. Nhà thuốc ở đâu?] [PAUSE 0.5s] [VI_F: Dạ, bên phải.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: You said] [VI: tôi cần] [EN: it means I need. Listen to its two parts.] [VI_F: tôi] [EN: is] [EN: a flat tone, no mark] [PAUSE 0.3s] [VI_F: cần] [EN: has] [EN: a falling tone] [EN: . Listen to the whole phrase again.] [VI_F: tôi cần] [PAUSE 1s] [VI_F: tôi cần] [EN: Now you say it.] [PAUSE 4s] [VI: tôi cần] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: thuốc] [EN: means medicine. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: thuốc] [PAUSE 1s] [VI_F: thuốc] [EN: Now you say it.] [PAUSE 4s] [VI: thuốc] [EN: Good. I need medicine —] [PAUSE 4s] [VI: Tôi cần thuốc.] [EN: Listen.] [VI_F: Tôi cần thuốc.] [PAUSE 1s] [EN: Last,] [VI: nhà thuốc] [EN: means pharmacy. It shares] [VI: nhà] [EN: with] [VI: nhà vệ sinh] [EN: — listen to the first part.] [VI_F: nhà] [EN: has] [EN: a falling tone] [EN: . Listen to the whole word again.] [VI_F: nhà thuốc] [PAUSE 1s] [VI_F: nhà thuốc] [EN: Now you say it.] [PAUSE 4s] [VI: nhà thuốc] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 220,
-      "script": "[EN: Let's drill. I need —] [PAUSE 4s] [VI: tôi cần] [PAUSE 0.5s] [EN: Medicine —] [PAUSE 4s] [VI: thuốc] [PAUSE 0.5s] [EN: Pharmacy —] [PAUSE 4s] [VI: nhà thuốc] [PAUSE 0.5s] [EN: Now say it. I need medicine —] [PAUSE 4s] [VI: Tôi cần thuốc.] [PAUSE 0.5s] [EN: Ask where the pharmacy is —] [PAUSE 4s] [VI: Nhà thuốc ở đâu?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: tôi cần] [PAUSE 3s] [EN: I need] [PAUSE 0.5s] [VI_F: thuốc] [PAUSE 3s] [EN: medicine] [PAUSE 0.5s] [VI_F: nhà thuốc] [PAUSE 3s] [EN: pharmacy] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: tôi cần] [PAUSE 1s] [VI_F: thuốc] [PAUSE 1s] [VI_F: nhà thuốc] [PAUSE 0.5s] [EN: Remember,] [VI: cần] [EN: has] [VI: dấu huyền] [EN: , and] [VI: thuốc] [EN: has] [VI: dấu sắc] [EN: .]"
+      "script": "[EN: Let's drill. I need —] [PAUSE 4s] [VI: tôi cần] [PAUSE 0.5s] [EN: Medicine —] [PAUSE 4s] [VI: thuốc] [PAUSE 0.5s] [EN: Pharmacy —] [PAUSE 4s] [VI: nhà thuốc] [PAUSE 0.5s] [EN: Now say it. I need medicine —] [PAUSE 4s] [VI: Tôi cần thuốc.] [PAUSE 0.5s] [EN: Ask where the pharmacy is —] [PAUSE 4s] [VI: Nhà thuốc ở đâu?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: tôi cần] [PAUSE 3s] [EN: I need] [PAUSE 0.5s] [VI_F: thuốc] [PAUSE 3s] [EN: medicine] [PAUSE 0.5s] [VI_F: nhà thuốc] [PAUSE 3s] [EN: pharmacy] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: tôi cần] [PAUSE 1s] [VI_F: thuốc] [PAUSE 1s] [VI_F: nhà thuốc] [PAUSE 0.5s] [EN: Remember,] [VI: cần] [EN: has] [EN: a falling tone] [EN: , and] [VI: thuốc] [EN: has] [EN: a high, rising tone] [EN: .]"
     },
     {
       "type": "synthesis",

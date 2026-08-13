@@ -2,8 +2,16 @@
   "id": "L3-D29",
   "title": "Họp mặt, vui vẻ: a social gathering",
   "vocab": [
-    {"vi": "họp mặt", "en": "gathering", "ipa": "hop˨˩ʔ mat˨˩ʔ"},
-    {"vi": "vui vẻ", "en": "cheerful, happy (fuller adjective form of vui)", "ipa": "vui˧ vɛ˨˩˦"}
+    {
+      "vi": "họp mặt",
+      "en": "gathering",
+      "ipa": "hop˨˩ʔ mat˨˩ʔ"
+    },
+    {
+      "vi": "vui vẻ",
+      "en": "cheerful, happy (fuller adjective form of vui)",
+      "ipa": "vui˧ vɛ˨˩˦"
+    }
   ],
   "segments": [
     {
@@ -14,7 +22,7 @@
     {
       "type": "dialogue",
       "duration_s": 215,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Tối nay họp mặt bạn bè, vui vẻ quá!] [PAUSE 0.5s] [VI: Dạ, tôi cũng tham gia. Tôi giới thiệu, đây là bạn bè tôi.] [PAUSE 0.5s] [VI_F: Dạ, chào anh chị! Mình quen nha.] [PAUSE 1s] [EN: Today, two words to close out our unit on people and gatherings.] [PAUSE 0.5s] [EN: First,] [VI: họp mặt] [EN: means gathering. Listen to its two parts.] [VI_F: họp] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: mặt] [EN: has] [VI: dấu nặng] [EN: too. Listen to the whole word again.] [VI_F: họp mặt] [PAUSE 1s] [VI_F: họp mặt] [EN: Now you say it.] [PAUSE 4s] [VI: họp mặt] [EN: Good. Tonight, a gathering of friends —] [PAUSE 4s] [VI: Tối nay họp mặt bạn bè.] [PAUSE 0.5s] [EN: Next,] [VI: vui vẻ] [EN: You already know] [VI: vui] [EN: for happy.] [VI: vui vẻ] [EN: means the same thing, just fuller — cheerful, happy. Listen to its two parts.] [VI_F: vui] [EN: has] [VI: ngang] [EN: — flat] [PAUSE 0.3s] [VI_F: vẻ] [EN: has] [VI: dấu hỏi] [EN: . Listen to the whole word again.] [VI_F: vui vẻ] [PAUSE 1s] [VI_F: vui vẻ] [EN: Now you say it.] [PAUSE 4s] [VI: vui vẻ] [EN: Good. So cheerful —] [PAUSE 4s] [VI: Vui vẻ quá!]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Tối nay họp mặt bạn bè, vui vẻ quá!] [PAUSE 0.5s] [VI: Dạ, tôi cũng tham gia. Tôi giới thiệu, đây là bạn bè tôi.] [PAUSE 0.5s] [VI_F: Dạ, chào anh chị! Mình quen nha.] [PAUSE 1s] [EN: Today, two words to close out our unit on people and gatherings.] [PAUSE 0.5s] [EN: First,] [VI: họp mặt] [EN: means gathering. Listen to its two parts.] [VI_F: họp] [EN: has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: mặt] [EN: has] [EN: a low tone, cut off short] [EN: too. Listen to the whole word again.] [VI_F: họp mặt] [PAUSE 1s] [VI_F: họp mặt] [EN: Now you say it.] [PAUSE 4s] [VI: họp mặt] [EN: Good. Tonight, a gathering of friends —] [PAUSE 4s] [VI: Tối nay họp mặt bạn bè.] [PAUSE 0.5s] [EN: Next,] [VI: vui vẻ] [EN: You already know] [VI: vui] [EN: for happy.] [VI: vui vẻ] [EN: means the same thing, just fuller — cheerful, happy. Listen to its two parts.] [VI_F: vui] [EN: has] [EN: a flat tone, no mark] [EN: — flat] [PAUSE 0.3s] [VI_F: vẻ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: . Listen to the whole word again.] [VI_F: vui vẻ] [PAUSE 1s] [VI_F: vui vẻ] [EN: Now you say it.] [PAUSE 4s] [VI: vui vẻ] [EN: Good. So cheerful —] [PAUSE 4s] [VI: Vui vẻ quá!]"
     },
     {
       "type": "consolidate",
@@ -24,7 +32,7 @@
     {
       "type": "drill",
       "duration_s": 220,
-      "script": "[EN: Let's drill. Gathering —] [PAUSE 4s] [VI: họp mặt] [PAUSE 0.5s] [EN: Cheerful, happy —] [PAUSE 4s] [VI: vui vẻ] [PAUSE 0.5s] [EN: Now build it. Tonight, a gathering of friends —] [PAUSE 4s] [VI: Tối nay họp mặt bạn bè.] [PAUSE 0.5s] [EN: So cheerful —] [PAUSE 4s] [VI: Vui vẻ quá!] [PAUSE 0.5s] [EN: I'm joining the gathering, this is my friends —] [PAUSE 4s] [VI: Tôi tham gia họp mặt, đây là bạn bè tôi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: họp mặt] [PAUSE 3s] [EN: gathering] [PAUSE 0.5s] [VI_F: vui vẻ] [PAUSE 3s] [EN: cheerful, happy] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: họp mặt] [PAUSE 1s] [VI_F: vui vẻ] [PAUSE 0.5s] [EN: Remember,] [VI: họp] [EN: and] [VI: mặt] [EN: both have] [VI: dấu nặng] [EN: , and] [VI: vẻ] [EN: has] [VI: dấu hỏi] [EN: .]"
+      "script": "[EN: Let's drill. Gathering —] [PAUSE 4s] [VI: họp mặt] [PAUSE 0.5s] [EN: Cheerful, happy —] [PAUSE 4s] [VI: vui vẻ] [PAUSE 0.5s] [EN: Now build it. Tonight, a gathering of friends —] [PAUSE 4s] [VI: Tối nay họp mặt bạn bè.] [PAUSE 0.5s] [EN: So cheerful —] [PAUSE 4s] [VI: Vui vẻ quá!] [PAUSE 0.5s] [EN: I'm joining the gathering, this is my friends —] [PAUSE 4s] [VI: Tôi tham gia họp mặt, đây là bạn bè tôi.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: họp mặt] [PAUSE 3s] [EN: gathering] [PAUSE 0.5s] [VI_F: vui vẻ] [PAUSE 3s] [EN: cheerful, happy] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: họp mặt] [PAUSE 1s] [VI_F: vui vẻ] [PAUSE 0.5s] [EN: Remember,] [VI: họp] [EN: and] [VI: mặt] [EN: both have] [EN: a low tone, cut off short] [EN: , and] [VI: vẻ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: .]"
     },
     {
       "type": "synthesis",

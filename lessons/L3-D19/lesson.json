@@ -2,9 +2,21 @@
   "id": "L3-D19",
   "title": "Tôi nghĩ, theo tôi, thế nào: giving opinions",
   "vocab": [
-    {"vi": "tôi nghĩ", "en": "I think", "ipa": "toj˧ ŋi˨˩˦"},
-    {"vi": "theo tôi", "en": "in my opinion, according to me", "ipa": "tʰɛw˧ toj˧"},
-    {"vi": "thế nào", "en": "how?, what is it like?", "ipa": "tʰe˧˥ naːw˨˩"}
+    {
+      "vi": "tôi nghĩ",
+      "en": "I think",
+      "ipa": "toj˧ ŋi˨˩˦"
+    },
+    {
+      "vi": "theo tôi",
+      "en": "in my opinion, according to me",
+      "ipa": "tʰɛw˧ toj˧"
+    },
+    {
+      "vi": "thế nào",
+      "en": "how?, what is it like?",
+      "ipa": "tʰe˧˥ naːw˨˩"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 215,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh thấy cà phê này thế nào?] [PAUSE 0.5s] [VI: Tôi nghĩ cà phê này ngon.] [PAUSE 0.5s] [VI_F: Theo tôi, cũng ngon.] [PAUSE 1s] [EN: Today, three phrases for giving your opinion.] [PAUSE 0.5s] [EN: First, a question tag.] [VI: thế nào] [EN: means how, or what is it like. You already know] [VI: thấy] [EN: for to feel, or to find something — add] [VI: thế nào] [EN: at the end to ask about it. Listen to its two parts.] [VI_F: thế] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: nào] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole word again.] [VI_F: thế nào] [PAUSE 1s] [VI_F: thế nào] [EN: Now you say it.] [PAUSE 4s] [VI: thế nào] [EN: Good. What do you think of this coffee —] [PAUSE 4s] [VI: Anh thấy cà phê này thế nào?] [PAUSE 0.5s] [EN: Next,] [VI: tôi nghĩ] [EN: means I think. Listen to its two parts.] [VI: tôi] [EN: you know already.] [VI_F: nghĩ] [EN: has] [VI: dấu ngã] [EN: . Listen to the whole word again.] [VI_F: tôi nghĩ] [PAUSE 1s] [VI_F: tôi nghĩ] [EN: Now you say it.] [PAUSE 4s] [VI: tôi nghĩ] [EN: Good. I think this coffee is tasty —] [PAUSE 4s] [VI: Tôi nghĩ cà phê này ngon.] [PAUSE 0.5s] [EN: Last,] [VI: theo tôi] [EN: means in my opinion, or according to me. Listen to its two parts.] [VI_F: theo] [EN: has] [VI: ngang] [EN: — flat.] [VI: tôi] [EN: you know already. Listen to the whole word again.] [VI_F: theo tôi] [PAUSE 1s] [VI_F: theo tôi] [EN: Now you say it.] [PAUSE 4s] [VI: theo tôi] [EN: Good. In my opinion, it's tasty —] [PAUSE 4s] [VI: Theo tôi, ngon.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh thấy cà phê này thế nào?] [PAUSE 0.5s] [VI: Tôi nghĩ cà phê này ngon.] [PAUSE 0.5s] [VI_F: Theo tôi, cũng ngon.] [PAUSE 1s] [EN: Today, three phrases for giving your opinion.] [PAUSE 0.5s] [EN: First, a question tag.] [VI: thế nào] [EN: means how, or what is it like. You already know] [VI: thấy] [EN: for to feel, or to find something — add] [VI: thế nào] [EN: at the end to ask about it. Listen to its two parts.] [VI_F: thế] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: nào] [EN: has] [EN: a falling tone] [EN: . Listen to the whole word again.] [VI_F: thế nào] [PAUSE 1s] [VI_F: thế nào] [EN: Now you say it.] [PAUSE 4s] [VI: thế nào] [EN: Good. What do you think of this coffee —] [PAUSE 4s] [VI: Anh thấy cà phê này thế nào?] [PAUSE 0.5s] [EN: Next,] [VI: tôi nghĩ] [EN: means I think. Listen to its two parts.] [VI: tôi] [EN: you know already.] [VI_F: nghĩ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: . Listen to the whole word again.] [VI_F: tôi nghĩ] [PAUSE 1s] [VI_F: tôi nghĩ] [EN: Now you say it.] [PAUSE 4s] [VI: tôi nghĩ] [EN: Good. I think this coffee is tasty —] [PAUSE 4s] [VI: Tôi nghĩ cà phê này ngon.] [PAUSE 0.5s] [EN: Last,] [VI: theo tôi] [EN: means in my opinion, or according to me. Listen to its two parts.] [VI_F: theo] [EN: has] [EN: a flat tone, no mark] [EN: — flat.] [VI: tôi] [EN: you know already. Listen to the whole word again.] [VI_F: theo tôi] [PAUSE 1s] [VI_F: theo tôi] [EN: Now you say it.] [PAUSE 4s] [VI: theo tôi] [EN: Good. In my opinion, it's tasty —] [PAUSE 4s] [VI: Theo tôi, ngon.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 245,
-      "script": "[EN: Let's drill. How, what is it like —] [PAUSE 4s] [VI: thế nào] [PAUSE 0.5s] [EN: I think —] [PAUSE 4s] [VI: tôi nghĩ] [PAUSE 0.5s] [EN: In my opinion —] [PAUSE 4s] [VI: theo tôi] [PAUSE 0.5s] [EN: Now build it. What do you think of this room —] [PAUSE 4s] [VI: Anh thấy phòng này thế nào?] [PAUSE 0.5s] [EN: I think this room is beautiful —] [PAUSE 4s] [VI: Tôi nghĩ phòng này đẹp.] [PAUSE 0.5s] [EN: In my opinion, this room is small —] [PAUSE 4s] [VI: Theo tôi, phòng này nhỏ.] [PAUSE 0.5s] [EN: What do you think of this coffee —] [PAUSE 4s] [VI: Anh thấy cà phê này thế nào?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: thế nào] [PAUSE 3s] [EN: how, what is it like] [PAUSE 0.5s] [VI_F: tôi nghĩ] [PAUSE 3s] [EN: I think] [PAUSE 0.5s] [VI_F: theo tôi] [PAUSE 3s] [EN: in my opinion] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: thế nào] [PAUSE 1s] [VI_F: tôi nghĩ] [PAUSE 1s] [VI_F: theo tôi] [PAUSE 0.5s] [EN: Remember,] [VI: thế] [EN: has] [VI: dấu sắc] [EN: , and] [VI: nghĩ] [EN: has] [VI: dấu ngã] [EN: .]"
+      "script": "[EN: Let's drill. How, what is it like —] [PAUSE 4s] [VI: thế nào] [PAUSE 0.5s] [EN: I think —] [PAUSE 4s] [VI: tôi nghĩ] [PAUSE 0.5s] [EN: In my opinion —] [PAUSE 4s] [VI: theo tôi] [PAUSE 0.5s] [EN: Now build it. What do you think of this room —] [PAUSE 4s] [VI: Anh thấy phòng này thế nào?] [PAUSE 0.5s] [EN: I think this room is beautiful —] [PAUSE 4s] [VI: Tôi nghĩ phòng này đẹp.] [PAUSE 0.5s] [EN: In my opinion, this room is small —] [PAUSE 4s] [VI: Theo tôi, phòng này nhỏ.] [PAUSE 0.5s] [EN: What do you think of this coffee —] [PAUSE 4s] [VI: Anh thấy cà phê này thế nào?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: thế nào] [PAUSE 3s] [EN: how, what is it like] [PAUSE 0.5s] [VI_F: tôi nghĩ] [PAUSE 3s] [EN: I think] [PAUSE 0.5s] [VI_F: theo tôi] [PAUSE 3s] [EN: in my opinion] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: thế nào] [PAUSE 1s] [VI_F: tôi nghĩ] [PAUSE 1s] [VI_F: theo tôi] [PAUSE 0.5s] [EN: Remember,] [VI: thế] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: nghĩ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: .]"
     },
     {
       "type": "synthesis",

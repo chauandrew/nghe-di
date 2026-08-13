@@ -2,12 +2,36 @@
   "id": "L2-D1",
   "title": "Mấy giờ rồi: telling time",
   "vocab": [
-    {"vi": "giờ", "en": "hour, or o'clock", "ipa": "zɤ˨˩"},
-    {"vi": "rưỡi", "en": "half past", "ipa": "rɨj˨˩˦"},
-    {"vi": "sáng", "en": "morning", "ipa": "saːŋ˧˥"},
-    {"vi": "trưa", "en": "midday", "ipa": "tɕɨə˧"},
-    {"vi": "chiều", "en": "afternoon", "ipa": "tɕiəw˨˩"},
-    {"vi": "tối", "en": "evening, or night", "ipa": "toj˧˥"}
+    {
+      "vi": "giờ",
+      "en": "hour, or o'clock",
+      "ipa": "zɤ˨˩"
+    },
+    {
+      "vi": "rưỡi",
+      "en": "half past",
+      "ipa": "rɨj˨˩˦"
+    },
+    {
+      "vi": "sáng",
+      "en": "morning",
+      "ipa": "saːŋ˧˥"
+    },
+    {
+      "vi": "trưa",
+      "en": "midday",
+      "ipa": "tɕɨə˧"
+    },
+    {
+      "vi": "chiều",
+      "en": "afternoon",
+      "ipa": "tɕiəw˨˩"
+    },
+    {
+      "vi": "tối",
+      "en": "evening, or night",
+      "ipa": "toj˧˥"
+    }
   ],
   "segments": [
     {
@@ -18,7 +42,7 @@
     {
       "type": "dialogue",
       "duration_s": 220,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh ơi, mấy giờ rồi?] [PAUSE 0.5s] [VI: Dạ, bảy giờ rưỡi tối.] [PAUSE 0.5s] [VI_F: Dạ, cảm ơn anh.] [PAUSE 1s] [EN: Today's structure: telling time. The pattern is a number, then] [VI: giờ] [EN: meaning hour, or o'clock. It has] [VI: dấu huyền] [EN: — falling. Listen again.] [VI_F: giờ] [PAUSE 1s] [VI_F: giờ] [EN: Now you say it.] [PAUSE 4s] [VI: giờ] [EN: Good.] [PAUSE 0.5s] [EN: Put a number in front:] [VI_F: bảy giờ] [EN: seven o'clock.] [PAUSE 0.5s] [EN: For the half hour, add] [VI: rưỡi] [EN: right after] [VI: giờ] [EN: . It has] [VI: dấu ngã] [EN: — the same dipping sound as] [VI: dấu hỏi] [EN: down here in the south. Keep your lips relaxed, not rounded, for that vowel. Listen again.] [VI_F: rưỡi] [PAUSE 1s] [VI_F: rưỡi] [EN: Now you say it.] [PAUSE 4s] [VI: rưỡi] [EN: Good.] [PAUSE 0.5s] [EN: Put it together:] [VI_F: bảy giờ rưỡi] [EN: half past seven.] [PAUSE 0.5s] [EN: Now four words for the parts of the day. First,] [VI: sáng] [EN: means morning. It has] [VI: dấu sắc] [EN: — high, rising. Listen again.] [VI_F: sáng] [PAUSE 1s] [VI_F: sáng] [EN: Now you say it.] [PAUSE 4s] [VI: sáng] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: trưa] [EN: means midday. It has] [VI: ngang] [EN: — flat, no mark. Listen again.] [VI_F: trưa] [PAUSE 1s] [VI_F: trưa] [EN: Now you say it.] [PAUSE 4s] [VI: trưa] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: chiều] [EN: means afternoon. It has] [VI: dấu huyền] [EN: — falling, same as] [VI: giờ] [EN: . Listen again.] [VI_F: chiều] [PAUSE 1s] [VI_F: chiều] [EN: Now you say it.] [PAUSE 4s] [VI: chiều] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: tối] [EN: means evening, or night. It has] [VI: dấu sắc] [EN: — high, rising. Listen again.] [VI_F: tối] [PAUSE 1s] [VI_F: tối] [EN: Now you say it.] [PAUSE 4s] [VI: tối] [EN: Good.] [PAUSE 0.5s] [EN: Add one of these right after the hour:] [VI_F: tám giờ sáng] [EN: eight in the morning,] [VI_F: bảy giờ rưỡi tối] [EN: half past seven at night.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh ơi, mấy giờ rồi?] [PAUSE 0.5s] [VI: Dạ, bảy giờ rưỡi tối.] [PAUSE 0.5s] [VI_F: Dạ, cảm ơn anh.] [PAUSE 1s] [EN: Today's structure: telling time. The pattern is a number, then] [VI: giờ] [EN: meaning hour, or o'clock. It has] [EN: a falling tone] [EN: — falling. Listen again.] [VI_F: giờ] [PAUSE 1s] [VI_F: giờ] [EN: Now you say it.] [PAUSE 4s] [VI: giờ] [EN: Good.] [PAUSE 0.5s] [EN: Put a number in front:] [VI_F: bảy giờ] [EN: seven o'clock.] [PAUSE 0.5s] [EN: For the half hour, add] [VI: rưỡi] [EN: right after] [VI: giờ] [EN: . It has] [EN: a dipping tone — it falls, then rises] [EN: — the same dipping sound as] [EN: a dipping tone — it falls, then rises] [EN: down here in the south. Keep your lips relaxed, not rounded, for that vowel. Listen again.] [VI_F: rưỡi] [PAUSE 1s] [VI_F: rưỡi] [EN: Now you say it.] [PAUSE 4s] [VI: rưỡi] [EN: Good.] [PAUSE 0.5s] [EN: Put it together:] [VI_F: bảy giờ rưỡi] [EN: half past seven.] [PAUSE 0.5s] [EN: Now four words for the parts of the day. First,] [VI: sáng] [EN: means morning. It has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: sáng] [PAUSE 1s] [VI_F: sáng] [EN: Now you say it.] [PAUSE 4s] [VI: sáng] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: trưa] [EN: means midday. It has] [EN: a flat tone, no mark] [EN: — flat, no mark. Listen again.] [VI_F: trưa] [PAUSE 1s] [VI_F: trưa] [EN: Now you say it.] [PAUSE 4s] [VI: trưa] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: chiều] [EN: means afternoon. It has] [EN: a falling tone] [EN: — falling, same as] [VI: giờ] [EN: . Listen again.] [VI_F: chiều] [PAUSE 1s] [VI_F: chiều] [EN: Now you say it.] [PAUSE 4s] [VI: chiều] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: tối] [EN: means evening, or night. It has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: tối] [PAUSE 1s] [VI_F: tối] [EN: Now you say it.] [PAUSE 4s] [VI: tối] [EN: Good.] [PAUSE 0.5s] [EN: Add one of these right after the hour:] [VI_F: tám giờ sáng] [EN: eight in the morning,] [VI_F: bảy giờ rưỡi tối] [EN: half past seven at night.]"
     },
     {
       "type": "consolidate",
@@ -28,7 +52,7 @@
     {
       "type": "drill",
       "duration_s": 250,
-      "script": "[EN: Let's drill. Hour, or o'clock —] [PAUSE 4s] [VI: giờ] [PAUSE 0.5s] [EN: Half past —] [PAUSE 4s] [VI: rưỡi] [PAUSE 0.5s] [EN: Morning —] [PAUSE 4s] [VI: sáng] [PAUSE 0.5s] [EN: Midday —] [PAUSE 4s] [VI: trưa] [PAUSE 0.5s] [EN: Afternoon —] [PAUSE 4s] [VI: chiều] [PAUSE 0.5s] [EN: Evening, or night —] [PAUSE 4s] [VI: tối] [PAUSE 0.5s] [EN: Now say it. Six in the morning —] [PAUSE 4s] [VI: Sáu giờ sáng.] [PAUSE 0.5s] [EN: One in the midday —] [PAUSE 4s] [VI: Một giờ trưa.] [PAUSE 0.5s] [EN: Half past four in the afternoon —] [PAUSE 4s] [VI: Bốn giờ rưỡi chiều.] [PAUSE 0.5s] [EN: Eight at night —] [PAUSE 4s] [VI: Tám giờ tối.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: giờ] [PAUSE 3s] [EN: hour, or o'clock] [PAUSE 0.5s] [VI_F: rưỡi] [PAUSE 3s] [EN: half past] [PAUSE 0.5s] [VI_F: sáng] [PAUSE 3s] [EN: morning] [PAUSE 0.5s] [VI_F: trưa] [PAUSE 3s] [EN: midday] [PAUSE 0.5s] [VI_F: chiều] [PAUSE 3s] [EN: afternoon] [PAUSE 0.5s] [VI_F: tối] [PAUSE 3s] [EN: evening, or night] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: giờ] [PAUSE 1s] [VI_F: rưỡi] [PAUSE 1s] [VI_F: sáng] [PAUSE 1s] [VI_F: trưa] [PAUSE 1s] [VI_F: chiều] [PAUSE 1s] [VI_F: tối] [PAUSE 0.5s] [EN: Remember,] [VI: tối] [EN: and] [VI: sáng] [EN: both have] [VI: dấu sắc] [EN: , and] [VI: giờ] [EN: and] [VI: chiều] [EN: have] [VI: dấu huyền] [EN: .]"
+      "script": "[EN: Let's drill. Hour, or o'clock —] [PAUSE 4s] [VI: giờ] [PAUSE 0.5s] [EN: Half past —] [PAUSE 4s] [VI: rưỡi] [PAUSE 0.5s] [EN: Morning —] [PAUSE 4s] [VI: sáng] [PAUSE 0.5s] [EN: Midday —] [PAUSE 4s] [VI: trưa] [PAUSE 0.5s] [EN: Afternoon —] [PAUSE 4s] [VI: chiều] [PAUSE 0.5s] [EN: Evening, or night —] [PAUSE 4s] [VI: tối] [PAUSE 0.5s] [EN: Now say it. Six in the morning —] [PAUSE 4s] [VI: Sáu giờ sáng.] [PAUSE 0.5s] [EN: One in the midday —] [PAUSE 4s] [VI: Một giờ trưa.] [PAUSE 0.5s] [EN: Half past four in the afternoon —] [PAUSE 4s] [VI: Bốn giờ rưỡi chiều.] [PAUSE 0.5s] [EN: Eight at night —] [PAUSE 4s] [VI: Tám giờ tối.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: giờ] [PAUSE 3s] [EN: hour, or o'clock] [PAUSE 0.5s] [VI_F: rưỡi] [PAUSE 3s] [EN: half past] [PAUSE 0.5s] [VI_F: sáng] [PAUSE 3s] [EN: morning] [PAUSE 0.5s] [VI_F: trưa] [PAUSE 3s] [EN: midday] [PAUSE 0.5s] [VI_F: chiều] [PAUSE 3s] [EN: afternoon] [PAUSE 0.5s] [VI_F: tối] [PAUSE 3s] [EN: evening, or night] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: giờ] [PAUSE 1s] [VI_F: rưỡi] [PAUSE 1s] [VI_F: sáng] [PAUSE 1s] [VI_F: trưa] [PAUSE 1s] [VI_F: chiều] [PAUSE 1s] [VI_F: tối] [PAUSE 0.5s] [EN: Remember,] [VI: tối] [EN: and] [VI: sáng] [EN: both have] [EN: a high, rising tone] [EN: , and] [VI: giờ] [EN: and] [VI: chiều] [EN: have] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",

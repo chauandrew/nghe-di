@@ -2,8 +2,16 @@
   "id": "L2-D29",
   "title": "Một ngày, bình thường: a day in the life",
   "vocab": [
-    {"vi": "một ngày", "en": "one day, or \"my day\"", "ipa": "mot˨˩ʔ ŋaːj˨˩"},
-    {"vi": "bình thường", "en": "normal, ordinary, or as usual", "ipa": "biɲ˨˩ tʰɨəŋ˨˩"}
+    {
+      "vi": "một ngày",
+      "en": "one day, or \"my day\"",
+      "ipa": "mot˨˩ʔ ŋaːj˨˩"
+    },
+    {
+      "vi": "bình thường",
+      "en": "normal, ordinary, or as usual",
+      "ipa": "biɲ˨˩ tʰɨəŋ˨˩"
+    }
   ],
   "segments": [
     {
@@ -14,7 +22,7 @@
     {
       "type": "dialogue",
       "duration_s": 220,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Một ngày của em bình thường không?] [PAUSE 0.5s] [VI: Dạ, bình thường. Em dậy, ăn sáng, rồi đi làm việc.] [PAUSE 0.5s] [VI_F: Sau đó?] [PAUSE 0.5s] [VI: Sau đó em về nhà, nấu ăn, rồi ngủ.] [PAUSE 1s] [EN: Two phrases to describe your day today.] [PAUSE 0.5s] [EN: First,] [VI: một ngày] [EN: means one day. You know] [VI: một] [EN: — one — and you have seen] [VI: ngày] [EN: — day — inside] [VI: ngày mai] [EN: and] [VI: ngày mấy] [EN: . Listen again.] [VI_F: một ngày] [PAUSE 1s] [VI_F: một ngày] [EN: Now you say it.] [PAUSE 4s] [VI: một ngày] [EN: Good.] [PAUSE 0.5s] [EN: Ask about someone's day —] [PAUSE 4s] [VI: Một ngày của em bình thường không?] [PAUSE 0.5s] [EN: Next,] [VI: bình thường] [EN: means normal, or ordinary — as usual. It has] [VI: dấu huyền] [EN: on both syllables — you already know] [VI: thường] [EN: from] [VI: thường] [EN: , usually. Listen again.] [VI_F: bình thường] [PAUSE 1s] [VI_F: bình thường] [EN: Now you say it.] [PAUSE 4s] [VI: bình thường] [EN: Good.] [PAUSE 0.5s] [EN: Say it's normal —] [PAUSE 4s] [VI: Bình thường.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Một ngày của em bình thường không?] [PAUSE 0.5s] [VI: Dạ, bình thường. Em dậy, ăn sáng, rồi đi làm việc.] [PAUSE 0.5s] [VI_F: Sau đó?] [PAUSE 0.5s] [VI: Sau đó em về nhà, nấu ăn, rồi ngủ.] [PAUSE 1s] [EN: Two phrases to describe your day today.] [PAUSE 0.5s] [EN: First,] [VI: một ngày] [EN: means one day. You know] [VI: một] [EN: — one — and you have seen] [VI: ngày] [EN: — day — inside] [VI: ngày mai] [EN: and] [VI: ngày mấy] [EN: . Listen again.] [VI_F: một ngày] [PAUSE 1s] [VI_F: một ngày] [EN: Now you say it.] [PAUSE 4s] [VI: một ngày] [EN: Good.] [PAUSE 0.5s] [EN: Ask about someone's day —] [PAUSE 4s] [VI: Một ngày của em bình thường không?] [PAUSE 0.5s] [EN: Next,] [VI: bình thường] [EN: means normal, or ordinary — as usual. It has] [EN: a falling tone] [EN: on both syllables — you already know] [VI: thường] [EN: from] [VI: thường] [EN: , usually. Listen again.] [VI_F: bình thường] [PAUSE 1s] [VI_F: bình thường] [EN: Now you say it.] [PAUSE 4s] [VI: bình thường] [EN: Good.] [PAUSE 0.5s] [EN: Say it's normal —] [PAUSE 4s] [VI: Bình thường.]"
     },
     {
       "type": "consolidate",
@@ -24,7 +32,7 @@
     {
       "type": "drill",
       "duration_s": 230,
-      "script": "[EN: Let's drill. One day —] [PAUSE 4s] [VI: một ngày] [PAUSE 0.5s] [EN: Normal, or as usual —] [PAUSE 4s] [VI: bình thường] [PAUSE 0.5s] [EN: Now say it. Is your day normal? —] [PAUSE 4s] [VI: Một ngày của em bình thường không?] [PAUSE 0.5s] [EN: It's normal —] [PAUSE 4s] [VI: Bình thường.] [PAUSE 0.5s] [EN: Describe your day. I wake up, eat breakfast, then go to work —] [PAUSE 4s] [VI: Em dậy, ăn sáng, rồi đi làm việc.] [PAUSE 0.5s] [EN: Then I go home, cook, then sleep —] [PAUSE 4s] [VI: Sau đó em về nhà, nấu ăn, rồi ngủ.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: một ngày] [PAUSE 3s] [EN: one day] [PAUSE 0.5s] [VI_F: bình thường] [PAUSE 3s] [EN: normal, or as usual] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: một ngày] [PAUSE 1s] [VI_F: bình thường] [PAUSE 0.5s] [EN: Remember,] [VI: bình] [EN: and] [VI: thường] [EN: both have] [VI: dấu huyền] [EN: — falling.]"
+      "script": "[EN: Let's drill. One day —] [PAUSE 4s] [VI: một ngày] [PAUSE 0.5s] [EN: Normal, or as usual —] [PAUSE 4s] [VI: bình thường] [PAUSE 0.5s] [EN: Now say it. Is your day normal? —] [PAUSE 4s] [VI: Một ngày của em bình thường không?] [PAUSE 0.5s] [EN: It's normal —] [PAUSE 4s] [VI: Bình thường.] [PAUSE 0.5s] [EN: Describe your day. I wake up, eat breakfast, then go to work —] [PAUSE 4s] [VI: Em dậy, ăn sáng, rồi đi làm việc.] [PAUSE 0.5s] [EN: Then I go home, cook, then sleep —] [PAUSE 4s] [VI: Sau đó em về nhà, nấu ăn, rồi ngủ.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: một ngày] [PAUSE 3s] [EN: one day] [PAUSE 0.5s] [VI_F: bình thường] [PAUSE 3s] [EN: normal, or as usual] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: một ngày] [PAUSE 1s] [VI_F: bình thường] [PAUSE 0.5s] [EN: Remember,] [VI: bình] [EN: and] [VI: thường] [EN: both have] [EN: a falling tone] [EN: — falling.]"
     },
     {
       "type": "synthesis",

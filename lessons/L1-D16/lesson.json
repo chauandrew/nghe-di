@@ -2,21 +2,37 @@
   "id": "L1-D16",
   "title": "Đắt quá: bargaining at the market",
   "vocab": [
-    {"vi": "đắt quá", "en": "too expensive", "ipa": "dăt˧˥ kwaː˧˥"},
-    {"vi": "rẻ", "en": "cheap", "ipa": "re˨˩˦"},
-    {"vi": "giảm giá", "en": "to discount", "ipa": "zam˨˩˦ zaː˧˥"},
-    {"vi": "được không", "en": "can you? / is that okay?", "ipa": "dɨək˧˥ xoŋ˧"}
+    {
+      "vi": "đắt quá",
+      "en": "too expensive",
+      "ipa": "dăt˧˥ kwaː˧˥"
+    },
+    {
+      "vi": "rẻ",
+      "en": "cheap",
+      "ipa": "re˨˩˦"
+    },
+    {
+      "vi": "giảm giá",
+      "en": "to discount",
+      "ipa": "zam˨˩˦ zaː˧˥"
+    },
+    {
+      "vi": "được không",
+      "en": "can you? / is that okay?",
+      "ipa": "dɨək˧˥ xoŋ˧"
+    }
   ],
   "segments": [
     {
       "type": "recall",
       "duration_s": 95,
-      "script": "[EN: Quick review. Tone names today.] [PAUSE 0.5s] [EN: Say the name for a flat tone —] [PAUSE 4s] [VI: ngang] [PAUSE 0.5s] [EN: Say the name for a falling tone —] [PAUSE 4s] [VI: dấu huyền] [PAUSE 0.5s] [EN: Say the name for a high, rising tone —] [PAUSE 4s] [VI: dấu sắc] [PAUSE 0.5s] [EN: Say the name for a dipping tone —] [PAUSE 4s] [VI: dấu hỏi] [PAUSE 0.5s] [EN: Say the other dipping-tone mark, same sound in the south —] [PAUSE 4s] [VI: dấu ngã] [PAUSE 0.5s] [EN: Say the name for a low, cut-off tone —] [PAUSE 4s] [VI: dấu nặng] [EN: Good.]"
+      "script": "[EN: Quick review. Say yes, or there is —] [PAUSE 4s] [VI: có] [EN: Say hungry —] [PAUSE 4s] [VI: đói] [EN: Say right?, or isn't that so —] [PAUSE 4s] [VI: phải không] [EN: Say where —] [PAUSE 4s] [VI: ở đâu] [EN: Say restroom —] [PAUSE 4s] [VI: nhà vệ sinh] [EN: Say on the right —] [PAUSE 4s] [VI: bên phải] [EN: Good.]"
     },
     {
       "type": "dialogue",
       "duration_s": 215,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Cái này đắt quá. Giảm giá được không?] [PAUSE 0.5s] [VI_F: Dạ, rẻ rồi anh.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: You said] [VI: đắt quá] [EN: it means too expensive. Listen to its two parts.] [VI_F: đắt] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: quá] [EN: also has] [VI: dấu sắc] [EN: . Listen to the whole phrase again.] [VI_F: đắt quá] [PAUSE 1s] [VI_F: đắt quá] [EN: Now you say it.] [PAUSE 4s] [VI: đắt quá] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: rẻ] [EN: means cheap. It has] [VI: dấu hỏi] [EN: . Listen again.] [VI_F: rẻ] [PAUSE 1s] [VI_F: rẻ] [EN: Now you say it.] [PAUSE 4s] [VI: rẻ] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: giảm giá] [EN: means to discount. Listen to its two parts.] [VI_F: giảm] [EN: has] [VI: dấu hỏi] [PAUSE 0.3s] [VI_F: giá] [EN: has] [VI: dấu sắc] [EN: . Listen to the whole phrase again.] [VI_F: giảm giá] [PAUSE 1s] [VI_F: giảm giá] [EN: Now you say it.] [PAUSE 4s] [VI: giảm giá] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: được không] [EN: means can you, or is that okay. Listen to its two parts.] [VI_F: được] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: không] [EN: is] [VI: ngang] [EN: — flat, review from day one. Listen to the whole phrase again.] [VI_F: được không] [PAUSE 1s] [VI_F: được không] [EN: Now you say it.] [PAUSE 4s] [VI: được không] [EN: Good.] [PAUSE 0.3s] [VI_F: Giảm giá được không?] [EN: can you give a discount?]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Cái này đắt quá. Giảm giá được không?] [PAUSE 0.5s] [VI_F: Dạ, rẻ rồi anh.] [PAUSE 0.5s] [VI: Dạ, cảm ơn chị.] [PAUSE 1s] [EN: You said] [VI: đắt quá] [EN: it means too expensive. Listen to its two parts.] [VI_F: đắt] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: quá] [EN: also has] [EN: a high, rising tone] [EN: . Listen to the whole phrase again.] [VI_F: đắt quá] [PAUSE 1s] [VI_F: đắt quá] [EN: Now you say it.] [PAUSE 4s] [VI: đắt quá] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: rẻ] [EN: means cheap. It has] [EN: a dipping tone — it falls, then rises] [EN: . Listen again.] [VI_F: rẻ] [PAUSE 1s] [VI_F: rẻ] [EN: Now you say it.] [PAUSE 4s] [VI: rẻ] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: giảm giá] [EN: means to discount. Listen to its two parts.] [VI_F: giảm] [EN: has] [EN: a dipping tone — it falls, then rises] [PAUSE 0.3s] [VI_F: giá] [EN: has] [EN: a high, rising tone] [EN: . Listen to the whole phrase again.] [VI_F: giảm giá] [PAUSE 1s] [VI_F: giảm giá] [EN: Now you say it.] [PAUSE 4s] [VI: giảm giá] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: được không] [EN: means can you, or is that okay. Listen to its two parts.] [VI_F: được] [EN: has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: không] [EN: is] [EN: a flat tone, no mark] [EN: — flat, review from day one. Listen to the whole phrase again.] [VI_F: được không] [PAUSE 1s] [VI_F: được không] [EN: Now you say it.] [PAUSE 4s] [VI: được không] [EN: Good.] [PAUSE 0.3s] [VI_F: Giảm giá được không?] [EN: can you give a discount?]"
     },
     {
       "type": "consolidate",
@@ -26,7 +42,7 @@
     {
       "type": "drill",
       "duration_s": 245,
-      "script": "[EN: Let's drill. Too expensive —] [PAUSE 4s] [VI: đắt quá] [PAUSE 0.5s] [EN: Cheap —] [PAUSE 4s] [VI: rẻ] [PAUSE 0.5s] [EN: To discount —] [PAUSE 4s] [VI: giảm giá] [PAUSE 0.5s] [EN: Can you —] [PAUSE 4s] [VI: được không] [PAUSE 0.5s] [EN: Now say it. This is too expensive —] [PAUSE 4s] [VI: Cái này đắt quá.] [PAUSE 0.5s] [EN: Ask for a discount —] [PAUSE 4s] [VI: Giảm giá được không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đắt quá] [PAUSE 3s] [EN: too expensive] [PAUSE 0.5s] [VI_F: rẻ] [PAUSE 3s] [EN: cheap] [PAUSE 0.5s] [VI_F: giảm giá] [PAUSE 3s] [EN: to discount] [PAUSE 0.5s] [VI_F: được không] [PAUSE 3s] [EN: can you, or is that okay] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đắt quá] [PAUSE 1s] [VI_F: rẻ] [PAUSE 1s] [VI_F: giảm giá] [PAUSE 1s] [VI_F: được không] [PAUSE 0.5s] [EN: Remember,] [VI: đắt] [EN: has] [VI: dấu sắc] [EN: , and] [VI: rẻ] [EN: has] [VI: dấu hỏi] [EN: .]"
+      "script": "[EN: Let's drill. Too expensive —] [PAUSE 4s] [VI: đắt quá] [PAUSE 0.5s] [EN: Cheap —] [PAUSE 4s] [VI: rẻ] [PAUSE 0.5s] [EN: To discount —] [PAUSE 4s] [VI: giảm giá] [PAUSE 0.5s] [EN: Can you —] [PAUSE 4s] [VI: được không] [PAUSE 0.5s] [EN: Now say it. This is too expensive —] [PAUSE 4s] [VI: Cái này đắt quá.] [PAUSE 0.5s] [EN: Ask for a discount —] [PAUSE 4s] [VI: Giảm giá được không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đắt quá] [PAUSE 3s] [EN: too expensive] [PAUSE 0.5s] [VI_F: rẻ] [PAUSE 3s] [EN: cheap] [PAUSE 0.5s] [VI_F: giảm giá] [PAUSE 3s] [EN: to discount] [PAUSE 0.5s] [VI_F: được không] [PAUSE 3s] [EN: can you, or is that okay] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đắt quá] [PAUSE 1s] [VI_F: rẻ] [PAUSE 1s] [VI_F: giảm giá] [PAUSE 1s] [VI_F: được không] [PAUSE 0.5s] [EN: Remember,] [VI: đắt] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: rẻ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: .]"
     },
     {
       "type": "synthesis",

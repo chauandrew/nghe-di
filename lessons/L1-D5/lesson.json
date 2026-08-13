@@ -2,14 +2,46 @@
   "id": "L1-D5",
   "title": "Từ chỉ loại và chỉ định: measure words and pointing",
   "vocab": [
-    {"vi": "cái", "en": "general counting word (classifier)", "ipa": "kaːj˧˥"},
-    {"vi": "ly", "en": "glass (measure word)", "ipa": "liː˧"},
-    {"vi": "chai", "en": "bottle (measure word)", "ipa": "tɕaːj˧"},
-    {"vi": "tô", "en": "bowl (measure word)", "ipa": "to˧"},
-    {"vi": "ổ", "en": "loaf (measure word)", "ipa": "o˨˩˦"},
-    {"vi": "người", "en": "person (measure word)", "ipa": "ŋɨəj˨˩"},
-    {"vi": "này", "en": "this", "ipa": "naːj˨˩"},
-    {"vi": "đó", "en": "that", "ipa": "dɔ˧˥"}
+    {
+      "vi": "cái",
+      "en": "general counting word (classifier)",
+      "ipa": "kaːj˧˥"
+    },
+    {
+      "vi": "ly",
+      "en": "glass (measure word)",
+      "ipa": "liː˧"
+    },
+    {
+      "vi": "chai",
+      "en": "bottle (measure word)",
+      "ipa": "tɕaːj˧"
+    },
+    {
+      "vi": "tô",
+      "en": "bowl (measure word)",
+      "ipa": "to˧"
+    },
+    {
+      "vi": "ổ",
+      "en": "loaf (measure word)",
+      "ipa": "o˨˩˦"
+    },
+    {
+      "vi": "người",
+      "en": "person (measure word)",
+      "ipa": "ŋɨəj˨˩"
+    },
+    {
+      "vi": "này",
+      "en": "this",
+      "ipa": "naːj˨˩"
+    },
+    {
+      "vi": "đó",
+      "en": "that",
+      "ipa": "dɔ˧˥"
+    }
   ],
   "segments": [
     {
@@ -20,7 +52,7 @@
     {
       "type": "dialogue",
       "duration_s": 260,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Hai ly, ba chai, một tô.] [PAUSE 0.5s] [VI_F: Dạ, cái này hả?] [PAUSE 0.5s] [VI: Dạ, cái đó.] [PAUSE 1s] [EN: You also heard] [VI: hả] [EN: a friendly tag question, like saying right at the end.] [PAUSE 0.5s] [EN: Today's lesson is a structure: how to count things. The pattern is number, then a counting word, called a measure word. You already know the numbers — today you get five measure words, plus two words for pointing: this, and that.] [PAUSE 0.5s] [EN: The first is] [VI: cái] [EN: a general word for counting objects. It has] [VI: dấu sắc] [EN: — high, rising. Listen again.] [VI_F: cái] [PAUSE 1s] [VI_F: cái] [EN: Say it.] [PAUSE 4s] [VI: cái] [EN: Good.] [PAUSE 0.5s] [EN: For a drink in a glass, use] [VI: ly] [EN: it has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: ly] [PAUSE 1s] [VI_F: ly] [EN: Say it.] [PAUSE 4s] [VI: ly] [EN: Good.] [PAUSE 0.5s] [EN: For a bottle, use] [VI: chai] [EN: it also has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: chai] [PAUSE 1s] [VI_F: chai] [EN: Say it.] [PAUSE 4s] [VI: chai] [EN: Good.] [PAUSE 0.5s] [EN: For a bowl of food, use] [VI: tô] [EN: it also has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: tô] [PAUSE 1s] [VI_F: tô] [EN: Say it.] [PAUSE 4s] [VI: tô] [EN: Good.] [PAUSE 0.5s] [EN: For a loaf of bread, use] [VI: ổ] [EN: it has] [VI: dấu hỏi] [EN: — dipping. Listen again.] [VI_F: ổ] [PAUSE 1s] [VI_F: ổ] [EN: Say it.] [PAUSE 4s] [VI: ổ] [EN: Good.] [PAUSE 0.5s] [EN: To count people, use] [VI: người] [EN: it has] [VI: dấu huyền] [EN: — falling. Listen again.] [VI_F: người] [PAUSE 1s] [VI_F: người] [EN: Say it.] [PAUSE 4s] [VI: người] [EN: Good.] [PAUSE 0.5s] [EN: Now two words for pointing. Add them after] [VI: cái] [EN: to mean this one, or that one.] [PAUSE 0.5s] [VI: này] [EN: means this. It has] [VI: dấu huyền] [EN: — falling. Listen again.] [VI_F: này] [PAUSE 1s] [VI_F: này] [EN: Say it.] [PAUSE 4s] [VI: này] [EN: Good.] [PAUSE 0.5s] [EN: And] [VI: đó] [EN: means that. It has] [VI: dấu sắc] [EN: — high, rising. Listen again.] [VI_F: đó] [PAUSE 1s] [VI_F: đó] [EN: Say it.] [PAUSE 4s] [VI: đó] [EN: Good.] [PAUSE 0.5s] [EN: Put them together:] [VI: cái này] [EN: this one,] [VI: cái đó] [EN: that one. And to count something, say the number, then the measure word:] [PAUSE 0.5s] [VI_F: hai ly] [EN: two glasses.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI: Hai ly, ba chai, một tô.] [PAUSE 0.5s] [VI_F: Dạ, cái này hả?] [PAUSE 0.5s] [VI: Dạ, cái đó.] [PAUSE 1s] [EN: You also heard] [VI: hả] [EN: a friendly tag question, like saying right at the end.] [PAUSE 0.5s] [EN: Today's lesson is a structure: how to count things. The pattern is number, then a counting word, called a measure word. You already know the numbers — today you get five measure words, plus two words for pointing: this, and that.] [PAUSE 0.5s] [EN: The first is] [VI: cái] [EN: a general word for counting objects. It has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: cái] [PAUSE 1s] [VI_F: cái] [EN: Say it.] [PAUSE 4s] [VI: cái] [EN: Good.] [PAUSE 0.5s] [EN: For a drink in a glass, use] [VI: ly] [EN: it has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: ly] [PAUSE 1s] [VI_F: ly] [EN: Say it.] [PAUSE 4s] [VI: ly] [EN: Good.] [PAUSE 0.5s] [EN: For a bottle, use] [VI: chai] [EN: it also has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: chai] [PAUSE 1s] [VI_F: chai] [EN: Say it.] [PAUSE 4s] [VI: chai] [EN: Good.] [PAUSE 0.5s] [EN: For a bowl of food, use] [VI: tô] [EN: it also has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: tô] [PAUSE 1s] [VI_F: tô] [EN: Say it.] [PAUSE 4s] [VI: tô] [EN: Good.] [PAUSE 0.5s] [EN: For a loaf of bread, use] [VI: ổ] [EN: it has] [EN: a dipping tone — it falls, then rises] [EN: — dipping. Listen again.] [VI_F: ổ] [PAUSE 1s] [VI_F: ổ] [EN: Say it.] [PAUSE 4s] [VI: ổ] [EN: Good.] [PAUSE 0.5s] [EN: To count people, use] [VI: người] [EN: it has] [EN: a falling tone] [EN: — falling. Listen again.] [VI_F: người] [PAUSE 1s] [VI_F: người] [EN: Say it.] [PAUSE 4s] [VI: người] [EN: Good.] [PAUSE 0.5s] [EN: Now two words for pointing. Add them after] [VI: cái] [EN: to mean this one, or that one.] [PAUSE 0.5s] [VI: này] [EN: means this. It has] [EN: a falling tone] [EN: — falling. Listen again.] [VI_F: này] [PAUSE 1s] [VI_F: này] [EN: Say it.] [PAUSE 4s] [VI: này] [EN: Good.] [PAUSE 0.5s] [EN: And] [VI: đó] [EN: means that. It has] [EN: a high, rising tone] [EN: — high, rising. Listen again.] [VI_F: đó] [PAUSE 1s] [VI_F: đó] [EN: Say it.] [PAUSE 4s] [VI: đó] [EN: Good.] [PAUSE 0.5s] [EN: Put them together:] [VI: cái này] [EN: this one,] [VI: cái đó] [EN: that one. And to count something, say the number, then the measure word:] [PAUSE 0.5s] [VI_F: hai ly] [EN: two glasses.]"
     },
     {
       "type": "consolidate",
@@ -30,7 +62,7 @@
     {
       "type": "drill",
       "duration_s": 300,
-      "script": "[EN: Let's drill the pattern — number, then measure word. Two glasses —] [PAUSE 4s] [VI: hai ly.] [PAUSE 0.5s] [EN: Three bottles —] [PAUSE 4s] [VI: ba chai.] [PAUSE 0.5s] [EN: One bowl —] [PAUSE 4s] [VI: một tô.] [PAUSE 0.5s] [EN: One loaf —] [PAUSE 4s] [VI: một ổ.] [PAUSE 0.5s] [EN: Four people —] [PAUSE 4s] [VI: bốn người.] [PAUSE 0.5s] [EN: Five glasses —] [PAUSE 4s] [VI: năm ly.] [PAUSE 0.5s] [EN: Now pointing. This one —] [PAUSE 4s] [VI: cái này.] [PAUSE 0.5s] [EN: That one —] [PAUSE 4s] [VI: cái đó.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: cái] [PAUSE 3s] [EN: a general counting word] [PAUSE 0.5s] [VI_F: ly] [PAUSE 3s] [EN: glass] [PAUSE 0.5s] [VI_F: chai] [PAUSE 3s] [EN: bottle] [PAUSE 0.5s] [VI_F: tô] [PAUSE 3s] [EN: bowl] [PAUSE 0.5s] [VI_F: ổ] [PAUSE 3s] [EN: loaf] [PAUSE 0.5s] [VI_F: người] [PAUSE 3s] [EN: people] [PAUSE 0.5s] [VI_F: này] [PAUSE 3s] [EN: this] [PAUSE 0.5s] [VI_F: đó] [PAUSE 3s] [EN: that] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: cái] [PAUSE 1s] [VI_F: ly] [PAUSE 1s] [VI_F: chai] [PAUSE 1s] [VI_F: tô] [PAUSE 1s] [VI_F: ổ] [PAUSE 1s] [VI_F: người] [PAUSE 1s] [VI_F: này] [PAUSE 1s] [VI_F: đó] [PAUSE 0.5s] [EN: Remember,] [VI: ổ] [EN: has] [VI: dấu hỏi] [EN: , and] [VI: người] [EN: and] [VI: này] [EN: have] [VI: dấu huyền] [EN: .]"
+      "script": "[EN: Let's drill the pattern — number, then measure word. Two glasses —] [PAUSE 4s] [VI: hai ly.] [PAUSE 0.5s] [EN: Three bottles —] [PAUSE 4s] [VI: ba chai.] [PAUSE 0.5s] [EN: One bowl —] [PAUSE 4s] [VI: một tô.] [PAUSE 0.5s] [EN: One loaf —] [PAUSE 4s] [VI: một ổ.] [PAUSE 0.5s] [EN: Four people —] [PAUSE 4s] [VI: bốn người.] [PAUSE 0.5s] [EN: Five glasses —] [PAUSE 4s] [VI: năm ly.] [PAUSE 0.5s] [EN: Now pointing. This one —] [PAUSE 4s] [VI: cái này.] [PAUSE 0.5s] [EN: That one —] [PAUSE 4s] [VI: cái đó.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: cái] [PAUSE 3s] [EN: a general counting word] [PAUSE 0.5s] [VI_F: ly] [PAUSE 3s] [EN: glass] [PAUSE 0.5s] [VI_F: chai] [PAUSE 3s] [EN: bottle] [PAUSE 0.5s] [VI_F: tô] [PAUSE 3s] [EN: bowl] [PAUSE 0.5s] [VI_F: ổ] [PAUSE 3s] [EN: loaf] [PAUSE 0.5s] [VI_F: người] [PAUSE 3s] [EN: people] [PAUSE 0.5s] [VI_F: này] [PAUSE 3s] [EN: this] [PAUSE 0.5s] [VI_F: đó] [PAUSE 3s] [EN: that] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: cái] [PAUSE 1s] [VI_F: ly] [PAUSE 1s] [VI_F: chai] [PAUSE 1s] [VI_F: tô] [PAUSE 1s] [VI_F: ổ] [PAUSE 1s] [VI_F: người] [PAUSE 1s] [VI_F: này] [PAUSE 1s] [VI_F: đó] [PAUSE 0.5s] [EN: Remember,] [VI: ổ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: , and] [VI: người] [EN: and] [VI: này] [EN: have] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",

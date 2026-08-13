@@ -2,10 +2,26 @@
   "id": "L3-D17",
   "title": "Cao, thấp, dễ thương, hiền: appearance and personality",
   "vocab": [
-    {"vi": "cao", "en": "tall", "ipa": "kaːw˧"},
-    {"vi": "thấp", "en": "short (height)", "ipa": "tʰap˧˥"},
-    {"vi": "dễ thương", "en": "cute, lovable", "ipa": "zɛ˨˩˦ tʰɨəŋ˧"},
-    {"vi": "hiền", "en": "gentle, kind-natured", "ipa": "hiən˨˩"}
+    {
+      "vi": "cao",
+      "en": "tall",
+      "ipa": "kaːw˧"
+    },
+    {
+      "vi": "thấp",
+      "en": "short (height)",
+      "ipa": "tʰap˧˥"
+    },
+    {
+      "vi": "dễ thương",
+      "en": "cute, lovable",
+      "ipa": "zɛ˨˩˦ tʰɨəŋ˧"
+    },
+    {
+      "vi": "hiền",
+      "en": "gentle, kind-natured",
+      "ipa": "hiən˨˩"
+    }
   ],
   "segments": [
     {
@@ -16,7 +32,7 @@
     {
       "type": "dialogue",
       "duration_s": 215,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chị đó cao không?] [PAUSE 0.5s] [VI: Dạ, chị đó không cao. Chị đó thấp.] [PAUSE 0.5s] [VI_F: Chị đó dễ thương không?] [PAUSE 0.5s] [VI: Dạ, chị đó dễ thương. Chị đó cũng hiền.] [PAUSE 1s] [EN: Today, four words for describing people. Remember, the describing word comes after the noun.] [PAUSE 0.5s] [EN: First,] [VI: cao] [EN: means tall. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: cao] [PAUSE 1s] [VI_F: cao] [EN: Now you say it.] [PAUSE 4s] [VI: cao] [EN: Good. A tall person —] [PAUSE 4s] [VI: người cao] [PAUSE 0.5s] [EN: Next, its opposite.] [VI: thấp] [EN: means short — for height. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: thấp] [PAUSE 1s] [VI_F: thấp] [EN: Now you say it.] [PAUSE 4s] [VI: thấp] [EN: Good. A short person —] [PAUSE 4s] [VI: người thấp] [PAUSE 0.5s] [EN: Next,] [VI: dễ thương] [EN: means cute, or lovable. Listen to its two parts.] [VI_F: dễ] [EN: has] [VI: dấu ngã] [PAUSE 0.3s] [VI_F: thương] [EN: has] [VI: ngang] [EN: . Listen to the whole word again.] [VI_F: dễ thương] [PAUSE 1s] [VI_F: dễ thương] [EN: Now you say it.] [PAUSE 4s] [VI: dễ thương] [EN: Good. So cute —] [PAUSE 4s] [VI: Dễ thương quá!] [PAUSE 0.5s] [EN: Last,] [VI: hiền] [EN: means gentle, or kind-natured. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: hiền] [PAUSE 1s] [VI_F: hiền] [EN: Now you say it.] [PAUSE 4s] [VI: hiền] [EN: Good. She is gentle —] [PAUSE 4s] [VI: Chị đó hiền.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Chị đó cao không?] [PAUSE 0.5s] [VI: Dạ, chị đó không cao. Chị đó thấp.] [PAUSE 0.5s] [VI_F: Chị đó dễ thương không?] [PAUSE 0.5s] [VI: Dạ, chị đó dễ thương. Chị đó cũng hiền.] [PAUSE 1s] [EN: Today, four words for describing people. Remember, the describing word comes after the noun.] [PAUSE 0.5s] [EN: First,] [VI: cao] [EN: means tall. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: cao] [PAUSE 1s] [VI_F: cao] [EN: Now you say it.] [PAUSE 4s] [VI: cao] [EN: Good. A tall person —] [PAUSE 4s] [VI: người cao] [PAUSE 0.5s] [EN: Next, its opposite.] [VI: thấp] [EN: means short — for height. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: thấp] [PAUSE 1s] [VI_F: thấp] [EN: Now you say it.] [PAUSE 4s] [VI: thấp] [EN: Good. A short person —] [PAUSE 4s] [VI: người thấp] [PAUSE 0.5s] [EN: Next,] [VI: dễ thương] [EN: means cute, or lovable. Listen to its two parts.] [VI_F: dễ] [EN: has] [EN: a dipping tone — it falls, then rises] [PAUSE 0.3s] [VI_F: thương] [EN: has] [EN: a flat tone, no mark] [EN: . Listen to the whole word again.] [VI_F: dễ thương] [PAUSE 1s] [VI_F: dễ thương] [EN: Now you say it.] [PAUSE 4s] [VI: dễ thương] [EN: Good. So cute —] [PAUSE 4s] [VI: Dễ thương quá!] [PAUSE 0.5s] [EN: Last,] [VI: hiền] [EN: means gentle, or kind-natured. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: hiền] [PAUSE 1s] [VI_F: hiền] [EN: Now you say it.] [PAUSE 4s] [VI: hiền] [EN: Good. She is gentle —] [PAUSE 4s] [VI: Chị đó hiền.]"
     },
     {
       "type": "consolidate",
@@ -26,7 +42,7 @@
     {
       "type": "drill",
       "duration_s": 245,
-      "script": "[EN: Let's drill. Tall —] [PAUSE 4s] [VI: cao] [PAUSE 0.5s] [EN: Short —] [PAUSE 4s] [VI: thấp] [PAUSE 0.5s] [EN: Cute, lovable —] [PAUSE 4s] [VI: dễ thương] [PAUSE 0.5s] [EN: Gentle, kind-natured —] [PAUSE 4s] [VI: hiền] [PAUSE 0.5s] [EN: Now build it. He is tall —] [PAUSE 4s] [VI: Anh đó cao.] [PAUSE 0.5s] [EN: She is short —] [PAUSE 4s] [VI: Chị đó thấp.] [PAUSE 0.5s] [EN: This child is cute —] [PAUSE 4s] [VI: Con này dễ thương.] [PAUSE 0.5s] [EN: He is gentle, and also tall —] [PAUSE 4s] [VI: Anh đó hiền, cũng cao.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: cao] [PAUSE 3s] [EN: tall] [PAUSE 0.5s] [VI_F: thấp] [PAUSE 3s] [EN: short] [PAUSE 0.5s] [VI_F: dễ thương] [PAUSE 3s] [EN: cute, lovable] [PAUSE 0.5s] [VI_F: hiền] [PAUSE 3s] [EN: gentle, kind-natured] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: cao] [PAUSE 1s] [VI_F: thấp] [PAUSE 1s] [VI_F: dễ thương] [PAUSE 1s] [VI_F: hiền] [PAUSE 0.5s] [EN: Remember,] [VI: thấp] [EN: has] [VI: dấu sắc] [EN: , and] [VI: dễ] [EN: has] [VI: dấu ngã] [EN: .]"
+      "script": "[EN: Let's drill. Tall —] [PAUSE 4s] [VI: cao] [PAUSE 0.5s] [EN: Short —] [PAUSE 4s] [VI: thấp] [PAUSE 0.5s] [EN: Cute, lovable —] [PAUSE 4s] [VI: dễ thương] [PAUSE 0.5s] [EN: Gentle, kind-natured —] [PAUSE 4s] [VI: hiền] [PAUSE 0.5s] [EN: Now build it. He is tall —] [PAUSE 4s] [VI: Anh đó cao.] [PAUSE 0.5s] [EN: She is short —] [PAUSE 4s] [VI: Chị đó thấp.] [PAUSE 0.5s] [EN: This child is cute —] [PAUSE 4s] [VI: Con này dễ thương.] [PAUSE 0.5s] [EN: He is gentle, and also tall —] [PAUSE 4s] [VI: Anh đó hiền, cũng cao.] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: cao] [PAUSE 3s] [EN: tall] [PAUSE 0.5s] [VI_F: thấp] [PAUSE 3s] [EN: short] [PAUSE 0.5s] [VI_F: dễ thương] [PAUSE 3s] [EN: cute, lovable] [PAUSE 0.5s] [VI_F: hiền] [PAUSE 3s] [EN: gentle, kind-natured] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: cao] [PAUSE 1s] [VI_F: thấp] [PAUSE 1s] [VI_F: dễ thương] [PAUSE 1s] [VI_F: hiền] [PAUSE 0.5s] [EN: Remember,] [VI: thấp] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: dễ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: .]"
     },
     {
       "type": "synthesis",

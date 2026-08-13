@@ -2,11 +2,31 @@
   "id": "L3-D7",
   "title": "Thấy + tính từ: feelings and states",
   "vocab": [
-    {"vi": "thấy", "en": "to feel, or find", "ipa": "tʰəj˧˥"},
-    {"vi": "vui", "en": "happy", "ipa": "vui˧"},
-    {"vi": "buồn", "en": "sad", "ipa": "buən˨˩"},
-    {"vi": "mệt", "en": "tired", "ipa": "mɛt˨˩ʔ"},
-    {"vi": "bận", "en": "busy", "ipa": "bân˨˩ʔ"}
+    {
+      "vi": "thấy",
+      "en": "to feel, or find",
+      "ipa": "tʰəj˧˥"
+    },
+    {
+      "vi": "vui",
+      "en": "happy",
+      "ipa": "vui˧"
+    },
+    {
+      "vi": "buồn",
+      "en": "sad",
+      "ipa": "buən˨˩"
+    },
+    {
+      "vi": "mệt",
+      "en": "tired",
+      "ipa": "mɛt˨˩ʔ"
+    },
+    {
+      "vi": "bận",
+      "en": "busy",
+      "ipa": "bân˨˩ʔ"
+    }
   ],
   "segments": [
     {
@@ -17,7 +37,7 @@
     {
       "type": "dialogue",
       "duration_s": 215,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh mệt không?] [PAUSE 0.5s] [VI: Dạ, tôi thấy mệt. Còn chị?] [PAUSE 0.5s] [VI_F: Dạ, em thấy vui!] [PAUSE 1s] [EN: Today, a structure: to say how you feel, use] [VI: thấy] [EN: — it means to feel, or find — then add the feeling. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: thấy] [PAUSE 1s] [VI_F: thấy] [EN: Now you say it.] [PAUSE 4s] [VI: thấy] [EN: Good.] [PAUSE 0.5s] [EN: Now three feelings. First,] [VI: vui] [EN: means happy. It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: vui] [PAUSE 1s] [VI_F: vui] [EN: Now you say it.] [PAUSE 4s] [VI: vui] [EN: Good. I feel happy —] [PAUSE 4s] [VI: Tôi thấy vui.] [PAUSE 0.5s] [EN: Next,] [VI: buồn] [EN: means sad. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: buồn] [PAUSE 1s] [VI_F: buồn] [EN: Now you say it.] [PAUSE 4s] [VI: buồn] [EN: Good. I feel sad —] [PAUSE 4s] [VI: Tôi thấy buồn.] [PAUSE 0.5s] [EN: Last,] [VI: mệt] [EN: means tired. It has] [VI: dấu nặng] [EN: . Listen again.] [VI_F: mệt] [PAUSE 1s] [VI_F: mệt] [EN: Now you say it.] [PAUSE 4s] [VI: mệt] [EN: Good. I feel tired —] [PAUSE 4s] [VI: Tôi thấy mệt.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Anh mệt không?] [PAUSE 0.5s] [VI: Dạ, tôi thấy mệt. Còn chị?] [PAUSE 0.5s] [VI_F: Dạ, em thấy vui!] [PAUSE 1s] [EN: Today, a structure: to say how you feel, use] [VI: thấy] [EN: — it means to feel, or find — then add the feeling. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: thấy] [PAUSE 1s] [VI_F: thấy] [EN: Now you say it.] [PAUSE 4s] [VI: thấy] [EN: Good.] [PAUSE 0.5s] [EN: Now three feelings. First,] [VI: vui] [EN: means happy. It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: vui] [PAUSE 1s] [VI_F: vui] [EN: Now you say it.] [PAUSE 4s] [VI: vui] [EN: Good. I feel happy —] [PAUSE 4s] [VI: Tôi thấy vui.] [PAUSE 0.5s] [EN: Next,] [VI: buồn] [EN: means sad. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: buồn] [PAUSE 1s] [VI_F: buồn] [EN: Now you say it.] [PAUSE 4s] [VI: buồn] [EN: Good. I feel sad —] [PAUSE 4s] [VI: Tôi thấy buồn.] [PAUSE 0.5s] [EN: Last,] [VI: mệt] [EN: means tired. It has] [EN: a low tone, cut off short] [EN: . Listen again.] [VI_F: mệt] [PAUSE 1s] [VI_F: mệt] [EN: Now you say it.] [PAUSE 4s] [VI: mệt] [EN: Good. I feel tired —] [PAUSE 4s] [VI: Tôi thấy mệt.]"
     },
     {
       "type": "consolidate",
@@ -27,7 +47,7 @@
     {
       "type": "drill",
       "duration_s": 250,
-      "script": "[EN: Let's drill. To feel, or find —] [PAUSE 4s] [VI: thấy] [PAUSE 0.5s] [EN: Happy —] [PAUSE 4s] [VI: vui] [PAUSE 0.5s] [EN: Sad —] [PAUSE 4s] [VI: buồn] [PAUSE 0.5s] [EN: Tired —] [PAUSE 4s] [VI: mệt] [PAUSE 0.5s] [EN: Now build it. I feel happy —] [PAUSE 4s] [VI: Tôi thấy vui.] [PAUSE 0.5s] [EN: I feel sad —] [PAUSE 4s] [VI: Tôi thấy buồn.] [PAUSE 0.5s] [EN: I feel tired —] [PAUSE 4s] [VI: Tôi thấy mệt.] [PAUSE 0.5s] [EN: Swap in a word you already know —] [VI: bận] [EN: means busy. I feel busy —] [PAUSE 4s] [VI: Tôi thấy bận.] [PAUSE 0.5s] [EN: Ask if someone feels tired —] [PAUSE 4s] [VI: Anh mệt không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: thấy] [PAUSE 3s] [EN: to feel, or find] [PAUSE 0.5s] [VI_F: vui] [PAUSE 3s] [EN: happy] [PAUSE 0.5s] [VI_F: buồn] [PAUSE 3s] [EN: sad] [PAUSE 0.5s] [VI_F: mệt] [PAUSE 3s] [EN: tired] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: thấy] [PAUSE 1s] [VI_F: vui] [PAUSE 1s] [VI_F: buồn] [PAUSE 1s] [VI_F: mệt] [PAUSE 0.5s] [EN: Remember,] [VI: thấy] [EN: has] [VI: dấu sắc] [EN: , and] [VI: mệt] [EN: has] [VI: dấu nặng] [EN: .]"
+      "script": "[EN: Let's drill. To feel, or find —] [PAUSE 4s] [VI: thấy] [PAUSE 0.5s] [EN: Happy —] [PAUSE 4s] [VI: vui] [PAUSE 0.5s] [EN: Sad —] [PAUSE 4s] [VI: buồn] [PAUSE 0.5s] [EN: Tired —] [PAUSE 4s] [VI: mệt] [PAUSE 0.5s] [EN: Now build it. I feel happy —] [PAUSE 4s] [VI: Tôi thấy vui.] [PAUSE 0.5s] [EN: I feel sad —] [PAUSE 4s] [VI: Tôi thấy buồn.] [PAUSE 0.5s] [EN: I feel tired —] [PAUSE 4s] [VI: Tôi thấy mệt.] [PAUSE 0.5s] [EN: Swap in a word you already know —] [VI: bận] [EN: means busy. I feel busy —] [PAUSE 4s] [VI: Tôi thấy bận.] [PAUSE 0.5s] [EN: Ask if someone feels tired —] [PAUSE 4s] [VI: Anh mệt không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: thấy] [PAUSE 3s] [EN: to feel, or find] [PAUSE 0.5s] [VI_F: vui] [PAUSE 3s] [EN: happy] [PAUSE 0.5s] [VI_F: buồn] [PAUSE 3s] [EN: sad] [PAUSE 0.5s] [VI_F: mệt] [PAUSE 3s] [EN: tired] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: thấy] [PAUSE 1s] [VI_F: vui] [PAUSE 1s] [VI_F: buồn] [PAUSE 1s] [VI_F: mệt] [PAUSE 0.5s] [EN: Remember,] [VI: thấy] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: mệt] [EN: has] [EN: a low tone, cut off short] [EN: .]"
     },
     {
       "type": "synthesis",

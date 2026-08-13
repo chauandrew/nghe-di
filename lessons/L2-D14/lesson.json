@@ -2,8 +2,16 @@
   "id": "L2-D14",
   "title": "Cuối tuần, nghỉ: weekend plans",
   "vocab": [
-    {"vi": "cuối tuần", "en": "weekend", "ipa": "kuoj˧˥ twən˨˩"},
-    {"vi": "nghỉ", "en": "to rest, or to take time off", "ipa": "ŋi˨˩˦"}
+    {
+      "vi": "cuối tuần",
+      "en": "weekend",
+      "ipa": "kuoj˧˥ twən˨˩"
+    },
+    {
+      "vi": "nghỉ",
+      "en": "to rest, or to take time off",
+      "ipa": "ŋi˨˩˦"
+    }
   ],
   "segments": [
     {
@@ -14,7 +22,7 @@
     {
       "type": "dialogue",
       "duration_s": 190,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần này anh sẽ nghỉ không?] [PAUSE 0.5s] [VI: Dạ, em sẽ nghỉ.] [PAUSE 0.5s] [VI_F: Thứ bảy anh nghỉ không?] [PAUSE 0.5s] [VI: Dạ, thứ bảy em nghỉ. Chủ nhật em nghỉ.] [PAUSE 1s] [EN: Two words for weekend plans today.] [PAUSE 0.5s] [EN: First,] [VI: cuối tuần] [EN: means weekend. Listen to its two parts.] [VI_F: cuối] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: tuần] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole word again.] [VI_F: cuối tuần] [PAUSE 1s] [VI_F: cuối tuần] [EN: Now you say it.] [PAUSE 4s] [VI: cuối tuần] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: nghỉ] [EN: means to rest, or to take time off. It has] [VI: dấu hỏi] [EN: — dipping. Listen again.] [VI_F: nghỉ] [PAUSE 1s] [VI_F: nghỉ] [EN: Now you say it.] [PAUSE 4s] [VI: nghỉ] [EN: Good.] [PAUSE 0.3s] [VI_F: Cuối tuần này em sẽ nghỉ.] [EN: this weekend I'll rest.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cuối tuần này anh sẽ nghỉ không?] [PAUSE 0.5s] [VI: Dạ, em sẽ nghỉ.] [PAUSE 0.5s] [VI_F: Thứ bảy anh nghỉ không?] [PAUSE 0.5s] [VI: Dạ, thứ bảy em nghỉ. Chủ nhật em nghỉ.] [PAUSE 1s] [EN: Two words for weekend plans today.] [PAUSE 0.5s] [EN: First,] [VI: cuối tuần] [EN: means weekend. Listen to its two parts.] [VI_F: cuối] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: tuần] [EN: has] [EN: a falling tone] [EN: . Listen to the whole word again.] [VI_F: cuối tuần] [PAUSE 1s] [VI_F: cuối tuần] [EN: Now you say it.] [PAUSE 4s] [VI: cuối tuần] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: nghỉ] [EN: means to rest, or to take time off. It has] [EN: a dipping tone — it falls, then rises] [EN: — dipping. Listen again.] [VI_F: nghỉ] [PAUSE 1s] [VI_F: nghỉ] [EN: Now you say it.] [PAUSE 4s] [VI: nghỉ] [EN: Good.] [PAUSE 0.3s] [VI_F: Cuối tuần này em sẽ nghỉ.] [EN: this weekend I'll rest.]"
     },
     {
       "type": "consolidate",
@@ -24,7 +32,7 @@
     {
       "type": "drill",
       "duration_s": 220,
-      "script": "[EN: Let's drill. Weekend —] [PAUSE 4s] [VI: cuối tuần] [PAUSE 0.5s] [EN: To rest, or take time off —] [PAUSE 4s] [VI: nghỉ] [PAUSE 0.5s] [EN: Now say it. This weekend I'll rest —] [PAUSE 4s] [VI: Cuối tuần này em sẽ nghỉ.] [PAUSE 0.5s] [EN: Ask will you rest on Saturday —] [PAUSE 4s] [VI: Thứ bảy anh sẽ nghỉ không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: cuối tuần] [PAUSE 3s] [EN: weekend] [PAUSE 0.5s] [VI_F: nghỉ] [PAUSE 3s] [EN: to rest, or take time off] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: cuối tuần] [PAUSE 1s] [VI_F: nghỉ] [PAUSE 0.5s] [EN: Remember,] [VI: cuối] [EN: has] [VI: dấu sắc] [EN: , and] [VI: nghỉ] [EN: has] [VI: dấu hỏi] [EN: .]"
+      "script": "[EN: Let's drill. Weekend —] [PAUSE 4s] [VI: cuối tuần] [PAUSE 0.5s] [EN: To rest, or take time off —] [PAUSE 4s] [VI: nghỉ] [PAUSE 0.5s] [EN: Now say it. This weekend I'll rest —] [PAUSE 4s] [VI: Cuối tuần này em sẽ nghỉ.] [PAUSE 0.5s] [EN: Ask will you rest on Saturday —] [PAUSE 4s] [VI: Thứ bảy anh sẽ nghỉ không?] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: cuối tuần] [PAUSE 3s] [EN: weekend] [PAUSE 0.5s] [VI_F: nghỉ] [PAUSE 3s] [EN: to rest, or take time off] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: cuối tuần] [PAUSE 1s] [VI_F: nghỉ] [PAUSE 0.5s] [EN: Remember,] [VI: cuối] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: nghỉ] [EN: has] [EN: a dipping tone — it falls, then rises] [EN: .]"
     },
     {
       "type": "synthesis",

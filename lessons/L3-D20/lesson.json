@@ -2,10 +2,26 @@
   "id": "L3-D20",
   "title": "Đâu, luôn, chứ, mà: emphasis and soft negation",
   "vocab": [
-    {"vi": "đâu", "en": "not at all, not really (soft negation, paired with không...đâu — a different job from đâu = where)", "ipa": "dəw˧"},
-    {"vi": "luôn", "en": "totally, really (sentence-final intensifier)", "ipa": "luən˧"},
-    {"vi": "chứ", "en": "right?, isn't it? (tag seeking agreement)", "ipa": "tɕɨ˧˥"},
-    {"vi": "mà", "en": "but really, though (softly contradicts or reassures)", "ipa": "maː˨˩"}
+    {
+      "vi": "đâu",
+      "en": "not at all, not really (soft negation, paired with không...đâu — a different job from đâu = where)",
+      "ipa": "dəw˧"
+    },
+    {
+      "vi": "luôn",
+      "en": "totally, really (sentence-final intensifier)",
+      "ipa": "luən˧"
+    },
+    {
+      "vi": "chứ",
+      "en": "right?, isn't it? (tag seeking agreement)",
+      "ipa": "tɕɨ˧˥"
+    },
+    {
+      "vi": "mà",
+      "en": "but really, though (softly contradicts or reassures)",
+      "ipa": "maː˨˩"
+    }
   ],
   "segments": [
     {
@@ -16,7 +32,7 @@
     {
       "type": "dialogue",
       "duration_s": 225,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cà phê này đắt quá hả?] [PAUSE 0.5s] [VI: Không đắt quá đâu, rẻ mà!] [PAUSE 0.5s] [VI_F: Vậy ngon chứ?] [PAUSE 0.5s] [VI: Ngon luôn!] [PAUSE 1s] [EN: Today, four small words that add emphasis — all placed at the end of the sentence.] [PAUSE 0.5s] [EN: First,] [VI: đâu] [EN: you know this word from] [VI: ở đâu] [EN: — where. Today it works differently. Paired with] [VI: không] [EN: at the start and] [VI: đâu] [EN: at the end, it makes a soft, friendly no — not at all. It still has] [VI: ngang] [EN: — flat, same as before. Listen again.] [VI_F: đâu] [PAUSE 1s] [VI_F: đâu] [EN: Now you say it.] [PAUSE 4s] [VI: đâu] [EN: Good. Not expensive at all —] [PAUSE 4s] [VI: Không đắt quá đâu.] [PAUSE 0.5s] [EN: Next,] [VI: mà] [EN: means but really, or though — it softly pushes back, or reassures. It has] [VI: dấu huyền] [EN: . Listen again.] [VI_F: mà] [PAUSE 1s] [VI_F: mà] [EN: Now you say it.] [PAUSE 4s] [VI: mà] [EN: Good. It's cheap, really —] [PAUSE 4s] [VI: Rẻ mà!] [PAUSE 0.5s] [EN: Next,] [VI: chứ] [EN: means right?, or isn't it? — you use it at the end of a statement to seek agreement. It has] [VI: dấu sắc] [EN: . Listen again.] [VI_F: chứ] [PAUSE 1s] [VI_F: chứ] [EN: Now you say it.] [PAUSE 4s] [VI: chứ] [EN: Good. It's tasty, right —] [PAUSE 4s] [VI: Ngon chứ?] [PAUSE 0.5s] [EN: Last,] [VI: luôn] [EN: means totally, or really — another sentence-final intensifier, stronger than] [VI: chứ] [EN: . It has] [VI: ngang] [EN: — flat. Listen again.] [VI_F: luôn] [PAUSE 1s] [VI_F: luôn] [EN: Now you say it.] [PAUSE 4s] [VI: luôn] [EN: Good. Really tasty —] [PAUSE 4s] [VI: Ngon luôn!]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Cà phê này đắt quá hả?] [PAUSE 0.5s] [VI: Không đắt quá đâu, rẻ mà!] [PAUSE 0.5s] [VI_F: Vậy ngon chứ?] [PAUSE 0.5s] [VI: Ngon luôn!] [PAUSE 1s] [EN: Today, four small words that add emphasis — all placed at the end of the sentence.] [PAUSE 0.5s] [EN: First,] [VI: đâu] [EN: you know this word from] [VI: ở đâu] [EN: — where. Today it works differently. Paired with] [VI: không] [EN: at the start and] [VI: đâu] [EN: at the end, it makes a soft, friendly no — not at all. It still has] [EN: a flat tone, no mark] [EN: — flat, same as before. Listen again.] [VI_F: đâu] [PAUSE 1s] [VI_F: đâu] [EN: Now you say it.] [PAUSE 4s] [VI: đâu] [EN: Good. Not expensive at all —] [PAUSE 4s] [VI: Không đắt quá đâu.] [PAUSE 0.5s] [EN: Next,] [VI: mà] [EN: means but really, or though — it softly pushes back, or reassures. It has] [EN: a falling tone] [EN: . Listen again.] [VI_F: mà] [PAUSE 1s] [VI_F: mà] [EN: Now you say it.] [PAUSE 4s] [VI: mà] [EN: Good. It's cheap, really —] [PAUSE 4s] [VI: Rẻ mà!] [PAUSE 0.5s] [EN: Next,] [VI: chứ] [EN: means right?, or isn't it? — you use it at the end of a statement to seek agreement. It has] [EN: a high, rising tone] [EN: . Listen again.] [VI_F: chứ] [PAUSE 1s] [VI_F: chứ] [EN: Now you say it.] [PAUSE 4s] [VI: chứ] [EN: Good. It's tasty, right —] [PAUSE 4s] [VI: Ngon chứ?] [PAUSE 0.5s] [EN: Last,] [VI: luôn] [EN: means totally, or really — another sentence-final intensifier, stronger than] [VI: chứ] [EN: . It has] [EN: a flat tone, no mark] [EN: — flat. Listen again.] [VI_F: luôn] [PAUSE 1s] [VI_F: luôn] [EN: Now you say it.] [PAUSE 4s] [VI: luôn] [EN: Good. Really tasty —] [PAUSE 4s] [VI: Ngon luôn!]"
     },
     {
       "type": "consolidate",
@@ -26,7 +42,7 @@
     {
       "type": "drill",
       "duration_s": 250,
-      "script": "[EN: Let's drill. Not at all —] [PAUSE 4s] [VI: đâu] [PAUSE 0.5s] [EN: But really, though —] [PAUSE 4s] [VI: mà] [PAUSE 0.5s] [EN: Right, isn't it —] [PAUSE 4s] [VI: chứ] [PAUSE 0.5s] [EN: Totally, really —] [PAUSE 4s] [VI: luôn] [PAUSE 0.5s] [EN: Now build it. Not tired at all —] [PAUSE 4s] [VI: Không mệt đâu.] [PAUSE 0.5s] [EN: I'm busy, really —] [PAUSE 4s] [VI: Tôi bận mà!] [PAUSE 0.5s] [EN: She's gentle, right —] [PAUSE 4s] [VI: Chị đó hiền chứ?] [PAUSE 0.5s] [EN: Really cute —] [PAUSE 4s] [VI: Dễ thương luôn!] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đâu] [PAUSE 3s] [EN: not at all] [PAUSE 0.5s] [VI_F: mà] [PAUSE 3s] [EN: but really, though] [PAUSE 0.5s] [VI_F: chứ] [PAUSE 3s] [EN: right, isn't it] [PAUSE 0.5s] [VI_F: luôn] [PAUSE 3s] [EN: totally, really] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đâu] [PAUSE 1s] [VI_F: mà] [PAUSE 1s] [VI_F: chứ] [PAUSE 1s] [VI_F: luôn] [PAUSE 0.5s] [EN: Remember,] [VI: chứ] [EN: has] [VI: dấu sắc] [EN: , and] [VI: mà] [EN: has] [VI: dấu huyền] [EN: .]"
+      "script": "[EN: Let's drill. Not at all —] [PAUSE 4s] [VI: đâu] [PAUSE 0.5s] [EN: But really, though —] [PAUSE 4s] [VI: mà] [PAUSE 0.5s] [EN: Right, isn't it —] [PAUSE 4s] [VI: chứ] [PAUSE 0.5s] [EN: Totally, really —] [PAUSE 4s] [VI: luôn] [PAUSE 0.5s] [EN: Now build it. Not tired at all —] [PAUSE 4s] [VI: Không mệt đâu.] [PAUSE 0.5s] [EN: I'm busy, really —] [PAUSE 4s] [VI: Tôi bận mà!] [PAUSE 0.5s] [EN: She's gentle, right —] [PAUSE 4s] [VI: Chị đó hiền chứ?] [PAUSE 0.5s] [EN: Really cute —] [PAUSE 4s] [VI: Dễ thương luôn!] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: đâu] [PAUSE 3s] [EN: not at all] [PAUSE 0.5s] [VI_F: mà] [PAUSE 3s] [EN: but really, though] [PAUSE 0.5s] [VI_F: chứ] [PAUSE 3s] [EN: right, isn't it] [PAUSE 0.5s] [VI_F: luôn] [PAUSE 3s] [EN: totally, really] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: đâu] [PAUSE 1s] [VI_F: mà] [PAUSE 1s] [VI_F: chứ] [PAUSE 1s] [VI_F: luôn] [PAUSE 0.5s] [EN: Remember,] [VI: chứ] [EN: has] [EN: a high, rising tone] [EN: , and] [VI: mà] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",

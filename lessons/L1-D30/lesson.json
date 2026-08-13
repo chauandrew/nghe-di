@@ -2,9 +2,21 @@
   "id": "L1-D30",
   "title": "Tạm biệt: Level One wrap-up",
   "vocab": [
-    {"vi": "tạm biệt", "en": "goodbye", "ipa": "taːm˨˩ʔ biət˨˩ʔ"},
-    {"vi": "hẹn gặp lại", "en": "see you again", "ipa": "hɛn˨˩ʔ găp˨˩ʔ laːj˨˩ʔ"},
-    {"vi": "chúc mừng", "en": "congratulations", "ipa": "tɕuk˧˥ mɨŋ˨˩"}
+    {
+      "vi": "tạm biệt",
+      "en": "goodbye",
+      "ipa": "taːm˨˩ʔ biət˨˩ʔ"
+    },
+    {
+      "vi": "hẹn gặp lại",
+      "en": "see you again",
+      "ipa": "hɛn˨˩ʔ găp˨˩ʔ laːj˨˩ʔ"
+    },
+    {
+      "vi": "chúc mừng",
+      "en": "congratulations",
+      "ipa": "tɕuk˧˥ mɨŋ˨˩"
+    }
   ],
   "segments": [
     {
@@ -15,7 +27,7 @@
     {
       "type": "dialogue",
       "duration_s": 190,
-      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạ, cảm ơn anh.] [PAUSE 0.5s] [VI: Dạ, tạm biệt chị.] [PAUSE 0.5s] [VI_F: Hẹn gặp lại!] [PAUSE 1s] [EN: You said] [VI: tạm biệt] [EN: it means goodbye. Listen to its two parts.] [VI_F: tạm] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: biệt] [EN: also has] [VI: dấu nặng] [EN: . Listen to the whole word again.] [VI_F: tạm biệt] [PAUSE 1s] [VI_F: tạm biệt] [EN: Now you say it.] [PAUSE 4s] [VI: tạm biệt] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: hẹn gặp lại] [EN: means see you again. Listen to its three parts.] [VI_F: hẹn] [EN: has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: gặp] [EN: also has] [VI: dấu nặng] [PAUSE 0.3s] [VI_F: lại] [EN: you know — it also has] [VI: dấu nặng] [EN: . Listen to the whole phrase again.] [VI_F: hẹn gặp lại] [PAUSE 1s] [VI_F: hẹn gặp lại] [EN: Now you say it.] [PAUSE 4s] [VI: hẹn gặp lại] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: chúc mừng] [EN: means congratulations. Listen to its two parts.] [VI_F: chúc] [EN: has] [VI: dấu sắc] [PAUSE 0.3s] [VI_F: mừng] [EN: has] [VI: dấu huyền] [EN: . Listen to the whole word again.] [VI_F: chúc mừng] [PAUSE 1s] [VI_F: chúc mừng] [EN: Now you say it.] [PAUSE 4s] [VI: chúc mừng] [EN: Good.]"
+      "script": "[EN: Listen.] [PAUSE 0.5s] [VI_F: Dạ, cảm ơn anh.] [PAUSE 0.5s] [VI: Dạ, tạm biệt chị.] [PAUSE 0.5s] [VI_F: Hẹn gặp lại!] [PAUSE 1s] [EN: You said] [VI: tạm biệt] [EN: it means goodbye. Listen to its two parts.] [VI_F: tạm] [EN: has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: biệt] [EN: also has] [EN: a low tone, cut off short] [EN: . Listen to the whole word again.] [VI_F: tạm biệt] [PAUSE 1s] [VI_F: tạm biệt] [EN: Now you say it.] [PAUSE 4s] [VI: tạm biệt] [EN: Good.] [PAUSE 0.5s] [EN: Next,] [VI: hẹn gặp lại] [EN: means see you again. Listen to its three parts.] [VI_F: hẹn] [EN: has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: gặp] [EN: also has] [EN: a low tone, cut off short] [PAUSE 0.3s] [VI_F: lại] [EN: you know — it also has] [EN: a low tone, cut off short] [EN: . Listen to the whole phrase again.] [VI_F: hẹn gặp lại] [PAUSE 1s] [VI_F: hẹn gặp lại] [EN: Now you say it.] [PAUSE 4s] [VI: hẹn gặp lại] [EN: Good.] [PAUSE 0.5s] [EN: Last,] [VI: chúc mừng] [EN: means congratulations. Listen to its two parts.] [VI_F: chúc] [EN: has] [EN: a high, rising tone] [PAUSE 0.3s] [VI_F: mừng] [EN: has] [EN: a falling tone] [EN: . Listen to the whole word again.] [VI_F: chúc mừng] [PAUSE 1s] [VI_F: chúc mừng] [EN: Now you say it.] [PAUSE 4s] [VI: chúc mừng] [EN: Good.]"
     },
     {
       "type": "consolidate",
@@ -25,7 +37,7 @@
     {
       "type": "drill",
       "duration_s": 210,
-      "script": "[EN: Let's drill. Goodbye —] [PAUSE 4s] [VI: tạm biệt] [PAUSE 0.5s] [EN: See you again —] [PAUSE 4s] [VI: hẹn gặp lại] [PAUSE 0.5s] [EN: Congratulations —] [PAUSE 4s] [VI: chúc mừng] [PAUSE 0.5s] [EN: Now say it. Say goodbye to a woman —] [PAUSE 4s] [VI: Tạm biệt chị.] [PAUSE 0.5s] [EN: Say see you again —] [PAUSE 4s] [VI: Hẹn gặp lại!] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: tạm biệt] [PAUSE 3s] [EN: goodbye] [PAUSE 0.5s] [VI_F: hẹn gặp lại] [PAUSE 3s] [EN: see you again] [PAUSE 0.5s] [VI_F: chúc mừng] [PAUSE 3s] [EN: congratulations] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: tạm biệt] [PAUSE 1s] [VI_F: hẹn gặp lại] [PAUSE 1s] [VI_F: chúc mừng] [PAUSE 0.5s] [EN: Remember,] [VI: tạm] [EN: has] [VI: dấu nặng] [EN: , and] [VI: mừng] [EN: has] [VI: dấu huyền] [EN: .]"
+      "script": "[EN: Let's drill. Goodbye —] [PAUSE 4s] [VI: tạm biệt] [PAUSE 0.5s] [EN: See you again —] [PAUSE 4s] [VI: hẹn gặp lại] [PAUSE 0.5s] [EN: Congratulations —] [PAUSE 4s] [VI: chúc mừng] [PAUSE 0.5s] [EN: Now say it. Say goodbye to a woman —] [PAUSE 4s] [VI: Tạm biệt chị.] [PAUSE 0.5s] [EN: Say see you again —] [PAUSE 4s] [VI: Hẹn gặp lại!] [PAUSE 0.5s] [EN: Now reverse. I say the Vietnamese, you say the English.] [PAUSE 0.5s] [VI_F: tạm biệt] [PAUSE 3s] [EN: goodbye] [PAUSE 0.5s] [VI_F: hẹn gặp lại] [PAUSE 3s] [EN: see you again] [PAUSE 0.5s] [VI_F: chúc mừng] [PAUSE 3s] [EN: congratulations] [PAUSE 0.5s] [EN: One last time, before we move on.] [PAUSE 0.5s] [VI_F: tạm biệt] [PAUSE 1s] [VI_F: hẹn gặp lại] [PAUSE 1s] [VI_F: chúc mừng] [PAUSE 0.5s] [EN: Remember,] [VI: tạm] [EN: has] [EN: a low tone, cut off short] [EN: , and] [VI: mừng] [EN: has] [EN: a falling tone] [EN: .]"
     },
     {
       "type": "synthesis",
