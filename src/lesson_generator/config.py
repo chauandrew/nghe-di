@@ -12,7 +12,7 @@ VOCAB_DB_PATH = OUTPUT_DIR / "vocab_db.json"
 # Find voices at elevenlabs.io/voice-library, or paste a cloned voice ID here.
 # eleven_multilingual_v2 handles Vietnamese tones reasonably well.
 # Tip: clone a native HCMC speaker for best accent accuracy.
-ELEVENLABS_VOICE_VI_F = "N0Z0aL8qHhzwUHwRBcVo"   # "Thanh" - female
+ELEVENLABS_VOICE_VI_F = "Na15FlRRkMEDtEW4nVVP"   # "Thanh Ngoc" - female
 ELEVENLABS_VOICE_VI_M = "JYT6xPLD3LGl0ui3YXNq"   # "Khanh" - male
 ELEVENLABS_VOICE_EN = "D11AWvkESE7DJwqIVi7L"   # "Brian"
 ELEVENLABS_MODEL    = "eleven_flash_v2_5"  # Cheaper model, supports Vietnamese
@@ -24,7 +24,14 @@ ELEVENLABS_MODEL    = "eleven_flash_v2_5"  # Cheaper model, supports Vietnamese
 # of a new word uses NORMAL.
 VI_SPEED_NORMAL = 0.85   # general Vietnamese pace (was 0.90; slower per feedback)
 VI_SPEED_SLOW   = 0.72   # first exposures of a new word
-EN_SPEED        = 1.0    # English narrator
+EN_SPEED        = 0.9    # English narrator (was 1.0; slower per feedback)
+
+# Target loudness (dBFS) every rendered clip is normalized to before stitching,
+# so voices recorded/rendered at different volumes (e.g. a quiet male voice next
+# to a louder female one) come out matched in the final lesson MP3. Applied at
+# playback-load time, not baked into the cached ElevenLabs bytes, so retuning
+# this needs no re-synthesis.
+TARGET_DBFS = -20.0
 
 # How many of a new word's first renderings play slowly before dropping to
 # NORMAL. Covers the isolated introduction (model says it, learner repeats it)

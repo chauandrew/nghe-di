@@ -173,8 +173,9 @@ def tts_segment(
         # convert() returns a generator — collect all chunks
         cache_path.write_bytes(b"".join(audio_bytes))
         time.sleep(0.1)   # brief courtesy pause between API calls
- 
-    return AudioSegment.from_mp3(cache_path)
+
+    clip = AudioSegment.from_mp3(cache_path)
+    return clip.apply_gain(TARGET_DBFS - clip.dBFS)
 
 
 def parse_script(script: str) -> list[tuple[str, str]]:
