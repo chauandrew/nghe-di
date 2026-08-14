@@ -2,8 +2,16 @@
   "id": "L5-D22",
   "title": "Chứ, đó: emphatic particles",
   "vocab": [
-    {"vi": "chứ", "en": "of course (emphatic particle at the end of a statement — a different job from chứ = right?, isn't it?)", "ipa": "tɕɨ˧˥"},
-    {"vi": "đó", "en": "you know, see (sentence-final emphasis particle — a different job from đó = that)", "ipa": "dɔ˧˥"}
+    {
+      "vi": "chứ",
+      "en": "of course (emphatic particle at the end of a statement — a different job from chứ = right?, isn't it?)",
+      "ipa": "tɕɨ˧˥"
+    },
+    {
+      "vi": "đó",
+      "en": "you know, see (sentence-final emphasis particle — a different job from đó = that)",
+      "ipa": "ɗɔ˧˥"
+    }
   ],
   "segments": [
     {

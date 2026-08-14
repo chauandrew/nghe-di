@@ -2,9 +2,21 @@
   "id": "L4-D10",
   "title": "Rút tiền, đổi tiền, chuyển khoản: at the bank",
   "vocab": [
-    {"vi": "rút tiền", "en": "to withdraw money", "ipa": "zut˧˥ tiən˨˩"},
-    {"vi": "đổi tiền", "en": "to exchange money", "ipa": "doj˨˩˦ tiən˨˩"},
-    {"vi": "chuyển khoản", "en": "to transfer money, a bank transfer", "ipa": "tɕwiən˨˩˦ xwaːn˨˩˦"}
+    {
+      "vi": "rút tiền",
+      "en": "to withdraw money",
+      "ipa": "ɹut˧˥ tiən˨˩"
+    },
+    {
+      "vi": "đổi tiền",
+      "en": "to exchange money",
+      "ipa": "ɗoj˨˩˦ tiən˨˩"
+    },
+    {
+      "vi": "chuyển khoản",
+      "en": "to transfer money, a bank transfer",
+      "ipa": "tɕwiən˨˩˦ xwaːn˨˩˦"
+    }
   ],
   "segments": [
     {

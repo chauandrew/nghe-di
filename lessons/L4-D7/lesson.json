@@ -2,8 +2,16 @@
   "id": "L4-D7",
   "title": "Phiền, giúp: polite requests",
   "vocab": [
-    {"vi": "phiền", "en": "to trouble, or bother someone (polite opener)", "ipa": "fiən˨˩"},
-    {"vi": "giúp", "en": "to help", "ipa": "zup˧˥"}
+    {
+      "vi": "phiền",
+      "en": "to trouble, or bother someone (polite opener)",
+      "ipa": "fiən˨˩"
+    },
+    {
+      "vi": "giúp",
+      "en": "to help",
+      "ipa": "jup˧˥"
+    }
   ],
   "segments": [
     {

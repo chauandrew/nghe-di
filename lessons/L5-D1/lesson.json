@@ -2,8 +2,16 @@
   "id": "L5-D1",
   "title": "Đầu tiên, cuối cùng: sequencing a story",
   "vocab": [
-    {"vi": "đầu tiên", "en": "first (opens a sequence)", "ipa": "dəw˨˩ tiən˧"},
-    {"vi": "cuối cùng", "en": "finally (closes a sequence)", "ipa": "kuəj˧˥ kuŋ˨˩"}
+    {
+      "vi": "đầu tiên",
+      "en": "first (opens a sequence)",
+      "ipa": "ɗəw˨˩ tiən˧"
+    },
+    {
+      "vi": "cuối cùng",
+      "en": "finally (closes a sequence)",
+      "ipa": "kuəj˧˥ kuŋ˨˩"
+    }
   ],
   "segments": [
     {

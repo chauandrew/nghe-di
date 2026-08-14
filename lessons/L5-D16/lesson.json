@@ -2,9 +2,21 @@
   "id": "L5-D16",
   "title": "Đám cưới: weddings",
   "vocab": [
-    {"vi": "đám cưới", "en": "wedding", "ipa": "daːm˧˥ kɨəj˧˥"},
-    {"vi": "cô dâu", "en": "bride", "ipa": "ko˧ zəw˧"},
-    {"vi": "chú rể", "en": "groom", "ipa": "tɕu˧˥ re˨˩˦"}
+    {
+      "vi": "đám cưới",
+      "en": "wedding",
+      "ipa": "ɗaːm˧˥ kɨəj˧˥"
+    },
+    {
+      "vi": "cô dâu",
+      "en": "bride",
+      "ipa": "ko˧ jəw˧"
+    },
+    {
+      "vi": "chú rể",
+      "en": "groom",
+      "ipa": "tɕu˧˥ ɹe˨˩˦"
+    }
   ],
   "segments": [
     {

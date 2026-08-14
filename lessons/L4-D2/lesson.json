@@ -2,10 +2,26 @@
   "id": "L4-D2",
   "title": "Đau, bị, sốt, cảm: symptoms",
   "vocab": [
-    {"vi": "đau", "en": "to hurt, or painful", "ipa": "daw˧"},
-    {"vi": "bị", "en": "a bad-outcome marker for illness (to be affected by)", "ipa": "bi˨˩ʔ"},
-    {"vi": "sốt", "en": "fever", "ipa": "sot˧˥"},
-    {"vi": "cảm", "en": "a cold, or the flu", "ipa": "kaːm˨˩˦"}
+    {
+      "vi": "đau",
+      "en": "to hurt, or painful",
+      "ipa": "ɗaw˧"
+    },
+    {
+      "vi": "bị",
+      "en": "a bad-outcome marker for illness (to be affected by)",
+      "ipa": "ɓi˨˩ʔ"
+    },
+    {
+      "vi": "sốt",
+      "en": "fever",
+      "ipa": "sot˧˥"
+    },
+    {
+      "vi": "cảm",
+      "en": "a cold, or the flu",
+      "ipa": "kaːm˨˩˦"
+    }
   ],
   "segments": [
     {

@@ -2,9 +2,21 @@
   "id": "L4-D14",
   "title": "Mất, trộm, bể: lost, stolen, or broken",
   "vocab": [
-    {"vi": "mất", "en": "lost, or to lose", "ipa": "mət˧˥"},
-    {"vi": "trộm", "en": "thief, or to steal", "ipa": "tɕom˨˩ʔ"},
-    {"vi": "bể", "en": "broken, or shattered (for glass, or anything fragile)", "ipa": "be˨˩˦"}
+    {
+      "vi": "mất",
+      "en": "lost, or to lose",
+      "ipa": "mət˧˥"
+    },
+    {
+      "vi": "trộm",
+      "en": "thief, or to steal",
+      "ipa": "ʈom˨˩ʔ"
+    },
+    {
+      "vi": "bể",
+      "en": "broken, or shattered (for glass, or anything fragile)",
+      "ipa": "ɓe˨˩˦"
+    }
   ],
   "segments": [
     {

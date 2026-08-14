@@ -2,8 +2,16 @@
   "id": "L4-D22",
   "title": "Đèn đỏ, vòng xoay: directions across town",
   "vocab": [
-    {"vi": "đèn đỏ", "en": "red light, traffic light", "ipa": "dɛn˨˩ dɔ˨˩˦"},
-    {"vi": "vòng xoay", "en": "roundabout", "ipa": "vɔŋ˨˩ swaːj˧"}
+    {
+      "vi": "đèn đỏ",
+      "en": "red light, traffic light",
+      "ipa": "ɗɛn˨˩ ɗɔ˨˩˦"
+    },
+    {
+      "vi": "vòng xoay",
+      "en": "roundabout",
+      "ipa": "vɔŋ˨˩ swaːj˧"
+    }
   ],
   "segments": [
     {

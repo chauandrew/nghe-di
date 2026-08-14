@@ -2,11 +2,31 @@
   "id": "L4-D9",
   "title": "Trời, mưa, nắng, nóng, lạnh: the weather",
   "vocab": [
-    {"vi": "trời", "en": "sky, or weather", "ipa": "tɕɤj˨˩"},
-    {"vi": "mưa", "en": "rain", "ipa": "mɨə˧"},
-    {"vi": "nắng", "en": "sunny", "ipa": "naŋ˧˥"},
-    {"vi": "nóng", "en": "hot", "ipa": "nɔŋ˧˥"},
-    {"vi": "lạnh", "en": "cold", "ipa": "laɲ˨˩ʔ"}
+    {
+      "vi": "trời",
+      "en": "sky, or weather",
+      "ipa": "ʈɤj˨˩"
+    },
+    {
+      "vi": "mưa",
+      "en": "rain",
+      "ipa": "mɨə˧"
+    },
+    {
+      "vi": "nắng",
+      "en": "sunny",
+      "ipa": "naŋ˧˥"
+    },
+    {
+      "vi": "nóng",
+      "en": "hot",
+      "ipa": "nɔŋ˧˥"
+    },
+    {
+      "vi": "lạnh",
+      "en": "cold",
+      "ipa": "laɲ˨˩ʔ"
+    }
   ],
   "segments": [
     {

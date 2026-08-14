@@ -2,9 +2,21 @@
   "id": "L5-D12",
   "title": "Món ăn, đặc sản, miền: regional food culture",
   "vocab": [
-    {"vi": "món ăn", "en": "dish, or food (a food item, not the verb to eat)", "ipa": "mɔn˧˥ ăn˧"},
-    {"vi": "đặc sản", "en": "specialty (regional food specialty)", "ipa": "dak˨˩ʔ saːn˨˩˦"},
-    {"vi": "miền", "en": "region", "ipa": "miən˨˩"}
+    {
+      "vi": "món ăn",
+      "en": "dish, or food (a food item, not the verb to eat)",
+      "ipa": "mɔn˧˥ ăn˧"
+    },
+    {
+      "vi": "đặc sản",
+      "en": "specialty (regional food specialty)",
+      "ipa": "ɗak˨˩ʔ saːn˨˩˦"
+    },
+    {
+      "vi": "miền",
+      "en": "region",
+      "ipa": "miən˨˩"
+    }
   ],
   "segments": [
     {

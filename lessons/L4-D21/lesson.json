@@ -2,9 +2,21 @@
   "id": "L4-D21",
   "title": "Qua, dọc theo, ngã tư: complex directions",
   "vocab": [
-    {"vi": "qua", "en": "across, or past", "ipa": "kwaː˧"},
-    {"vi": "dọc theo", "en": "along", "ipa": "dɔk˨˩ʔ tʰɛw˧"},
-    {"vi": "ngã tư", "en": "intersection, or crossroads", "ipa": "ŋaː˨˩˦ tɨ˧"}
+    {
+      "vi": "qua",
+      "en": "across, or past",
+      "ipa": "kwaː˧"
+    },
+    {
+      "vi": "dọc theo",
+      "en": "along",
+      "ipa": "jɔk˨˩ʔ tʰɛw˧"
+    },
+    {
+      "vi": "ngã tư",
+      "en": "intersection, or crossroads",
+      "ipa": "ŋaː˨˩˦ tɨ˧"
+    }
   ],
   "segments": [
     {
