@@ -2,12 +2,36 @@
   "id": "L4-D0",
   "title": "Phát âm, part two — naming the tones",
   "vocab": [
-    {"vi": "ngang", "en": "flat tone (no mark)", "ipa": "ŋaːŋ˧"},
-    {"vi": "dấu huyền", "en": "falling-tone mark", "ipa": "zəw˥˩ hwiən˨˩"},
-    {"vi": "dấu sắc", "en": "high, rising-tone mark", "ipa": "zəw˥˩ săk˧˥"},
-    {"vi": "dấu hỏi", "en": "dipping-tone mark", "ipa": "zəw˥˩ hoj˨˩˦"},
-    {"vi": "dấu ngã", "en": "dipping-tone mark (same sound as dấu hỏi, in the south)", "ipa": "zəw˥˩ ŋaː˨˩˦"},
-    {"vi": "dấu nặng", "en": "low, cut-off tone mark", "ipa": "zəw˥˩ naŋ˨˩ʔ"}
+    {
+      "vi": "ngang",
+      "en": "flat tone (no mark)",
+      "ipa": "ŋaːŋ˧"
+    },
+    {
+      "vi": "dấu huyền",
+      "en": "falling-tone mark",
+      "ipa": "jəw˥˩ hwiən˨˩"
+    },
+    {
+      "vi": "dấu sắc",
+      "en": "high, rising-tone mark",
+      "ipa": "jəw˥˩ săk˧˥"
+    },
+    {
+      "vi": "dấu hỏi",
+      "en": "dipping-tone mark",
+      "ipa": "jəw˥˩ hoj˨˩˦"
+    },
+    {
+      "vi": "dấu ngã",
+      "en": "dipping-tone mark (same sound as dấu hỏi, in the south)",
+      "ipa": "jəw˥˩ ŋaː˨˩˦"
+    },
+    {
+      "vi": "dấu nặng",
+      "en": "low, cut-off tone mark",
+      "ipa": "jəw˥˩ naŋ˨˩ʔ"
+    }
   ],
   "segments": [
     {

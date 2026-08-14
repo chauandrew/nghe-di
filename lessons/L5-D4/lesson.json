@@ -2,9 +2,21 @@
   "id": "L5-D4",
   "title": "Sinh ra, lớn lên, kết hôn: life events",
   "vocab": [
-    {"vi": "sinh ra", "en": "to be born", "ipa": "ʂiŋ˧ raː˧"},
-    {"vi": "lớn lên", "en": "to grow up", "ipa": "lɤn˧˥ len˧"},
-    {"vi": "kết hôn", "en": "to get married", "ipa": "ket˧˥ hon˧"}
+    {
+      "vi": "sinh ra",
+      "en": "to be born",
+      "ipa": "ʂiŋ˧ ʐaː˧"
+    },
+    {
+      "vi": "lớn lên",
+      "en": "to grow up",
+      "ipa": "lɤn˧˥ len˧"
+    },
+    {
+      "vi": "kết hôn",
+      "en": "to get married",
+      "ipa": "ket˧˥ hon˧"
+    }
   ],
   "segments": [
     {

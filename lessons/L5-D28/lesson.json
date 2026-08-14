@@ -2,9 +2,21 @@
   "id": "L5-D28",
   "title": "Môi trường, công nghệ, vấn đề: current topics",
   "vocab": [
-    {"vi": "vấn đề", "en": "issue, or problem", "ipa": "vɤn˧˥ de˨˩"},
-    {"vi": "môi trường", "en": "environment", "ipa": "moj˧ tɕɨəŋ˨˩"},
-    {"vi": "công nghệ", "en": "technology", "ipa": "kɔŋ˧ ŋe˨˩ʔ"}
+    {
+      "vi": "vấn đề",
+      "en": "issue, or problem",
+      "ipa": "vɤn˧˥ de˨˩"
+    },
+    {
+      "vi": "môi trường",
+      "en": "environment",
+      "ipa": "moj˧ ʈɨəŋ˨˩"
+    },
+    {
+      "vi": "công nghệ",
+      "en": "technology",
+      "ipa": "kɔŋ˧ ŋe˨˩ʔ"
+    }
   ],
   "segments": [
     {

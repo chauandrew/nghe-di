@@ -2,9 +2,21 @@
   "id": "L5-D26",
   "title": "Miền Bắc, miền Nam, giọng: regions and accents",
   "vocab": [
-    {"vi": "miền Bắc", "en": "the North", "ipa": "miən˨˩ băk˧˥"},
-    {"vi": "miền Nam", "en": "the South", "ipa": "miən˨˩ naːm˧"},
-    {"vi": "giọng", "en": "accent, or voice", "ipa": "zɔŋ˨˩ʔ"}
+    {
+      "vi": "miền Bắc",
+      "en": "the North",
+      "ipa": "miən˨˩ băk˧˥"
+    },
+    {
+      "vi": "miền Nam",
+      "en": "the South",
+      "ipa": "miən˨˩ naːm˧"
+    },
+    {
+      "vi": "giọng",
+      "en": "accent, or voice",
+      "ipa": "jɔŋ˨˩ʔ"
+    }
   ],
   "segments": [
     {

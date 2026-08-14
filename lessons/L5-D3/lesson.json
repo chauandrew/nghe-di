@@ -2,9 +2,21 @@
   "id": "L5-D3",
   "title": "Nhưng, tuy nhiên, mặc dù: expressing contrast",
   "vocab": [
-    {"vi": "nhưng", "en": "but", "ipa": "ɲɯŋ˧"},
-    {"vi": "tuy nhiên", "en": "however", "ipa": "tuj˧ ɲiən˧"},
-    {"vi": "mặc dù", "en": "although", "ipa": "mak˨˩ʔ zu˨˩"}
+    {
+      "vi": "nhưng",
+      "en": "but",
+      "ipa": "ɲɯŋ˧"
+    },
+    {
+      "vi": "tuy nhiên",
+      "en": "however",
+      "ipa": "tuj˧ ɲiən˧"
+    },
+    {
+      "vi": "mặc dù",
+      "en": "although",
+      "ipa": "mak˨˩ʔ ju˨˩"
+    }
   ],
   "segments": [
     {
