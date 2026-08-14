@@ -2,8 +2,16 @@
   "id": "L4-D13",
   "title": "Bị, được: passive outcomes",
   "vocab": [
-    {"vi": "bị", "en": "bad-outcome marker (to be affected by something bad) — generalizes beyond illness", "ipa": "bi˨˩ʔ"},
-    {"vi": "được", "en": "good-outcome marker (to get to, or benefit from) — a third job for this word", "ipa": "dɨək˧˥"}
+    {
+      "vi": "bị",
+      "en": "bad-outcome marker (to be affected by something bad) — generalizes beyond illness",
+      "ipa": "ɓi˨˩ʔ"
+    },
+    {
+      "vi": "được",
+      "en": "good-outcome marker (to get to, or benefit from) — a third job for this word",
+      "ipa": "ɗɨək˧˥"
+    }
   ],
   "segments": [
     {

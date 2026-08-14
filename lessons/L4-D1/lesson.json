@@ -2,10 +2,26 @@
   "id": "L4-D1",
   "title": "Đầu, bụng, tay, chân: body parts",
   "vocab": [
-    {"vi": "đầu", "en": "head", "ipa": "dəw˨˩"},
-    {"vi": "bụng", "en": "stomach", "ipa": "buŋ˨˩ʔ"},
-    {"vi": "tay", "en": "hand, or arm", "ipa": "taj˧"},
-    {"vi": "chân", "en": "leg, or foot", "ipa": "tɕən˧"}
+    {
+      "vi": "đầu",
+      "en": "head",
+      "ipa": "ɗəw˨˩"
+    },
+    {
+      "vi": "bụng",
+      "en": "stomach",
+      "ipa": "ɓuŋ˨˩ʔ"
+    },
+    {
+      "vi": "tay",
+      "en": "hand, or arm",
+      "ipa": "taj˧"
+    },
+    {
+      "vi": "chân",
+      "en": "leg, or foot",
+      "ipa": "tɕən˧"
+    }
   ],
   "segments": [
     {

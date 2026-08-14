@@ -2,9 +2,21 @@
   "id": "L5-D24",
   "title": "Chuyến đi, ấn tượng, phong cảnh: narrating a trip",
   "vocab": [
-    {"vi": "chuyến đi", "en": "trip, or journey", "ipa": "tɕwiən˧˥ di˧"},
-    {"vi": "ấn tượng", "en": "impression, or impressive", "ipa": "an˧˥ tɨəŋ˨˩ʔ"},
-    {"vi": "phong cảnh", "en": "scenery", "ipa": "fɔŋ˧ kaːɲ˨˩˦"}
+    {
+      "vi": "chuyến đi",
+      "en": "trip, or journey",
+      "ipa": "tɕwiən˧˥ ɗi˧"
+    },
+    {
+      "vi": "ấn tượng",
+      "en": "impression, or impressive",
+      "ipa": "an˧˥ tɨəŋ˨˩ʔ"
+    },
+    {
+      "vi": "phong cảnh",
+      "en": "scenery",
+      "ipa": "fɔŋ˧ kaːɲ˨˩˦"
+    }
   ],
   "segments": [
     {

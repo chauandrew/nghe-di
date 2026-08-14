@@ -2,9 +2,21 @@
   "id": "L4-D12",
   "title": "Gửi, bưu điện, kiện hàng: the post office",
   "vocab": [
-    {"vi": "gửi", "en": "to send", "ipa": "gɨj˨˩˦"},
-    {"vi": "bưu điện", "en": "post office", "ipa": "bɨw˧ diən˨˩ʔ"},
-    {"vi": "kiện hàng", "en": "package", "ipa": "kiən˨˩ʔ haːŋ˨˩"}
+    {
+      "vi": "gửi",
+      "en": "to send",
+      "ipa": "gɨj˨˩˦"
+    },
+    {
+      "vi": "bưu điện",
+      "en": "post office",
+      "ipa": "ɓɨw˧ ɗiən˨˩ʔ"
+    },
+    {
+      "vi": "kiện hàng",
+      "en": "package",
+      "ipa": "kiən˨˩ʔ haːŋ˨˩"
+    }
   ],
   "segments": [
     {

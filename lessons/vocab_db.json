@@ -51,7 +51,7 @@
     "id": "v013",
     "vi": "bao nhiêu",
     "en": "how much / how many",
-    "ipa": "baːw˧ ɲiəw˧",
+    "ipa": "ɓaːw˧ ɲiəw˧",
     "level": 1,
     "day_introduced": 3
   },
@@ -75,7 +75,7 @@
     "id": "v016",
     "vi": "ba",
     "en": "three",
-    "ipa": "baː˧",
+    "ipa": "ɓaː˧",
     "level": 1,
     "day_introduced": 3
   },
@@ -83,7 +83,7 @@
     "id": "v017",
     "vi": "bốn",
     "en": "four",
-    "ipa": "bon˧˥",
+    "ipa": "ɓon˧˥",
     "level": 1,
     "day_introduced": 3
   },
@@ -107,7 +107,7 @@
     "id": "v020",
     "vi": "bảy",
     "en": "seven",
-    "ipa": "baj˨˩˦",
+    "ipa": "ɓaj˨˩˦",
     "level": 1,
     "day_introduced": 4
   },
@@ -195,7 +195,7 @@
     "id": "v031",
     "vi": "đó",
     "en": "that",
-    "ipa": "dɔ˧˥",
+    "ipa": "ɗɔ˧˥",
     "level": 1,
     "day_introduced": 5
   },
@@ -299,7 +299,7 @@
     "id": "v044",
     "vi": "đói",
     "en": "hungry",
-    "ipa": "doj˧˥",
+    "ipa": "ɗoj˧˥",
     "level": 1,
     "day_introduced": 9
   },
@@ -355,7 +355,7 @@
     "id": "v051",
     "vi": "đá",
     "en": "ice",
-    "ipa": "daː˧˥",
+    "ipa": "ɗaː˧˥",
     "level": 1,
     "day_introduced": 11
   },
@@ -371,7 +371,7 @@
     "id": "v053",
     "vi": "đường",
     "en": "sugar",
-    "ipa": "dɨəŋ˨˩",
+    "ipa": "ɗɨəŋ˨˩",
     "level": 1,
     "day_introduced": 12
   },
@@ -379,7 +379,7 @@
     "id": "v054",
     "vi": "ở đâu",
     "en": "where",
-    "ipa": "ə˨˩˦ dəw˧",
+    "ipa": "ə˨˩˦ ɗəw˧",
     "level": 1,
     "day_introduced": 13
   },
@@ -395,7 +395,7 @@
     "id": "v056",
     "vi": "bên phải",
     "en": "on the right",
-    "ipa": "ben˧ faːj˨˩˦",
+    "ipa": "ɓen˧ faːj˨˩˦",
     "level": 1,
     "day_introduced": 13
   },
@@ -403,7 +403,7 @@
     "id": "v057",
     "vi": "bên trái",
     "en": "on the left",
-    "ipa": "ben˧ ʈaːj˧˥",
+    "ipa": "ɓen˧ ʈaːj˧˥",
     "level": 1,
     "day_introduced": 13
   },
@@ -411,7 +411,7 @@
     "id": "v058",
     "vi": "đi",
     "en": "to go",
-    "ipa": "di˧",
+    "ipa": "ɗi˧",
     "level": 1,
     "day_introduced": 14
   },
@@ -419,7 +419,7 @@
     "id": "v059",
     "vi": "Bến Thành",
     "en": "Bến Thành market",
-    "ipa": "ben˧˥ tʰaːɲ˨˩",
+    "ipa": "ɓen˧˥ tʰaːɲ˨˩",
     "level": 1,
     "day_introduced": 14
   },
@@ -427,7 +427,7 @@
     "id": "v060",
     "vi": "bao lâu",
     "en": "how long",
-    "ipa": "baːw˧ ləw˧",
+    "ipa": "ɓaːw˧ ləw˧",
     "level": 1,
     "day_introduced": 14
   },
@@ -451,7 +451,7 @@
     "id": "v063",
     "vi": "bạn tên gì",
     "en": "what is your name?",
-    "ipa": "baːn˨˩ʔ tɛn˧ ji˨˩",
+    "ipa": "ɓaːn˨˩ʔ tɛn˧ ji˨˩",
     "level": 1,
     "day_introduced": 15
   },
@@ -467,7 +467,7 @@
     "id": "v065",
     "vi": "đắt quá",
     "en": "too expensive",
-    "ipa": "dăt˧˥ kwaː˧˥",
+    "ipa": "ɗăt˧˥ kwaː˧˥",
     "level": 1,
     "day_introduced": 16
   },
@@ -491,7 +491,7 @@
     "id": "v068",
     "vi": "được không",
     "en": "can you? / is that okay?",
-    "ipa": "dɨək˧˥ xoŋ˧",
+    "ipa": "ɗɨək˧˥ xoŋ˧",
     "level": 1,
     "day_introduced": 16
   },
@@ -507,7 +507,7 @@
     "id": "v070",
     "vi": "biết",
     "en": "to know",
-    "ipa": "biət˧˥",
+    "ipa": "ɓiət˧˥",
     "level": 1,
     "day_introduced": 17
   },
@@ -539,7 +539,7 @@
     "id": "v074",
     "vi": "hóa đơn",
     "en": "bill",
-    "ipa": "hwaː˧˥ dɤn˧",
+    "ipa": "hwaː˧˥ ɗɤn˧",
     "level": 1,
     "day_introduced": 18
   },
@@ -603,7 +603,7 @@
     "id": "v082",
     "vi": "buổi sáng",
     "en": "morning",
-    "ipa": "buəj˨˩˦ saːŋ˧˥",
+    "ipa": "ɓuəj˨˩˦ saːŋ˧˥",
     "level": 1,
     "day_introduced": 21
   },
@@ -619,7 +619,7 @@
     "id": "v084",
     "vi": "đóng cửa",
     "en": "to close",
-    "ipa": "dɔŋ˧˥ kɨa˨˩˦",
+    "ipa": "ɗɔŋ˧˥ kɨa˨˩˦",
     "level": 1,
     "day_introduced": 21
   },
@@ -643,7 +643,7 @@
     "id": "v087",
     "vi": "đi bộ",
     "en": "to walk",
-    "ipa": "di˧ bo˨˩ʔ",
+    "ipa": "ɗi˧ ɓo˨˩ʔ",
     "level": 1,
     "day_introduced": 22
   },
@@ -739,7 +739,7 @@
     "id": "v099",
     "vi": "một đêm",
     "en": "one night",
-    "ipa": "mot˨˩ʔ dem˧",
+    "ipa": "mot˨˩ʔ ɗem˧",
     "level": 1,
     "day_introduced": 26
   },
@@ -747,7 +747,7 @@
     "id": "v100",
     "vi": "tôi bị lạc",
     "en": "I'm lost",
-    "ipa": "toj˧ bi˨˩ʔ laːk˨˩ʔ",
+    "ipa": "toj˧ ɓi˨˩ʔ laːk˨˩ʔ",
     "level": 1,
     "day_introduced": 27
   },
@@ -755,7 +755,7 @@
     "id": "v101",
     "vi": "đường này",
     "en": "this street",
-    "ipa": "dɨəŋ˨˩ naːj˨˩",
+    "ipa": "ɗɨəŋ˨˩ naːj˨˩",
     "level": 1,
     "day_introduced": 27
   },
@@ -795,7 +795,7 @@
     "id": "v106",
     "vi": "đặt bàn",
     "en": "to book a table",
-    "ipa": "dăt˨˩ʔ baːn˨˩",
+    "ipa": "ɗăt˨˩ʔ ɓaːn˨˩",
     "level": 1,
     "day_introduced": 29
   },
@@ -819,7 +819,7 @@
     "id": "v109",
     "vi": "tạm biệt",
     "en": "goodbye",
-    "ipa": "taːm˨˩ʔ biət˨˩ʔ",
+    "ipa": "taːm˨˩ʔ ɓiət˨˩ʔ",
     "level": 1,
     "day_introduced": 30
   },
@@ -899,7 +899,7 @@
     "id": "v119",
     "vi": "thứ bảy",
     "en": "Saturday",
-    "ipa": "tʰɨ˧˥ baj˨˩˦",
+    "ipa": "tʰɨ˧˥ ɓaj˨˩˦",
     "level": 2,
     "day_introduced": 2
   },
@@ -915,7 +915,7 @@
     "id": "v121",
     "vi": "đang",
     "en": "right now, in progress (marks an ongoing action)",
-    "ipa": "daːŋ˧",
+    "ipa": "ɗaːŋ˧",
     "level": 2,
     "day_introduced": 3
   },
@@ -923,7 +923,7 @@
     "id": "v122",
     "vi": "đã",
     "en": "already, marks the past",
-    "ipa": "daː˨˩˦",
+    "ipa": "ɗaː˨˩˦",
     "level": 2,
     "day_introduced": 4
   },
@@ -1011,7 +1011,7 @@
     "id": "v133",
     "vi": "không bao giờ",
     "en": "never",
-    "ipa": "xoŋ˧ baːw˧ jɤ˨˩",
+    "ipa": "xoŋ˧ ɓaːw˧ jɤ˨˩",
     "level": 2,
     "day_introduced": 7
   },
@@ -1035,7 +1035,7 @@
     "id": "v136",
     "vi": "sau đó",
     "en": "then, or after that",
-    "ipa": "saw˧ dɔ˧˥",
+    "ipa": "saw˧ ɗɔ˧˥",
     "level": 2,
     "day_introduced": 8
   },
@@ -1051,7 +1051,7 @@
     "id": "v138",
     "vi": "bà",
     "en": "grandmother, or an older woman",
-    "ipa": "baː˨˩",
+    "ipa": "ɓaː˨˩",
     "level": 2,
     "day_introduced": 9
   },
@@ -1075,7 +1075,7 @@
     "id": "v141",
     "vi": "bác",
     "en": "uncle or aunt, older than your parents",
-    "ipa": "baːk˧˥",
+    "ipa": "ɓaːk˧˥",
     "level": 2,
     "day_introduced": 9
   },
@@ -1139,7 +1139,7 @@
     "id": "v149",
     "vi": "xe buýt",
     "en": "bus",
-    "ipa": "se˧ bwit˧˥",
+    "ipa": "se˧ ɓwit˧˥",
     "level": 2,
     "day_introduced": 13
   },
@@ -1155,7 +1155,7 @@
     "id": "v151",
     "vi": "máy bay",
     "en": "airplane",
-    "ipa": "maːj˧˥ baːj˧",
+    "ipa": "maːj˧˥ ɓaːj˧",
     "level": 2,
     "day_introduced": 13
   },
@@ -1179,7 +1179,7 @@
     "id": "v154",
     "vi": "đi chơi",
     "en": "to go out, or hang out",
-    "ipa": "di˧ tɕɤj˧",
+    "ipa": "ɗi˧ tɕɤj˧",
     "level": 2,
     "day_introduced": 15
   },
@@ -1315,7 +1315,7 @@
     "id": "v171",
     "vi": "đi",
     "en": "softener meaning go ahead, or come on — not the verb to go",
-    "ipa": "di˧",
+    "ipa": "ɗi˧",
     "level": 2,
     "day_introduced": 20
   },
@@ -1331,7 +1331,7 @@
     "id": "v173",
     "vi": "bằng",
     "en": "as ... as, equal",
-    "ipa": "băŋ˨˩",
+    "ipa": "ɓăŋ˨˩",
     "level": 2,
     "day_introduced": 21
   },
@@ -1403,7 +1403,7 @@
     "id": "v182",
     "vi": "được",
     "en": "to manage, or have the capability (a stretch of time you've reached)",
-    "ipa": "dɨək˧˥",
+    "ipa": "ɗɨək˧˥",
     "level": 2,
     "day_introduced": 25
   },
@@ -1411,7 +1411,7 @@
     "id": "v183",
     "vi": "bao lâu rồi",
     "en": "how long has it been",
-    "ipa": "baːw˧ ləw˧ ʐoj˨˩",
+    "ipa": "ɓaːw˧ ləw˧ ʐoj˨˩",
     "level": 2,
     "day_introduced": 25
   },
@@ -1435,7 +1435,7 @@
     "id": "v186",
     "vi": "bận",
     "en": "busy",
-    "ipa": "bân˨˩ʔ",
+    "ipa": "ɓân˨˩ʔ",
     "level": 2,
     "day_introduced": 27
   },
@@ -1499,7 +1499,7 @@
     "id": "v194",
     "vi": "bình thường",
     "en": "normal, ordinary, or as usual",
-    "ipa": "biɲ˨˩ tʰɨəŋ˨˩",
+    "ipa": "ɓiɲ˨˩ tʰɨəŋ˨˩",
     "level": 2,
     "day_introduced": 29
   },
@@ -1523,7 +1523,7 @@
     "id": "v197",
     "vi": "ba",
     "en": "dad",
-    "ipa": "baː˧",
+    "ipa": "ɓaː˧",
     "level": 3,
     "day_introduced": 1
   },
@@ -1555,7 +1555,7 @@
     "id": "v201",
     "vi": "đẹp",
     "en": "beautiful, nice-looking",
-    "ipa": "dɛp˨˩ʔ",
+    "ipa": "ɗɛp˨˩ʔ",
     "level": 3,
     "day_introduced": 2
   },
@@ -1619,7 +1619,7 @@
     "id": "v209",
     "vi": "đỏ",
     "en": "red",
-    "ipa": "dɔ˨˩˦",
+    "ipa": "ɗɔ˨˩˦",
     "level": 3,
     "day_introduced": 4
   },
@@ -1643,7 +1643,7 @@
     "id": "v212",
     "vi": "đen",
     "en": "black",
-    "ipa": "dɛn˧",
+    "ipa": "ɗɛn˧",
     "level": 3,
     "day_introduced": 4
   },
@@ -1659,7 +1659,7 @@
     "id": "v214",
     "vi": "gia đình",
     "en": "family",
-    "ipa": "jaː˧ diɲ˨˩",
+    "ipa": "jaː˧ ɗiɲ˨˩",
     "level": 3,
     "day_introduced": 5
   },
@@ -1667,7 +1667,7 @@
     "id": "v215",
     "vi": "bác sĩ",
     "en": "doctor",
-    "ipa": "baːk˧˥ si˨˩˦",
+    "ipa": "ɓaːk˧˥ si˨˩˦",
     "level": 3,
     "day_introduced": 6
   },
@@ -1707,7 +1707,7 @@
     "id": "v220",
     "vi": "buồn",
     "en": "sad",
-    "ipa": "buən˨˩",
+    "ipa": "ɓuən˨˩",
     "level": 3,
     "day_introduced": 7
   },
@@ -1755,7 +1755,7 @@
     "id": "v226",
     "vi": "bếp",
     "en": "kitchen",
-    "ipa": "bep˧˥",
+    "ipa": "ɓep˧˥",
     "level": 3,
     "day_introduced": 9
   },
@@ -1795,7 +1795,7 @@
     "id": "v231",
     "vi": "bên cạnh",
     "en": "next to, beside",
-    "ipa": "ben˧ kaːɲ˨˩ʔ",
+    "ipa": "ɓen˧ kaːɲ˨˩ʔ",
     "level": 3,
     "day_introduced": 10
   },
@@ -1811,7 +1811,7 @@
     "id": "v233",
     "vi": "đối diện",
     "en": "across from, opposite",
-    "ipa": "doj˧˥ jiən˨˩ʔ",
+    "ipa": "ɗoj˧˥ jiən˨˩ʔ",
     "level": 3,
     "day_introduced": 11
   },
@@ -1859,7 +1859,7 @@
     "id": "v239",
     "vi": "đừng",
     "en": "don't",
-    "ipa": "dɨŋ˨˩",
+    "ipa": "ɗɨŋ˨˩",
     "level": 3,
     "day_introduced": 13
   },
@@ -1867,7 +1867,7 @@
     "id": "v240",
     "vi": "đi dạo",
     "en": "to go for a walk",
-    "ipa": "di˧ jaːw˨˩ʔ",
+    "ipa": "ɗi˧ jaːw˨˩ʔ",
     "level": 3,
     "day_introduced": 14
   },
@@ -1995,7 +1995,7 @@
     "id": "v256",
     "vi": "đâu",
     "en": "not at all, not really (soft negation, paired with không...đâu — a different job from đâu = where)",
-    "ipa": "dəw˧",
+    "ipa": "ɗəw˧",
     "level": 3,
     "day_introduced": 20
   },
@@ -2107,7 +2107,7 @@
     "id": "v270",
     "vi": "đây là",
     "en": "this is (introducing someone or something)",
-    "ipa": "dəj˧ laː˨˩",
+    "ipa": "ɗəj˧ laː˨˩",
     "level": 3,
     "day_introduced": 25
   },
@@ -2123,7 +2123,7 @@
     "id": "v272",
     "vi": "bạn bè",
     "en": "friends",
-    "ipa": "baːn˨˩ʔ bɛ˨˩",
+    "ipa": "ɓaːn˨˩ʔ ɓɛ˨˩",
     "level": 3,
     "day_introduced": 26
   },
@@ -2187,7 +2187,7 @@
     "id": "v280",
     "vi": "đầu",
     "en": "head",
-    "ipa": "dəw˨˩",
+    "ipa": "ɗəw˨˩",
     "level": 4,
     "day_introduced": 1
   },
@@ -2195,7 +2195,7 @@
     "id": "v281",
     "vi": "bụng",
     "en": "stomach",
-    "ipa": "buŋ˨˩ʔ",
+    "ipa": "ɓuŋ˨˩ʔ",
     "level": 4,
     "day_introduced": 1
   },
@@ -2219,7 +2219,7 @@
     "id": "v284",
     "vi": "đau",
     "en": "to hurt, or painful",
-    "ipa": "daw˧",
+    "ipa": "ɗaw˧",
     "level": 4,
     "day_introduced": 2
   },
@@ -2227,7 +2227,7 @@
     "id": "v285",
     "vi": "bị",
     "en": "a bad-outcome marker for illness (to be affected by)",
-    "ipa": "bi˨˩ʔ",
+    "ipa": "ɓi˨˩ʔ",
     "level": 4,
     "day_introduced": 2
   },
@@ -2411,7 +2411,7 @@
     "id": "v308",
     "vi": "đổi tiền",
     "en": "to exchange money",
-    "ipa": "doj˨˩˦ tiən˨˩",
+    "ipa": "ɗoj˨˩˦ tiən˨˩",
     "level": 4,
     "day_introduced": 10
   },
@@ -2459,7 +2459,7 @@
     "id": "v314",
     "vi": "bưu điện",
     "en": "post office",
-    "ipa": "bɨw˧ diən˨˩ʔ",
+    "ipa": "ɓɨw˧ ɗiən˨˩ʔ",
     "level": 4,
     "day_introduced": 12
   },
@@ -2475,7 +2475,7 @@
     "id": "v316",
     "vi": "được",
     "en": "good-outcome marker (to get to, or benefit from) - a third job for this word",
-    "ipa": "dɨək˧˥",
+    "ipa": "ɗɨək˧˥",
     "level": 4,
     "day_introduced": 13
   },
@@ -2499,7 +2499,7 @@
     "id": "v319",
     "vi": "bể",
     "en": "broken, or shattered (for glass, or anything fragile)",
-    "ipa": "be˨˩˦",
+    "ipa": "ɓe˨˩˦",
     "level": 4,
     "day_introduced": 14
   },
@@ -2523,7 +2523,7 @@
     "id": "v322",
     "vi": "đổi phòng",
     "en": "to change rooms",
-    "ipa": "doj˨˩˦ fɔŋ˨˩",
+    "ipa": "ɗoj˨˩˦ fɔŋ˨˩",
     "level": 4,
     "day_introduced": 16
   },
@@ -2619,7 +2619,7 @@
     "id": "v334",
     "vi": "đèn đỏ",
     "en": "red light, traffic light",
-    "ipa": "dɛn˨˩ dɔ˨˩˦",
+    "ipa": "ɗɛn˨˩ ɗɔ˨˩˦",
     "level": 4,
     "day_introduced": 22
   },
@@ -2683,7 +2683,7 @@
     "id": "v342",
     "vi": "bảo",
     "en": "to tell someone (usually to do something)",
-    "ipa": "baːw˨˩˦",
+    "ipa": "ɓaːw˨˩˦",
     "level": 4,
     "day_introduced": 25
   },
@@ -2723,7 +2723,7 @@
     "id": "v347",
     "vi": "đầu tiên",
     "en": "first (opens a sequence)",
-    "ipa": "dəw˨˩ tiən˧",
+    "ipa": "ɗəw˨˩ tiən˧",
     "level": 5,
     "day_introduced": 1
   },
@@ -2803,7 +2803,7 @@
     "id": "v357",
     "vi": "chuyển đến",
     "en": "to move to",
-    "ipa": "tɕuiən˨˩˦ den˧˥",
+    "ipa": "tɕuiən˨˩˦ ɗen˧˥",
     "level": 5,
     "day_introduced": 5
   },
@@ -2867,7 +2867,7 @@
     "id": "v365",
     "vi": "biết trước",
     "en": "to know in advance, or beforehand",
-    "ipa": "biət˧˥ ʈɨək˧˥",
+    "ipa": "ɓiət˧˥ ʈɨək˧˥",
     "level": 5,
     "day_introduced": 9
   },
@@ -2915,7 +2915,7 @@
     "id": "v371",
     "vi": "đặc sản",
     "en": "specialty (regional food specialty)",
-    "ipa": "dak˨˩ʔ saːn˨˩˦",
+    "ipa": "ɗak˨˩ʔ saːn˨˩˦",
     "level": 5,
     "day_introduced": 12
   },
@@ -2963,7 +2963,7 @@
     "id": "v377",
     "vi": "đồng ý",
     "en": "to agree",
-    "ipa": "doŋ˨˩ i˧˥",
+    "ipa": "ɗoŋ˨˩ i˧˥",
     "level": 5,
     "day_introduced": 15
   },
@@ -2971,7 +2971,7 @@
     "id": "v378",
     "vi": "phản đối",
     "en": "to oppose, or object",
-    "ipa": "faːn˨˩˦ doj˧˥",
+    "ipa": "faːn˨˩˦ ɗoj˧˥",
     "level": 5,
     "day_introduced": 15
   },
@@ -2979,7 +2979,7 @@
     "id": "v379",
     "vi": "đám cưới",
     "en": "wedding",
-    "ipa": "daːm˧˥ kɨəj˧˥",
+    "ipa": "ɗaːm˧˥ kɨəj˧˥",
     "level": 5,
     "day_introduced": 16
   },
@@ -3067,7 +3067,7 @@
     "id": "v390",
     "vi": "đồng nghiệp",
     "en": "colleague",
-    "ipa": "doŋ˨˩ ŋiəp˨˩ʔ",
+    "ipa": "ɗoŋ˨˩ ŋiəp˨˩ʔ",
     "level": 5,
     "day_introduced": 21
   },
@@ -3091,7 +3091,7 @@
     "id": "v393",
     "vi": "đó",
     "en": "you know, see (sentence-final emphasis particle — a different job from đó = that)",
-    "ipa": "dɔ˧˥",
+    "ipa": "ɗɔ˧˥",
     "level": 5,
     "day_introduced": 22
   },
@@ -3099,7 +3099,7 @@
     "id": "v394",
     "vi": "chuyến đi",
     "en": "trip, or journey",
-    "ipa": "tɕwiən˧˥ di˧",
+    "ipa": "tɕwiən˧˥ ɗi˧",
     "level": 5,
     "day_introduced": 24
   },
@@ -3139,7 +3139,7 @@
     "id": "v399",
     "vi": "miền Bắc",
     "en": "the North",
-    "ipa": "miən˨˩ băk˧˥",
+    "ipa": "miən˨˩ ɓăk˧˥",
     "level": 5,
     "day_introduced": 26
   },
@@ -3179,7 +3179,7 @@
     "id": "v404",
     "vi": "vấn đề",
     "en": "issue, or problem",
-    "ipa": "vɤn˧˥ de˨˩",
+    "ipa": "vɤn˧˥ ɗe˨˩",
     "level": 5,
     "day_introduced": 28
   },
