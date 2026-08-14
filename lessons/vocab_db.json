@@ -323,7 +323,7 @@
     "id": "v047",
     "vi": "rồi",
     "en": "already",
-    "ipa": "ʐoj˨˩",
+    "ipa": "ɹoj˨˩",
     "level": 1,
     "day_introduced": 10
   },
@@ -475,7 +475,7 @@
     "id": "v066",
     "vi": "rẻ",
     "en": "cheap",
-    "ipa": "ʐe˨˩˦",
+    "ipa": "ɹe˨˩˦",
     "level": 1,
     "day_introduced": 16
   },
@@ -699,7 +699,7 @@
     "id": "v094",
     "vi": "hết rồi",
     "en": "all gone / sold out",
-    "ipa": "het˧˥ ʐoj˨˩",
+    "ipa": "het˧˥ ɹoj˨˩",
     "level": 1,
     "day_introduced": 25
   },
@@ -851,7 +851,7 @@
     "id": "v113",
     "vi": "rưỡi",
     "en": "half past",
-    "ipa": "ʐɨj˨˩˦",
+    "ipa": "ɹɨj˨˩˦",
     "level": 2,
     "day_introduced": 1
   },
@@ -1355,7 +1355,7 @@
     "id": "v176",
     "vi": "rẻ hơn",
     "en": "cheaper",
-    "ipa": "ʐe˨˩˦ hɤn˧",
+    "ipa": "ɹe˨˩˦ hɤn˧",
     "level": 2,
     "day_introduced": 22
   },
@@ -1387,7 +1387,7 @@
     "id": "v180",
     "vi": "rủ",
     "en": "to invite",
-    "ipa": "ʐu˨˩˦",
+    "ipa": "ɹu˨˩˦",
     "level": 2,
     "day_introduced": 24
   },
@@ -1395,7 +1395,7 @@
     "id": "v181",
     "vi": "rảnh",
     "en": "free, or available",
-    "ipa": "ʐaːɲ˨˩˦",
+    "ipa": "ɹaːɲ˨˩˦",
     "level": 2,
     "day_introduced": 24
   },
@@ -1411,7 +1411,7 @@
     "id": "v183",
     "vi": "bao lâu rồi",
     "en": "how long has it been",
-    "ipa": "ɓaːw˧ ləw˧ ʐoj˨˩",
+    "ipa": "ɓaːw˧ ləw˧ ɹoj˨˩",
     "level": 2,
     "day_introduced": 25
   },
@@ -1419,7 +1419,7 @@
     "id": "v184",
     "vi": "lâu rồi",
     "en": "it's been a long time",
-    "ipa": "ləw˧ ʐoj˨˩",
+    "ipa": "ləw˧ ɹoj˨˩",
     "level": 2,
     "day_introduced": 26
   },
@@ -1587,7 +1587,7 @@
     "id": "v205",
     "vi": "rất",
     "en": "very",
-    "ipa": "ʐət˧˥",
+    "ipa": "ɹət˧˥",
     "level": 3,
     "day_introduced": 3
   },
@@ -1731,7 +1731,7 @@
     "id": "v223",
     "vi": "sao rồi",
     "en": "how's it going, how are things",
-    "ipa": "saːw˧ ʐoj˨˩",
+    "ipa": "saːw˧ ɹoj˨˩",
     "level": 3,
     "day_introduced": 8
   },
@@ -2075,7 +2075,7 @@
     "id": "v266",
     "vi": "rộng",
     "en": "loose, roomy",
-    "ipa": "ʐoŋ˨˩ʔ",
+    "ipa": "ɹoŋ˨˩ʔ",
     "level": 3,
     "day_introduced": 23
   },
@@ -2403,7 +2403,7 @@
     "id": "v307",
     "vi": "rút tiền",
     "en": "to withdraw money",
-    "ipa": "ʐut˧˥ tiən˨˩",
+    "ipa": "ɹut˧˥ tiən˨˩",
     "level": 4,
     "day_introduced": 10
   },
@@ -2771,7 +2771,7 @@
     "id": "v353",
     "vi": "sinh ra",
     "en": "to be born",
-    "ipa": "ʂiŋ˧ ʐaː˧",
+    "ipa": "ʂiŋ˧ ɹaː˧",
     "level": 5,
     "day_introduced": 4
   },
@@ -2995,7 +2995,7 @@
     "id": "v381",
     "vi": "chú rể",
     "en": "groom",
-    "ipa": "tɕu˧˥ ʐe˨˩˦",
+    "ipa": "tɕu˧˥ ɹe˨˩˦",
     "level": 5,
     "day_introduced": 16
   },
